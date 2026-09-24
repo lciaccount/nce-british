@@ -54,6 +54,10 @@ def main():
             page.goto(f'http://127.0.0.1:{server.server_port}{PREFIX}',wait_until='networkidle')
             assert page.locator('#books button').count()==4
             assert page.locator('#lessons button').count()==72
+            page.locator('[data-book="4"]').click()
+            assert page.locator('#lessons button').count()==48
+            assert page.locator('#lessonLabel').inner_text().startswith('BOOK 4')
+            page.locator('[data-book="1"]').click()
             assert page.locator('#speed option').count()==31
             page.locator('#search').fill('handbag')
             assert page.locator('#lessons button').count()>0

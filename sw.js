@@ -1,4 +1,4 @@
-const SHELL='nce-shell-v1', AUDIO='nce-audio-v1';
+const SHELL='nce-shell-v2', AUDIO='nce-audio-v1';
 const ASSETS=['./','./index.html','./app.css','./app.js','./content.js','./manifest.webmanifest','./icon.svg','./audio-index.json'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(SHELL).then(c=>c.addAll(ASSETS)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil((async()=>{for(const name of await caches.keys())if(name.startsWith('nce-shell-')&&name!==SHELL)await caches.delete(name);await self.clients.claim();})()));
