@@ -99,6 +99,8 @@ def main():
     model=bundle.get_model().to(device).eval()
     raw=(ROOT/'content.js').read_text(encoding='utf8')
     data=json.loads(raw.removeprefix('window.NCE_DATA=').strip().removesuffix(';'))
+    if data.get('version') != 1:
+        raise SystemExit('Run build_content.py first: alignment requires original LRC text, not already-published sentences.')
     out=ROOT/'alignment';out.mkdir(exist_ok=True)
     lessons=[l for l in data['lessons'] if not args.lesson or l['id']==args.lesson]
     for n,lesson in enumerate(lessons[:args.limit]):

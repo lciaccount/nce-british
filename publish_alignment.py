@@ -4,6 +4,8 @@ import json
 from pathlib import Path
 ROOT=Path(__file__).resolve().parent
 data=json.loads((ROOT/'content.js').read_text(encoding='utf8').removeprefix('window.NCE_DATA=').strip().removesuffix(';'))
+if data.get('version') != 1:
+    raise SystemExit('Already published. Run build_content.py before rebuilding/publishing alignment.')
 review=[]
 for lesson in data['lessons']:
     path=ROOT/'alignment'/f"{lesson['id']}.json"
