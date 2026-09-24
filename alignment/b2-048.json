@@ -1,0 +1,96 @@
+{
+  "audioSha256": "cd77a634a6b1c925fde05f2d89d14b8fcd5ff613d996daa5cf8e5de68f4afe4e",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-048-001",
+      "text": "Why did the writer become very worried?",
+      "start": 15.132,
+      "end": 18.262,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-048-002",
+      "text": "Dentists always ask questions when it is impossible for you to answer.",
+      "start": 21.332,
+      "end": 26.402,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-048-003",
+      "text": "My dentist had just pulled out one of my teeth and had told me to rest for a while.",
+      "start": 27.933,
+      "end": 33.043,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-048-004",
+      "text": "I tried to say something, but my mouth was full of cotton wool.",
+      "start": 34.653,
+      "end": 38.783,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-048-005",
+      "text": "He knew I collected match boxes and asked me whether my collection was growing.",
+      "start": 40.932,
+      "end": 47.003,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-048-006",
+      "text": "He then asked me how my brother was and whether I liked my new job in London.",
+      "start": 48.252,
+      "end": 53.243,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-048-007",
+      "text": "In answer to these questions I either nodded or made strange noises.",
+      "start": 54.992,
+      "end": 60.103,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-048-008",
+      "text": "Meanwhile, my tongue was busy searching out the hole where the tooth had been.",
+      "start": 61.432,
+      "end": 66.863,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-048-009",
+      "text": "I suddenly felt very worried, but could not say anything.",
+      "start": 68.672,
+      "end": 72.243,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-048-010",
+      "text": "When the dentist at last removed the cotton wool from my mouth, I was able to tell him that he had pulled out the wrong tooth.",
+      "start": 73.812,
+      "end": 82.883,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "audioSha256": "64f8e6bd66cc825e8109dd88ed14eb1c4d1c7b1aa58f2aad2e90d9e7fd9f14b3",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-002-001",
+      "text": "Was the vicar pleased that the clock was striking?",
+      "start": 11.932,
+      "end": 14.982,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-002-002",
+      "text": "Why?",
+      "start": 16.133,
+      "end": 16.502,
+      "score": 0.998,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-002-003",
+      "text": "Our vicar is always raising money for one cause or another, but he has never managed to get enough money to have the church clock repaired.",
+      "start": 19.293,
+      "end": 28.442,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-002-004",
+      "text": "The big clock which used to strike the hours day and night was damaged many years ago and has been silent ever since.",
+      "start": 29.733,
+      "end": 38.143,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-002-005",
+      "text": "One night, however, our vicar woke up with a start:the clock was striking the hours!",
+      "start": 39.892,
+      "end": 46.263,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-002-006",
+      "text": "Looking at his watch, he saw that it was one o'clock, but the bell struck thirteen times before it stopped.",
+      "start": 47.733,
+      "end": 55.263,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-002-007",
+      "text": "Armed with a torch, the vicar went up into the clock tower to see what was going on.",
+      "start": 56.812,
+      "end": 62.343,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-002-008",
+      "text": "In the torchlight, he caught sight of a figure whom he immediately recognized as Bill Wilkins, our local grocer.",
+      "start": 63.513,
+      "end": 71.817,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-002-009",
+      "text": "'Whatever are you doing up here Bill?'",
+      "start": 71.817,
+      "end": 75.563,
+      "score": 0.906,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-002-010",
+      "text": "asked the vicar in surprise.",
+      "start": 75.873,
+      "end": 77.263,
+      "score": 0.993,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-002-011",
+      "text": "'I'm trying to repair the bell, ' answered Bill.",
+      "start": 78.612,
+      "end": 81.198,
+      "score": 0.886,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-002-012",
+      "text": "'I've been coming up here night after night for weeks now.",
+      "start": 81.198,
+      "end": 85.443,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-002-013",
+      "text": "You see, I was hoping to give you a surprise.'",
+      "start": 85.953,
+      "end": 88.683,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-002-014",
+      "text": "'You certainly did give me a surprise!'",
+      "start": 90.192,
+      "end": 92.488,
+      "score": 0.928,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-002-015",
+      "text": "said the vicar.",
+      "start": 92.488,
+      "end": 93.088,
+      "score": 0.994,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-002-016",
+      "text": "'You've probably woken up everyone in the village as well.",
+      "start": 93.088,
+      "end": 96.922,
+      "score": 0.93,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-002-017",
+      "text": "Still, I'm glad the bell is working again.'",
+      "start": 97.793,
+      "end": 101.043,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-002-018",
+      "text": "'That's the trouble, vicar, 'answered Bill.",
+      "start": 102.353,
+      "end": 104.328,
+      "score": 0.906,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-002-019",
+      "text": "'It's working all right, but I'm afraid that at one o'clock it will strike thirteen times and there's nothing I can do about it.'",
+      "start": 104.328,
+      "end": 113.268,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-002-020",
+      "text": "'We'll get used to that, Bill, 'said the vicar.",
+      "start": 113.268,
+      "end": 117.037,
+      "score": 0.928,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-002-021",
+      "text": "'Thirteen is not as good as one, but it's better than nothing.",
+      "start": 117.037,
+      "end": 121.323,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-002-022",
+      "text": "Now let's go downstairs and have a cup of tea.'",
+      "start": 122.252,
+      "end": 127.422,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "audioSha256": "a609feab5c28265f899120315ffbd7ee69af20df376ead25744dff1d15266b57",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-060-001",
+      "text": "Does what Madam Bellinsky said come true?",
+      "start": 11.472,
+      "end": 14.643,
+      "score": 0.919,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-060-002",
+      "text": "At a village fair, I decided to visit a fortune-teller called Madam Bellinsky.",
+      "start": 17.512,
+      "end": 23.223,
+      "score": 0.946,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-060-003",
+      "text": "I went into her tent and she told me to sit down.",
+      "start": 24.753,
+      "end": 27.822,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-060-004",
+      "text": "After I had given her some money, she looked into a crystal ball and said: 'A relation of yours is coming to see you.",
+      "start": 29.693,
+      "end": 39.283,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-060-005",
+      "text": "She will be arriving this evening and intends to stay for a few days.",
+      "start": 40.392,
+      "end": 45.463,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-060-006",
+      "text": "The moment you leave this tent, you will get a big surprise.",
+      "start": 46.953,
+      "end": 51.183,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-060-007",
+      "text": "A woman you know well will rush towards you.",
+      "start": 52.593,
+      "end": 55.683,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-060-008",
+      "text": "She will speak to you and then she will lead you away from this place.",
+      "start": 56.793,
+      "end": 61.683,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-060-009",
+      "text": "That is all.'",
+      "start": 62.973,
+      "end": 63.723,
+      "score": 0.841,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-060-010",
+      "text": "As soon as I went outside, I forgot all about Madam Bellinsky because my wife hurried towards me.",
+      "start": 66.332,
+      "end": 73.227,
+      "score": 0.95,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-060-011",
+      "text": "'Where have you been hiding?'",
+      "start": 73.227,
+      "end": 75.883,
+      "score": 0.899,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-060-012",
+      "text": "she asked impatiently.",
+      "start": 76.392,
+      "end": 77.958,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-060-013",
+      "text": "'Your sister will be here in less than an hour and we must be at the station to meet her.",
+      "start": 77.958,
+      "end": 83.883,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-060-014",
+      "text": "We are late already.'",
+      "start": 84.433,
+      "end": 85.743,
+      "score": 0.929,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-060-015",
+      "text": "As she walked away, I followed her out of the fair.",
+      "start": 87.373,
+      "end": 91.223,
+      "score": 0.953,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

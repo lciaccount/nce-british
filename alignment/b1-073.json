@@ -1,0 +1,150 @@
+{
+  "audioSha256": "ff98f63f41cd4c4b6de2201b5c444f7bd68ac7ad8f506a4f093506b0c19bbcc6",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-073-001",
+      "text": "Why did the man need a phrasebook?",
+      "start": 13.452,
+      "end": 16.023,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-073-002",
+      "text": "Last week Mrs. Mills went to London.",
+      "start": 18.873,
+      "end": 21.742,
+      "score": 0.945,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-073-003",
+      "text": "She does not know London very well, and she lost her way.",
+      "start": 22.913,
+      "end": 26.622,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-073-004",
+      "text": "Suddenly, she saw a man near a bus stop.",
+      "start": 28.453,
+      "end": 31.498,
+      "score": 0.953,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-073-005",
+      "text": "'I can ask him the way,' she said to herself.",
+      "start": 31.498,
+      "end": 35.978,
+      "score": 0.946,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-073-006",
+      "text": "'Excuse me,' she said.",
+      "start": 35.978,
+      "end": 39.928,
+      "score": 0.897,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-073-007",
+      "text": "'Can you tell me the way to King Street, please?'",
+      "start": 39.928,
+      "end": 44.223,
+      "score": 0.922,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-073-008",
+      "text": "The man smiled pleasantly.",
+      "start": 46.233,
+      "end": 48.143,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-073-009",
+      "text": "He did not understand English!",
+      "start": 49.392,
+      "end": 51.763,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-073-010",
+      "text": "He spoke German.",
+      "start": 52.712,
+      "end": 54.103,
+      "score": 0.997,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-073-011",
+      "text": "He was a tourist.",
+      "start": 55.093,
+      "end": 56.283,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-073-012",
+      "text": "Then he put his hand into his pocket, and took out a phrasebook.",
+      "start": 57.832,
+      "end": 62.643,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-073-013",
+      "text": "He opened the book and found a phrase.",
+      "start": 64.513,
+      "end": 67.103,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-073-014",
+      "text": "He read the phrase slowly.",
+      "start": 68.633,
+      "end": 71.028,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-073-015",
+      "text": "'I am sorry,' he said.",
+      "start": 71.028,
+      "end": 76.343,
+      "score": 0.898,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-073-016",
+      "text": "'I do not speak English.'",
+      "start": 77.812,
+      "end": 85.343,
+      "score": 0.901,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "audioSha256": "182288e4938255b74c28487b17b37afaf549dfd42f6e839012d76a2049613940",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-057-001",
+      "text": "Did the woman get what she wanted?",
+      "start": 13.552,
+      "end": 15.942,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-057-002",
+      "text": "A woman in jeans stood at the window of an expensive shop.",
+      "start": 18.793,
+      "end": 22.622,
+      "score": 0.95,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-057-003",
+      "text": "Though she hesitated for a moment, she finally went in and asked to see a dress that was in the window.",
+      "start": 24.332,
+      "end": 30.782,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-057-004",
+      "text": "The assistant who served her did not like the way she was dressed.",
+      "start": 32.733,
+      "end": 36.723,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-057-005",
+      "text": "Glancing at her scornfully, he told her that the dress was sold.",
+      "start": 38.172,
+      "end": 43.123,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-057-006",
+      "text": "The woman walked out of the shop angrily and decided to punish the assistant next day.",
+      "start": 45.172,
+      "end": 51.483,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-057-007",
+      "text": "She returned to the shop the following morning dressed in a fur coat, with a handbag in one hand and a long umbrella in the other.",
+      "start": 53.333,
+      "end": 62.923,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-057-008",
+      "text": "After seeking out the rude assistant, she asked for the same dress.",
+      "start": 65.133,
+      "end": 70.083,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-057-009",
+      "text": "Not realizing who she was, the assistant was eager to serve her this time.",
+      "start": 71.692,
+      "end": 76.283,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-057-010",
+      "text": "With great difficulty, he climbed into the shop window to get the dress.",
+      "start": 77.573,
+      "end": 82.843,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-057-011",
+      "text": "As soon as she saw it, the woman said she did not like it.",
+      "start": 84.812,
+      "end": 88.263,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-057-012",
+      "text": "She enjoyed herself making the assistant bring almost everything in the window before finally buying the dress she had first asked for.",
+      "start": 89.772,
+      "end": 98.763,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

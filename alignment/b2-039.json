@@ -1,0 +1,87 @@
+{
+  "audioSha256": "50897efb7db8e48c263dd18dc6d84386be587d5c6f57e3c26cefabe60e11c77d",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-039-001",
+      "text": "Why did Mr. Gilbert telephone Dr. Millington?",
+      "start": 14.912,
+      "end": 19.363,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-039-002",
+      "text": "While John Gilbert was in hospital, he asked his doctor to tell him whether his operation had been successful, but the doctor refused to do so.",
+      "start": 22.213,
+      "end": 35.063,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-039-003",
+      "text": "The following day, the patient asked for a bedside telephone.",
+      "start": 37.312,
+      "end": 41.943,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-039-004",
+      "text": "When he was alone, he telephoned the hospital exchange and asked for Doctor Millington.",
+      "start": 43.833,
+      "end": 50.583,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-039-005",
+      "text": "When the doctor answered the phone, Mr. Gilbert said he was inquiring about a certain patient, a Mr. John Gilbert.",
+      "start": 52.933,
+      "end": 62.543,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-039-006",
+      "text": "He asked if Mr. Gilbert's operation had been successful and the doctor told him that it had been.",
+      "start": 64.233,
+      "end": 70.643,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-039-007",
+      "text": "He then asked when Mr. Gilbert would be allowed to go home and the doctor told him that he would have to stay in hosptial for another two weeks.",
+      "start": 72.392,
+      "end": 82.223,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-039-008",
+      "text": "Then Dr. Millington asked the caller if he was a relative of the patient.",
+      "start": 84.392,
+      "end": 89.263,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-039-009",
+      "text": "'No,' the patient answered, 'I am Mr. John Gilbert.'",
+      "start": 90.713,
+      "end": 98.443,
+      "score": 0.908,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

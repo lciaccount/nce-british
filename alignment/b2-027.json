@@ -1,0 +1,123 @@
+{
+  "audioSha256": "487ce45804940ffc91fa5ab33a657d34fd2319074637512fbf80e6733bda77b3",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-027-001",
+      "text": "What happened to the boys in the night?",
+      "start": 13.992,
+      "end": 16.883,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-027-002",
+      "text": "Late in the afternoon, the boys put up their tent in the middle of a field.",
+      "start": 19.812,
+      "end": 26.102,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-027-003",
+      "text": "As soon as this was done, they cooked a meal over an open fire.",
+      "start": 28.193,
+      "end": 33.143,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-027-004",
+      "text": "They were all hungry and the food smelled good.",
+      "start": 35.093,
+      "end": 38.483,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-027-005",
+      "text": "After a wonderful meal, they told stories and sang songs by the campfire.",
+      "start": 40.333,
+      "end": 46.603,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-027-006",
+      "text": "But some time later it began to rain.",
+      "start": 48.172,
+      "end": 50.923,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-027-007",
+      "text": "The boys felt tired so they put out the fire and crept into their tent.",
+      "start": 52.593,
+      "end": 58.123,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-027-008",
+      "text": "Their sleeping bags were warm and comfortable, so they all slept soundly.",
+      "start": 59.832,
+      "end": 65.283,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-027-009",
+      "text": "In the middle of the night, two boys woke up and began shouting.",
+      "start": 66.892,
+      "end": 71.643,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-027-010",
+      "text": "The tent was full of water!",
+      "start": 72.472,
+      "end": 74.283,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-027-011",
+      "text": "They all leapt out of their sleeping bags and hurried outside.",
+      "start": 75.472,
+      "end": 79.642,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-027-012",
+      "text": "It was raining heavily and they found that a stream had formed in the field.",
+      "start": 81.073,
+      "end": 86.803,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-027-013",
+      "text": "The stream wound its way across the field and then flowed right under their tent!",
+      "start": 87.793,
+      "end": 93.922,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

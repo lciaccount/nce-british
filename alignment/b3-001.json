@@ -1,0 +1,132 @@
+{
+  "audioSha256": "d0e8961a71dc024715c0e57f0379501d6588cf0d8071da8dc3365533654ea362",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-001-001",
+      "text": "Where must the puma have come from?",
+      "start": 11.572,
+      "end": 13.522,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-001-002",
+      "text": "Pumas are large, cat-like animals which are found in America.",
+      "start": 16.233,
+      "end": 21.002,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-001-003",
+      "text": "When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously.",
+      "start": 22.652,
+      "end": 31.723,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-001-004",
+      "text": "However, as the evidence began to accumulate, experts from the Zoo felt obliged to investigate, for the descriptions given by people who claimed to have seen the puma were extraordinarily similar.",
+      "start": 32.873,
+      "end": 46.963,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-001-005",
+      "text": "The hunt for the puma began in a small village where a woman picking blackberries saw 'a large cat'only five yards away from her.",
+      "start": 48.633,
+      "end": 58.223,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-001-006",
+      "text": "It immediately ran away when she saw it, and experts confirmed that a puma will not attack a human being unless it is cornered.",
+      "start": 59.433,
+      "end": 68.803,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-001-007",
+      "text": "The search proved difficult, for the puma was often observed at one place in the morning and at another place twenty miles away in the evening.",
+      "start": 70.213,
+      "end": 80.043,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-001-008",
+      "text": "Wherever it went, it left behind it a trail of dead deer and small animals like rabbits.",
+      "start": 81.213,
+      "end": 87.703,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-001-009",
+      "text": "Paw prints were seen in a number of places and puma fur was found clinging to bushes.",
+      "start": 89.032,
+      "end": 94.583,
+      "score": 0.931,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-001-010",
+      "text": "Several people complained of 'cat-like noises' at night and a businessman on a fishing trip saw the puma up a tree.",
+      "start": 95.972,
+      "end": 103.843,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-001-011",
+      "text": "The experts were now fully convinced that the animal was a puma, but where had it come from?",
+      "start": 105.133,
+      "end": 111.723,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-001-012",
+      "text": "As no pumas had been reported missing from any zoo in the country, this one must have been in the possession of a private collector and somehow managed to escape.",
+      "start": 112.612,
+      "end": 123.783,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-001-013",
+      "text": "The hunt went on for several weeks, but the puma was not caught.",
+      "start": 125.013,
+      "end": 129.422,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-001-014",
+      "text": "It is disturbing to think that a dangerous wild animal is still at large in the quiet countryside.",
+      "start": 130.952,
+      "end": 137.862,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

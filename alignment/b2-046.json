@@ -1,0 +1,105 @@
+{
+  "audioSha256": "dabcc5b9188567cf2e4a55a7f2cc1416e6a90c8a1b53426d2b0770879f42655e",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-046-001",
+      "text": "What did the man in this story do?",
+      "start": 15.352,
+      "end": 18.203,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-046-002",
+      "text": "When a plane from London arrived at Sydney airport, workers began to unload a number of wooden boxes which contained clothing.",
+      "start": 21.193,
+      "end": 31.322,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-046-003",
+      "text": "No one could account for the fact that one of the boxes was extremely heavy.",
+      "start": 33.392,
+      "end": 39.523,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-046-004",
+      "text": "It suddenly occurred to one of the workers to open up the box.",
+      "start": 41.793,
+      "end": 45.643,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-046-005",
+      "text": "He was astonished at what he found.",
+      "start": 46.812,
+      "end": 49.623,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-046-006",
+      "text": "A man was lying in the box on top of a pile of woollen goods.",
+      "start": 50.593,
+      "end": 55.303,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-046-007",
+      "text": "He was so surprised at being discovered that he did not even try to run away.",
+      "start": 57.133,
+      "end": 62.763,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-046-008",
+      "text": "After he was arrested, the man admitted hiding in the box before the plane left London.",
+      "start": 64.713,
+      "end": 71.263,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-046-009",
+      "text": "He had had a long and uncomfortable trip, for he had been confined to the wooden box for over eighteen hours.",
+      "start": 72.772,
+      "end": 81.383,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-046-010",
+      "text": "The man was ordered to pay ￡3, 500 for the cost of the trip.",
+      "start": 83.052,
+      "end": 89.922,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-046-011",
+      "text": "The normal price of a ticket is ￡2, 000!",
+      "start": 91.213,
+      "end": 94.103,
+      "score": 0.894,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "audioSha256": "1af85b1d0d805f31b42c70b5c221433d6bc405c87a23fe5266f2b61e91e73573",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-139-001",
+      "text": "Which John Smith does Graham Turner think he is talking to?",
+      "start": 13.232,
+      "end": 17.602,
+      "score": 0.954,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-139-002",
+      "text": "Is that you, John?",
+      "start": 20.352,
+      "end": 21.442,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-139-003",
+      "text": "Yes, speaking.",
+      "start": 22.433,
+      "end": 23.502,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-139-004",
+      "text": "Tell Mary we'll be late for dinner this evening.",
+      "start": 24.852,
+      "end": 27.402,
+      "score": 0.954,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-139-005",
+      "text": "I'm afraid I don't understand.",
+      "start": 28.793,
+      "end": 30.782,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-139-006",
+      "text": "Hasn't Mary told you?",
+      "start": 32.312,
+      "end": 33.843,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-139-007",
+      "text": "She invited Charlotte and me to dinner this evening.",
+      "start": 34.672,
+      "end": 37.943,
+      "score": 0.89,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-139-008",
+      "text": "I said I would be at your house at six o'clock, but the boss wants me to do some extra work.",
+      "start": 38.832,
+      "end": 44.883,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-139-009",
+      "text": "I'll have to stay at the office.",
+      "start": 46.053,
+      "end": 47.683,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-139-010",
+      "text": "I don't know when I'll finish.",
+      "start": 48.573,
+      "end": 50.203,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-139-011",
+      "text": "Oh, and by the way, my wife wants to know if Mary needs any help.",
+      "start": 50.892,
+      "end": 55.603,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-139-012",
+      "text": "I don't know what you're talking about.",
+      "start": 57.112,
+      "end": 60.063,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-139-013",
+      "text": "That is John Smith, isn't it?",
+      "start": 61.273,
+      "end": 62.963,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-139-014",
+      "text": "Yes, I'm John Smith.",
+      "start": 63.933,
+      "end": 66.043,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-139-015",
+      "text": "You are John Smith, the engineer, aren't you?",
+      "start": 67.153,
+      "end": 69.463,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-139-016",
+      "text": "That's right.",
+      "start": 70.453,
+      "end": 71.283,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-139-017",
+      "text": "You work for the Overseas Engineering Company, don't you?",
+      "start": 72.453,
+      "end": 75.723,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-139-018",
+      "text": "No, I don't.",
+      "start": 76.933,
+      "end": 78.163,
+      "score": 0.995,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-139-019",
+      "text": "I'm John Smith the telephone engineer and I'm repairing your telephone line.",
+      "start": 78.972,
+      "end": 84.403,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "audioSha256": "95e89377d599b1202adb2429d5de416db8da72390aeac3a5a0959925c880ae74",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-049-001",
+      "text": "What was Bessie's 'little weakness' ?",
+      "start": 12.452,
+      "end": 14.682,
+      "score": 0.921,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-002",
+      "text": "It is a good thing my aunt Harriet died years ago.",
+      "start": 17.393,
+      "end": 20.442,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-003",
+      "text": "If she were alive today she would not be able to air her views on her favourite topic of conversation: domestic servants.",
+      "start": 21.053,
+      "end": 29.102,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-004",
+      "text": "Aunt Harriet lived in that leisurely age when servants were employed to do housework.",
+      "start": 30.153,
+      "end": 35.403,
+      "score": 0.948,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-005",
+      "text": "She had a huge, rambling country house called 'The Gables'.",
+      "start": 36.053,
+      "end": 40.383,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-006",
+      "text": "She was sentimentally attached to this house, for even though it was far too big for her needs, she persisted in living there long after her husband's death.",
+      "start": 41.172,
+      "end": 51.023,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-007",
+      "text": "Before she grew old, aunt Harriet used to entertain lavishly.",
+      "start": 51.653,
+      "end": 56.183,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-008",
+      "text": "I often visited The Gables when I was a boy.",
+      "start": 56.972,
+      "end": 59.763,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-009",
+      "text": "No matter how many guests were present, the great house was always immaculate.",
+      "start": 60.612,
+      "end": 66.003,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-010",
+      "text": "The parquet floors shone like mirrors; highly polished silver was displayed in gleaming glass cabinets; even my uncle's huge collection of books was kept miraculously free from dust.",
+      "start": 66.672,
+      "end": 79.183,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-011",
+      "text": "Aunt Harriet presided over an invisible army of servants that continuously scrubbed, cleaned, and polished.",
+      "start": 79.993,
+      "end": 88.103,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-012",
+      "text": "She always referred to them as 'the shifting population', for they came and went with such frequency that I never even got a chance to learn their names.",
+      "start": 89.052,
+      "end": 98.203,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-013",
+      "text": "Though my aunt pursued what was, in those days an enlightened policy, in that she never allowed her domestic staff to work more than eight hours a day, she was extremely difficult to please.",
+      "start": 99.272,
+      "end": 111.683,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-014",
+      "text": "While she always criticized the fickleness of human nature, she carried on an unrelenting search for the ideal servant to the end of her days, even after she had been sadly disillusioned by Bessie.",
+      "start": 112.552,
+      "end": 126.623,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-015",
+      "text": "Bessie worked for aunt Harriet for three years.",
+      "start": 128.432,
+      "end": 131.082,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-016",
+      "text": "During that time she so gained my aunt's confidence, that she was put in charge of the domestic staff.",
+      "start": 131.932,
+      "end": 138.562,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-017",
+      "text": "Aunt Harriet could not find words to praise Bessie's industriousness and efficiency.",
+      "start": 139.612,
+      "end": 144.982,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-018",
+      "text": "In addition to all her other qualifications, Bessie was an expert cook.",
+      "start": 145.752,
+      "end": 150.963,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-019",
+      "text": "She acted the role of the perfect servant for three years before Aunt Harriet discovered her 'little weakness'.",
+      "start": 151.652,
+      "end": 157.922,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-020",
+      "text": "After being absent from The Gables for a week, my aunt unexpectedly returned one afternoon with a party of guests and instructed Bessie to prepare dinner.",
+      "start": 159.072,
+      "end": 169.022,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-021",
+      "text": "Not only was the meal well below the usual standard, but Bessie seemed unable to walk steadily.",
+      "start": 170.172,
+      "end": 176.562,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-022",
+      "text": "She bumped into the furniture and kept mumbling about the guests.",
+      "start": 177.292,
+      "end": 181.142,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-023",
+      "text": "When she came in with the last course--a huge pudding--she tripped on the carpet and the pudding went flying through the air, narrowly missed my aunt, and crashed on the dining table with considerable force.",
+      "start": 181.952,
+      "end": 195.523,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-024",
+      "text": "Though this caused great mirth among the guests, Aunt Harriet was horrified.",
+      "start": 196.332,
+      "end": 201.343,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-025",
+      "text": "She reluctantly came to the conclusion that Bessie was drunk.",
+      "start": 202.012,
+      "end": 206.382,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-026",
+      "text": "The guests had, of course, realized this from the moment Bessie opened the door for them and, long before the final catastrophe, had had a difficult time trying to conceal their amusement.",
+      "start": 207.292,
+      "end": 217.683,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-027",
+      "text": "The poor girl was dismissed instantly.",
+      "start": 218.452,
+      "end": 220.822,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-028",
+      "text": "After her departure, Aunt Harriet discovered that there were piles of empty wine bottles of all shapes and sizes neatly stacked in what had once been Bessie's wardrobe.",
+      "start": 221.672,
+      "end": 231.722,
+      "score": 0.953,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-049-029",
+      "text": "They had mysteriously found their way there from the wine cellar!",
+      "start": 232.372,
+      "end": 235.782,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "audioSha256": "8aa54901fb0e2bb89901e1d536f41f93e3f4ac6d3ac15633e2ba2ace53d88bdc",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-011-001",
+      "text": "Whose shirt is white?",
+      "start": 13.892,
+      "end": 16.282,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-011-002",
+      "text": "Whose shirt is that?",
+      "start": 19.033,
+      "end": 20.543,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-011-003",
+      "text": "Is this your shirt Dave?",
+      "start": 22.532,
+      "end": 24.642,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-011-004",
+      "text": "No.",
+      "start": 26.953,
+      "end": 27.242,
+      "score": 0.945,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-011-005",
+      "text": "Sir.",
+      "start": 27.293,
+      "end": 27.642,
+      "score": 0.946,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-011-006",
+      "text": "It's not my shirt.",
+      "start": 28.773,
+      "end": 30.362,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-011-007",
+      "text": "This is my shirt.",
+      "start": 32.553,
+      "end": 34.303,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-011-008",
+      "text": "My shirt's blue.",
+      "start": 35.873,
+      "end": 37.543,
+      "score": 0.936,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-011-009",
+      "text": "Is this shirt Tim's?",
+      "start": 40.553,
+      "end": 42.403,
+      "score": 0.878,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-011-010",
+      "text": "Perhaps it is sir.",
+      "start": 44.752,
+      "end": 46.283,
+      "score": 0.993,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-011-011",
+      "text": "Tim's shirt's white.",
+      "start": 47.653,
+      "end": 49.563,
+      "score": 0.886,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-011-012",
+      "text": "Tim!",
+      "start": 51.992,
+      "end": 52.343,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-011-013",
+      "text": "Yes sir?",
+      "start": 53.573,
+      "end": 54.123,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-011-014",
+      "text": "Is this your shirt?",
+      "start": 55.733,
+      "end": 57.183,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-011-015",
+      "text": "Yes sir.",
+      "start": 58.672,
+      "end": 59.343,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-011-016",
+      "text": "Here you are.",
+      "start": 61.413,
+      "end": 62.063,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-011-017",
+      "text": "Catch!",
+      "start": 62.973,
+      "end": 63.423,
+      "score": 0.999,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-011-018",
+      "text": "Thank you sir.",
+      "start": 64.972,
+      "end": 65.943,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

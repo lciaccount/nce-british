@@ -1,0 +1,114 @@
+{
+  "audioSha256": "21b560a5081ab2c4fbf3fef0cf43c35b3cb21dcac93bc14f4498b18f0a72550c",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-117-001",
+      "text": "What does she mean by 'change' in the last sentence?",
+      "start": 13.512,
+      "end": 17.002,
+      "score": 0.949,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-117-002",
+      "text": "When my husband was going into the dining room this morning, he dropped some coins on the floor.",
+      "start": 19.693,
+      "end": 25.362,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-117-003",
+      "text": "There were coins everywhere.",
+      "start": 26.812,
+      "end": 28.542,
+      "score": 0.917,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-117-004",
+      "text": "We looked for them, but we could not find them all.",
+      "start": 29.473,
+      "end": 32.883,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-117-005",
+      "text": "While we were having breakfast, our little boy, Tommy, found two small coins on the floor.",
+      "start": 34.553,
+      "end": 42.143,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-117-006",
+      "text": "He put them both into his mouth.",
+      "start": 43.352,
+      "end": 45.503,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-117-007",
+      "text": "We both tried to get the coins, but it was too late.",
+      "start": 46.712,
+      "end": 50.443,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-117-008",
+      "text": "Tommy had already swallowed them!",
+      "start": 51.532,
+      "end": 53.503,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-117-009",
+      "text": "Late that morning, when I was doing the housework, My husband phoned me from the office.",
+      "start": 55.373,
+      "end": 60.883,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-117-010",
+      "text": "'How's Tommy?'",
+      "start": 62.212,
+      "end": 63.063,
+      "score": 0.801,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-117-011",
+      "text": "he asked.",
+      "start": 63.273,
+      "end": 63.998,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-117-012",
+      "text": "'I don't know,' I answered, 'Tommy's been to the toilet three times this morning, but I haven't had any change yet!'",
+      "start": 63.998,
+      "end": 76.403,
+      "score": 0.945,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,294 @@
+{
+  "audioSha256": "ee77a53b158f55b062fd224112d5b220f53679ac9dcdc97046bd6b797c1d80eb",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-044-001",
+      "text": "Which type of transport does the writer prefer, do you think?",
+      "start": 12.092,
+      "end": 15.782,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-002",
+      "text": "People travelling long distances frequently have to decide whether they would prefer to go by land, sea, or air.",
+      "start": 18.473,
+      "end": 26.642,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-003",
+      "text": "Hardly anyone can positively enjoy sitting in a train for more than a few hours.",
+      "start": 27.273,
+      "end": 31.942,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-004",
+      "text": "Train compartments soon get cramped and stuffy.",
+      "start": 32.913,
+      "end": 35.563,
+      "score": 0.887,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-005",
+      "text": "It is almost impossible to take your mind off the journey.",
+      "start": 36.252,
+      "end": 39.103,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-006",
+      "text": "Reading is only a partial solution, for the monotonous rhythm of the wheels clicking on the rails soon lull you to sleep.",
+      "start": 40.153,
+      "end": 48.183,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-007",
+      "text": "During the day, sleep comes in snatches.",
+      "start": 49.112,
+      "end": 51.663,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-008",
+      "text": "At night, when you really wish to go to sleep, you rarely manage to do so.",
+      "start": 52.532,
+      "end": 57.163,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-009",
+      "text": "If you are lucky enough to get a sleeper, you spend half the night staring at the small blue light in the ceiling, or fumbling to find your ticket for inspection.",
+      "start": 58.032,
+      "end": 67.003,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-010",
+      "text": "Inevitably you arrive at your destination almost exhausted.",
+      "start": 68.013,
+      "end": 72.203,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-011",
+      "text": "Long car journeys are even less pleasant, for it is quite impossible even to read.",
+      "start": 73.233,
+      "end": 78.583,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-012",
+      "text": "On motorways you can, at least, travel fairly safely at high speeds, but more often than not, the greater part of the journey is spent on roads with few service stations and too much traffic.",
+      "start": 79.392,
+      "end": 91.483,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-013",
+      "text": "By comparison, ferry trips or cruises offer a great variety of civilized comforts.",
+      "start": 92.552,
+      "end": 98.403,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-014",
+      "text": "You can stretch your legs on the spacious decks, play games, meet interesting people and enjoy good food--always assuming, of course, that the sea is calm.",
+      "start": 99.413,
+      "end": 110.283,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-015",
+      "text": "If it is not, and you are likely to get seasick, no form of transport could be worse.",
+      "start": 111.392,
+      "end": 117.343,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-016",
+      "text": "Even if you travel in ideal weather, sea journeys take a long time.",
+      "start": 118.453,
+      "end": 123.003,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-017",
+      "text": "Relatively few people are prepared to sacrifice holiday time for the pleasure of travelling by sea.",
+      "start": 124.252,
+      "end": 129.843,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-018",
+      "text": "Aeroplanes have the reputation of being dangerous and even hardened travellers are intimidated by them.",
+      "start": 132.032,
+      "end": 138.482,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-019",
+      "text": "They also have the disadvantage of being an expensive form of transport.",
+      "start": 139.452,
+      "end": 143.623,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-020",
+      "text": "But nothing can match them for speed and comfort.",
+      "start": 144.832,
+      "end": 147.903,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-021",
+      "text": "Travelling at a height of 30, 000 feet, far above the clouds, and at over 500 miles an hour is an exhilarating experience.",
+      "start": 148.692,
+      "end": 157.642,
+      "score": 0.949,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-022",
+      "text": "You do not have to devise ways of taking your mind off the journey, for an aeroplane gets you to your destination rapidly.",
+      "start": 158.712,
+      "end": 165.802,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-023",
+      "text": "For a few hours, you settle back in a deep armchair to enjoy the flight.",
+      "start": 167.032,
+      "end": 171.762,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-024",
+      "text": "The real escapist can watch a film and sip champagne on some services.",
+      "start": 172.652,
+      "end": 177.362,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-025",
+      "text": "But even when such refinements are not available, there is plenty to keep you occupied.",
+      "start": 178.032,
+      "end": 183.082,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-026",
+      "text": "An aeroplane offers you an unusual and breathtaking view of the world.",
+      "start": 184.032,
+      "end": 188.422,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-027",
+      "text": "You soar effortlessly over high mountains and deep valleys.",
+      "start": 189.212,
+      "end": 193.242,
+      "score": 0.92,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-028",
+      "text": "You really see the shape of the land.",
+      "start": 194.112,
+      "end": 195.963,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-029",
+      "text": "If the landscape is hidden from view, you can enjoy the extraordinary sight of unbroken cloud plains that stretch out for miles before you, while the sun shines brilliantly in a clear sky.",
+      "start": 196.792,
+      "end": 208.822,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-030",
+      "text": "The journey is so smooth that there is nothing to prevent you from reading or sleeping.",
+      "start": 209.932,
+      "end": 215.202,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-031",
+      "text": "However you decide to spend your time, one thing is certain: you will arrive at your destination fresh and uncrumpled.",
+      "start": 215.912,
+      "end": 223.982,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-044-032",
+      "text": "You will not have to spend the next few days recovering from a long and arduous journey.",
+      "start": 225.132,
+      "end": 230.662,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

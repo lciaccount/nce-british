@@ -1,0 +1,96 @@
+{
+  "audioSha256": "f291e2c14d26b38901068aa0b776fad110dd6b51763bb8d2a326834bb51e04d3",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-061-001",
+      "text": "What is the special importance of a telescope in space?",
+      "start": 13.212,
+      "end": 17.863,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-061-002",
+      "text": "The Hubble telescope was launched into space by NASA on April 20, 1990 at a cost of over a billion dollars.",
+      "start": 20.692,
+      "end": 32.883,
+      "score": 0.808,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-061-003",
+      "text": "Right from the start there was trouble with the Hubble.",
+      "start": 34.312,
+      "end": 37.623,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-061-004",
+      "text": "The pictures it sent us were very disappointing because its main mirror was faulty!",
+      "start": 38.953,
+      "end": 45.383,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-061-005",
+      "text": "NASA is now going to put the telescope right, so it will soon be sending up four astronauts to repair it.",
+      "start": 46.933,
+      "end": 54.943,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-061-006",
+      "text": "The shuttle Endeavour will be taking the astronauts to the Hubble.",
+      "start": 56.213,
+      "end": 60.863,
+      "score": 0.932,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-061-007",
+      "text": "A robot-arm from the Endeavour will grab the telescope and hold it while the astronauts make the necessary repairs.",
+      "start": 62.172,
+      "end": 71.223,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-061-008",
+      "text": "Of course, the Hubble is above the earth's atmosphere, so it will soon be sending us the clearest pictures of the stars and distant galaxies that we have ever seen.",
+      "start": 72.433,
+      "end": 85.803,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-061-009",
+      "text": "The Hubble will tell us a great deal about the age and size of the universe.",
+      "start": 87.172,
+      "end": 92.603,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-061-010",
+      "text": "By the time you read this, the Hubble's eagle eye will have sent us thousands and thousands of wonderful pictures.",
+      "start": 94.093,
+      "end": 101.903,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

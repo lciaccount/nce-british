@@ -1,0 +1,132 @@
+{
+  "audioSha256": "77b9a3197d5b9a2fe522fbcc2664201318c761a3693a32dfa02751cd92e541b3",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-083-001",
+      "text": "Why did Patrick keep on asking the same question?",
+      "start": 13.152,
+      "end": 17.543,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-083-002",
+      "text": "The former Prime Minister, Mr. Wentworth Lane, was defeated in the recent elections.",
+      "start": 20.453,
+      "end": 27.663,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-083-003",
+      "text": "He is now retiring from political life and has gone abroad.",
+      "start": 28.973,
+      "end": 32.663,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-083-004",
+      "text": "My friend, Patrick, has always been a fanatical opponent of Mr. Lane's Radical Progressive Party.",
+      "start": 34.433,
+      "end": 41.963,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-083-005",
+      "text": "After the elections, Patrick went to the former Prime Minister's house.",
+      "start": 43.733,
+      "end": 48.343,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-083-006",
+      "text": "When he asked if Mr. Lane lived there, the policeman on duty told him that since his defeat, the ex-Prime Minister had gone abroad.",
+      "start": 49.892,
+      "end": 59.023,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-083-007",
+      "text": "On the following day Patrick went to the house again.",
+      "start": 61.193,
+      "end": 65.043,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-083-008",
+      "text": "The same policeman was just walking slowly past the entrance, when Patrick asked the same question.",
+      "start": 66.153,
+      "end": 72.363,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-083-009",
+      "text": "Though a little suspicious this time the policeman gave him the same answer.",
+      "start": 74.552,
+      "end": 79.463,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-083-010",
+      "text": "The day after, Patrick went to the house once more and asked exactly the same question.",
+      "start": 80.993,
+      "end": 87.303,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-083-011",
+      "text": "This time, the policeman lost his temper.",
+      "start": 88.493,
+      "end": 90.657,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-083-012",
+      "text": "'I told you yesterday and the day before yesterday,' he shouted, 'Mr.Lane was defeated in the elections.",
+      "start": 90.657,
+      "end": 100.803,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-083-013",
+      "text": "He has retired from political life and gone to live abroad!'",
+      "start": 101.412,
+      "end": 106.288,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-083-014",
+      "text": "'I know,' answered Patrick,' but I love to hear you say it!'",
+      "start": 106.288,
+      "end": 115.823,
+      "score": 0.898,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

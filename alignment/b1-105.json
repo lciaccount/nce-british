@@ -1,0 +1,195 @@
+{
+  "audioSha256": "9cbdcdb717bfd895708127a55033a21e2007c1f05bd73c68d88ba854e97e0b30",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-105-001",
+      "text": "What was Sandra's present?",
+      "start": 13.252,
+      "end": 15.062,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-105-002",
+      "text": "Where's Sandra, Bob?",
+      "start": 17.832,
+      "end": 19.183,
+      "score": 0.929,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-105-003",
+      "text": "I want her.",
+      "start": 19.992,
+      "end": 20.662,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-105-004",
+      "text": "Do you want to speak to her?",
+      "start": 22.312,
+      "end": 23.402,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-105-005",
+      "text": "Yes, I do.",
+      "start": 24.332,
+      "end": 25.203,
+      "score": 0.953,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-105-006",
+      "text": "I want her to come to my office.",
+      "start": 25.953,
+      "end": 27.723,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-105-007",
+      "text": "Tell her to come at once.",
+      "start": 28.553,
+      "end": 30.322,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-105-008",
+      "text": "Did you want to see me?",
+      "start": 32.032,
+      "end": 33.183,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-105-009",
+      "text": "Ah, yes, Sandra.",
+      "start": 34.392,
+      "end": 35.603,
+      "score": 0.859,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-105-010",
+      "text": "How do you spell 'intelligent'?",
+      "start": 36.433,
+      "end": 38.603,
+      "score": 0.912,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-105-011",
+      "text": "Can you tell me?",
+      "start": 39.273,
+      "end": 40.103,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-105-012",
+      "text": "I-N-T-E-L-L-I-G-E-N-T. That's right.",
+      "start": 42.013,
+      "end": 51.063,
+      "score": 0.946,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-105-013",
+      "text": "You've typed it with only one 'L'.",
+      "start": 51.693,
+      "end": 54.543,
+      "score": 0.921,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-105-014",
+      "text": "This letter's full of mistakes.",
+      "start": 55.373,
+      "end": 57.383,
+      "score": 0.945,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-105-015",
+      "text": "I want you to type it again.",
+      "start": 58.053,
+      "end": 59.983,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-105-016",
+      "text": "Yes, I'll do that.",
+      "start": 60.812,
+      "end": 61.883,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-105-017",
+      "text": "I'm sorry about that.",
+      "start": 62.793,
+      "end": 63.803,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-105-018",
+      "text": "And here's a little present for you.",
+      "start": 65.153,
+      "end": 67.403,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-105-019",
+      "text": "What is it?",
+      "start": 67.933,
+      "end": 68.523,
+      "score": 0.94,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-105-020",
+      "text": "It's a dictionary.",
+      "start": 69.593,
+      "end": 71.283,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-105-021",
+      "text": "I hope it'll help you.",
+      "start": 72.032,
+      "end": 73.603,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

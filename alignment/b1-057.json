@@ -1,0 +1,141 @@
+{
+  "audioSha256": "d2e4269eec86a2f765a8274f6cd3c23f2e1c12079753ccc1985ad7de00c0383e",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-057-001",
+      "text": "What is Mr. Sawyer doing tonight?",
+      "start": 12.632,
+      "end": 15.502,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-057-002",
+      "text": "It is eight o'clock.",
+      "start": 18.193,
+      "end": 19.582,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-057-003",
+      "text": "The children go to school by car every day, but today, they are going to school on foot.",
+      "start": 20.773,
+      "end": 28.383,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-057-004",
+      "text": "It is ten o'clock.",
+      "start": 31.032,
+      "end": 32.303,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-057-005",
+      "text": "Mrs. Sawyer usually stays at home in the morning, but this morning, she is going to the shops.",
+      "start": 33.873,
+      "end": 41.583,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-057-006",
+      "text": "It is four o'clock.",
+      "start": 44.352,
+      "end": 45.683,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-057-007",
+      "text": "In the afternoon, Mrs. Sawyer usually drinks tea in the living room.",
+      "start": 47.612,
+      "end": 53.003,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-057-008",
+      "text": "But this afternoon, she is drinking tea in the garden.",
+      "start": 54.352,
+      "end": 58.683,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-057-009",
+      "text": "It is six o'clock.",
+      "start": 60.812,
+      "end": 62.103,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-057-010",
+      "text": "In the evening, the children usually do their homework, but this evening, they are not doing their homework.",
+      "start": 63.212,
+      "end": 71.303,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-057-011",
+      "text": "At the moment, they are playing in the garden.",
+      "start": 72.093,
+      "end": 75.003,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-057-012",
+      "text": "It is nine o'clock.",
+      "start": 77.213,
+      "end": 78.503,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-057-013",
+      "text": "Mr. Sawyer usually reads his newspaper at night.",
+      "start": 79.752,
+      "end": 83.303,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-057-014",
+      "text": "But he's not reading his newspaper tonight.",
+      "start": 84.513,
+      "end": 87.203,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-057-015",
+      "text": "At the moment, he's reading an interesting book.",
+      "start": 88.733,
+      "end": 92.543,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

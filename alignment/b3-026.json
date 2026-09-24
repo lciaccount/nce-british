@@ -1,0 +1,213 @@
+{
+  "audioSha256": "fc5495ae5cfcf007f75a8253f0eda340a709c54616d655bf02ca86d7d7626c6e",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-026-001",
+      "text": "Who won the prize for the biggest biscuit?",
+      "start": 13.512,
+      "end": 16.223,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-026-002",
+      "text": "No one can avoid being influenced by advertisements.",
+      "start": 18.933,
+      "end": 22.043,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-026-003",
+      "text": "Much as we may pride ourselves on our good taste, we are no longer free to choose the things we want, for advertising exerts a subtle influence on us.",
+      "start": 23.152,
+      "end": 33.263,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-026-004",
+      "text": "In their efforts to persuade us to buy this or that product, advertisers have made a close study of human nature and have classified all our little weaknesses.",
+      "start": 34.733,
+      "end": 45.443,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-026-005",
+      "text": "Advertisers discovered years ago that all of us love to get something for nothing.",
+      "start": 47.193,
+      "end": 51.783,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-026-006",
+      "text": "An advertisement which begins with the magic word FREE can rarely go wrong.",
+      "start": 53.093,
+      "end": 58.423,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-026-007",
+      "text": "These days, advertisers not only offer free samples, but free cars, free houses, and free trips round the world as well.",
+      "start": 59.653,
+      "end": 70.443,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-026-008",
+      "text": "They devise hundreds of competitions which will enable us to win huge sums of money.",
+      "start": 71.453,
+      "end": 76.623,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-026-009",
+      "text": "Radio and television have made it possible for advertisers to capture the attention of millions of people in this way.",
+      "start": 77.992,
+      "end": 85.123,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-026-010",
+      "text": "During a radio programme, a company of biscuit manufacturers once asked listeners to bake biscuits and send them to their factory.",
+      "start": 86.853,
+      "end": 95.843,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-026-011",
+      "text": "They offered to pay $10 a pound for the biggest biscuit baked by a listener.",
+      "start": 97.133,
+      "end": 102.523,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-026-012",
+      "text": "The response to this competition was tremendous.",
+      "start": 103.612,
+      "end": 106.163,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-026-013",
+      "text": "Before long, biscuits of all shapes and sizes began arriving at the factory.",
+      "start": 107.172,
+      "end": 112.403,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-026-014",
+      "text": "One lady brought biscuit on a wheelbarrow.",
+      "start": 113.692,
+      "end": 116.983,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-026-015",
+      "text": "It weighed nearly 500 pounds.",
+      "start": 117.693,
+      "end": 119.663,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-026-016",
+      "text": "A little later, a man came along with a biscuit which occupied the whole boot of his car.",
+      "start": 120.912,
+      "end": 126.562,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-026-017",
+      "text": "All the biscuits that were sent were carefully weighed.",
+      "start": 127.853,
+      "end": 131.102,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-026-018",
+      "text": "The largest was 713 pounds.",
+      "start": 131.912,
+      "end": 135.202,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-026-019",
+      "text": "It seemed certain that this would win the prize.",
+      "start": 136.412,
+      "end": 139.123,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-026-020",
+      "text": "But just before the competition closed, a lorry arrived at the factory with a truly colossal biscuit which weighed 2, 400 pounds.",
+      "start": 140.032,
+      "end": 150.302,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-026-021",
+      "text": "It had been baked by a college student who had used over 1, 000 pounds of flour, 800 pounds of sugar, 200 pounds of fat, and 400 pounds of various other ingredients.",
+      "start": 151.552,
+      "end": 164.662,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-026-022",
+      "text": "It was so heavy that a crane had to be used to remove it from the lorry.",
+      "start": 165.712,
+      "end": 170.302,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-026-023",
+      "text": "The manufacturers had to pay more money than they had anticipated, for they bought the biscuit from the student for $24, 000.",
+      "start": 171.172,
+      "end": 180.202,
+      "score": 0.954,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

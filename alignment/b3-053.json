@@ -1,0 +1,249 @@
+{
+  "audioSha256": "2b72240877cfbf67a068d964840a9882dbf0b0012c02efe4ae3ecbaa22801ec8",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-053-001",
+      "text": "What could not be reported in the official files?",
+      "start": 12.552,
+      "end": 15.602,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-053-002",
+      "text": "The Scandinavian countries are much admired all over the world for their enlightened social policies.",
+      "start": 18.093,
+      "end": 25.122,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-053-003",
+      "text": "Sweden has evolved an excellent system for protecting the individual citizen from high-handed or incompetent public officers.",
+      "start": 25.873,
+      "end": 33.923,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-053-004",
+      "text": "The system has worked so well, that it has been adopted in other countries too.",
+      "start": 34.733,
+      "end": 39.363,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-053-005",
+      "text": "The Swedes were the first to recognize that public officials like civil servants, police officers, health inspectors or tax-collectors can make mistakes or act over-zealously in the belief that they are serving the public.",
+      "start": 40.612,
+      "end": 56.023,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-053-006",
+      "text": "As long ago as 1809, the Swedish Parliament introduced a scheme to safeguard the interest of the individual.",
+      "start": 56.832,
+      "end": 65.183,
+      "score": 0.865,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-053-007",
+      "text": "A parliamentary committee representing all political parties appoints a person who is suitably qualified to investigate private grievances against the State.",
+      "start": 66.013,
+      "end": 76.523,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-053-008",
+      "text": "The official title of the person is 'Justiteombudsman', but the Swedes commonly refer to him as the 'J.O.'",
+      "start": 77.272,
+      "end": 85.783,
+      "score": 0.91,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-053-009",
+      "text": "or 'Ombudsman'.",
+      "start": 86.153,
+      "end": 87.483,
+      "score": 0.73,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b3-053-010",
+      "text": "The Ombudsman is not subject to political pressure.",
+      "start": 88.112,
+      "end": 91.343,
+      "score": 0.949,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-053-011",
+      "text": "He investigates complaints large and small that come to him from all levels of society.",
+      "start": 91.933,
+      "end": 97.403,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-053-012",
+      "text": "As complaints must be made in writing, the Ombudsman receives an average of 1, 200 letters a year.",
+      "start": 98.133,
+      "end": 105.863,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-053-013",
+      "text": "He has eight lawyer assistants to help him and he examines every single letter in detail.",
+      "start": 106.933,
+      "end": 112.643,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-053-014",
+      "text": "There is nothing secretive about the Ombudsman's work, for his correspondence is open to public inspection.",
+      "start": 113.433,
+      "end": 119.922,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-053-015",
+      "text": "If a citizen's complaint is justified the Ombudsman will act on his behalf.",
+      "start": 120.752,
+      "end": 125.983,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-053-016",
+      "text": "The action he takes varies according to the nature of the complaint.",
+      "start": 126.832,
+      "end": 130.562,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-053-017",
+      "text": "He may gently reprimand an official or even suggest to parliament that a law be altered.",
+      "start": 131.292,
+      "end": 137.042,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-053-018",
+      "text": "The following case is a typical example of the Ombudsman's work.",
+      "start": 137.952,
+      "end": 141.942,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-053-019",
+      "text": "A foreigner living in a Swedish village wrote to the Ombudsman complaining that he had been ill-treated by the police, simply because he was a foreigner.",
+      "start": 143.032,
+      "end": 152.862,
+      "score": 0.954,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-053-020",
+      "text": "The Ombudsman immediately wrote to the Chief of Police in the district asking him to send a record of the case.",
+      "start": 153.592,
+      "end": 160.023,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-053-021",
+      "text": "There was nothing in the record to show that the foreigner's complaint was justified and the Chief of Police strongly denied the accusation.",
+      "start": 160.892,
+      "end": 169.282,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-053-022",
+      "text": "It was impossible for the Ombudsman to take action, but when he received a similar complaint from another foreigner in the same village, he immediately sent one of his lawyers to investigate the matter.",
+      "start": 170.112,
+      "end": 182.882,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-053-023",
+      "text": "The lawyer ascertained that a policeman had indeed dealt roughly with foreigners on several occasions.",
+      "start": 183.632,
+      "end": 190.322,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-053-024",
+      "text": "The fact that the policeman was prejudiced against foreigners could not be recorded in the official files.",
+      "start": 190.992,
+      "end": 197.142,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-053-025",
+      "text": "It was only possible for the Ombudsman to find this out by sending one of his representatives to check the facts.",
+      "start": 197.832,
+      "end": 204.642,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-053-026",
+      "text": "The policeman in question was severely reprimanded and was informed that if any further complaints were lodged against him, he would be prosecuted.",
+      "start": 205.412,
+      "end": 213.942,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-053-027",
+      "text": "The Ombudsman's prompt action at once put an end to an unpleasant practice which might have gone unnoticed.",
+      "start": 214.572,
+      "end": 221.022,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

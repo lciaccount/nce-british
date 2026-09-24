@@ -1,0 +1,177 @@
+{
+  "audioSha256": "a3bd357be66502d9b94b9455dfb5afb186b07b8d5fa52c111782d3b5788e784f",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-050-001",
+      "text": "Why did the writer not get off the bus at Woodford Green?",
+      "start": 13.952,
+      "end": 18.762,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-050-002",
+      "text": "I love travelling in the country, but I don't like losing my way.",
+      "start": 21.593,
+      "end": 26.302,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-050-003",
+      "text": "I went on an excursion recently, but my trip took me longer than I expected.",
+      "start": 28.233,
+      "end": 33.823,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-050-004",
+      "text": "'I'm going to Woodford Green,' I said to the conductor as I got on the bus, 'but I don't know where it is.'",
+      "start": 36.172,
+      "end": 43.423,
+      "score": 0.931,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-050-005",
+      "text": "'I'll tell you where to get off.'",
+      "start": 45.453,
+      "end": 47.403,
+      "score": 0.907,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-050-006",
+      "text": "answered the conductor.",
+      "start": 48.273,
+      "end": 49.503,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-050-007",
+      "text": "I sat in the front of the bus to get a good view of the countryside.",
+      "start": 51.212,
+      "end": 55.423,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-050-008",
+      "text": "After some time, the bus stopped.",
+      "start": 57.472,
+      "end": 59.683,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-050-009",
+      "text": "Looking round, I realized with a shock that I was the only passenger left on the bus.",
+      "start": 61.252,
+      "end": 67.258,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-050-010",
+      "text": "'You'll have to get off here,' the conductor said.",
+      "start": 67.258,
+      "end": 72.118,
+      "score": 0.926,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-050-011",
+      "text": "'This is as far as we go.'",
+      "start": 72.118,
+      "end": 74.963,
+      "score": 0.883,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-050-012",
+      "text": "'Is this Woodford Green?'",
+      "start": 76.392,
+      "end": 77.743,
+      "score": 0.879,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-050-013",
+      "text": "I asked.",
+      "start": 78.293,
+      "end": 78.838,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-050-014",
+      "text": "'Oh dear,' said the conductor suddenly.",
+      "start": 78.838,
+      "end": 84.583,
+      "score": 0.927,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-050-015",
+      "text": "'I forgot to put you off.'",
+      "start": 85.953,
+      "end": 87.903,
+      "score": 0.842,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-050-016",
+      "text": "'It doesn't matter,' I said.",
+      "start": 89.373,
+      "end": 91.017,
+      "score": 0.886,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-050-017",
+      "text": "'I'll get off here.'",
+      "start": 91.017,
+      "end": 92.558,
+      "score": 0.862,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-050-018",
+      "text": "'We're going back now,' said the conductor.",
+      "start": 92.558,
+      "end": 98.223,
+      "score": 0.919,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-050-019",
+      "text": "'Well, in that case, I prefer to stay on the bus,' I answered.",
+      "start": 98.913,
+      "end": 104.922,
+      "score": 0.925,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

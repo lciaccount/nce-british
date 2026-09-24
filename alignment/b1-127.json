@@ -1,0 +1,204 @@
+{
+  "audioSha256": "e6ed91ba88a7853d6562a5284632c9084a07e4f39b5c0a711d53facafe42e79d",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-127-001",
+      "text": "Who is only twenty-nine, and why is it so unclear?",
+      "start": 13.872,
+      "end": 18.482,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-127-002",
+      "text": "Can you recognize that woman, Liz?",
+      "start": 21.172,
+      "end": 23.582,
+      "score": 0.906,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-127-003",
+      "text": "I think I can, Kate.",
+      "start": 25.293,
+      "end": 26.822,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-127-004",
+      "text": "It must be Karen Marsh, the actress.",
+      "start": 27.273,
+      "end": 29.983,
+      "score": 0.928,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-127-005",
+      "text": "I thought so.",
+      "start": 31.453,
+      "end": 32.503,
+      "score": 0.996,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-127-006",
+      "text": "Who's that beside her?",
+      "start": 33.273,
+      "end": 34.683,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-127-007",
+      "text": "That must be Conrad Reeves.",
+      "start": 36.513,
+      "end": 39.083,
+      "score": 0.932,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-127-008",
+      "text": "Conrad Reeves, the actor?",
+      "start": 40.392,
+      "end": 42.283,
+      "score": 0.82,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-127-009",
+      "text": "It can't be.",
+      "start": 43.032,
+      "end": 44.263,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-127-010",
+      "text": "Let me have another look.",
+      "start": 44.873,
+      "end": 45.943,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-127-011",
+      "text": "I think you're right!",
+      "start": 47.453,
+      "end": 48.583,
+      "score": 0.891,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-127-012",
+      "text": "Isn't he her third husband?",
+      "start": 49.873,
+      "end": 51.923,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-127-013",
+      "text": "No.",
+      "start": 53.433,
+      "end": 53.783,
+      "score": 0.856,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-127-014",
+      "text": "He must be her fourth or fifth.",
+      "start": 54.233,
+      "end": 56.563,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-127-015",
+      "text": "Doesn't Karen Marsh look old!",
+      "start": 57.933,
+      "end": 60.303,
+      "score": 0.908,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-127-016",
+      "text": "She does, doesn't she!",
+      "start": 61.712,
+      "end": 63.123,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-127-017",
+      "text": "I read she's twenty-nine, but she must be at least forty.",
+      "start": 64.312,
+      "end": 69.683,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-127-018",
+      "text": "I'm sure she is.",
+      "start": 71.172,
+      "end": 72.583,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-127-019",
+      "text": "She was a famous actress when I was still at school.",
+      "start": 74.172,
+      "end": 78.063,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-127-020",
+      "text": "That was a long time ago, wasn't it?",
+      "start": 79.733,
+      "end": 81.883,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-127-021",
+      "text": "Not that long ago!",
+      "start": 83.112,
+      "end": 84.483,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-127-022",
+      "text": "I'm not more than twenty-nine myself.",
+      "start": 85.312,
+      "end": 87.723,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

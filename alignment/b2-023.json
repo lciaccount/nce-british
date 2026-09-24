@@ -1,0 +1,114 @@
+{
+  "audioSha256": "28c2eabdd42ee6b7179ccd6f9a39dfef9987b1e056f92459d60b671d72a9d9b3",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-023-001",
+      "text": "Why is the new house special?",
+      "start": 12.952,
+      "end": 15.622,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-023-002",
+      "text": "I had a letter from my sister yesterday.",
+      "start": 18.433,
+      "end": 20.982,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-023-003",
+      "text": "She lives in Nigeria.",
+      "start": 22.473,
+      "end": 24.182,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-023-004",
+      "text": "In her letter, she said that she would come to England next year.",
+      "start": 25.793,
+      "end": 30.303,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-023-005",
+      "text": "If she comes, she will get a surprise.",
+      "start": 31.672,
+      "end": 34.383,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-023-006",
+      "text": "We are now living in a beautiful new house in the country.",
+      "start": 36.233,
+      "end": 40.663,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-023-007",
+      "text": "Work on it had begun before my sister left.",
+      "start": 41.992,
+      "end": 45.203,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-023-008",
+      "text": "The house was completed five months ago.",
+      "start": 46.532,
+      "end": 49.803,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-023-009",
+      "text": "In my letter, I told her that she could stay with us.",
+      "start": 51.513,
+      "end": 55.383,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-023-010",
+      "text": "The house has many large rooms and there is a lovely garden.",
+      "start": 56.873,
+      "end": 61.643,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-023-011",
+      "text": "It is a very modern house, so it looks strange to some people.",
+      "start": 63.312,
+      "end": 68.243,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-023-012",
+      "text": "It must be the only modern house in the district.",
+      "start": 69.573,
+      "end": 73.303,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

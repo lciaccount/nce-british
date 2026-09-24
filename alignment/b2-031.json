@@ -1,0 +1,105 @@
+{
+  "audioSha256": "535d790010c6ff7ca3af577c9febcc72998c891405a21b69d4b53336bf1dedd2",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-031-001",
+      "text": "What was Frank's first job?",
+      "start": 13.232,
+      "end": 15.842,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-031-002",
+      "text": "Yesterday afternoon Frank Hawkins was telling me about his experiences as a young man.",
+      "start": 18.733,
+      "end": 25.962,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-031-003",
+      "text": "Before he retired, Frank was the head of a very large business company, but as a boy he used to work in a small shop.",
+      "start": 27.913,
+      "end": 38.463,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-031-004",
+      "text": "It was his job to repair bicycles and at that time he used to work fourteen hours a day.",
+      "start": 39.873,
+      "end": 47.823,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-031-005",
+      "text": "He saved money for years and in 1958 he bought a small workshop of his own.",
+      "start": 49.633,
+      "end": 57.303,
+      "score": 0.737,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b2-031-006",
+      "text": "In his twenties Frank used to make spare parts for aeroplanes.",
+      "start": 59.172,
+      "end": 64.203,
+      "score": 0.994,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-031-007",
+      "text": "At that time he had two helpers.",
+      "start": 65.912,
+      "end": 68.183,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-031-008",
+      "text": "In a few years the small workshop had become a large factory which employed seven hundred and twenty-eight people.",
+      "start": 70.013,
+      "end": 78.363,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-031-009",
+      "text": "Frank smiled when he remembered his hard early years and the long road to success.",
+      "start": 80.133,
+      "end": 85.863,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-031-010",
+      "text": "He was still smiling when the door opened and his wife came in.",
+      "start": 87.373,
+      "end": 91.363,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-031-011",
+      "text": "She wanted him to repair their grandson's bicycle!",
+      "start": 92.692,
+      "end": 95.783,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

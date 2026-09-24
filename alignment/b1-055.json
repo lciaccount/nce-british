@@ -1,0 +1,150 @@
+{
+  "audioSha256": "41123ec673d6e11515e2255a9f4414083822cf5beabe82df8008f1846187606f",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-055-001",
+      "text": "When do the children do their homework?",
+      "start": 14.092,
+      "end": 17.002,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-055-002",
+      "text": "The Sawyers live at 87 King Street.",
+      "start": 19.713,
+      "end": 23.002,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-055-003",
+      "text": "In the morning, Mr. Sawyer goes to work and the children go to school.",
+      "start": 24.152,
+      "end": 29.782,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-055-004",
+      "text": "Their father takes them to school every day.",
+      "start": 31.172,
+      "end": 33.983,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-055-005",
+      "text": "Mrs. Sawyer stays at home every day.",
+      "start": 35.373,
+      "end": 38.043,
+      "score": 0.943,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-055-006",
+      "text": "She does the housework.",
+      "start": 39.032,
+      "end": 40.463,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-055-007",
+      "text": "She always eats her lunch at noon.",
+      "start": 42.013,
+      "end": 44.563,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-055-008",
+      "text": "In the afternoon, she usually sees her friends.",
+      "start": 46.352,
+      "end": 50.243,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-055-009",
+      "text": "They often drink tea together.",
+      "start": 51.453,
+      "end": 53.343,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-055-010",
+      "text": "In the evening, the children come home from school.",
+      "start": 55.032,
+      "end": 58.163,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-055-011",
+      "text": "They arrive home early.",
+      "start": 59.293,
+      "end": 60.843,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-055-012",
+      "text": "Mr. Sawyer comes home from work.",
+      "start": 62.572,
+      "end": 64.903,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-055-013",
+      "text": "He arrives home late.",
+      "start": 66.013,
+      "end": 67.543,
+      "score": 0.994,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-055-014",
+      "text": "At night, the children always do their homework.",
+      "start": 69.653,
+      "end": 73.283,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-055-015",
+      "text": "Then they go to bed.",
+      "start": 74.293,
+      "end": 75.363,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-055-016",
+      "text": "Mr. Sawyer usually reads his newspaper, but sometimes he and his wife watch television.",
+      "start": 76.873,
+      "end": 84.583,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

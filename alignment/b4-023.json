@@ -1,0 +1,123 @@
+{
+  "audioSha256": "39797c56c908ecc6a7af44b91a352a52c7515156f11809f7400a41873ab58ef7",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-023-001",
+      "text": "What are the two main types of bird flight described by the author?",
+      "start": 11.392,
+      "end": 15.182,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-023-002",
+      "text": "No two sorts of birds practise quite the same sort of flight; the varieties are infinite; but two classes may be roughly seen.",
+      "start": 17.973,
+      "end": 27.082,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-023-003",
+      "text": "Any ship that crosses the Pacific is accompanied for many days by the smaller albatross, which may keep company with the vessel for an hour without visible or more than occasional movement of wing.",
+      "start": 28.593,
+      "end": 41.363,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-023-004",
+      "text": "The currents of air that the walls of the ship direct upwards, as well as in the line of its course, are enough to give the great bird with its immense wings sufficient sustenance and progress.",
+      "start": 42.633,
+      "end": 54.803,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-023-005",
+      "text": "The albatross is the king of the gliders, the class of fliers which harness the air to their purpose, but must yield to its opposition.",
+      "start": 55.953,
+      "end": 65.283,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-023-006",
+      "text": "In the contrary school, the duck is supreme.",
+      "start": 66.612,
+      "end": 69.922,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-023-007",
+      "text": "It comes nearer to the engines with which man has 'conquered' the air, as he boasts.",
+      "start": 71.032,
+      "end": 75.983,
+      "score": 0.946,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-023-008",
+      "text": "Duck, and like them the pigeons, are endowed with steel-like muscles, that are a good part of the weight of the bird, and these will ply the short wings with such irresistible power that they can bore for long distances through an opposing gale before exhaustion follows.",
+      "start": 76.793,
+      "end": 96.003,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-023-009",
+      "text": "Their humbler followers, such as partridges, have a like power of strong propulsion, but soon tire.",
+      "start": 97.332,
+      "end": 104.323,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-023-010",
+      "text": "You may pick them up in utter exhaustion, if wind over the sea has driven them to a long journey.",
+      "start": 105.293,
+      "end": 111.363,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-023-011",
+      "text": "The swallow shares the virtues of both schools in highest measure.",
+      "start": 112.532,
+      "end": 116.003,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-023-012",
+      "text": "It tires not, nor does it boast of its power; but belongs to the air travelling it may be six thousand miles to and from its northern nesting home, feeding its flown young as it flies, and slipping through a medium that seems to help its passage even when the wind is adverse.",
+      "start": 116.853,
+      "end": 137.242,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-023-013",
+      "text": "Such birds do us good, though we no longer take omens from their flight on this side and that; and even the most superstitious villagers no longer take off their hats to the magpie and wish it good-morning.",
+      "start": 138.412,
+      "end": 151.702,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

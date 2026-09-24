@@ -1,0 +1,285 @@
+{
+  "audioSha256": "dfe7ffbd0318492d02a9ddfb1b5ae5595a13564c4da324fea705373d4d869abe",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-046-001",
+      "text": "Who, according to the author, are 'Fortune's favoured children'?",
+      "start": 11.532,
+      "end": 16.223,
+      "score": 0.942,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-002",
+      "text": "A gifted American psychologist has said, 'Worry is a spasm of the emotion; the mind catches hold of something and will not let it go.'",
+      "start": 18.992,
+      "end": 28.922,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-003",
+      "text": "It is useless to argue with the mind in this condition.",
+      "start": 30.032,
+      "end": 32.743,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-004",
+      "text": "The stronger the will, the more futile the task.",
+      "start": 33.672,
+      "end": 36.443,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-005",
+      "text": "One can only gently insinuate something else into its convulsive grasp.",
+      "start": 37.693,
+      "end": 42.303,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-006",
+      "text": "And if this something else is rightly chosen, if it is really attended by the illumination of another field of interest, gradually, and often quite swiftly, the old undue grip relaxes and the process of recuperation and repair begins.",
+      "start": 43.193,
+      "end": 59.163,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-007",
+      "text": "The cultivation of a hobby and new forms of interest is therefore a policy of the first importance to a public man.",
+      "start": 60.612,
+      "end": 68.023,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-008",
+      "text": "But this is not a business that can be undertaken in a day or swiftly improvised by a mere command of the will.",
+      "start": 69.032,
+      "end": 75.963,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-009",
+      "text": "The growth of alternative mental interests is a long process.",
+      "start": 77.272,
+      "end": 81.663,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-010",
+      "text": "The seeds must be carefully chosen; they must fall on good ground; they must be sedulously tended, if the vivifying fruits are to be at hand when needed.",
+      "start": 82.552,
+      "end": 94.623,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-011",
+      "text": "To be really happy and really safe, one ought to have at least two or three hobbies, and they must all be real.",
+      "start": 96.213,
+      "end": 103.783,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-012",
+      "text": "It is no use starting late in life to say: 'I will take an interest in this or that.'",
+      "start": 104.772,
+      "end": 110.023,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-013",
+      "text": "Such an attempt only aggravates the strain of mental effort.",
+      "start": 110.832,
+      "end": 114.383,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-014",
+      "text": "A man may acquire great knowledge of topics unconnected with his daily work, and yet get hardly any benefit or relief.",
+      "start": 115.513,
+      "end": 123.183,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-015",
+      "text": "It is no use doing what you like; you have got to like what you do.",
+      "start": 124.392,
+      "end": 128.942,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-016",
+      "text": "Broadly speaking, human beings may be divided into three classes: those who are toiled to death, those who are worried to death, and those who are bored to death.",
+      "start": 130.232,
+      "end": 141.942,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-017",
+      "text": "It is no use offering the manual labourer, tired out with a hard week's sweat and effort the chance of playing a game of football or baseball on Saturday afternoon.",
+      "start": 143.092,
+      "end": 153.022,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-018",
+      "text": "It is no use inviting the politician or the professional or business man, who has been working or worrying about serious things for six days, to work or worry about trifling things at the weekend.",
+      "start": 154.232,
+      "end": 166.762,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-019",
+      "text": "As for the unfortunate people who can command everything they want, who can gratify every caprice and lay their hands on almost every object of desire--for them a new pleasure a new excitement is only an additional satiation.",
+      "start": 168.312,
+      "end": 184.002,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-020",
+      "text": "In vain they rush frantically round from place to place, trying to escape from avenging boredom by mere clatter and motion.",
+      "start": 185.052,
+      "end": 193.102,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-021",
+      "text": "For them discipline in one form or another is the most hopeful path.",
+      "start": 194.152,
+      "end": 199.002,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-022",
+      "text": "It may also be said that rational, industrious, useful human beings are divided into two classes: first, those whose work is work and whose pleasure is pleasure; and secondly, those whose work and pleasure are one.",
+      "start": 199.932,
+      "end": 218.642,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-023",
+      "text": "Of these the former are the majority.",
+      "start": 219.792,
+      "end": 222.262,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-024",
+      "text": "They have their compensations.",
+      "start": 223.412,
+      "end": 225.123,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-025",
+      "text": "The long hours in the office or the factory bring with them as their reward, not only the means of sustenance, but a keen appetite for pleasure even in its simplest and most modest forms.",
+      "start": 225.992,
+      "end": 238.123,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-026",
+      "text": "But Fortune's favoured children belong to the second class.",
+      "start": 239.232,
+      "end": 243.062,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-027",
+      "text": "Their life is a natural harmony.",
+      "start": 244.312,
+      "end": 246.542,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-028",
+      "text": "For them the working hours are never long enough.",
+      "start": 247.232,
+      "end": 250.222,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-029",
+      "text": "Each day is a holiday, and ordinary holidays, when they come, are grudged as enforced interruptions in an absorbing vocation.",
+      "start": 251.372,
+      "end": 260.242,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-030",
+      "text": "Yet to both classes, the need of an alternative outlook, of a change of atmosphere of a diversion of effort, is essential.",
+      "start": 261.252,
+      "end": 270.162,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-046-031",
+      "text": "Indeed, it may well be that those whose work is their pleasure are those who most need the means of banishing it at intervals from their minds.",
+      "start": 270.993,
+      "end": 280.642,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "audioSha256": "7d40110743c89d5d7b71f94fde15e240e1b26ab63fa62dd9efee2d119a1ea49a",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-070-001",
+      "text": "How was the drunk removed from the ring?",
+      "start": 13.552,
+      "end": 17.023,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-070-002",
+      "text": "During a bullfight, a drunk suddenly wandered into the middle of the ring.",
+      "start": 19.992,
+      "end": 25.282,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-070-003",
+      "text": "The crowd began to shout, but the drunk was unaware of the danger.",
+      "start": 26.693,
+      "end": 32.143,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-070-004",
+      "text": "The bull was busy with the matador at the time, but it suddenly caught sight of the drunk who was shouting rude remarks and waving a red cap.",
+      "start": 33.913,
+      "end": 44.883,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-070-005",
+      "text": "Apparently sensitive to criticism, the bull forgot all about the matador and charged at the drunk.",
+      "start": 46.953,
+      "end": 55.083,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-070-006",
+      "text": "The crowd suddenly grew quiet.",
+      "start": 57.053,
+      "end": 59.383,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-070-007",
+      "text": "The drunk, however, seemed quite sure of himself.",
+      "start": 60.793,
+      "end": 63.943,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-070-008",
+      "text": "When the bull got close to him, he clumsily stepped aside to let it pass.",
+      "start": 65.532,
+      "end": 71.343,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-070-009",
+      "text": "The crowd broke into cheers and the drunk bowed.",
+      "start": 72.853,
+      "end": 77.483,
+      "score": 0.994,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-070-010",
+      "text": "By this time, however three men had come into the ring and they quickly dragged the drunk to safety.",
+      "start": 79.073,
+      "end": 86.562,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-070-011",
+      "text": "Even the bull seemed to feel sorry for him, for it looked on sympathetically until the drunk was out of the way before once more turning its attention to the matador.",
+      "start": 88.073,
+      "end": 100.503,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

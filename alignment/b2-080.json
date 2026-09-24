@@ -1,0 +1,114 @@
+{
+  "audioSha256": "15399f434c89e3a7343a5552c6aff5671405c85cadc3d62db37c415d492e1c42",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-080-001",
+      "text": "How many people visited the Great Exhibition of 1851?",
+      "start": 12.452,
+      "end": 17.942,
+      "score": 0.683,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b2-080-002",
+      "text": "Perhaps the most extraordinary building of the 19th century was the Crystal Palace which was built in Hyde Park for the Great Exhibition of 1851.",
+      "start": 20.773,
+      "end": 33.023,
+      "score": 0.835,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-080-003",
+      "text": "The Crystal Palace was different from all other buildings in the world, for it was made of iron and glass.",
+      "start": 35.032,
+      "end": 42.403,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-080-004",
+      "text": "It was one of the biggest buildings of all time and a lot of people from many countries came to see it.",
+      "start": 43.852,
+      "end": 50.783,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-080-005",
+      "text": "A great many goods were sent to the exhibition from various parts of the world.",
+      "start": 52.933,
+      "end": 58.303,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-080-006",
+      "text": "There was also a great deal of machinery on display.",
+      "start": 59.573,
+      "end": 62.663,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-080-007",
+      "text": "The most wonderful piece of machinery on show was Nasmyth's steam hammer.",
+      "start": 64.192,
+      "end": 70.243,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-080-008",
+      "text": "Though in those days travelling was not as easy as it is today, steam boats carried thousands of visitors across the Channel from Europe.",
+      "start": 71.593,
+      "end": 81.303,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-080-009",
+      "text": "On arriving in England, they were, taken to the Crystal Palace by train.",
+      "start": 82.953,
+      "end": 87.503,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-080-010",
+      "text": "There were six million visitors in all, and the profits from the exhibition were used to build museums and colleges.",
+      "start": 89.552,
+      "end": 98.063,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-080-011",
+      "text": "Later, the Crystal Palace was moved to South London.",
+      "start": 99.213,
+      "end": 103.043,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-080-012",
+      "text": "It remained one of the most famous buildings in the world until it was burnt down in 1936.",
+      "start": 103.832,
+      "end": 114.663,
+      "score": 0.731,
+      "timingValid": true,
+      "needsReview": true
+    }
+  ]
+}

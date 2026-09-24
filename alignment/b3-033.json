@@ -1,0 +1,240 @@
+{
+  "audioSha256": "f2f0774a8b37c38870e7ae7756109da6ad8edd478cd45225349ce706d9c0349b",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-033-001",
+      "text": "What incident began the series of traffic accidents?",
+      "start": 11.892,
+      "end": 14.922,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-033-002",
+      "text": "We have all experienced days when everything goes wrong.",
+      "start": 17.633,
+      "end": 20.942,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-033-003",
+      "text": "A day may begin well enough, but suddenly everything seems to get out of control.",
+      "start": 21.893,
+      "end": 26.962,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-033-004",
+      "text": "What invariably happens is that a great number of things choose to go wrong at precisely the same moment.",
+      "start": 27.953,
+      "end": 34.663,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-033-005",
+      "text": "It is as if a single unimportant event set up a chain of reactions.",
+      "start": 35.532,
+      "end": 40.663,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-033-006",
+      "text": "Let us suppose that you are preparing a meal and keeping an eye on the baby at the same time.",
+      "start": 41.633,
+      "end": 47.523,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-033-007",
+      "text": "The telephone rings and this marks the prelude to an unforeseen series of catastrophes.",
+      "start": 48.573,
+      "end": 54.783,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-033-008",
+      "text": "While you are on the phone, the baby pulls the tablecloth off the table, smashing half your best crockery and cutting himself in the process.",
+      "start": 55.852,
+      "end": 65.503,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-033-009",
+      "text": "You hang up hurriedly and attend to baby, crockery, etc.",
+      "start": 66.392,
+      "end": 70.203,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-033-010",
+      "text": "Meanwhile, the meal gets burnt.",
+      "start": 71.133,
+      "end": 72.983,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-033-011",
+      "text": "As if this were not enough to reduce you to tears, your husband arrives, unexpectedly bringing three guests to dinner.",
+      "start": 73.853,
+      "end": 81.743,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-033-012",
+      "text": "Things can go wrong on a big scale as a number of people recently discovered in Parramatta, a suburb of Sydney.",
+      "start": 83.032,
+      "end": 90.922,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-033-013",
+      "text": "During the rush hour one evening two cars collided and both drivers began to argue.",
+      "start": 91.993,
+      "end": 97.263,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-033-014",
+      "text": "The woman immediately behind the two cars happened to be a learner.",
+      "start": 97.953,
+      "end": 102.403,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-033-015",
+      "text": "She suddenly got into a panic and stopped her car.",
+      "start": 103.192,
+      "end": 106.062,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-033-016",
+      "text": "This made the driver following her brake hard.",
+      "start": 107.293,
+      "end": 110.263,
+      "score": 0.944,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-033-017",
+      "text": "His wife was sitting beside him holding a large cake.",
+      "start": 110.913,
+      "end": 114.243,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-033-018",
+      "text": "As she was thrown forward, the cake went right through the windscreen and landed on the road.",
+      "start": 114.992,
+      "end": 120.743,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-033-019",
+      "text": "Seeing a cake flying through the air, a lorry driver who was drawing up alongside the car, pulled up all of a sudden.",
+      "start": 121.692,
+      "end": 129.382,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-033-020",
+      "text": "The lorry was loaded with empty beer bottles and hundreds of them slid off the back of the vehicle and on to the road.",
+      "start": 130.132,
+      "end": 137.542,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-033-021",
+      "text": "This led to yet another angry argument.",
+      "start": 138.532,
+      "end": 141.422,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-033-022",
+      "text": "Meanwhile, the traffic piled up behind.",
+      "start": 142.292,
+      "end": 144.922,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-033-023",
+      "text": "It took the police nearly an hour to get the traffic on the move again.",
+      "start": 145.672,
+      "end": 149.762,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-033-024",
+      "text": "In the meantime, the lorry driver had to sweep up hundreds of broken bottles.",
+      "start": 150.652,
+      "end": 155.782,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-033-025",
+      "text": "Only two stray dogs benefited from all this confusion, for they greedily devoured what was left of the cake.",
+      "start": 156.712,
+      "end": 164.542,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-033-026",
+      "text": "It was just one of those days!",
+      "start": 165.152,
+      "end": 167.162,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

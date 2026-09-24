@@ -1,0 +1,114 @@
+{
+  "audioSha256": "c68f9bc39eeb9bf16097e9756d622faf3071dd065ec24bff62aefd0479cae489",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-064-001",
+      "text": "Why was the first tunnel not completed?",
+      "start": 13.192,
+      "end": 16.128,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-064-002",
+      "text": "In 1858, a French engineer, Aime Thome de Gamond, arrived in England with a plan for a 21-mile tunnel under the English Channel.",
+      "start": 16.128,
+      "end": 33.543,
+      "score": 0.81,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-064-003",
+      "text": "He said that it would be possible to build a platform in the centre of the Channel.",
+      "start": 35.532,
+      "end": 40.443,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-064-004",
+      "text": "This platform would serve as a port and a railway station.",
+      "start": 41.273,
+      "end": 45.503,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-064-005",
+      "text": "The tunnel would be well-ventilated if tall chimneys were built above sea level.",
+      "start": 46.672,
+      "end": 52.638,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-064-006",
+      "text": "In 1860, a better plan was put forward by an Englishman, William Low.",
+      "start": 52.638,
+      "end": 60.063,
+      "score": 0.728,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b2-064-007",
+      "text": "He suggested that a double railway-tunnel should be built.",
+      "start": 61.492,
+      "end": 65.143,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-064-008",
+      "text": "This would solve the problem of ventilation for if a train entered this tunnel, it would draw in fresh air behind it.",
+      "start": 66.153,
+      "end": 73.903,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-064-009",
+      "text": "Forty-two years later a tunnel was actually begun.",
+      "start": 75.892,
+      "end": 79.703,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-064-010",
+      "text": "If, at the time, the British had not feared invasion, it would have been completed.",
+      "start": 80.953,
+      "end": 86.263,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-064-011",
+      "text": "The world had to wait almost another 100 years for the Channel Tunnel.",
+      "start": 87.593,
+      "end": 93.103,
+      "score": 0.936,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-064-012",
+      "text": "It was officially opened on March 7, 1994, finally connecting Britain to the European continent.",
+      "start": 93.933,
+      "end": 101.983,
+      "score": 0.798,
+      "timingValid": true,
+      "needsReview": true
+    }
+  ]
+}

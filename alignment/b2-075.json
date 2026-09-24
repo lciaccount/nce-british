@@ -1,0 +1,132 @@
+{
+  "audioSha256": "9f2ade7fff817024e9c54900e8ee66e4fe4fcc3a5e4f51c4e2a02a090f18fe23",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-075-001",
+      "text": "How did the woman get help?",
+      "start": 13.272,
+      "end": 15.342,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-075-002",
+      "text": "When a light passenger plane flew off course some time ago, it crashed in the mountains and its pilot was killed.",
+      "start": 18.193,
+      "end": 27.043,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-075-003",
+      "text": "The only passengers, a young woman and her two baby daughters, were unhurt.",
+      "start": 28.073,
+      "end": 34.823,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-075-004",
+      "text": "It was the middle of winter.",
+      "start": 36.653,
+      "end": 38.083,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-075-005",
+      "text": "Snow lay thick on the ground.",
+      "start": 39.013,
+      "end": 41.103,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-075-006",
+      "text": "The woman knew that the nearest village was miles away.",
+      "start": 42.773,
+      "end": 46.663,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-075-007",
+      "text": "When it grew dark, she turned a suitcase into a bed and put the children inside it, covering them with all the clothes she could find.",
+      "start": 48.153,
+      "end": 59.383,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-075-008",
+      "text": "During the night, it got terribly cold.",
+      "start": 60.953,
+      "end": 64.043,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-075-009",
+      "text": "The woman kept as near as she could to the children and even tried to get into the case herself, but it was too small.",
+      "start": 65.653,
+      "end": 74.723,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-075-010",
+      "text": "Early next morning, she heard planes passing overhead and wondered how she could send a signal.",
+      "start": 76.373,
+      "end": 83.943,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-075-011",
+      "text": "Then she had an idea.",
+      "start": 85.293,
+      "end": 86.562,
+      "score": 0.997,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-075-012",
+      "text": "She stamped out the letters 'SOS' in the snow.",
+      "start": 88.013,
+      "end": 93.503,
+      "score": 0.934,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-075-013",
+      "text": "Fortunately, a pilot saw the signal and sent a message by radio to the nearest town.",
+      "start": 94.933,
+      "end": 101.683,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-075-014",
+      "text": "It was not long before a helicopter arrived on the scene to rescue the survivors of the plane crash.",
+      "start": 102.912,
+      "end": 109.463,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

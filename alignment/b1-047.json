@@ -1,0 +1,141 @@
+{
+  "audioSha256": "93a790b304bad975b35376e8608d7f379c90e52116384abb789fae0b8671ab36",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-047-001",
+      "text": "How does Ann like her coffee?",
+      "start": 13.692,
+      "end": 16.082,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-047-002",
+      "text": "Do you like coffee, Ann?",
+      "start": 18.733,
+      "end": 20.582,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-047-003",
+      "text": "Yes, I do.",
+      "start": 21.453,
+      "end": 22.843,
+      "score": 0.995,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-047-004",
+      "text": "Do you want a cup?",
+      "start": 24.133,
+      "end": 25.203,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-047-005",
+      "text": "Yes, please, Christine.",
+      "start": 26.093,
+      "end": 27.742,
+      "score": 0.996,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-047-006",
+      "text": "Do you want any sugar?",
+      "start": 29.373,
+      "end": 30.822,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-047-007",
+      "text": "Yes, please.",
+      "start": 31.873,
+      "end": 32.863,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-047-008",
+      "text": "Do you want any milk?",
+      "start": 34.472,
+      "end": 35.843,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-047-009",
+      "text": "No, thank you.",
+      "start": 37.032,
+      "end": 37.903,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-047-010",
+      "text": "I don't like milk in my coffee.",
+      "start": 38.752,
+      "end": 40.943,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-047-011",
+      "text": "I like black coffee.",
+      "start": 41.873,
+      "end": 43.503,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-047-012",
+      "text": "Do you like biscuits?",
+      "start": 45.413,
+      "end": 46.623,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-047-013",
+      "text": "Yes, I do.",
+      "start": 47.553,
+      "end": 48.903,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-047-014",
+      "text": "Do you want one?",
+      "start": 51.093,
+      "end": 51.863,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-047-015",
+      "text": "Yes, please.",
+      "start": 52.693,
+      "end": 53.543,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

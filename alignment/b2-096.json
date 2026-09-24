@@ -1,0 +1,96 @@
+{
+  "audioSha256": "d22b16100b8dc9894d978713006cdcd792c92cc02fc2aeef3109c1ecc60c6b32",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-096-001",
+      "text": "What happens to the lanterns at the end of the festival?",
+      "start": 13.092,
+      "end": 17.062,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-096-002",
+      "text": "A Festival for the Dead is held once a year in Japan.",
+      "start": 19.832,
+      "end": 23.942,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-096-003",
+      "text": "This festival is a cheerful occasion, for on this day, the dead are said to return to their homes and they are welcomed by the living.",
+      "start": 25.172,
+      "end": 34.543,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-096-004",
+      "text": "As they are expected to be hungry after their long journey, food is laid out for them.",
+      "start": 36.172,
+      "end": 42.163,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-096-005",
+      "text": "Specially-made lanterns are hung outside each house to help the dead to find their way.",
+      "start": 43.373,
+      "end": 49.083,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-096-006",
+      "text": "All night long, people dance and sing.",
+      "start": 50.752,
+      "end": 53.903,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-096-007",
+      "text": "In the early morning the food that had been laid out for the dead is thrown into a river or into the sea as it is considered unlucky for anyone living to eat it.",
+      "start": 55.252,
+      "end": 66.843,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-096-008",
+      "text": "In towns that are near the sea, the tiny lanterns which had been hung in the streets the night before, are placed into the water when the festival is over.",
+      "start": 68.392,
+      "end": 79.663,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-096-009",
+      "text": "Thousands of lanterns slowly drift out to sea guiding the dead on their return journey to the other world.",
+      "start": 80.892,
+      "end": 89.123,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-096-010",
+      "text": "This is a moving spectacle, for crowds of people stand on the shore watching the lanterns drifting away until they can be seen no more.",
+      "start": 90.573,
+      "end": 100.543,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

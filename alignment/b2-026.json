@@ -1,0 +1,195 @@
+{
+  "audioSha256": "0a75e9aad2fbc0c4003b25833504ed0caacdfee5c3ced98e87ee49fc00acc34a",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-026-001",
+      "text": "Who is the student's best critic?",
+      "start": 15.332,
+      "end": 18.102,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-026-002",
+      "text": "I am an art student and I paint a lot of pictures.",
+      "start": 21.113,
+      "end": 25.062,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-026-003",
+      "text": "Many people pretend that they understand modern art.",
+      "start": 26.733,
+      "end": 30.862,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-026-004",
+      "text": "They always tell you what a picture is 'about'.",
+      "start": 32.233,
+      "end": 35.643,
+      "score": 0.928,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-026-005",
+      "text": "Of course, many pictures are not 'about' anything.",
+      "start": 36.773,
+      "end": 40.423,
+      "score": 0.944,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-026-006",
+      "text": "They are just pretty patterns.",
+      "start": 42.072,
+      "end": 44.683,
+      "score": 0.905,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-026-007",
+      "text": "We like them in the same way that we like pretty curtain material.",
+      "start": 45.953,
+      "end": 50.763,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-026-008",
+      "text": "I think that young children often appreciate modern pictures better than anyone else.",
+      "start": 52.733,
+      "end": 59.323,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-026-009",
+      "text": "They notice more.",
+      "start": 60.712,
+      "end": 61.743,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-026-010",
+      "text": "My sister is only seven, but she always tells me whether my pictures are good or not.",
+      "start": 63.233,
+      "end": 70.063,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-026-011",
+      "text": "She came into my room yesterday.",
+      "start": 71.672,
+      "end": 73.683,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-026-012",
+      "text": "'What are you doing?'",
+      "start": 75.413,
+      "end": 76.783,
+      "score": 0.868,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-026-013",
+      "text": "she asked.",
+      "start": 77.593,
+      "end": 78.338,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-026-014",
+      "text": "'I'm hanging this picture on the wall,' I answered.",
+      "start": 78.338,
+      "end": 83.043,
+      "score": 0.933,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-026-015",
+      "text": "'It's a new one.",
+      "start": 84.213,
+      "end": 84.983,
+      "score": 0.927,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-026-016",
+      "text": "Do you like it?'",
+      "start": 85.353,
+      "end": 86.123,
+      "score": 0.891,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-026-017",
+      "text": "She looked at it critically for a moment.",
+      "start": 87.953,
+      "end": 90.123,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-026-018",
+      "text": "'It's all right,' she said, 'but isn't it upside down?'",
+      "start": 91.392,
+      "end": 97.323,
+      "score": 0.898,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-026-019",
+      "text": "I looked at it again.",
+      "start": 100.032,
+      "end": 101.123,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-026-020",
+      "text": "She was right!",
+      "start": 102.112,
+      "end": 102.963,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-026-021",
+      "text": "It was!",
+      "start": 103.713,
+      "end": 104.203,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

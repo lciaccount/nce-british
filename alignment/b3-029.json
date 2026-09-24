@@ -1,0 +1,222 @@
+{
+  "audioSha256": "59a8c2f6cd8056edd331a157cd7cf950c36dec71ad8c3bbe67ebe0b05e5ab8ec",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-029-001",
+      "text": "What is the basis of 'sick' humour?",
+      "start": 12.152,
+      "end": 14.842,
+      "score": 0.903,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-029-002",
+      "text": "Whether we find a joke funny or not largely depends on where we have been brought up.",
+      "start": 17.353,
+      "end": 22.782,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-029-003",
+      "text": "The sense of humour is mysteriously bound up with national characteristics.",
+      "start": 23.933,
+      "end": 28.582,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-029-004",
+      "text": "A Frenchman, for instance, might find it hard to laugh at a Russian joke.",
+      "start": 29.773,
+      "end": 33.643,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-029-005",
+      "text": "In the same way, a Russian might fail to see anything amusing in a joke which would make an Englishman laugh to tears.",
+      "start": 34.513,
+      "end": 41.463,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-029-006",
+      "text": "Most funny stories are based on comic situations.",
+      "start": 42.812,
+      "end": 45.923,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-029-007",
+      "text": "In spite of national differences, certain funny situations have a universal appeal.",
+      "start": 46.892,
+      "end": 52.483,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-029-008",
+      "text": "No matter where you live, you would find it difficult not to laugh at, say, Charlie Chaplin's early films.",
+      "start": 53.712,
+      "end": 60.203,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-029-009",
+      "text": "However, a new type of humour, which stems largely from U.S., has recently come into fashion.",
+      "start": 61.032,
+      "end": 67.343,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-029-010",
+      "text": "It is called 'sick humour'.",
+      "start": 68.013,
+      "end": 69.863,
+      "score": 0.846,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-029-011",
+      "text": "Comedians base their jokes on tragic situations like violent death or serious accidents.",
+      "start": 70.453,
+      "end": 76.922,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-029-012",
+      "text": "Many people find this sort of joke distasteful.",
+      "start": 77.633,
+      "end": 80.003,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-029-013",
+      "text": "The following example of 'sick humour' will enable you to judge for yourself.",
+      "start": 80.752,
+      "end": 84.562,
+      "score": 0.946,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-029-014",
+      "text": "A man who had broken his right leg was taken to hospital a few weeks before Christmas.",
+      "start": 85.713,
+      "end": 91.623,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-029-015",
+      "text": "From the moment he arrived there, he kept on pestering his doctor to tell him when he would be able to go home.",
+      "start": 92.433,
+      "end": 98.583,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-029-016",
+      "text": "He dreaded having to spend Christmas in hospital.",
+      "start": 99.252,
+      "end": 101.843,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-029-017",
+      "text": "Though the doctor did his best, the patient's recovery was slow.",
+      "start": 102.532,
+      "end": 106.383,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-029-018",
+      "text": "On Christmas day, the man still had his right leg in plaster.",
+      "start": 107.213,
+      "end": 110.843,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-029-019",
+      "text": "He spent a miserable day in bed thinking of all the fun he was missing.",
+      "start": 111.532,
+      "end": 115.503,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-029-020",
+      "text": "The following day, however, the doctor consoled him by telling him that his chances of being able to leave hospital in time for New Year celebrations were good.",
+      "start": 116.093,
+      "end": 124.363,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-029-021",
+      "text": "The man took heart and sure enough, on New Year's Eve he was able to hobble along to a party.",
+      "start": 124.972,
+      "end": 130.882,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-029-022",
+      "text": "To compensate for his unpleasant experiences in hospital, the man drank a little more than was good for him.",
+      "start": 131.452,
+      "end": 138.183,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-029-023",
+      "text": "In the process, he enjoyed himself thoroughly and kept telling everybody how much he hated hospitals.",
+      "start": 138.692,
+      "end": 144.683,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-029-024",
+      "text": "He was still mumbling something about hospitals at the end of the party when he slipped on a piece of ice and broke his left leg.",
+      "start": 145.252,
+      "end": 153.662,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

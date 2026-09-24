@@ -1,0 +1,96 @@
+{
+  "audioSha256": "5b93234a98f5f17583a3311e3146f753c32fe879ea84d8d582baf78b46d0b3b6",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-029-001",
+      "text": "Does Captain Fawcett think any trip is too dangerous?",
+      "start": 14.632,
+      "end": 20.102,
+      "score": 0.895,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-029-002",
+      "text": "Captain Ben Fawcett has bought an unusual taxi and has begun a new service.",
+      "start": 22.913,
+      "end": 29.742,
+      "score": 0.94,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-029-003",
+      "text": "The 'taxi' is a small Swiss aeroplane called a 'Pilatus Porter'.",
+      "start": 31.712,
+      "end": 37.523,
+      "score": 0.894,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-029-004",
+      "text": "This wonderful plane can carry seven passengers.",
+      "start": 39.172,
+      "end": 43.003,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-029-005",
+      "text": "The most surprising thing about it, however, is that it can land anywhere: on snow, water, or even on a ploughed field.",
+      "start": 44.413,
+      "end": 54.783,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-029-006",
+      "text": "Captain Fawcett's first passenger was a doctor who flew from Birmingham to a lonely village in the Welsh mountains.",
+      "start": 57.032,
+      "end": 66.023,
+      "score": 0.948,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-029-007",
+      "text": "Since then, Captain Fawcett has flown passengers to many unusual places.",
+      "start": 67.772,
+      "end": 72.963,
+      "score": 0.945,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-029-008",
+      "text": "Once he landed on the roof of a block of flats and on another occasion, he landed in a deserted car park.",
+      "start": 74.413,
+      "end": 82.743,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-029-009",
+      "text": "Captain Fawcett has just refused a strange request from a businessman.",
+      "start": 84.513,
+      "end": 89.883,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-029-010",
+      "text": "The man wanted to fly to Rockall, a lonely island in the Atlantic Ocean, but Captain Fawcett did not take him because the trip was too dangerous.",
+      "start": 91.312,
+      "end": 102.963,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

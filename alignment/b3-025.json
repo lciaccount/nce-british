@@ -1,0 +1,204 @@
+{
+  "audioSha256": "389cfcbb71b36c7261ec52ee14b791a1ee0b5fda79bb8ee5b7a511faeb6d4348",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-025-001",
+      "text": "What piece of bad luck prevented the Cutty Sark from winning the race?",
+      "start": 11.372,
+      "end": 16.122,
+      "score": 0.941,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-025-002",
+      "text": "One of the most famous sailing ships of the nineteenth century, the Cutty Sark, can still be seen at Greenwich.",
+      "start": 19.053,
+      "end": 25.962,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-025-003",
+      "text": "She stands on dry land and is visited by thousands of people each year.",
+      "start": 26.933,
+      "end": 31.542,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-025-004",
+      "text": "She serves as an impressive reminder of the great ships of the past.",
+      "start": 32.833,
+      "end": 37.003,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-025-005",
+      "text": "Before they were replaced by steamships, sailing vessels like the Cutty Sark were used to carry tea from China and wool from Australia.",
+      "start": 39.093,
+      "end": 48.683,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-025-006",
+      "text": "The Cutty Sark was one of the fastest sailing ships that has ever been built.",
+      "start": 49.712,
+      "end": 54.223,
+      "score": 0.944,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-025-007",
+      "text": "The only other ship to match her was the Thermopylae.",
+      "start": 55.093,
+      "end": 58.243,
+      "score": 0.874,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-025-008",
+      "text": "Both these ships set out from Shanghai on June 18th, 1872 on an exciting race to England.",
+      "start": 59.172,
+      "end": 66.562,
+      "score": 0.788,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b3-025-009",
+      "text": "This race, which went on for exactly four months, was the last of its kind.",
+      "start": 67.593,
+      "end": 72.623,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-025-010",
+      "text": "It marked the end of the great tradition of ships with sails and the beginning of a new era.",
+      "start": 73.472,
+      "end": 79.142,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-025-011",
+      "text": "The first of the two ships to reach Java after the race had begun was the Thermopylae, but on the Indian Ocean, the Cutty Sark took the lead.",
+      "start": 80.752,
+      "end": 89.863,
+      "score": 0.927,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-025-012",
+      "text": "It seemed certain that she would be the first ship home, but during the race she had a lot of bad luck.",
+      "start": 90.733,
+      "end": 97.343,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-025-013",
+      "text": "In August, she was struck by a very heavy storm during which her rudder was torn away.",
+      "start": 98.233,
+      "end": 103.443,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-025-014",
+      "text": "The Cutty Sark rolled from side to side and it became impossible to steer her.",
+      "start": 104.472,
+      "end": 109.623,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-025-015",
+      "text": "A temporary rudder was made on board from spare planks and it was fitted with great difficulty.",
+      "start": 110.552,
+      "end": 115.983,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-025-016",
+      "text": "This greatly reduced the speed of the ship, for there was a danger that if she travelled too quickly, this rudder would be torn away as well.",
+      "start": 116.953,
+      "end": 125.363,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-025-017",
+      "text": "Because of this, the Cutty Sark lost her lead.",
+      "start": 126.453,
+      "end": 129.542,
+      "score": 0.888,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-025-018",
+      "text": "After crossing the Equator, the captain called in at a port to have a new rudder fitted, but by now the Thermopylae was over five hundred miles ahead.",
+      "start": 130.572,
+      "end": 140.102,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-025-019",
+      "text": "Though the new rudder was fitted at tremendous speed, it was impossible for the Cutty Sark to win.",
+      "start": 141.032,
+      "end": 146.302,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-025-020",
+      "text": "She arrived in England a week after the Thermopylae.",
+      "start": 147.272,
+      "end": 150.542,
+      "score": 0.936,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-025-021",
+      "text": "Even this was remarkable, considering that she had had so many delays.",
+      "start": 151.472,
+      "end": 156.262,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-025-022",
+      "text": "There is no doubt that if she had not lost her rudder she would have won the race easily.",
+      "start": 156.852,
+      "end": 162.242,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "audioSha256": "518f4c3e2b5023a13bd1e3f78d413c68519c685afefd2455cf869d461f7fd4ed",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-091-001",
+      "text": "Who wanted to sell the house?",
+      "start": 12.072,
+      "end": 14.102,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-091-002",
+      "text": "Has Ian sold his house yet?",
+      "start": 16.953,
+      "end": 19.302,
+      "score": 0.871,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-091-003",
+      "text": "Yes, he has.",
+      "start": 20.773,
+      "end": 22.082,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-091-004",
+      "text": "He sold it last week.",
+      "start": 22.633,
+      "end": 24.282,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-091-005",
+      "text": "Has he moved to his new house yet?",
+      "start": 26.053,
+      "end": 28.742,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-091-006",
+      "text": "No, not yet.",
+      "start": 30.172,
+      "end": 31.922,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-091-007",
+      "text": "He's still here.",
+      "start": 32.553,
+      "end": 33.623,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-091-008",
+      "text": "He's going to move tomorrow.",
+      "start": 34.593,
+      "end": 36.583,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-091-009",
+      "text": "When?",
+      "start": 39.133,
+      "end": 39.523,
+      "score": 0.999,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-091-010",
+      "text": "Tomorrow morning?",
+      "start": 40.273,
+      "end": 41.383,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-091-011",
+      "text": "No.",
+      "start": 42.693,
+      "end": 43.103,
+      "score": 0.88,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-091-012",
+      "text": "Tomorrow afternoon.",
+      "start": 43.672,
+      "end": 45.283,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-091-013",
+      "text": "I'll miss him.",
+      "start": 46.553,
+      "end": 47.503,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-091-014",
+      "text": "He has always been a good neighbour.",
+      "start": 48.273,
+      "end": 50.863,
+      "score": 0.953,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-091-015",
+      "text": "He's a very nice person.",
+      "start": 52.293,
+      "end": 54.043,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-091-016",
+      "text": "We'll all miss him.",
+      "start": 54.972,
+      "end": 56.323,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-091-017",
+      "text": "When will the new people move into this house?",
+      "start": 59.593,
+      "end": 63.243,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-091-018",
+      "text": "I think that they'll move in the day after tomorrow.",
+      "start": 65.532,
+      "end": 68.943,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-091-019",
+      "text": "Will you see Ian today, Jenny?",
+      "start": 71.172,
+      "end": 73.283,
+      "score": 0.919,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-091-020",
+      "text": "Yes, I will.",
+      "start": 74.953,
+      "end": 76.443,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-091-021",
+      "text": "Please give him my regards.",
+      "start": 78.052,
+      "end": 79.863,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-091-022",
+      "text": "Poor Ian!",
+      "start": 81.593,
+      "end": 82.543,
+      "score": 0.657,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b1-091-023",
+      "text": "He didn't want to leave this house.",
+      "start": 83.433,
+      "end": 85.883,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-091-024",
+      "text": "No, he didn't want to leave, but his wife did!",
+      "start": 87.353,
+      "end": 92.103,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

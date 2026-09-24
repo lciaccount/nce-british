@@ -1,0 +1,186 @@
+{
+  "audioSha256": "7a29b192e78fa2ceaeaaa2ff206b8a03057dfa9399b8e86161b5ef41db5c9b0b",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-020-001",
+      "text": "What are the two different ways in which snake poison acts?",
+      "start": 11.152,
+      "end": 14.422,
+      "score": 0.94,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-020-002",
+      "text": "How in came about that snakes manufactured poison is a mystery.",
+      "start": 17.233,
+      "end": 21.043,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-020-003",
+      "text": "Over the periods their saliva, a mild, digestive juice like our own, was converted into a poison that defies analysis even today.",
+      "start": 22.172,
+      "end": 31.282,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-020-004",
+      "text": "It was not forced upon them by the survival competition; they could have caught and lived on prey without using poison, just as the thousands of non-poisonous snakes still do.",
+      "start": 32.972,
+      "end": 43.523,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-020-005",
+      "text": "Poison to a snake is merely a luxury; it enables it to get its food with very little effort, no more effort than one bite.",
+      "start": 44.953,
+      "end": 54.103,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-020-006",
+      "text": "And why only snakes?",
+      "start": 55.093,
+      "end": 56.643,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-020-007",
+      "text": "Cats, for instance, would be greatly helped; no running fights with large, fierce rats or tussles with grown rabbits--just a bite and no more effort needed.",
+      "start": 57.793,
+      "end": 68.483,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-020-008",
+      "text": "In fact, it would be an assistance to all carnivores though it would be a two-edged weapon when they fought each other.",
+      "start": 69.793,
+      "end": 76.823,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-020-009",
+      "text": "But, of the vertebrates unpredictable Nature selected only snakes (and one lizard).",
+      "start": 77.793,
+      "end": 83.743,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-020-010",
+      "text": "One wonders also why Nature, with some snakes concocted poison of such extreme potency.",
+      "start": 84.912,
+      "end": 91.503,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-020-011",
+      "text": "In the conversion of saliva into poison, one might suppose that a fixed process took place.",
+      "start": 92.993,
+      "end": 98.763,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-020-012",
+      "text": "It did not; some snakes manufactured a poison different in every respect from that of others, as different as arsenic is from strychnine, and having different effects.",
+      "start": 99.593,
+      "end": 111.123,
+      "score": 0.952,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-020-013",
+      "text": "One poison acts on the nerves, the other on the blood.",
+      "start": 112.373,
+      "end": 116.103,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-020-014",
+      "text": "The makers of the nerve poison include the mambas and the cobras and their venom is called neurotoxic.",
+      "start": 117.213,
+      "end": 124.863,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-020-015",
+      "text": "Vipers (adders) and rattlesnakes manufacture the blood poison, which is known as haemolytic.",
+      "start": 125.953,
+      "end": 133.442,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-020-016",
+      "text": "Both poisons are unpleasant, but by far the more unpleasant is the blood poison.",
+      "start": 134.572,
+      "end": 140.162,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-020-017",
+      "text": "It is said that the nerve poison is the more primitive of the two, that the blood poison is, so to speak, a newer product from an improved formula.",
+      "start": 141.432,
+      "end": 150.903,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-020-018",
+      "text": "Be that as it may, the nerve poison does its business with man far more quickly than the blood poison.",
+      "start": 152.012,
+      "end": 159.102,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-020-019",
+      "text": "This, however, means nothing.",
+      "start": 160.072,
+      "end": 161.482,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-020-020",
+      "text": "Snakes did not acquire their poison for use against man but for use against prey such as rats and mice, and the effects on these of viperine poison is almost immediate.",
+      "start": 162.232,
+      "end": 174.242,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

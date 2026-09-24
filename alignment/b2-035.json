@@ -1,0 +1,114 @@
+{
+  "audioSha256": "175d796a573a6cd1a829619599c117a16335f3687aa1d3e26d0486edc7bb35f3",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-035-001",
+      "text": "How did Roy stop the thieves?",
+      "start": 14.192,
+      "end": 16.602,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-035-002",
+      "text": "Roy Trenton used to drive a taxi.",
+      "start": 19.433,
+      "end": 22.182,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-035-003",
+      "text": "A short while ago, however, he became a bus driver and he has not regretted it.",
+      "start": 23.852,
+      "end": 29.803,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-035-004",
+      "text": "He is finding his new work far more exciting.",
+      "start": 31.913,
+      "end": 35.643,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-035-005",
+      "text": "When he was driving along Catford Street recently, he saw two thieves rush out of a shop and run towards a waiting car.",
+      "start": 37.453,
+      "end": 48.063,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-035-006",
+      "text": "One of them was carrying a bag full of money.",
+      "start": 50.073,
+      "end": 53.263,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-035-007",
+      "text": "Roy acted quickly and drove the bus straight at the thieves.",
+      "start": 54.913,
+      "end": 59.603,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-035-008",
+      "text": "The one with the money got such a fright that he dropped the bag.",
+      "start": 60.712,
+      "end": 65.823,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-035-009",
+      "text": "As the thieves were trying to get away in their car, Roy drove his bus into the back of it.",
+      "start": 67.433,
+      "end": 74.823,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-035-010",
+      "text": "While the battered car was moving away, Roy stopped his bus and telephoned the police.",
+      "start": 76.172,
+      "end": 83.283,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-035-011",
+      "text": "The thieves' car was badly damaged and easy to recognize.",
+      "start": 84.853,
+      "end": 89.443,
+      "score": 0.947,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-035-012",
+      "text": "Shortly afterwards, the police stopped the car and both men were arrested.",
+      "start": 91.353,
+      "end": 97.303,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

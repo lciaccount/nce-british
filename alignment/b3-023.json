@@ -1,0 +1,195 @@
+{
+  "audioSha256": "641b75c5bd3f31228f1debef7324225aa4ba7fe87865cb1e4e329665b0163219",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-023-001",
+      "text": "What was it about snails that made the writer collect them for his friend on that day in particular?",
+      "start": 13.952,
+      "end": 19.543,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-023-002",
+      "text": "People become quite illogical when they try to decide what can be eaten and what cannot be eaten.",
+      "start": 22.193,
+      "end": 28.642,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-023-003",
+      "text": "If you lived in the Mediterranean, for instance, you would consider octopus a great delicacy.",
+      "start": 29.973,
+      "end": 35.743,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-023-004",
+      "text": "You would not be able to understand why some people find it repulsive.",
+      "start": 36.773,
+      "end": 40.703,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-023-005",
+      "text": "On the other hand, your stomach would turn at the idea of frying potatoes in animal fat-the normally accepted practice in many northern countries.",
+      "start": 41.873,
+      "end": 50.943,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-023-006",
+      "text": "The sad truth is that most of us have been brought up to eat certain foods and we stick to them all our lives.",
+      "start": 51.833,
+      "end": 58.543,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-023-007",
+      "text": "No creature has received more praise and abuse than the common garden snail.",
+      "start": 60.193,
+      "end": 64.903,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-023-008",
+      "text": "Cooked in wine, snails are a great luxury in various parts of the world.",
+      "start": 66.272,
+      "end": 71.543,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-023-009",
+      "text": "There are countless people who, ever since their early years, have learned to associate snails with food.",
+      "start": 72.472,
+      "end": 78.203,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-023-010",
+      "text": "My friend, Robert, lives in a country where snails are despised.",
+      "start": 79.612,
+      "end": 84.583,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-023-011",
+      "text": "As his flat is in a large town, he has no garden of his own.",
+      "start": 85.772,
+      "end": 89.983,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-023-012",
+      "text": "For years he has been asking me to collect snails from my garden and take them to him.",
+      "start": 90.972,
+      "end": 96.323,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-023-013",
+      "text": "The idea never appealed to me very much, but one day, after a heavy shower, I happened to be walking in my garden when I noticed a huge number of snails taking a stroll on some of my prize plants.",
+      "start": 97.472,
+      "end": 110.063,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-023-014",
+      "text": "Acting on a sudden impulse, I collected several dozen, put them in a paper bag, and took them to Robert.",
+      "start": 111.353,
+      "end": 118.503,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-023-015",
+      "text": "Robert was delighted to see me and equally pleased with my little gift.",
+      "start": 119.552,
+      "end": 123.743,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-023-016",
+      "text": "I left the bag in the hall and Robert and I went into the living room where we talked for a couple of hours.",
+      "start": 124.453,
+      "end": 130.463,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-023-017",
+      "text": "I had forgotten all about the snails when Robert suddenly said that I must stay to dinner.",
+      "start": 131.552,
+      "end": 136.862,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-023-018",
+      "text": "Snails would, of course, be the main dish.",
+      "start": 137.772,
+      "end": 140.343,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-023-019",
+      "text": "I did not fancy the idea and I reluctantly followed Robert out of the room.",
+      "start": 141.552,
+      "end": 145.942,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-023-020",
+      "text": "To our dismay, we saw that there were snails everywhere: they had escaped from the paper bag and had taken complete possession of the hall!",
+      "start": 147.052,
+      "end": 155.882,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-023-021",
+      "text": "I have never be able to look at a snail since then.",
+      "start": 156.932,
+      "end": 159.802,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "audioSha256": "37678ae5abf241b3927dca42acffb8770235e2eb46159b5db72d572aa8815631",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-051-001",
+      "text": "Why did Hugh's diet not work?",
+      "start": 13.072,
+      "end": 15.842,
+      "score": 0.948,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-051-002",
+      "text": "My friend, Hugh, has always been fat, but things got so bad recently that he decided to go on a diet.",
+      "start": 18.733,
+      "end": 28.262,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-051-003",
+      "text": "He began his diet a week ago.",
+      "start": 29.593,
+      "end": 32.062,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-051-004",
+      "text": "First of all, he wrote out a long list of all the foods which were forbidden.",
+      "start": 33.032,
+      "end": 39.003,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-051-005",
+      "text": "The list included most of the things Hugh loves: butter, potatoes, rice, beer, milk, chocolate, and sweets.",
+      "start": 40.212,
+      "end": 50.763,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-051-006",
+      "text": "Yesterday I paid him a visit.",
+      "start": 52.352,
+      "end": 54.543,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-051-007",
+      "text": "I rang the bell and was not surprised to see that Hugh was still as fat as ever.",
+      "start": 55.653,
+      "end": 61.683,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-051-008",
+      "text": "He led me into his room and hurriedly hid a large parcel under his desk.",
+      "start": 63.273,
+      "end": 68.863,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-051-009",
+      "text": "It was obvious that he was very embarrassed.",
+      "start": 70.573,
+      "end": 73.503,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-051-010",
+      "text": "When I asked him what he was doing, he smiled guiltily and then put the parcel on the desk.",
+      "start": 74.772,
+      "end": 82.103,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-051-011",
+      "text": "He explained that his diet was so strict that he had to reward himself occasionally.",
+      "start": 83.392,
+      "end": 89.623,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-051-012",
+      "text": "Then he showed me the contents of the parcel.",
+      "start": 91.052,
+      "end": 93.843,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-051-013",
+      "text": "It contained five large bars of chocolate and three bags of sweets!",
+      "start": 94.953,
+      "end": 101.062,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

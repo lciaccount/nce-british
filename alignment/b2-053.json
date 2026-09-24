@@ -1,0 +1,123 @@
+{
+  "audioSha256": "ebdaa5d3069eebef1ce2359693263838c2834fd72faefa96da9dee8dff350657",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-053-001",
+      "text": "What caused the fire?",
+      "start": 12.852,
+      "end": 14.462,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-053-002",
+      "text": "At last firemen have put out a big forest fire in California.",
+      "start": 17.293,
+      "end": 22.622,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-053-003",
+      "text": "Since then, they have been trying to find out how the fire began.",
+      "start": 23.913,
+      "end": 28.182,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-053-004",
+      "text": "Forest fires are often caused by broken glass or by cigarette ends which people carelessly throw away.",
+      "start": 29.653,
+      "end": 37.363,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-053-005",
+      "text": "Yesterday the firemen examined the ground carefully, but were not able to find any broken glass.",
+      "start": 38.553,
+      "end": 45.683,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-053-006",
+      "text": "They were also quite sure that a cigarette end did not start the fire.",
+      "start": 47.112,
+      "end": 51.583,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-053-007",
+      "text": "This morning, however, a firemen accidentally discovered the cause.",
+      "start": 53.252,
+      "end": 58.223,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-053-008",
+      "text": "He noticed the remains of a snake which was wound round the electric wires of a 16, 000-volt power line.",
+      "start": 59.713,
+      "end": 68.003,
+      "score": 0.933,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-053-009",
+      "text": "In this way, he was able to solve the mystery.",
+      "start": 69.013,
+      "end": 72.363,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-053-010",
+      "text": "The explanation was simple but very unusual.",
+      "start": 73.532,
+      "end": 77.603,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-053-011",
+      "text": "A bird had snatched up the snake from the ground and then dropped it on to the wires.",
+      "start": 79.133,
+      "end": 84.943,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-053-012",
+      "text": "The snake then wound itself round the wires.",
+      "start": 86.293,
+      "end": 89.303,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-053-013",
+      "text": "When it did so, it sent sparks down to the ground and these immediately started a fire.",
+      "start": 90.453,
+      "end": 98.083,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

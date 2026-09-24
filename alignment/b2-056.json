@@ -1,0 +1,123 @@
+{
+  "audioSha256": "1134971288c4ef985c5f10a50e7c876e99a40bb5212c1fbb101bc8cbf95ac474",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-056-001",
+      "text": "How fast did the winning car go?",
+      "start": 13.052,
+      "end": 16.142,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-056-002",
+      "text": "Once a year, a race is held for old cars.",
+      "start": 19.053,
+      "end": 22.942,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-056-003",
+      "text": "A lot of cars entered for this race last year and there was a great deal of excitement just before it began.",
+      "start": 24.672,
+      "end": 32.042,
+      "score": 0.938,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-056-004",
+      "text": "One of the most handsome cars was a Rolls-Royce Silver Ghost.",
+      "start": 33.793,
+      "end": 39.003,
+      "score": 0.933,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-056-005",
+      "text": "The most unusual car was a Benz which had only three wheels.",
+      "start": 40.752,
+      "end": 45.343,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-056-006",
+      "text": "Built in 1885, it was the oldest car taking part.",
+      "start": 46.653,
+      "end": 51.543,
+      "score": 0.7,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b2-056-007",
+      "text": "After a great many loud explosions, the race began.",
+      "start": 53.293,
+      "end": 57.403,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-056-008",
+      "text": "Many of the cars broke down on the course and some drivers spent more time under their cars than in them!",
+      "start": 58.812,
+      "end": 66.503,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-056-009",
+      "text": "A few cars, however, completed the race.",
+      "start": 68.052,
+      "end": 70.723,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-056-010",
+      "text": "The winning car reached a speed of forty miles an hour -- much faster than any of its rivals.",
+      "start": 72.353,
+      "end": 79.823,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-056-011",
+      "text": "It sped downhill at the end of the race and its driver had a lot of trouble trying to stop it.",
+      "start": 81.293,
+      "end": 87.903,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-056-012",
+      "text": "The race gave everyone a great deal of pleasure.",
+      "start": 89.213,
+      "end": 92.063,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-056-013",
+      "text": "It was very different from modern car races but no less exciting.",
+      "start": 93.032,
+      "end": 98.023,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

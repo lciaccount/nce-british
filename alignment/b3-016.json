@@ -1,0 +1,177 @@
+{
+  "audioSha256": "ff379d740c490fea62b5aaa8b889490f696dc1545959414861b7571c4f0e98dc",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-016-001",
+      "text": "Was Dimitri right to apologize to his neighbour?",
+      "start": 13.152,
+      "end": 16.343,
+      "score": 0.939,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-016-002",
+      "text": "Why not?",
+      "start": 17.473,
+      "end": 18.023,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-016-003",
+      "text": "Mary and her husband Dimitri lived in the tiny village of Perachora in southern Greece.",
+      "start": 20.753,
+      "end": 27.002,
+      "score": 0.947,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-016-004",
+      "text": "One of Mary's prize possessions was a little white lamb which her husband had given her.",
+      "start": 28.933,
+      "end": 34.323,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-016-005",
+      "text": "She kept it tied to a tree in a field during the day and went to fetch it every evening.",
+      "start": 35.832,
+      "end": 41.303,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-016-006",
+      "text": "One evening, however the lamb was missing.",
+      "start": 43.093,
+      "end": 45.523,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-016-007",
+      "text": "The rope had been cut, so it was obvious that the lamb had been stolen.",
+      "start": 46.352,
+      "end": 51.523,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-016-008",
+      "text": "When Dimitri came in from the fields, his wife told him what had happened.",
+      "start": 53.193,
+      "end": 57.203,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-016-009",
+      "text": "Dimitri at once set out to find the thief.",
+      "start": 58.373,
+      "end": 61.063,
+      "score": 0.921,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-016-010",
+      "text": "He knew it would not prove difficult in such a small village.",
+      "start": 62.013,
+      "end": 65.543,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-016-011",
+      "text": "After telling several of his friends about the theft, Dimitri found out that his neighbour, Aleko, had suddenly acquired a new lamb.",
+      "start": 66.812,
+      "end": 75.683,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-016-012",
+      "text": "Dimitri immediately went to Aleko's house and angrily accused him of stealing the lamb.",
+      "start": 76.953,
+      "end": 82.263,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-016-013",
+      "text": "He told him he had better return it or he would call the police.",
+      "start": 83.373,
+      "end": 86.863,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-016-014",
+      "text": "Aleko denied taking it and led Dimitri into his backyard.",
+      "start": 88.392,
+      "end": 93.043,
+      "score": 0.943,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-016-015",
+      "text": "It was true that he had just bought a lamb he explained, but his lamb was black.",
+      "start": 94.413,
+      "end": 100.243,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-016-016",
+      "text": "Ashamed of having acted so rashly, Dimitri apologized to Aleko for having accused him.",
+      "start": 101.392,
+      "end": 107.483,
+      "score": 0.949,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-016-017",
+      "text": "While they were talking it began to rain and Dimitri stayed in Aleko's house until the rain stopped.",
+      "start": 108.672,
+      "end": 115.563,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-016-018",
+      "text": "When he went outside half an hour later, he was astonished to find that the little black lamb was almost white.",
+      "start": 116.672,
+      "end": 124.422,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-016-019",
+      "text": "Its wool, which had been dyed black, had been washed clean by the rain!",
+      "start": 125.552,
+      "end": 130.123,
+      "score": 0.949,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

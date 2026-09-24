@@ -1,0 +1,276 @@
+{
+  "audioSha256": "f16d9387147f685822af9477938b106745e91f807c4b7005f657cc24498a612d",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-050-001",
+      "text": "What marked the end of the writer's New Year resolutions?",
+      "start": 11.232,
+      "end": 14.422,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-002",
+      "text": "The New Year is a time for resolutions.",
+      "start": 17.213,
+      "end": 19.922,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-003",
+      "text": "Mentally, at least, most of us could compile formidable lists of 'dos' and 'don'ts'.",
+      "start": 20.953,
+      "end": 26.502,
+      "score": 0.9,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-004",
+      "text": "The same old favourites recur year in year out with monotonous regularity.",
+      "start": 27.392,
+      "end": 32.163,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-005",
+      "text": "We resolve to get up earlier each morning, eat less, find more time to play with the children, do a thousand and one jobs about the house, be nice to people we don't like, drive carefully, and take the dog for a walk every day.",
+      "start": 33.252,
+      "end": 49.463,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-006",
+      "text": "Past experience has taught us that certain accomplishments are beyond attainment.",
+      "start": 50.212,
+      "end": 55.063,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-007",
+      "text": "If we remain inveterate smokers, it is only because we have so often experienced the frustration that results from failure.",
+      "start": 55.752,
+      "end": 63.243,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-008",
+      "text": "Most of us fail in our efforts at sel-improvement because our schemes are too ambitious and we never have time to carry them out.",
+      "start": 64.013,
+      "end": 72.663,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-009",
+      "text": "We also make the fundamental error of announcing our resolutions to everybody so that we look even more foolish when we slip back into our bad old ways.",
+      "start": 73.532,
+      "end": 83.922,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-010",
+      "text": "Aware of these pitfalls, this year I attempted to keep my resolutions to myself.",
+      "start": 84.832,
+      "end": 90.203,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-011",
+      "text": "I limited myself to two modest ambitions: to do physical exercises every morning and to read more of an evening.",
+      "start": 90.953,
+      "end": 99.403,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-012",
+      "text": "An all-night party on New Year's Eve provided me with a good excuse for not carrying out either of these new resolutions on the first day of the year, but on the second, I applied myself assiduously to the task.",
+      "start": 100.353,
+      "end": 114.763,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-013",
+      "text": "The daily exercises lasted only eleven minutes and I proposed to do them early in the morning before anyone had got up.",
+      "start": 115.992,
+      "end": 123.583,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-014",
+      "text": "The self-discipline required to drag myself out of bed 11 minutes earlier than usual was considerable.",
+      "start": 124.513,
+      "end": 131.463,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-015",
+      "text": "Nevertheless, I managed to creep down into the living room for two days before anyone found me out.",
+      "start": 132.492,
+      "end": 138.662,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-016",
+      "text": "After jumping about on the carpet and twisting the human frame into uncomfortable positions, I sat down at the breakfast table in an exhausted condition.",
+      "start": 139.412,
+      "end": 149.062,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-017",
+      "text": "It was this that betrayed me.",
+      "start": 149.912,
+      "end": 151.562,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-018",
+      "text": "The next morning the whole family trooped in to watch the performance.",
+      "start": 152.452,
+      "end": 156.062,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-019",
+      "text": "That was really unsettling but I fended off the taunts and jibes of the family good-humouredly and soon everybody got used to the idea.",
+      "start": 156.772,
+      "end": 165.522,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-020",
+      "text": "However, my enthusiasm waned.",
+      "start": 166.312,
+      "end": 168.942,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-021",
+      "text": "The time I spent at exercises gradually diminished.",
+      "start": 169.772,
+      "end": 173.282,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-022",
+      "text": "Little by little the eleven minutes fell to zero.",
+      "start": 174.012,
+      "end": 178.222,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-023",
+      "text": "By January 10th, I was back to where I had started from.",
+      "start": 178.812,
+      "end": 182.463,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-024",
+      "text": "I argued that if I spent less time exhausting myself at exercises in the morning, I would keep my mind fresh for reading when I got home from work.",
+      "start": 183.292,
+      "end": 192.082,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-025",
+      "text": "Resisting the hypnotizing effect of television, I sat in my room for a few evenings with my eyes glued to a book.",
+      "start": 193.012,
+      "end": 200.463,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-026",
+      "text": "One night, however, feeling cold and lonely, I went downstairs and sat in front of the television pretending to read.",
+      "start": 201.532,
+      "end": 209.002,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-027",
+      "text": "That proved to be my undoing, for I soon got back to my old bad habit of dozing off in front of the screen.",
+      "start": 209.792,
+      "end": 216.702,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-028",
+      "text": "I still haven't given up my resolution to do more reading.",
+      "start": 217.472,
+      "end": 220.502,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-029",
+      "text": "In fact, I have just bought a book entitled How to Read a Thousand Words a Minute.",
+      "start": 221.032,
+      "end": 226.322,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-050-030",
+      "text": "Perhaps it will solve my problem, but I just haven't had time to read it!",
+      "start": 227.252,
+      "end": 231.882,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

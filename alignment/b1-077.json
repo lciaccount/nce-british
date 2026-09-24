@@ -1,0 +1,195 @@
+{
+  "audioSha256": "0ae29bd5e98b50325041204347a3effb8c8435bd6f57338b8b86ad46c1a6817d",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-077-001",
+      "text": "What time of day is it, do you think?",
+      "start": 13.532,
+      "end": 15.662,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-077-002",
+      "text": "How do you know?",
+      "start": 16.433,
+      "end": 17.363,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-077-003",
+      "text": "Good morning, Mr. Croft.",
+      "start": 20.093,
+      "end": 21.602,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-077-004",
+      "text": "Good morning, nurse.",
+      "start": 22.512,
+      "end": 23.642,
+      "score": 0.997,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-077-005",
+      "text": "I want to see the dentist, please.",
+      "start": 24.293,
+      "end": 26.442,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-077-006",
+      "text": "Do you have an appointment?",
+      "start": 27.473,
+      "end": 29.062,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-077-007",
+      "text": "No, I don't.",
+      "start": 29.733,
+      "end": 31.082,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-077-008",
+      "text": "Is it urgent?",
+      "start": 32.352,
+      "end": 33.343,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-077-009",
+      "text": "Yes, it is.",
+      "start": 34.212,
+      "end": 35.683,
+      "score": 0.994,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-077-010",
+      "text": "It's very urgent.",
+      "start": 36.392,
+      "end": 37.883,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-077-011",
+      "text": "I feel awful.",
+      "start": 38.913,
+      "end": 40.543,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-077-012",
+      "text": "I have a terrible toothache.",
+      "start": 41.553,
+      "end": 43.623,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-077-013",
+      "text": "Can you come at 10 a.m. on Monday, April 24th?",
+      "start": 44.833,
+      "end": 52.543,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-077-014",
+      "text": "I must see the dentist now, nurse.",
+      "start": 53.852,
+      "end": 57.023,
+      "score": 0.947,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-077-015",
+      "text": "The dentist is very busy at the moment.",
+      "start": 58.093,
+      "end": 61.443,
+      "score": 0.947,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-077-016",
+      "text": "Can you come at 2 p.m. ?",
+      "start": 62.633,
+      "end": 64.883,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-077-017",
+      "text": "That's very late.",
+      "start": 66.073,
+      "end": 67.523,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-077-018",
+      "text": "Can the dentist see me now?",
+      "start": 68.552,
+      "end": 70.663,
+      "score": 0.942,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-077-019",
+      "text": "I'm afraid that he can't, Mr. Croft.",
+      "start": 71.993,
+      "end": 74.922,
+      "score": 0.91,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-077-020",
+      "text": "Can't you wait till this afternoon?",
+      "start": 75.853,
+      "end": 78.323,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-077-021",
+      "text": "I can wait, but my toothache can't!",
+      "start": 79.653,
+      "end": 82.723,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

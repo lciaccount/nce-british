@@ -1,0 +1,177 @@
+{
+  "audioSha256": "6b83438f93daaca100709a1898aee8357b05a3b80749f3fa4909f6f888e61bde",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-018-001",
+      "text": "What would you say is the main characteristic of porpoises?",
+      "start": 10.712,
+      "end": 14.322,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-018-002",
+      "text": "There has long been a superstition among mariners that porpoises will save drowning men by pushing them to the surface, or protect them from sharks by surrounding them in defensive formation.",
+      "start": 17.113,
+      "end": 30.182,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-018-003",
+      "text": "Marine Studio biologists have pointed out that, however intelligent they may be, it is probably a mistake to credit dolphins with any motive of life-saving.",
+      "start": 31.812,
+      "end": 41.503,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-018-004",
+      "text": "On the occasions when they have pushed to shore an unconscious human being they have much more likely done it out of curiosity or for sport, as in riding the bow waves of a ship.",
+      "start": 43.633,
+      "end": 55.867,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-018-005",
+      "text": "In 1928 some porpoises were photographed working like beavers to push ashore a waterlogged mattress.",
+      "start": 55.867,
+      "end": 65.143,
+      "score": 0.795,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b4-018-006",
+      "text": "If, as has been reported, they have protected humans from sharks, it may have been because curiosity attracted them and because the scent of a possible meal attracted the sharks.",
+      "start": 66.353,
+      "end": 78.023,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-018-007",
+      "text": "Porpoises and sharks are natural enemies.",
+      "start": 78.972,
+      "end": 81.783,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-018-008",
+      "text": "It is possible that upon such an occasion a battle ensued, with the sharks being driven away or killed.",
+      "start": 82.593,
+      "end": 89.883,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-018-009",
+      "text": "Whether it be bird, fish or beast, the porpoise is intrigued with anything that is alive.",
+      "start": 91.272,
+      "end": 97.203,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-018-010",
+      "text": "They are constantly after the turtles, who peacefully submit to all sorts of indignities.",
+      "start": 98.172,
+      "end": 103.643,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-018-011",
+      "text": "One young calf especially enjoyed raising a turtle to the surface with his snout, and then shoving him across the tank like an aquaplane.",
+      "start": 105.073,
+      "end": 113.422,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-018-012",
+      "text": "Almost any day a young porpoises may be seen trying to turn a 300-pound sea turtle over by sticking his snout under the edge of his shell and pushing up for dear life.",
+      "start": 114.713,
+      "end": 125.963,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-018-013",
+      "text": "This is not easy, and may require two porpoises working together.",
+      "start": 126.812,
+      "end": 131.282,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-018-014",
+      "text": "In another game, as the turtle swims across the oceanarium, the first porpoise swoops down from above and butts his shell with his belly.",
+      "start": 132.332,
+      "end": 141.683,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-018-015",
+      "text": "This knocks the turtle down several feet.",
+      "start": 142.712,
+      "end": 144.963,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-018-016",
+      "text": "He no sooner recovers his equilibrium than the next porpoises comes along and hits him another crack.",
+      "start": 145.632,
+      "end": 151.903,
+      "score": 0.949,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-018-017",
+      "text": "Eventually the turtle has been butted all the way down to the floor of the tank.",
+      "start": 152.852,
+      "end": 157.142,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-018-018",
+      "text": "He is now satisfied merely to try to stand up, but as soon as he does so a porpoise knocks him flat.",
+      "start": 158.172,
+      "end": 165.322,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-018-019",
+      "text": "The turtle at last gives up by pulling his feet under his shell and the game is over.",
+      "start": 166.052,
+      "end": 171.802,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

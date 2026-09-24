@@ -1,0 +1,123 @@
+{
+  "audioSha256": "27368be810571c1d8e2ba3677ffc7cbb597df8d607c1fdaf606b9f17363c34d2",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-077-001",
+      "text": "Did the doctors find out how the woman died?",
+      "start": 14.932,
+      "end": 18.422,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-077-002",
+      "text": "The mummy of an Egyptian woman who died in 800 B.C.",
+      "start": 21.352,
+      "end": 25.462,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-077-003",
+      "text": "has just had an operation.",
+      "start": 26.553,
+      "end": 28.303,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-077-004",
+      "text": "The mummy is that of Shepenmut who was once a singer in the Temple of Thebes.",
+      "start": 30.233,
+      "end": 37.523,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-077-005",
+      "text": "As there were strange marks on the X-ray plates taken of the mummy, doctors have been trying to find out whether the woman died of a rare disease.",
+      "start": 39.513,
+      "end": 49.183,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-077-006",
+      "text": "The only way to do this was to operate.",
+      "start": 50.672,
+      "end": 53.083,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-077-007",
+      "text": "The operation, which lasted for over four hours, proved to be very difficult because of the hard resin which covered the skin.",
+      "start": 54.032,
+      "end": 63.003,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-077-008",
+      "text": "The doctors removed a section of the mummy and sent it to a laboratory.",
+      "start": 64.293,
+      "end": 68.443,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-077-009",
+      "text": "They also found something which the X-ray plates did not show: a small wax figure of the god Duamutef.",
+      "start": 69.972,
+      "end": 79.363,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-077-010",
+      "text": "This god which has the head of a cow was normally placed inside a mummy.",
+      "start": 80.873,
+      "end": 86.683,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-077-011",
+      "text": "The doctors have not yet decided how the woman died.",
+      "start": 87.653,
+      "end": 90.723,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-077-012",
+      "text": "They feared that the mummy would fall to pieces when they cut it open, but fortunately this has not happened.",
+      "start": 91.633,
+      "end": 98.483,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-077-013",
+      "text": "The mummy successfully survived the operation.",
+      "start": 99.752,
+      "end": 102.823,
+      "score": 0.917,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

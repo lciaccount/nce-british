@@ -1,0 +1,177 @@
+{
+  "audioSha256": "c59d9fdd2ebad4c978a5f99fe0699f7c317ebf8e5020e1d002e39fec5a94f21e",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-027-001",
+      "text": "What happened to the 'Vasa' almost immediately after she was launched?",
+      "start": 11.492,
+      "end": 15.902,
+      "score": 0.935,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-027-002",
+      "text": "From the seventeenth-century empire of Sweden, the story of a galleon that sank at the start of her maiden voyage in 1628 must be one of the strangest tales of the sea.",
+      "start": 18.693,
+      "end": 30.203,
+      "score": 0.854,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-027-003",
+      "text": "For nearly three and a half centuries she lay at the bottom of Stockholm harbour until her discovery in 1956.",
+      "start": 31.312,
+      "end": 39.163,
+      "score": 0.771,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b4-027-004",
+      "text": "This was the Vasa, royal flagship of the great imperial fleet.",
+      "start": 40.193,
+      "end": 45.423,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-027-005",
+      "text": "King Gustavus Adolphus 'The Northern Hurricane', then at the height of his military success in the 'Thirty Years' War, had dictated her measurements and armament.",
+      "start": 46.892,
+      "end": 58.263,
+      "score": 0.924,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-027-006",
+      "text": "Triple gun-decks mounted sixty-four bronze cannon.",
+      "start": 59.392,
+      "end": 62.703,
+      "score": 0.94,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-027-007",
+      "text": "She was intended to play a leading role in the growing might of Sweden.",
+      "start": 63.572,
+      "end": 67.763,
+      "score": 0.954,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-027-008",
+      "text": "As she was prepared for her maiden voyage on August 10, 1628, Stockholm was in a ferment.",
+      "start": 69.192,
+      "end": 76.683,
+      "score": 0.785,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b4-027-009",
+      "text": "From the Skeppsbron and surrounding islands the people watched this thing of beauty begin to spread her sails and catch the wind.",
+      "start": 77.532,
+      "end": 85.983,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-027-010",
+      "text": "They had laboured for three years to produce this floating work of art; she was more richly carved and ornamented than any previous ship.",
+      "start": 87.052,
+      "end": 96.063,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-027-011",
+      "text": "The high stern castle was a riot of carved gods, demons, knights, kings, warriors, mermaids, cherubs; and zoomorphic animal shapes ablaze with red and gold and blue, symbols of courage, power, and cruelty, were portrayed to stir the imaginations of the superstitious sailors of the day.",
+      "start": 97.213,
+      "end": 122.103,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-027-012",
+      "text": "Then the cannons of the anchored warships thundered a salute to which the Vasa fired in reply.",
+      "start": 123.793,
+      "end": 130.262,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-027-013",
+      "text": "As she emerged from her drifting cloud of gun smoke with the water churned to foam beneath her bow, her flags flying, pennants waving, sails filling in the breeze, and the red and gold or her superstructure ablaze with colour, she presented a more majestic spectacle than Stockholmers had ever seen before.",
+      "start": 131.552,
+      "end": 154.042,
+      "score": 0.942,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-027-014",
+      "text": "All gun-ports were open and the muzzles peeped wickedly from them.",
+      "start": 155.373,
+      "end": 159.782,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-027-015",
+      "text": "As the wind freshened there came a sudden squall and the ship made a strange movement, listing to port.",
+      "start": 161.092,
+      "end": 168.302,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-027-016",
+      "text": "The Ordnance officer ordered all the port cannon to be heaved to starboard to counteract the list but the steepening angle of the decks increased.",
+      "start": 169.472,
+      "end": 178.683,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-027-017",
+      "text": "Then the sound of rumbling thunder reached the watchers on the shore, as cargo, ballast, ammunition and 400 people went sliding and crashing down to the port side of the steeply listing ship.",
+      "start": 179.772,
+      "end": 193.822,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-027-018",
+      "text": "The lower gun-ports were now below water and the inrush sealed the ship's fate.",
+      "start": 195.012,
+      "end": 200.822,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-027-019",
+      "text": "In that first glorious hour, the mighty Vasa, which was intended to rule the Baltic, sank with all flags flying--in the harbour of her birth.",
+      "start": 201.912,
+      "end": 212.542,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

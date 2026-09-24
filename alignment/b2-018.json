@@ -1,0 +1,123 @@
+{
+  "audioSha256": "6d0591a00cb77dda5293060675d058571c3871c619ac44590a9ceae7b8b0d0e2",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-018-001",
+      "text": "What had happened to the writer's bag?",
+      "start": 14.712,
+      "end": 17.742,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-018-002",
+      "text": "After I had had lunch at a village pub, I looked for my bag.",
+      "start": 20.672,
+      "end": 25.682,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-018-003",
+      "text": "I had left it on a chair beside the door and now it wasn't there!",
+      "start": 27.553,
+      "end": 32.763,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-018-004",
+      "text": "As I was looking for it, the landlord came in.",
+      "start": 34.852,
+      "end": 38.448,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-018-005",
+      "text": "'Did you have a good meal?'",
+      "start": 38.448,
+      "end": 41.963,
+      "score": 0.915,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-018-006",
+      "text": "he asked.",
+      "start": 42.432,
+      "end": 43.178,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-018-007",
+      "text": "'Yes, thank you,' I answered, 'but I can't pay the bill.",
+      "start": 43.178,
+      "end": 49.843,
+      "score": 0.914,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-018-008",
+      "text": "I haven't got my bag.'",
+      "start": 50.433,
+      "end": 51.983,
+      "score": 0.937,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-018-009",
+      "text": "The landlord smiled and immediately went out.",
+      "start": 53.672,
+      "end": 57.443,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-018-010",
+      "text": "In a few minutes he returned with my bag and gave it back to me.",
+      "start": 59.373,
+      "end": 64.023,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-018-011",
+      "text": "'I'm very sorry,' he said.",
+      "start": 65.573,
+      "end": 67.817,
+      "score": 0.897,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-018-012",
+      "text": "'My dog had taken it into the garden.",
+      "start": 67.817,
+      "end": 71.623,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-018-013",
+      "text": "He often does this!'",
+      "start": 72.552,
+      "end": 76.543,
+      "score": 0.93,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

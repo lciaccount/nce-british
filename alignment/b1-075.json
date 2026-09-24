@@ -1,0 +1,177 @@
+{
+  "audioSha256": "e3de45e38c95a6a53990457954d773b8c953267d046c17d60dd4307223b6a9a4",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-075-001",
+      "text": "What's wrong with the fashionable shoes?",
+      "start": 13.352,
+      "end": 16.282,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-075-002",
+      "text": "Do you have any shoes like these?",
+      "start": 19.093,
+      "end": 21.262,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-075-003",
+      "text": "What size?",
+      "start": 21.973,
+      "end": 22.942,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-075-004",
+      "text": "Size five.",
+      "start": 23.352,
+      "end": 24.122,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-075-005",
+      "text": "What colour?",
+      "start": 24.733,
+      "end": 25.582,
+      "score": 0.888,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-075-006",
+      "text": "Black.",
+      "start": 25.973,
+      "end": 26.402,
+      "score": 1.0,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-075-007",
+      "text": "I'm sorry.",
+      "start": 26.953,
+      "end": 27.922,
+      "score": 0.901,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-075-008",
+      "text": "We don't have any.",
+      "start": 28.293,
+      "end": 29.422,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-075-009",
+      "text": "But my sister bought this pair last month.",
+      "start": 30.333,
+      "end": 33.163,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-075-010",
+      "text": "Did she buy them here?",
+      "start": 33.773,
+      "end": 35.403,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-075-011",
+      "text": "No, she bought them in the U. S. We had some shoes like those a month ago, but we don't have any now.",
+      "start": 36.213,
+      "end": 45.523,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-075-012",
+      "text": "Can you get a pair for me, please?",
+      "start": 46.793,
+      "end": 49.063,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-075-013",
+      "text": "I'm afraid that I can't.",
+      "start": 49.852,
+      "end": 51.783,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-075-014",
+      "text": "They were in fashion last year and the year before last.",
+      "start": 52.453,
+      "end": 56.983,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-075-015",
+      "text": "But they're not in fashion this year.",
+      "start": 57.593,
+      "end": 60.143,
+      "score": 0.95,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-075-016",
+      "text": "These shoes are in fashion now.",
+      "start": 61.992,
+      "end": 64.143,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-075-017",
+      "text": "They look very uncomfortable.",
+      "start": 65.272,
+      "end": 67.403,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-075-018",
+      "text": "They are very uncomfortable.",
+      "start": 68.513,
+      "end": 70.803,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-075-019",
+      "text": "But women always wear uncomfortable shoes!",
+      "start": 71.272,
+      "end": 74.463,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

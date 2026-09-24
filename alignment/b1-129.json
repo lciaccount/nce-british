@@ -1,0 +1,213 @@
+{
+  "audioSha256": "ef08b45bc0625f1ec600939a66a439a33b1a068075cada52f0dce957813a653e",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-129-001",
+      "text": "What does Ann advise her husband to do next time?",
+      "start": 13.812,
+      "end": 17.262,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-129-002",
+      "text": "Look, Gary!",
+      "start": 20.012,
+      "end": 20.883,
+      "score": 0.994,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-129-003",
+      "text": "That policeman's waving to you.",
+      "start": 21.213,
+      "end": 23.163,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-129-004",
+      "text": "He wants you to stop.",
+      "start": 23.532,
+      "end": 24.802,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-129-005",
+      "text": "Where do you think you are?",
+      "start": 26.573,
+      "end": 28.383,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-129-006",
+      "text": "On a race track?",
+      "start": 28.973,
+      "end": 30.142,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-129-007",
+      "text": "You must have been driving at seventy miles an hour.",
+      "start": 31.113,
+      "end": 34.923,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-129-008",
+      "text": "I can't have been.",
+      "start": 36.413,
+      "end": 37.563,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-129-009",
+      "text": "I was doing eighty when I overtook you.",
+      "start": 39.392,
+      "end": 41.763,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-129-010",
+      "text": "Didn't you see the speed limit?",
+      "start": 43.532,
+      "end": 45.543,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-129-011",
+      "text": "I'm afraid I didn't, officer.",
+      "start": 47.293,
+      "end": 48.963,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-129-012",
+      "text": "I must have been dreaming.",
+      "start": 49.793,
+      "end": 51.283,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-129-013",
+      "text": "He wasn't dreaming, officer.",
+      "start": 52.373,
+      "end": 54.123,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-129-014",
+      "text": "I was telling him to drive slowly.",
+      "start": 54.873,
+      "end": 57.103,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-129-015",
+      "text": "That's why I didn't see the sign.",
+      "start": 57.752,
+      "end": 60.303,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-129-016",
+      "text": "Let me see your driving licence.",
+      "start": 62.093,
+      "end": 64.283,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-129-017",
+      "text": "I won't charge you this time.",
+      "start": 66.252,
+      "end": 67.963,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-129-018",
+      "text": "But you'd better not do it again!",
+      "start": 68.552,
+      "end": 70.503,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-129-019",
+      "text": "Thank you.",
+      "start": 71.573,
+      "end": 72.063,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-129-020",
+      "text": "I'll certainly be more careful.",
+      "start": 72.953,
+      "end": 74.543,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-129-021",
+      "text": "I told you to drive slowly, Gary.",
+      "start": 75.752,
+      "end": 78.303,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-129-022",
+      "text": "You always tell me to drive slowly, darling.",
+      "start": 79.213,
+      "end": 82.203,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-129-023",
+      "text": "Well, next time you'd better take my advice!",
+      "start": 82.892,
+      "end": 86.043,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

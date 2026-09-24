@@ -1,0 +1,141 @@
+{
+  "audioSha256": "6b3d0944273262a35dcf647eb9a70cfcd867120299a2c349830ae3246a67bde5",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-031-001",
+      "text": "Is the cat climbing the tree?",
+      "start": 13.392,
+      "end": 16.223,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-031-002",
+      "text": "Where's Sally, Jack?",
+      "start": 18.973,
+      "end": 20.422,
+      "score": 0.822,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-031-003",
+      "text": "She's in the garden, Jean.",
+      "start": 21.913,
+      "end": 24.043,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-031-004",
+      "text": "What's she doing?",
+      "start": 26.093,
+      "end": 27.262,
+      "score": 0.941,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-031-005",
+      "text": "She's sitting under the tree.",
+      "start": 28.633,
+      "end": 31.002,
+      "score": 0.993,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-031-006",
+      "text": "Is Tim in the garden, too?",
+      "start": 32.712,
+      "end": 34.643,
+      "score": 0.883,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-031-007",
+      "text": "Yes, he is.",
+      "start": 36.073,
+      "end": 37.863,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-031-008",
+      "text": "He's climbing the tree.",
+      "start": 39.053,
+      "end": 41.083,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-031-009",
+      "text": "I beg your pardon?",
+      "start": 42.992,
+      "end": 44.443,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-031-010",
+      "text": "Who's climbing the tree?",
+      "start": 46.053,
+      "end": 47.663,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-031-011",
+      "text": "Tim is.",
+      "start": 48.712,
+      "end": 49.643,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-031-012",
+      "text": "What about the dog?",
+      "start": 51.773,
+      "end": 53.163,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-031-013",
+      "text": "The dog's in the garden, too.",
+      "start": 54.472,
+      "end": 56.743,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-031-014",
+      "text": "It's running across the grass.",
+      "start": 58.293,
+      "end": 60.603,
+      "score": 0.953,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-031-015",
+      "text": "It's running after a cat.",
+      "start": 61.992,
+      "end": 64.523,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

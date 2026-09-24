@@ -1,0 +1,132 @@
+{
+  "audioSha256": "9b1b9a715f4be57e8d6c16b04fcaf247b038f7bd23192948512c65245477429f",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-027-001",
+      "text": "Where are the books?",
+      "start": 14.432,
+      "end": 15.922,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-027-002",
+      "text": "Mrs. Smith's living room is large.",
+      "start": 18.793,
+      "end": 22.322,
+      "score": 0.952,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-027-003",
+      "text": "There is a television in the room.",
+      "start": 24.453,
+      "end": 26.922,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-027-004",
+      "text": "The television is near the window.",
+      "start": 29.593,
+      "end": 32.723,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-027-005",
+      "text": "There are some magazines on the television.",
+      "start": 35.633,
+      "end": 38.963,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-027-006",
+      "text": "There is a table in the room.",
+      "start": 41.133,
+      "end": 43.203,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-027-007",
+      "text": "There are some newspapers on the table.",
+      "start": 45.913,
+      "end": 48.883,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-027-008",
+      "text": "There are some armchairs in the room.",
+      "start": 51.333,
+      "end": 53.883,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-027-009",
+      "text": "The armchairs are near the table.",
+      "start": 56.273,
+      "end": 59.343,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-027-010",
+      "text": "There is a stereo in the room.",
+      "start": 61.913,
+      "end": 64.403,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-027-011",
+      "text": "The stereo is near the door.",
+      "start": 66.013,
+      "end": 68.543,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-027-012",
+      "text": "There are some books on the stereo.",
+      "start": 70.892,
+      "end": 73.843,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-027-013",
+      "text": "There are some pictures in the room.",
+      "start": 76.153,
+      "end": 78.563,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-027-014",
+      "text": "The pictures are on the wall.",
+      "start": 80.213,
+      "end": 82.863,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

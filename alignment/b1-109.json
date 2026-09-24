@@ -1,0 +1,222 @@
+{
+  "audioSha256": "eaf27eb4be2508b9b786ae8a2dc977f3ac5f009afaf48ba0944d92e412cbf41d",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-109-001",
+      "text": "What does Jane have with her coffee?",
+      "start": 13.472,
+      "end": 15.822,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-109-002",
+      "text": "Shall I make some coffee, Jane?",
+      "start": 18.512,
+      "end": 20.223,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-109-003",
+      "text": "That's a good idea, Charlotte.",
+      "start": 21.213,
+      "end": 22.703,
+      "score": 0.913,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-109-004",
+      "text": "It's ready.",
+      "start": 24.113,
+      "end": 24.742,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-109-005",
+      "text": "Do you want any milk?",
+      "start": 25.113,
+      "end": 26.122,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-109-006",
+      "text": "Just a little, please.",
+      "start": 27.392,
+      "end": 28.542,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-109-007",
+      "text": "What about some sugar?",
+      "start": 30.053,
+      "end": 31.203,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-109-008",
+      "text": "Two teaspoonfuls?",
+      "start": 31.773,
+      "end": 32.963,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-109-009",
+      "text": "No, less than that.",
+      "start": 34.133,
+      "end": 35.883,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-109-010",
+      "text": "One and a half teaspoonfuls, please.",
+      "start": 36.633,
+      "end": 38.963,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-109-011",
+      "text": "That's enough for me.",
+      "start": 39.233,
+      "end": 40.283,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-109-012",
+      "text": "That was very nice.",
+      "start": 42.112,
+      "end": 43.723,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-109-013",
+      "text": "Would you like some more?",
+      "start": 45.093,
+      "end": 46.303,
+      "score": 0.996,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-109-014",
+      "text": "Yes, please.",
+      "start": 47.153,
+      "end": 48.203,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-109-015",
+      "text": "I'd like a cigarette, too.",
+      "start": 49.273,
+      "end": 50.543,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-109-016",
+      "text": "May I have one?",
+      "start": 50.892,
+      "end": 51.763,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-109-017",
+      "text": "Of course.",
+      "start": 52.712,
+      "end": 53.403,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-109-018",
+      "text": "I think there are a few in that box.",
+      "start": 53.933,
+      "end": 55.683,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-109-019",
+      "text": "I'm afraid it's empty.",
+      "start": 57.312,
+      "end": 58.603,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-109-020",
+      "text": "What a pity!",
+      "start": 59.793,
+      "end": 60.803,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-109-021",
+      "text": "It doesn't matter.",
+      "start": 61.373,
+      "end": 62.223,
+      "score": 0.993,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-109-022",
+      "text": "Have a biscuit instead.",
+      "start": 62.953,
+      "end": 64.183,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-109-023",
+      "text": "Eat more and smoke less!",
+      "start": 64.593,
+      "end": 66.003,
+      "score": 0.952,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-109-024",
+      "text": "That's very good advice!",
+      "start": 67.213,
+      "end": 68.663,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

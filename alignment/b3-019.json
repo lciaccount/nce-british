@@ -1,0 +1,177 @@
+{
+  "audioSha256": "f14f5922716d458e191720c8d047c7437fa39f38a834b60199339a46c2f7c21d",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-019-001",
+      "text": "Why was Rastus 'very dear' in more ways than one?",
+      "start": 12.232,
+      "end": 16.203,
+      "score": 0.932,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-019-002",
+      "text": "Kidnappers are rarely interested in animals, but they recently took considerable interest in Mrs. Eleanor Ramsay's cat.",
+      "start": 19.453,
+      "end": 27.742,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-019-003",
+      "text": "Mrs. Eleanor Ramsay, a very wealthy old lady, has shared a flat with her cat, Rastus, for a great many years.",
+      "start": 28.873,
+      "end": 36.983,
+      "score": 0.946,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-019-004",
+      "text": "Rastus leads an orderly life.",
+      "start": 38.392,
+      "end": 40.463,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-019-005",
+      "text": "He usually takes a short walk in the evenings and is always home by seven o'clock.",
+      "start": 41.413,
+      "end": 46.283,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-019-006",
+      "text": "One evening, however he failed to arrive.",
+      "start": 48.073,
+      "end": 50.863,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-019-007",
+      "text": "Mrs. Ramsay got very worried.",
+      "start": 52.193,
+      "end": 54.263,
+      "score": 0.922,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-019-008",
+      "text": "She looked everywhere for him but could not find him.",
+      "start": 55.193,
+      "end": 58.223,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-019-009",
+      "text": "Three days after Rastus' disappearance, Mrs. Ramsay received an anonymous letter.",
+      "start": 59.573,
+      "end": 65.163,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-019-010",
+      "text": "The writer stated that Rastus was in safe hands and would be returned immediately if Mrs. Ramsay paid a ransom of ￡1, 000.",
+      "start": 66.133,
+      "end": 75.903,
+      "score": 0.927,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-019-011",
+      "text": "Mrs.Ramsay was instructed to place the money in a cardboard box and to leave it outside her door.",
+      "start": 77.532,
+      "end": 83.623,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-019-012",
+      "text": "At first, she decided to go to the police, but fearing that she would never see Rastus again--the letter had made that quite clear--she changed her mind.",
+      "start": 85.153,
+      "end": 95.163,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-019-013",
+      "text": "She withdrew ￡1000 from her bank and followed the kidnapper's instructions.",
+      "start": 96.353,
+      "end": 101.243,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-019-014",
+      "text": "The next morning, the box had disappeared but Mrs.Ramsay was sure that the kidnapper would keep his word.",
+      "start": 102.593,
+      "end": 109.343,
+      "score": 0.949,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-019-015",
+      "text": "Sure enough, Rastus arrived punctually at seven o'clock that evening.",
+      "start": 110.653,
+      "end": 114.783,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-019-016",
+      "text": "He looked very well, though he was rather thirsty, for he drank half a bottle of milk.",
+      "start": 115.933,
+      "end": 121.103,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-019-017",
+      "text": "The police were astounded when Mrs. Ramsay told them what she had done.",
+      "start": 122.472,
+      "end": 125.983,
+      "score": 0.923,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-019-018",
+      "text": "She explained that Rastus was very dear to her.",
+      "start": 127.052,
+      "end": 129.683,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-019-019",
+      "text": "Considering the amount she paid, he was dear in more ways than one!",
+      "start": 130.792,
+      "end": 135.242,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "audioSha256": "c76c050a30338aa5c551c2200dc1e0ad30d40eb35b8dc05e20071735814917ce",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-143-001",
+      "text": "What was so funny about the words on the sign?",
+      "start": 13.292,
+      "end": 16.543,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-143-002",
+      "text": "I live in a very old town which is surrounded by beautiful woods.",
+      "start": 19.393,
+      "end": 24.302,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-143-003",
+      "text": "It is a famous beauty spot.",
+      "start": 25.373,
+      "end": 26.883,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-143-004",
+      "text": "On Sundays, hundreds of people come from the city to see our town and to walk through the woods.",
+      "start": 28.013,
+      "end": 34.243,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-143-005",
+      "text": "Visitors have been asked to keep the woods clean and tidy.",
+      "start": 35.532,
+      "end": 39.403,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-143-006",
+      "text": "Litter baskets have been placed under the trees, but people still throw their rubbish everywhere.",
+      "start": 40.492,
+      "end": 46.283,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-143-007",
+      "text": "Last Wednesday, I went for a walk in the woods.",
+      "start": 47.433,
+      "end": 50.243,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-143-008",
+      "text": "What I saw made me very sad.",
+      "start": 51.352,
+      "end": 53.823,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-143-009",
+      "text": "I counted seven old cars and three old refrigerators.",
+      "start": 54.892,
+      "end": 59.263,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-143-010",
+      "text": "The little baskets were empty and the ground was covered with pieces of paper, cigarette ends, old tyres, empty bottles and rusty tins.",
+      "start": 60.252,
+      "end": 71.422,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-143-011",
+      "text": "Among the rubbish, I found a sign which said, 'Anyone who leaves litter in these woods will be prosecuted!'",
+      "start": 72.733,
+      "end": 83.283,
+      "score": 0.95,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

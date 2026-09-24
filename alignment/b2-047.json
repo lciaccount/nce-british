@@ -1,0 +1,87 @@
+{
+  "audioSha256": "7e38f12ee1d0ffb01d17c268e318fafadaa0e200eb9749912c79dad2b15e6ab5",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-047-001",
+      "text": "What evidence is there of a ghost?",
+      "start": 14.512,
+      "end": 17.582,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-047-002",
+      "text": "A public house which was recently bought by Mr.Ian Thompson is up for sale.",
+      "start": 20.532,
+      "end": 26.883,
+      "score": 0.953,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-047-003",
+      "text": "Mr.Thompson is going to sell it because it is haunted.",
+      "start": 28.233,
+      "end": 32.283,
+      "score": 0.954,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-047-004",
+      "text": "He told me that he could not go to sleep one night because he heard a strange noise coming from the bar.",
+      "start": 33.953,
+      "end": 41.623,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-047-005",
+      "text": "The next morning, he found that the doors had been blocked by chairs and the furniture had been moved.",
+      "start": 43.153,
+      "end": 50.683,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-047-006",
+      "text": "Though Mr.Thompson had turned the lights off before he went to bed, they were on in the morning.",
+      "start": 52.513,
+      "end": 59.043,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-047-007",
+      "text": "He also said that he had found five empty whisky bottles which the ghost must have drunk the night before.",
+      "start": 60.532,
+      "end": 68.183,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-047-008",
+      "text": "When I suggested that some villagers must have come in for a free drink, Mr.Thompson shook his head.",
+      "start": 69.972,
+      "end": 77.723,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-047-009",
+      "text": "The villagers have told him that they will not accept the pub even if he gives it away.",
+      "start": 79.112,
+      "end": 84.023,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

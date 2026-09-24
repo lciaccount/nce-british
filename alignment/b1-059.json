@@ -1,0 +1,186 @@
+{
+  "audioSha256": "9f75a1a54df459dd4747f2a5f6f510870cad3127fd7da68de323c448504bea29",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-059-001",
+      "text": "Does the lady buy any chalk?",
+      "start": 11.852,
+      "end": 14.062,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-059-002",
+      "text": "I want some envelopes, please.",
+      "start": 16.693,
+      "end": 18.402,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-059-003",
+      "text": "Do you want the large size or the small size?",
+      "start": 19.533,
+      "end": 22.922,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-059-004",
+      "text": "The large size, please.",
+      "start": 23.413,
+      "end": 24.843,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-059-005",
+      "text": "Do you have any writing paper?",
+      "start": 26.312,
+      "end": 27.922,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-059-006",
+      "text": "Yes, we do.",
+      "start": 28.613,
+      "end": 29.782,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-059-007",
+      "text": "I don't have any small pads.",
+      "start": 32.573,
+      "end": 34.403,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-059-008",
+      "text": "I only have large ones.",
+      "start": 35.193,
+      "end": 37.043,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-059-009",
+      "text": "Do you want a pad?",
+      "start": 38.433,
+      "end": 39.383,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-059-010",
+      "text": "Yes, please.",
+      "start": 40.053,
+      "end": 40.863,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-059-011",
+      "text": "And I want some glue.",
+      "start": 42.172,
+      "end": 43.543,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-059-012",
+      "text": "A bottle of glue.",
+      "start": 44.793,
+      "end": 45.723,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-059-013",
+      "text": "And I want a large box of chalk, too.",
+      "start": 47.333,
+      "end": 50.543,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-059-014",
+      "text": "I only have small boxes.",
+      "start": 51.812,
+      "end": 53.783,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-059-015",
+      "text": "Do you want one?",
+      "start": 54.492,
+      "end": 55.303,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-059-016",
+      "text": "No, thank you.",
+      "start": 56.392,
+      "end": 57.083,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-059-017",
+      "text": "Is that all?",
+      "start": 58.213,
+      "end": 58.863,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-059-018",
+      "text": "That's all, thank you.",
+      "start": 59.633,
+      "end": 60.683,
+      "score": 0.993,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-059-019",
+      "text": "What else do you want?",
+      "start": 61.932,
+      "end": 62.883,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-059-020",
+      "text": "I want my change.",
+      "start": 63.492,
+      "end": 64.763,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

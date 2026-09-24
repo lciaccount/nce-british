@@ -1,0 +1,123 @@
+{
+  "audioSha256": "3ad8eb9897321ce4b4cce7242e916ab9ca853ae55042c755b37cb1ee2dd6056a",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-085-001",
+      "text": "How long has Mr.",
+      "start": 13.712,
+      "end": 15.077,
+      "score": 0.993,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-085-002",
+      "text": "Page been teaching?",
+      "start": 15.077,
+      "end": 16.543,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-085-003",
+      "text": "I have just received a letter from my old school, informing me that my former headmaster, Mr. Stuart Page, will be retiring next week.",
+      "start": 19.473,
+      "end": 30.422,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-085-004",
+      "text": "Pupils of the school old and new, will be sending him a present to mark the occasion.",
+      "start": 32.032,
+      "end": 38.063,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-085-005",
+      "text": "All those who have contributed towards the gift will sign their names in a large album which will be sent to the headmaster's home.",
+      "start": 39.693,
+      "end": 47.783,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-085-006",
+      "text": "We shall all remember Mr.",
+      "start": 49.193,
+      "end": 50.808,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-085-007",
+      "text": "Page for his patience and understanding and for the kindly encouragement he gave us when we went so unwillingly to school.",
+      "start": 50.808,
+      "end": 59.843,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-085-008",
+      "text": "A great many former pupils will be attending a farewell dinner in his honour next Thursday.",
+      "start": 61.352,
+      "end": 67.163,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-085-009",
+      "text": "It is a curious coincidence that the day before his retirement, Mr.",
+      "start": 68.953,
+      "end": 74.548,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-085-010",
+      "text": "Page will have been teaching for a total of forty years.",
+      "start": 74.548,
+      "end": 78.203,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-085-011",
+      "text": "After he has retired he will devote himself to gardening.",
+      "start": 79.772,
+      "end": 83.643,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-085-012",
+      "text": "For him, this will be an entirely new hobby.",
+      "start": 84.532,
+      "end": 87.922,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-085-013",
+      "text": "But this does not matter, for, as he has often remarked, one is never too old to learn.",
+      "start": 89.772,
+      "end": 96.463,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

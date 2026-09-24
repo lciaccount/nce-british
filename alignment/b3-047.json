@@ -1,0 +1,249 @@
+{
+  "audioSha256": "cbb4f16b23169ce658df5cc8808fc242ba90a69e14ac2718eb63091cdd7355b0",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-047-001",
+      "text": "What does the writer describe as an 'amusing old-fashioned source of noise' ?",
+      "start": 12.052,
+      "end": 16.902,
+      "score": 0.94,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-002",
+      "text": "Pollution is the price we pay for an overpopulated, overindustrialized planet.",
+      "start": 19.693,
+      "end": 24.922,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-003",
+      "text": "When you come to think about it, there are only four ways you can deal with rubbish: dump it, burn it, turn it into something you can use again, attempt to produce less of it.",
+      "start": 25.693,
+      "end": 37.043,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-004",
+      "text": "We keep trying all four methods, but sheer volume of rubbish we produce worldwide threatens to overwhelm us.",
+      "start": 37.713,
+      "end": 44.843,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-005",
+      "text": "Rubbish, however, is only part of the problem of polluting our planet.",
+      "start": 46.233,
+      "end": 49.883,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-006",
+      "text": "The need to produce ever increasing quantities of cheap food leads to a different kind of pollution.",
+      "start": 50.513,
+      "end": 56.463,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-007",
+      "text": "Industriallized farming metheods produce cheap meat products: beef, pork and chicken.",
+      "start": 57.472,
+      "end": 63.763,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-008",
+      "text": "The use of pesticides and fertilizers produces cheap grain and vegetables.",
+      "start": 64.472,
+      "end": 69.683,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-009",
+      "text": "The price we pay for cheap food may be already too high: Mad Cow Disease (BSE) in cattle, salmonella in chicken and eggs, and listeria in dairy products.",
+      "start": 70.672,
+      "end": 83.903,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-010",
+      "text": "And if you think you'll abandon meat and become a vegetarian, you have the choice of very expensive organically-grown vegetables or a steady diet of pesticides every time you think you're eating fresh salads and vegetables, or just having an innocent glass of water!",
+      "start": 84.733,
+      "end": 102.123,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-011",
+      "text": "However, there is an even more insidious kind of pollution that particularly affects urban area and invades our daily lives, and that is noise.",
+      "start": 103.093,
+      "end": 113.543,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-012",
+      "text": "Burglar alarms going off at any time of the day or night serve only to annoy passers-by and actually assist burglars to burgle.",
+      "start": 114.493,
+      "end": 123.143,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-013",
+      "text": "Car alarms constantly scream at us in the street and are a source of profound irritation.",
+      "start": 124.032,
+      "end": 129.322,
+      "score": 0.928,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-014",
+      "text": "A recent survey of the effects of noise revealed (surprisingly?)",
+      "start": 130.312,
+      "end": 134.782,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-015",
+      "text": "that dogs barking incessantly in the night rated the highest form of noise pollution on a scale ranging from 1 to 7.",
+      "start": 135.272,
+      "end": 143.162,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-016",
+      "text": "The survey revealed a large number of sources of noise that we really dislike.",
+      "start": 144.272,
+      "end": 149.362,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-017",
+      "text": "Lawn mowers whining on a summer's day, late-night parties in apartment blocks, noisy neighbours, vehicles of all kinds, especially large container trucks thundering through quiet villages, planes and helicopters flying overhead, large radios carried round in public places and played at maximum volume.",
+      "start": 150.612,
+      "end": 173.562,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-018",
+      "text": "New technology has also made its own contribution to noise.",
+      "start": 174.212,
+      "end": 177.922,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-019",
+      "text": "A lot of people object to mobile phones, especially when they are used in public places like restaurant or on public transport.",
+      "start": 178.692,
+      "end": 186.862,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-020",
+      "text": "Loud conversations on mobile phones invade our thoughts or interrupt the pleasure of meeting friends for a quiet chat.",
+      "start": 187.572,
+      "end": 194.843,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-021",
+      "text": "The noise pollution survey revealed a rather surprising and possibly amusing old-fashioned source of noise.",
+      "start": 195.592,
+      "end": 202.562,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-022",
+      "text": "It turned out to be snoring!",
+      "start": 203.512,
+      "end": 205.903,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-023",
+      "text": "Men were found to be the worst offenders.",
+      "start": 206.592,
+      "end": 208.903,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-024",
+      "text": "It was revealed that 20% of men in their mid-thirties snore.",
+      "start": 209.732,
+      "end": 213.963,
+      "score": 0.918,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-025",
+      "text": "This figure rises to a staggering 60% of men in their sixties.",
+      "start": 214.692,
+      "end": 219.403,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-026",
+      "text": "Against these figures, it was found that only 5% of women snore regularly, while the rest are constantly woken or kept awake by their trumpeting partners.",
+      "start": 220.312,
+      "end": 231.183,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-047-027",
+      "text": "Whatever the source of noise, one thing is certain: silence, it seems, has become a golden memory.",
+      "start": 231.872,
+      "end": 239.222,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

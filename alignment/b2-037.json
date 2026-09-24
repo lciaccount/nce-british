@@ -1,0 +1,96 @@
+{
+  "audioSha256": "bd79a44f08e1c324b323d8f02ecb35ae6bd44a6b082d947b20023f88a2521493",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-037-001",
+      "text": "When was the last time this country hosted the Olympic Games?",
+      "start": 13.852,
+      "end": 18.422,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-037-002",
+      "text": "The Olympic Games will be held in our country in four years' time.",
+      "start": 21.293,
+      "end": 25.703,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-037-003",
+      "text": "As a great many people will be visiting the country, the government will be building new hotels, an immense stadium, and a new Olympic-standard swimming pool.",
+      "start": 27.352,
+      "end": 39.423,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-037-004",
+      "text": "They will also be building new roads and a special railway line.",
+      "start": 40.672,
+      "end": 45.323,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-037-005",
+      "text": "The Games will be held just outside the capital and the whole area will be called 'Olympic City'.",
+      "start": 47.193,
+      "end": 55.943,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-037-006",
+      "text": "Workers will have completed the new roads by the end of this year.",
+      "start": 57.992,
+      "end": 62.723,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-037-007",
+      "text": "By the end of next year, they will have finished work on the new stadium.",
+      "start": 64.653,
+      "end": 70.023,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-037-008",
+      "text": "The fantastic modern buildings have been designed by Kurt Gunter.",
+      "start": 72.192,
+      "end": 78.142,
+      "score": 0.95,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-037-009",
+      "text": "Everybody will be watching anxiously as the new buildings go up.",
+      "start": 79.593,
+      "end": 83.903,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-037-010",
+      "text": "We are all very excited and are looking forward to the Olympic Games because they have never been held before in this country.",
+      "start": 85.192,
+      "end": 94.603,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

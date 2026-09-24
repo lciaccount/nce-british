@@ -1,0 +1,114 @@
+{
+  "audioSha256": "abf856184370e2377ba0b188f421068295b7c1d9fa7486c590b45d0a34928248",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-063-001",
+      "text": "Why did Jenny want to leave the wedding reception?",
+      "start": 13.972,
+      "end": 16.982,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-063-002",
+      "text": "Jeremy Hampden has a large circle of friends and is very popular at parties.",
+      "start": 19.793,
+      "end": 25.682,
+      "score": 0.921,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-063-003",
+      "text": "Everybody admires him for his great sense of humour--everybody, that is, except his six-year-old daughter, Jenny.",
+      "start": 26.913,
+      "end": 35.903,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-063-004",
+      "text": "Recently, one of Jeremy's closest friends asked him to make a speech at a wedding reception.",
+      "start": 37.653,
+      "end": 44.243,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-063-005",
+      "text": "This is the sort of thing that Jeremy loves.",
+      "start": 45.593,
+      "end": 48.303,
+      "score": 0.946,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-063-006",
+      "text": "He prepared the speech carefully and went to the wedding with Jenny.",
+      "start": 49.573,
+      "end": 54.323,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-063-007",
+      "text": "He had included a large number of funny stories in the speech and, of course, it was a great success.",
+      "start": 55.573,
+      "end": 62.503,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-063-008",
+      "text": "As soon as he had finished Jenny told him she wanted to go home.",
+      "start": 63.852,
+      "end": 68.583,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-063-009",
+      "text": "Jeremy was a little disappointed by this but he did as his daughter asked.",
+      "start": 70.353,
+      "end": 75.623,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-063-010",
+      "text": "On the way home, he asked Jenny if she had enjoyed the speech.",
+      "start": 76.853,
+      "end": 81.223,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-063-011",
+      "text": "To his surprise she said she hadn't.",
+      "start": 82.993,
+      "end": 85.803,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-063-012",
+      "text": "Jeremy asked her why this was so and she told him that she did not like to see so many people laughing at him!",
+      "start": 87.812,
+      "end": 96.343,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

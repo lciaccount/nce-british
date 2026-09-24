@@ -1,0 +1,213 @@
+{
+  "audioSha256": "00e50e28bba7dbab515203bed9a1f10e59037c463cef49680e1680a0b3c8d599",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-051-001",
+      "text": "What was the 'future' electronic development that Leon Bagrit wasn't able to foresee?",
+      "start": 12.512,
+      "end": 18.003,
+      "score": 0.947,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-051-002",
+      "text": "Predicting the future is notoriously difficult.",
+      "start": 20.852,
+      "end": 23.883,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-051-003",
+      "text": "Who could have imagined, in the mid 1970s, for example, that by the end of the 20th century, computers would be as common in people's homes as TV sets?",
+      "start": 24.553,
+      "end": 34.248,
+      "score": 0.803,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-051-004",
+      "text": "In the 1970s, computers were common enough, but only in big business, government departments and large organizations.",
+      "start": 34.248,
+      "end": 44.703,
+      "score": 0.797,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b3-051-005",
+      "text": "These were the so-called mainframe machines.",
+      "start": 45.612,
+      "end": 48.223,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-051-006",
+      "text": "Mainframe computers were very large indeed often occupying whole air-conditioned rooms, employing full-time technicians and run on specially-written software.",
+      "start": 49.492,
+      "end": 60.983,
+      "score": 0.943,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-051-007",
+      "text": "Though these large machines still exist, many of their functions have been taken over by small powerful personal computers, commonly known as PCs.",
+      "start": 61.932,
+      "end": 72.268,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-051-008",
+      "text": "In 1975, a primitive machine called the Altair, was launched in the USA.",
+      "start": 72.268,
+      "end": 79.903,
+      "score": 0.759,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b3-051-009",
+      "text": "It can properly be described as the first 'home computer' and it pointed the way to the future.",
+      "start": 80.552,
+      "end": 87.003,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-051-010",
+      "text": "This was followed, at the end of the 1970s, by a machine called an Apple.",
+      "start": 87.913,
+      "end": 93.043,
+      "score": 0.68,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b3-051-011",
+      "text": "In the early 1980s, the computer giant, IBM produced the world's first Personal Computer.",
+      "start": 93.913,
+      "end": 101.283,
+      "score": 0.736,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b3-051-012",
+      "text": "This ran on an 'operating system' called DOS, produced by a then small company named Microsoft.",
+      "start": 102.353,
+      "end": 109.803,
+      "score": 0.954,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-051-013",
+      "text": "The IBM Personal Computer was widely copied.",
+      "start": 110.653,
+      "end": 114.163,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-051-014",
+      "text": "From those humble beginnings, we have seen the development of the user-friendly home computers and multimedia machines which are in common use today.",
+      "start": 114.692,
+      "end": 124.683,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-051-015",
+      "text": "Considering how recent these developments are, it is even more remarkable that as long ago as the 1960s, an Englishman, Leon Bagrit, was able to predict some of the uses of computers which we know today.",
+      "start": 126.032,
+      "end": 140.862,
+      "score": 0.847,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-051-016",
+      "text": "Bagrit dismissed the idea that computers would learn to 'think' for themselves and would 'rule the world', which people liked to believe in those days.",
+      "start": 142.032,
+      "end": 151.562,
+      "score": 0.912,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-051-017",
+      "text": "Bagrit foresaw a time when computers would be small enough to hold in the hand, when they would be capable of providing information about traffic jams and suggesting alterative routes, when they would be used in hospitals to help doctors to diagnose illnesses, when they would relieve office workers and accountants of dull, repetitive clerical work.",
+      "start": 152.732,
+      "end": 176.002,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-051-018",
+      "text": "All these computer uses have become commonplace.",
+      "start": 176.812,
+      "end": 179.963,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-051-019",
+      "text": "Of course, Leon Bagrit couldn't possibly have foreseen the development of the Internet, the worldwide system that enables us to communicate instantly with anyone in any part of the world by using computers linked to telephone networks.",
+      "start": 180.832,
+      "end": 196.302,
+      "score": 0.953,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-051-020",
+      "text": "Nor could he have foreseen how we could use the Internet to obtain information on every known subject, so we can read it on a screen in our homes and even print it as well if we want to.",
+      "start": 197.152,
+      "end": 209.542,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-051-021",
+      "text": "Computers have become smaller and smaller, more and more powerful and cheaper and cheaper.",
+      "start": 210.132,
+      "end": 216.762,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-051-022",
+      "text": "This is what makes Leon Bagrit's predictions particularly remarkable.",
+      "start": 217.512,
+      "end": 221.862,
+      "score": 0.95,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-051-023",
+      "text": "If he, or someone like him, were alive today, he might be able to tell us what to expect in the next fifty years.",
+      "start": 222.492,
+      "end": 230.702,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

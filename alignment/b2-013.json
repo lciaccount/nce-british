@@ -1,0 +1,105 @@
+{
+  "audioSha256": "e21cf20401416158a6cf465063a69da65bb345306b2bd07bb349c76dab4e57ba",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-013-001",
+      "text": "Why will the police have a difficult time?",
+      "start": 12.492,
+      "end": 15.922,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-013-002",
+      "text": "The Greenwood Boys are a group of pop singers.",
+      "start": 18.693,
+      "end": 21.762,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-013-003",
+      "text": "At present, they are visiting all parts of the country.",
+      "start": 23.413,
+      "end": 27.322,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-013-004",
+      "text": "They will be arriving here tomorrow.",
+      "start": 28.613,
+      "end": 30.922,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-013-005",
+      "text": "They will be coming by train and most of the young people in the town will be meeting them at the station.",
+      "start": 32.472,
+      "end": 39.723,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-013-006",
+      "text": "Tomorrow evening they will be singing at the Workers' Club.",
+      "start": 41.293,
+      "end": 44.943,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-013-007",
+      "text": "The Greenwood Boys will be staying for five days.",
+      "start": 46.672,
+      "end": 49.963,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-013-008",
+      "text": "During this time, they will give five performances.",
+      "start": 51.053,
+      "end": 54.623,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-013-009",
+      "text": "As usual, the police will have a difficult time.",
+      "start": 55.953,
+      "end": 59.623,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-013-010",
+      "text": "They will be trying to keep order.",
+      "start": 61.373,
+      "end": 63.463,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-013-011",
+      "text": "It is always the same on these occasions.",
+      "start": 64.493,
+      "end": 67.183,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

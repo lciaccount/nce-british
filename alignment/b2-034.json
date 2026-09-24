@@ -1,0 +1,105 @@
+{
+  "audioSha256": "b7a4a4ebea4ed2ea02995993ff734688e6f598efd2cd4f8e368cececddc8c147",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-034-001",
+      "text": "How long had the police taken to find his bicycle?",
+      "start": 12.472,
+      "end": 16.363,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-034-002",
+      "text": "Dan Robinson has been worried all week.",
+      "start": 19.253,
+      "end": 22.782,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-034-003",
+      "text": "Last Tuesday he received a letter from the local police.",
+      "start": 23.933,
+      "end": 27.862,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-034-004",
+      "text": "In the letter he was asked to call at the station.",
+      "start": 28.973,
+      "end": 32.203,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-034-005",
+      "text": "Dan wondered why he was wanted by the police, but he went to the station yesterday and now he is not worried anymore.",
+      "start": 33.693,
+      "end": 43.183,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-034-006",
+      "text": "At the station, he was told by a smiling policeman that his bicycle had been found.",
+      "start": 44.953,
+      "end": 51.763,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-034-007",
+      "text": "Five days ago, the policeman told him, the bicycle was picked up in a small village four hundred miles away.",
+      "start": 53.212,
+      "end": 61.583,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-034-008",
+      "text": "It is now being sent to his home by train.",
+      "start": 62.873,
+      "end": 66.143,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-034-009",
+      "text": "Dan was most surprised when he heard the news.",
+      "start": 68.213,
+      "end": 71.403,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-034-010",
+      "text": "He was amused too, because he never expected the bicycle to be found.",
+      "start": 72.413,
+      "end": 78.523,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-034-011",
+      "text": "It was stolen twenty years ago when Dan was a boy of fifteen!",
+      "start": 79.892,
+      "end": 85.422,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

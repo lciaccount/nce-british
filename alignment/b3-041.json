@@ -1,0 +1,258 @@
+{
+  "audioSha256": "95f1d0dcf055a282eaf9d0aa57a44d7209518f20a7834531514971d053494db2",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-041-001",
+      "text": "What particular anxiety spoils the country dweller's visit to the theatre?",
+      "start": 13.072,
+      "end": 17.683,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-002",
+      "text": "The quiet life of the country has never appealed to me.",
+      "start": 20.373,
+      "end": 23.762,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-003",
+      "text": "City born and city bred, I have always regarded the country as something you look at through a train window, or something you occasionally visit during the weekend.",
+      "start": 24.532,
+      "end": 33.923,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-004",
+      "text": "Most of my friends live in the city, yet they always go into raptures at the mere mention of the country.",
+      "start": 34.712,
+      "end": 40.803,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-005",
+      "text": "Though they extol the virtues of the peaceful life, only one of them has ever gone to live in the country and he was back in town within six months.",
+      "start": 41.492,
+      "end": 50.683,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-006",
+      "text": "Even he still lives under the illusion that country life is somehow superior to town life.",
+      "start": 51.433,
+      "end": 56.683,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-007",
+      "text": "He is forever talking about the friendly people, the clean atmosphere, the closeness to nature and the gentle pace of living.",
+      "start": 57.312,
+      "end": 66.043,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-008",
+      "text": "Nothing can be compared, he maintains, with the first cockcrow, the twittering of birds at dawn, the sight of the rising sun glinting on the trees and pastures.",
+      "start": 67.013,
+      "end": 78.783,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-009",
+      "text": "This idyllic pastoral scene is only part of the picture.",
+      "start": 79.892,
+      "end": 83.583,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-010",
+      "text": "My friend fails to mention the long and friendless winter evenings in front of the TV--virtually the only form of entertainment.",
+      "start": 84.552,
+      "end": 93.023,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-011",
+      "text": "He says nothing about the poor selection of goods in the shops, or about those unfortunate people who have to travel from the country to the city every day to get to work.",
+      "start": 93.853,
+      "end": 103.783,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-012",
+      "text": "Why people are prepared to tolerate a four-hour journey each day for the dubious privilege of living in the country is beyond me.",
+      "start": 104.953,
+      "end": 112.843,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-013",
+      "text": "They could be saved so much misery and expense if they chose to live in the city where they rightly belong.",
+      "start": 113.733,
+      "end": 119.763,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-014",
+      "text": "If you can do without the few pastoral pleasures of the country, you will find the city can provide you with the best that life can offer.",
+      "start": 121.112,
+      "end": 128.422,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-015",
+      "text": "You never have to travel miles to see your friends.",
+      "start": 129.192,
+      "end": 131.742,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-016",
+      "text": "They invariably live nearby and are always available for an informal chat or an evening's entertainment.",
+      "start": 132.292,
+      "end": 139.222,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-017",
+      "text": "Some of my acquaintances in the country come up to town once or twice a year to visit the theatre as a special treat.",
+      "start": 140.172,
+      "end": 146.882,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-018",
+      "text": "For them this is a major operation which involves considerable planning.",
+      "start": 147.492,
+      "end": 152.262,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-019",
+      "text": "As the play draws to its close, they wonder whether they will ever catch that last train home.",
+      "start": 153.252,
+      "end": 158.843,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-020",
+      "text": "The city dweller never experiences anxieties of this sort.",
+      "start": 159.692,
+      "end": 163.183,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-021",
+      "text": "The latest exhibitions, films, or plays are only a short bus ride away.",
+      "start": 163.892,
+      "end": 168.843,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-022",
+      "text": "Shopping, too, is always a pleasure.",
+      "start": 169.632,
+      "end": 171.542,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-023",
+      "text": "There is so much variety that you never have to make do with second best.",
+      "start": 172.492,
+      "end": 176.762,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-024",
+      "text": "Country people run wild when they go shopping in the city and stagger home loaded with as many of the exotic items as they can carry.",
+      "start": 177.472,
+      "end": 185.422,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-025",
+      "text": "Nor is the city without its moments of beauty.",
+      "start": 186.072,
+      "end": 188.262,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-026",
+      "text": "There is something comforting about the warm glow shed by advertisements on cold wet winter nights.",
+      "start": 188.792,
+      "end": 194.602,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-027",
+      "text": "Few things could be more impressive than the peace that descends on deserted city streets at weekends when the thousands that travel to work every day are tucked away in their homes in the country.",
+      "start": 195.452,
+      "end": 206.822,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-041-028",
+      "text": "It has always been a mystery to me why city dwellers, who appreciate all these things, obstinately pretend that they would prefer to live in the country.",
+      "start": 207.692,
+      "end": 217.602,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

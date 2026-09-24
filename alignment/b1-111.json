@@ -1,0 +1,195 @@
+{
+  "audioSha256": "0b8dc6aa4e0d59e1b4a03865f41c153edb6dfc8b9022f68a9f5093c83c903838",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-111-001",
+      "text": "Can Mr. Frith buy the television on instalments?",
+      "start": 13.932,
+      "end": 17.863,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-111-002",
+      "text": "How does it work?",
+      "start": 19.053,
+      "end": 20.023,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-111-003",
+      "text": "I like this television very much.",
+      "start": 22.832,
+      "end": 25.023,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-111-004",
+      "text": "How much does it cost?",
+      "start": 25.793,
+      "end": 27.043,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-111-005",
+      "text": "It's the most expensive model in the shop.",
+      "start": 28.532,
+      "end": 31.562,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-111-006",
+      "text": "It costs five hundred pounds.",
+      "start": 32.233,
+      "end": 34.663,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-111-007",
+      "text": "That's too expensive for us.",
+      "start": 36.593,
+      "end": 38.383,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-111-008",
+      "text": "We can't afford all that money.",
+      "start": 38.612,
+      "end": 40.343,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-111-009",
+      "text": "This model's less expensive than that one.",
+      "start": 41.273,
+      "end": 44.183,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-111-010",
+      "text": "It's only three hundred pounds.",
+      "start": 44.633,
+      "end": 46.563,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-111-011",
+      "text": "But, of course, it's not as good as the expensive one.",
+      "start": 46.953,
+      "end": 50.223,
+      "score": 0.939,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-111-012",
+      "text": "I don't like this model.",
+      "start": 51.913,
+      "end": 53.143,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-111-013",
+      "text": "The other model's more expensive, but it's worth the money.",
+      "start": 53.492,
+      "end": 57.003,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-111-014",
+      "text": "Can we buy it on instalments?",
+      "start": 58.653,
+      "end": 60.663,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-111-015",
+      "text": "Of course.",
+      "start": 62.233,
+      "end": 62.983,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-111-016",
+      "text": "You can pay a deposit of thirty pounds, and then fourteen pounds a month for three years.",
+      "start": 63.392,
+      "end": 69.803,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-111-017",
+      "text": "Do you like it, dear?",
+      "start": 71.812,
+      "end": 72.863,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-111-018",
+      "text": "I certainly do, but I don't like the price.",
+      "start": 73.812,
+      "end": 77.443,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-111-019",
+      "text": "You always want the best, but we can't afford it.",
+      "start": 78.552,
+      "end": 82.143,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-111-020",
+      "text": "Sometimes you think you're a millionaire!",
+      "start": 83.633,
+      "end": 86.323,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-111-021",
+      "text": "Millionaires don't buy things on instalments!",
+      "start": 87.112,
+      "end": 89.922,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

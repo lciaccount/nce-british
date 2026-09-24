@@ -1,0 +1,105 @@
+{
+  "audioSha256": "c0d3a7830f36e61c7797e4bf1887211901e6ffde5cc8ae020226cf8e3aea2bfc",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-091-001",
+      "text": "Where was the station's Commanding Officer?",
+      "start": 13.532,
+      "end": 16.343,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-091-002",
+      "text": "A pilot noticed a balloon which seemed to be making for a Royal Air Force station nearby.",
+      "start": 18.913,
+      "end": 24.822,
+      "score": 0.947,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-091-003",
+      "text": "He informed the station at once, but no one there was able to explain the mystery.",
+      "start": 26.693,
+      "end": 32.503,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-091-004",
+      "text": "The officer in the control tower was very angry when he heard the news, because balloons can be a great danger to aircraft.",
+      "start": 33.933,
+      "end": 42.643,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-091-005",
+      "text": "He said that someone might be spying on the station and the pilot was ordered to keep track of the strange object.",
+      "start": 44.153,
+      "end": 51.423,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-091-006",
+      "text": "The pilot managed to circle the balloon for some time.",
+      "start": 53.352,
+      "end": 56.843,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-091-007",
+      "text": "He could make out three men in a basket under it and one of them was holding a pair of binoculars.",
+      "start": 58.213,
+      "end": 66.183,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-091-008",
+      "text": "When the balloon was over the station, the pilot saw one of the men taking photographs.",
+      "start": 68.052,
+      "end": 74.663,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-091-009",
+      "text": "Soon afterwards, the balloon began to descend and it landed near an airfield.",
+      "start": 76.472,
+      "end": 82.743,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-091-010",
+      "text": "The police were called in, but they could not arrest anyone, for the basket contained two Members of Parliament and the Commanding Officer of the station!",
+      "start": 84.752,
+      "end": 96.223,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-091-011",
+      "text": "As the Commanding Officer explained later, one half of the station did not know what the other half was doing!",
+      "start": 98.213,
+      "end": 105.843,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

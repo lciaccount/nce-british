@@ -1,0 +1,258 @@
+{
+  "audioSha256": "397800e70afd227b65d08904d1702a63f5e072b611e34639b213f81a4af25510",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-011-001",
+      "text": "What was the Customs Officer looking for?",
+      "start": 12.252,
+      "end": 14.702,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-011-002",
+      "text": "Customs Officers are quite tolerant these days, but they can still stop you when you are going through the Green Channel and have nothing to declare.",
+      "start": 17.393,
+      "end": 25.762,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-011-003",
+      "text": "Even really honest people are often made to feel guilty.",
+      "start": 27.293,
+      "end": 30.663,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-011-004",
+      "text": "The hardened professional smuggler, on the other hand, is never troubled by such feelings, even if he has five hundred gold watches hidden in his suitcase.",
+      "start": 32.093,
+      "end": 41.083,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-011-005",
+      "text": "When I returned from abroad recently, a particularly officious young Customs Officer clearly regarded me as a smuggler.",
+      "start": 42.193,
+      "end": 50.267,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-011-006",
+      "text": "'Have you anything to declare?'",
+      "start": 50.267,
+      "end": 53.578,
+      "score": 0.909,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-011-007",
+      "text": "he asked, looking me in the eye.",
+      "start": 53.578,
+      "end": 55.663,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-011-008",
+      "text": "'No,' I answered confidently.",
+      "start": 56.773,
+      "end": 58.598,
+      "score": 0.907,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-011-009",
+      "text": "'Would you mind unlocking this suitcase please? '",
+      "start": 58.598,
+      "end": 62.328,
+      "score": 0.943,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-011-010",
+      "text": "'Not at all,' I answered.",
+      "start": 62.328,
+      "end": 64.823,
+      "score": 0.857,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-011-011",
+      "text": "The Officer went through the case with great care.",
+      "start": 66.112,
+      "end": 68.903,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-011-012",
+      "text": "All the things I had packed so carefully were soon in a dreadful mess.",
+      "start": 70.013,
+      "end": 73.903,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-011-013",
+      "text": "I felt sure I would never be able to close the case again.",
+      "start": 74.873,
+      "end": 78.103,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-011-014",
+      "text": "Suddenly, I saw the Officer's face light up.",
+      "start": 78.972,
+      "end": 81.723,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-011-015",
+      "text": "He had spotted a tiny bottle at the bottom of my case and he pounced on it with delight.",
+      "start": 82.832,
+      "end": 88.708,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-011-016",
+      "text": "'Perfume, eh?'",
+      "start": 88.708,
+      "end": 91.323,
+      "score": 0.72,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b3-011-017",
+      "text": "he asked sarcastically.",
+      "start": 91.633,
+      "end": 92.828,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-011-018",
+      "text": "'You should have declared that.",
+      "start": 92.828,
+      "end": 94.403,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-011-019",
+      "text": "Perfume is not exempt from import duty.  '",
+      "start": 95.032,
+      "end": 97.483,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-011-020",
+      "text": "'But it isn't perfume, I said.",
+      "start": 98.633,
+      "end": 100.363,
+      "score": 0.937,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-011-021",
+      "text": "'It's hair gel.  '",
+      "start": 101.013,
+      "end": 101.823,
+      "score": 0.569,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b3-011-022",
+      "text": "Then I added with a smile, 'It's a strange mixture I make myself.",
+      "start": 102.733,
+      "end": 107.323,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-011-023",
+      "text": "As I expected, he did not believe me.",
+      "start": 108.733,
+      "end": 111.017,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-011-024",
+      "text": "'Try it!'",
+      "start": 111.017,
+      "end": 112.623,
+      "score": 0.688,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b3-011-025",
+      "text": "I said encouragingly.",
+      "start": 112.772,
+      "end": 114.063,
+      "score": 0.995,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-011-026",
+      "text": "The Officer unscrewed the cap and put the bottle to his nostrils.",
+      "start": 114.752,
+      "end": 118.743,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-011-027",
+      "text": "He was greeted by an unpleasant smell which convinced him that I was telling the truth.",
+      "start": 119.733,
+      "end": 124.663,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-011-028",
+      "text": "A few minutes later, I was able to hurry away with precious chalk marks on my baggage.",
+      "start": 125.733,
+      "end": 130.963,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

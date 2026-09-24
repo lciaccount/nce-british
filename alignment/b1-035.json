@@ -1,0 +1,150 @@
+{
+  "audioSha256": "a0207e28ef0c17cae7b000cf684d95d46390c12c25ec0b6dfb02f8781feb0e2e",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-035-001",
+      "text": "Are the children coming out of the park or going into it?",
+      "start": 14.632,
+      "end": 20.043,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-035-002",
+      "text": "This is a photograph of our village.",
+      "start": 22.812,
+      "end": 26.163,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-035-003",
+      "text": "Our village is in a valley.",
+      "start": 28.492,
+      "end": 31.122,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-035-004",
+      "text": "It is between two hills.",
+      "start": 33.472,
+      "end": 35.643,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-035-005",
+      "text": "The village is on a river.",
+      "start": 38.133,
+      "end": 40.723,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-035-006",
+      "text": "Here is another photograph of the village.",
+      "start": 43.532,
+      "end": 46.963,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-035-007",
+      "text": "My wife and I are walking along the banks of the river.",
+      "start": 49.013,
+      "end": 54.043,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-035-008",
+      "text": "We are on the left.",
+      "start": 56.513,
+      "end": 58.243,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-035-009",
+      "text": "There is a boy in the water.",
+      "start": 59.973,
+      "end": 62.603,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-035-010",
+      "text": "He is swimming across the river.",
+      "start": 64.172,
+      "end": 66.783,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-035-011",
+      "text": "Here is another photograph.",
+      "start": 69.433,
+      "end": 71.603,
+      "score": 0.95,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-035-012",
+      "text": "This is the school building.",
+      "start": 73.413,
+      "end": 75.523,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-035-013",
+      "text": "It is beside a park.",
+      "start": 77.332,
+      "end": 79.063,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-035-014",
+      "text": "The park is on the right.",
+      "start": 81.513,
+      "end": 83.723,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-035-015",
+      "text": "Some children are coming out of the building.",
+      "start": 86.172,
+      "end": 89.343,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-035-016",
+      "text": "Some of them are going into the park.",
+      "start": 91.733,
+      "end": 94.863,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

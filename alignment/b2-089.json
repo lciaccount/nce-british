@@ -1,0 +1,105 @@
+{
+  "audioSha256": "693e65207a56c890429237c68e7c5e53329fbc8aeb109800f3d9a934647ab024",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-089-001",
+      "text": "Who made the only funny joke that evening and why?",
+      "start": 14.192,
+      "end": 18.302,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-089-002",
+      "text": "People will do anything to see a free show--even if it is a bad one.",
+      "start": 21.012,
+      "end": 26.062,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-089-003",
+      "text": "When the news got round that a comedy show would be presented at our local cinema by the P. and U. Bird Seed Company, we all rushed to see it.",
+      "start": 27.633,
+      "end": 39.243,
+      "score": 0.943,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-089-004",
+      "text": "We had to queue for hours to get in and there must have been several hundred people present just before the show began.",
+      "start": 40.553,
+      "end": 48.723,
+      "score": 0.952,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-089-005",
+      "text": "Unfortunately, the show was one of the dullest we have ever seen.",
+      "start": 50.513,
+      "end": 54.743,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-089-006",
+      "text": "Those who failed to get in need not have felt disappointed, as many of the artistes who should have appeared did not come.",
+      "start": 55.972,
+      "end": 64.483,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-089-007",
+      "text": "The only funny things we heard that evening came from the advertiser at the beginning of the programme.",
+      "start": 65.752,
+      "end": 71.963,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-089-008",
+      "text": "He was obviously very nervous and for some minutes stood awkwardly before the microphone.",
+      "start": 73.332,
+      "end": 80.023,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-089-009",
+      "text": "As soon as he opened his mouth, everyone burst out laughing.",
+      "start": 81.573,
+      "end": 85.903,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-089-010",
+      "text": "We all know what the poor man should have said, but what he actually said was: 'This is the Poo and Ee Seed Bird Company.",
+      "start": 87.832,
+      "end": 98.563,
+      "score": 0.945,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-089-011",
+      "text": "Good ladies, evening and gentlemen!'",
+      "start": 99.672,
+      "end": 104.443,
+      "score": 0.94,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

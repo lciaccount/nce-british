@@ -1,0 +1,150 @@
+{
+  "audioSha256": "afefe29729f4f582ccc35d2771c0a78f2c5542d1f4c98257ad0a59ba13eeff9a",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-008-001",
+      "text": "What are the St.Bernard dogs used for?",
+      "start": 11.632,
+      "end": 14.062,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-008-002",
+      "text": "The Great St.Bernard Pass connects Switzerland to Italy.",
+      "start": 16.852,
+      "end": 20.703,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-008-003",
+      "text": "At 2,473 metres, it is the highest mountain pass in Europe.",
+      "start": 21.672,
+      "end": 27.682,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-008-004",
+      "text": "The famous monastery of St.Bernard, which was founded in the eleventh century, lies about a mile away.",
+      "start": 28.852,
+      "end": 36.083,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-008-005",
+      "text": "For hundreds of years, St.Bernard dogs have saved the lives of travellers crossing the dangerous Pass.",
+      "start": 37.492,
+      "end": 43.903,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-008-006",
+      "text": "These friendly dogs, which were first brought from Asia, were used as watchdogs even in Roman times.",
+      "start": 45.193,
+      "end": 52.383,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-008-007",
+      "text": "Now that a tunnel has been built through the mountains, the Pass is less dangerous, but each year, the dogs are still sent out into the snow whenever a traveller is in difficulty.",
+      "start": 53.472,
+      "end": 65.183,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-008-008",
+      "text": "Despite the new tunnel, there are still a few people who rashly attempt to cross the Pass on foot.",
+      "start": 66.192,
+      "end": 72.463,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-008-009",
+      "text": "During the summer months, the monastery is very busy, for it is visited by thousands of people who cross the Pass in cars.",
+      "start": 74.233,
+      "end": 82.883,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-008-010",
+      "text": "As there are so many people about, the dogs have to be kept in a special enclosure.",
+      "start": 84.293,
+      "end": 89.443,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-008-011",
+      "text": "In winter, however, life at the monastery is quite different.",
+      "start": 90.312,
+      "end": 94.303,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-008-012",
+      "text": "The temperature drops to -30 degrees, and very few people attempt to cross the Pass.",
+      "start": 95.093,
+      "end": 101.603,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-008-013",
+      "text": "The monks prefer winter to summer for they have more privacy.",
+      "start": 102.832,
+      "end": 106.922,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-008-014",
+      "text": "The dogs have greater freedom, too, for they are allowed to wander outside their enclosure.",
+      "start": 107.772,
+      "end": 113.283,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-008-015",
+      "text": "The only regular visitors to the monastery in winter are parties of skiers who go there at Christmas and Easter.",
+      "start": 114.332,
+      "end": 121.623,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-008-016",
+      "text": "These young people, who love the peace of the mountains, always receive a warm welcome at St.Bernard's monastery.",
+      "start": 122.832,
+      "end": 130.362,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

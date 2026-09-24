@@ -1,0 +1,159 @@
+{
+  "audioSha256": "54d850d578f77a8b838abf010c5c18910bb2e96782396ed6e6ce73542e1edf4e",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-051-001",
+      "text": "Does it ever snow in Greece?",
+      "start": 12.892,
+      "end": 15.322,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-051-002",
+      "text": "Where do you come from?",
+      "start": 18.152,
+      "end": 19.602,
+      "score": 0.948,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-051-003",
+      "text": "I come from Greece.",
+      "start": 21.433,
+      "end": 22.802,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-051-004",
+      "text": "What's the climate like in your country?",
+      "start": 24.893,
+      "end": 27.562,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-051-005",
+      "text": "It's very pleasant.",
+      "start": 29.433,
+      "end": 30.922,
+      "score": 0.997,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-051-006",
+      "text": "What's the weather like in spring?",
+      "start": 33.352,
+      "end": 35.823,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-051-007",
+      "text": "It's often windy in March.",
+      "start": 37.892,
+      "end": 40.083,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-051-008",
+      "text": "It's always warm in April and May, but it rains sometimes.",
+      "start": 41.112,
+      "end": 46.843,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-051-009",
+      "text": "What's it like in summer?",
+      "start": 49.352,
+      "end": 51.363,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-051-010",
+      "text": "It's always hot in June, July and August.",
+      "start": 53.573,
+      "end": 58.103,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-051-011",
+      "text": "The sun shines every day.",
+      "start": 58.812,
+      "end": 60.903,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-051-012",
+      "text": "Is it cold or warm in autumn?",
+      "start": 63.032,
+      "end": 65.463,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-051-013",
+      "text": "It's always warm in September and October.",
+      "start": 67.112,
+      "end": 70.983,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-051-014",
+      "text": "It's often cold in November and it rains sometimes.",
+      "start": 72.013,
+      "end": 76.203,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-051-015",
+      "text": "Is it very cold in winter?",
+      "start": 78.293,
+      "end": 80.243,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-051-016",
+      "text": "It's often cold in December, January and February.",
+      "start": 82.153,
+      "end": 87.143,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-051-017",
+      "text": "It snows sometimes.",
+      "start": 88.153,
+      "end": 89.823,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

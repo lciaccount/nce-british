@@ -1,0 +1,204 @@
+{
+  "audioSha256": "24c6527aa6d9a95dfeca6be33fe1e4b7bf704770562b525a4ca1ff57660f4062",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-032-001",
+      "text": "Did the crew of the Elkor find what they were looking for?",
+      "start": 12.352,
+      "end": 16.302,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-032-002",
+      "text": "Why?",
+      "start": 17.293,
+      "end": 17.662,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-032-003",
+      "text": "The salvage operation had been a complete failure.",
+      "start": 20.473,
+      "end": 23.663,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-032-004",
+      "text": "The small ship, Elkor, which had been searching the Barents Sea for weeks, was on its way home.",
+      "start": 24.172,
+      "end": 30.562,
+      "score": 0.94,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-032-005",
+      "text": "A radio message from the mainland had been received by the ship's captain instructing him to give up the search.",
+      "start": 31.473,
+      "end": 38.663,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-032-006",
+      "text": "The captain knew that another attempt would be made later, for the sunken ship he was trying to find had been carrying a precious cargo of gold bullion.",
+      "start": 39.752,
+      "end": 50.163,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-032-007",
+      "text": "Despite the message, the captain of the Elkor decided to try once more.",
+      "start": 51.413,
+      "end": 56.423,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-032-008",
+      "text": "The sea bed was scoured with powerful nets and there was tremendous excitement on board when a chest was raised from the bottom.",
+      "start": 57.653,
+      "end": 65.823,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-032-009",
+      "text": "Though the crew were at first under the impression that the lost ship had been found, the contents of the chest proved them wrong.",
+      "start": 66.853,
+      "end": 74.343,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-032-010",
+      "text": "What they had in fact found was a ship which had been sunk many years before.",
+      "start": 75.093,
+      "end": 80.203,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-032-011",
+      "text": "The chest contained the personal belongings of a seaman, Alan Fielding.",
+      "start": 81.192,
+      "end": 86.043,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-032-012",
+      "text": "There were books, clothing and photographs, together with letters which the seaman had once received from his wife.",
+      "start": 86.672,
+      "end": 93.983,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-032-013",
+      "text": "The captain of the Elkor ordered his men to salvage as much as possible from the wreck.",
+      "start": 94.593,
+      "end": 99.603,
+      "score": 0.925,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-032-014",
+      "text": "Nothing of value was found, but the numerous items which were brought to the surface proved to be of great interest.",
+      "start": 100.272,
+      "end": 106.983,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-032-015",
+      "text": "From a heavy gun that was raised, the captain realized that the ship must have been a cruiser.",
+      "start": 107.552,
+      "end": 113.003,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-032-016",
+      "text": "In another chest which contained the belongings of a ship's officer, there was an unfinished letter which had been written on March 14th, 1943.",
+      "start": 113.853,
+      "end": 123.062,
+      "score": 0.846,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-032-017",
+      "text": "The captain learnt from the letter that the name of the lost ship was the Karen.",
+      "start": 123.793,
+      "end": 128.562,
+      "score": 0.934,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-032-018",
+      "text": "The most valuable find of all was the ship's log book, parts of which it was still possible to read.",
+      "start": 129.272,
+      "end": 136.183,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-032-019",
+      "text": "From this the captain was able to piece together all the information that had come to light.",
+      "start": 136.932,
+      "end": 142.802,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-032-020",
+      "text": "The Karen had been sailing in a convoy to Russia when she was torpedoed by an enemy submarine.",
+      "start": 143.672,
+      "end": 150.322,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-032-021",
+      "text": "This was later confirmed by a naval official at the Ministry of Defence after the Elkor had returned home.",
+      "start": 151.352,
+      "end": 157.982,
+      "score": 0.945,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-032-022",
+      "text": "All the items that were found were sent to the War Museum.",
+      "start": 158.832,
+      "end": 162.142,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

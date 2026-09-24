@@ -1,0 +1,258 @@
+{
+  "audioSha256": "a17d83884d7af1825517c7f14b4b8f243c3d8bc9917cc7b786feb6bfbd09b538",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-045-001",
+      "text": "What is the most influential factor in any human society?",
+      "start": 12.772,
+      "end": 16.742,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-002",
+      "text": "In man's early days, competition with other creatures must have been critical.",
+      "start": 19.473,
+      "end": 24.862,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-003",
+      "text": "But this phase of our development is now finished.",
+      "start": 25.832,
+      "end": 28.782,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-004",
+      "text": "Indeed, we lack practice and experience nowadays in dealing with primitive conditions.",
+      "start": 29.712,
+      "end": 35.263,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-005",
+      "text": "I am sure that, without modern weapons, I would make a very poor show of disputing the ownership of a cave with a bear, and in this I do not think that I stand alone.",
+      "start": 36.472,
+      "end": 47.683,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-006",
+      "text": "The last creature to compete with man was the mosquito.",
+      "start": 48.733,
+      "end": 52.083,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-007",
+      "text": "But even the mosquito has been subdued by attention to drainage and by chemical sprays.",
+      "start": 52.812,
+      "end": 58.503,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-008",
+      "text": "Competition between ourselves, person against person, community against community, still persists, however; and it is as fierce as it ever was.",
+      "start": 59.933,
+      "end": 69.803,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-009",
+      "text": "But the competition of man against man is not the simple process envisioned in biology.",
+      "start": 70.873,
+      "end": 76.343,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-010",
+      "text": "It is not a simple competition for a fixed amount of food determined by the physical environment, because the environment that determines our evolution is no longer essentially physical.",
+      "start": 77.413,
+      "end": 88.922,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-011",
+      "text": "Our environment is chiefly conditoned by the things we believe.",
+      "start": 90.213,
+      "end": 93.563,
+      "score": 0.993,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-012",
+      "text": "Morocco and California are bits of the Earth in very similar latitudes, both on the west coasts of continents with similar climates, and probably with rather similar natural resources.",
+      "start": 94.532,
+      "end": 107.723,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-013",
+      "text": "Yet their present development is wholly different, not so much because of different people even, but because of the different thoughts that exist in the minds of their inhabitants.",
+      "start": 108.812,
+      "end": 118.883,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-014",
+      "text": "This is the point I wish to emphasize.",
+      "start": 120.192,
+      "end": 123.062,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-015",
+      "text": "The most important factor in our environment is the state of our own minds.",
+      "start": 123.832,
+      "end": 128.582,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-016",
+      "text": "It is well known that where the white man has invaded a primitive culture, the most destructive effects have come not from physical weapons but from ideas.",
+      "start": 130.152,
+      "end": 140.782,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-017",
+      "text": "Ideas are dangerous.",
+      "start": 141.932,
+      "end": 143.422,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-018",
+      "text": "The Holy Office knew this full well when it caused heretics to be burned in days gone by.",
+      "start": 144.332,
+      "end": 149.942,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-019",
+      "text": "Indeed, the concept of free speech only exists in our modern society because when you are inside a community, you are conditioned by the conventions of the community to such a degree that it is very difficult to conceive of anything really destructive.",
+      "start": 151.012,
+      "end": 167.662,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-020",
+      "text": "It is only someone looking on from outside that can inject the dangerous thoughts.",
+      "start": 168.832,
+      "end": 174.582,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-021",
+      "text": "I do not doubt that it would be possible to inject ideas into the modern world that would utterly destroy us.",
+      "start": 175.932,
+      "end": 182.982,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-022",
+      "text": "I would like to give you an example, but fortunately I cannot do so.",
+      "start": 184.052,
+      "end": 188.602,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-023",
+      "text": "Perhaps it will suffice to mention the nuclear bomb.",
+      "start": 189.512,
+      "end": 192.903,
+      "score": 0.896,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-024",
+      "text": "Imagine the effect on a reasonably advanced technological society, one that still does not possess the bomb, of making it aware of the possibility, of supplying suffcient details to enable the thing to be constructed.",
+      "start": 193.772,
+      "end": 208.162,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-025",
+      "text": "20 or 30 pages of information handed to any of the major world powers around the year 1925, would have been sufficient to change the course of world history.",
+      "start": 209.152,
+      "end": 220.602,
+      "score": 0.847,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-026",
+      "text": "It is a strange thought, but I believe a correct one, that twenty or thirty pages of ideas and information would be capable of turning the present-day world upside down, or even destroying it.",
+      "start": 221.752,
+      "end": 234.262,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-027",
+      "text": "I have often tried to conceive of what those pages might contain, but of course I cannot do so because I am a prisoner of the present-day world, just as all of you are.",
+      "start": 235.373,
+      "end": 246.963,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-045-028",
+      "text": "We cannot think outside the particular patterns that our brains are conditioned to, or, to be more accurate we can think only a very little way outside and then only if we are very original.",
+      "start": 247.852,
+      "end": 261.922,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

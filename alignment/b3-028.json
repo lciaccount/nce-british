@@ -1,0 +1,204 @@
+{
+  "audioSha256": "68570efe3e02de118828b025f835ba0f070ef7ece0f26dd63ffcc8a484edfe44",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-028-001",
+      "text": "Why was even five pounds 'too dear' ?",
+      "start": 12.632,
+      "end": 15.422,
+      "score": 0.906,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-028-002",
+      "text": "Small boats loaded with wares sped to the great liner as she was entering the harbour.",
+      "start": 18.133,
+      "end": 23.902,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-028-003",
+      "text": "Before she had anchored, the men from the boats had climbed on board and the decks were soon covered with colourful rugs from Persia, silks from India, copper coffee pots, and beautiful handmade silverware.",
+      "start": 24.992,
+      "end": 39.163,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-028-004",
+      "text": "It was difficult not to be tempted.",
+      "start": 40.273,
+      "end": 42.343,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-028-005",
+      "text": "Many of the tourists on board had begun bargaining with the tradesmen, but I decided not to buy anything until I had disembarked.",
+      "start": 43.212,
+      "end": 51.803,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-028-006",
+      "text": "I had no sooner got off the ship than I was assailed by a man who wanted to sell me a diamond ring.",
+      "start": 53.513,
+      "end": 59.723,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-028-007",
+      "text": "I had no intention of buying one, but I could not conceal the fact that I was impressed by the size of the diamonds.",
+      "start": 60.873,
+      "end": 67.823,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-028-008",
+      "text": "Some of them were as big as marbles.",
+      "start": 68.892,
+      "end": 71.083,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-028-009",
+      "text": "The man went to great lengths to prove that the diamonds were real.",
+      "start": 72.392,
+      "end": 76.023,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-028-010",
+      "text": "As we were walking past a shop, he held a diamond firmly against the window and made a deep impression in the glass.",
+      "start": 77.272,
+      "end": 83.743,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-028-011",
+      "text": "It took me over half an hour to get rid of him.",
+      "start": 84.933,
+      "end": 87.383,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-028-012",
+      "text": "The next man to approach me was selling expensive pens and watches.",
+      "start": 89.112,
+      "end": 92.983,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-028-013",
+      "text": "I examined one of the pens closely.",
+      "start": 94.032,
+      "end": 95.903,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-028-014",
+      "text": "It certainly looked genuine.",
+      "start": 96.793,
+      "end": 98.283,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-028-015",
+      "text": "At the base of the gold cap, the words 'made in the U.S.A.' had been neatly inscribed.",
+      "start": 99.233,
+      "end": 105.323,
+      "score": 0.947,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-028-016",
+      "text": "The man said that the pen was worth ￡50, but as a special favour, he would let me have it for ￡30.",
+      "start": 106.332,
+      "end": 113.183,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-028-017",
+      "text": "I shook my head and held up five fingers indicating that I was willing to pay ￡5.",
+      "start": 115.093,
+      "end": 120.943,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-028-018",
+      "text": "Gesticulating wildly, the man acted as if he found my offer outrageous, but he eventually reduced the price to 10 pounds.",
+      "start": 122.953,
+      "end": 131.302,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-028-019",
+      "text": "Shrugging my shoulders I began to walk away when, a moment later, he ran after me and thrust the pen into my hands.",
+      "start": 132.632,
+      "end": 140.562,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-028-020",
+      "text": "Though he kept throwing up his arms in despair, he readily accepted the ￡5 I gave him.",
+      "start": 141.552,
+      "end": 147.002,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-028-021",
+      "text": "I felt especially pleased with my wonderful bargain--until I got back to the ship.",
+      "start": 148.012,
+      "end": 153.642,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-028-022",
+      "text": "No matter how hard I tried, it was impossible to fill this beautiful pen with ink and to this day it has never written a single word!",
+      "start": 154.292,
+      "end": 163.542,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

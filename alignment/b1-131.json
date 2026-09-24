@@ -1,0 +1,186 @@
+{
+  "audioSha256": "47900885d99144806e099cad909463748c871df73092cf12ef30179e72004d7e",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-131-001",
+      "text": "What's the problem about deciding on a holiday?",
+      "start": 13.732,
+      "end": 17.102,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-131-002",
+      "text": "Where are you going to spend your holidays this year, Gary?",
+      "start": 19.893,
+      "end": 22.682,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-131-003",
+      "text": "We may go abroad.",
+      "start": 24.332,
+      "end": 25.442,
+      "score": 0.993,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-131-004",
+      "text": "I'm not sure.",
+      "start": 25.973,
+      "end": 26.802,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-131-005",
+      "text": "My wife wants to go to Egypt.",
+      "start": 27.532,
+      "end": 29.602,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-131-006",
+      "text": "I'd like to go there, too.",
+      "start": 30.593,
+      "end": 31.822,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-131-007",
+      "text": "We can't make up our minds.",
+      "start": 32.873,
+      "end": 34.503,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-131-008",
+      "text": "Will you travel by sea or by air?",
+      "start": 36.213,
+      "end": 38.563,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-131-009",
+      "text": "We may travel by sea.",
+      "start": 39.752,
+      "end": 41.203,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-131-010",
+      "text": "It's cheaper, isn't it?",
+      "start": 42.553,
+      "end": 43.743,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-131-011",
+      "text": "It may be cheaper, but it takes a long time.",
+      "start": 45.053,
+      "end": 47.963,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-131-012",
+      "text": "I'm sure you'll enjoy yourselves.",
+      "start": 49.693,
+      "end": 51.623,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-131-013",
+      "text": "Don't be so sure.",
+      "start": 53.013,
+      "end": 54.423,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-131-014",
+      "text": "We might not go anywhere.",
+      "start": 55.133,
+      "end": 56.843,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-131-015",
+      "text": "My wife always worries too much.",
+      "start": 57.812,
+      "end": 60.363,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-131-016",
+      "text": "Who's going to look after the dog?",
+      "start": 61.532,
+      "end": 63.723,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-131-017",
+      "text": "Who's going to look after the house?",
+      "start": 64.412,
+      "end": 66.603,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-131-018",
+      "text": "Who's going to look after the garden?",
+      "start": 67.332,
+      "end": 69.663,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-131-019",
+      "text": "We have this problem every year.",
+      "start": 70.453,
+      "end": 72.983,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-131-020",
+      "text": "In the end, we stay at home and look after everything!",
+      "start": 73.832,
+      "end": 77.922,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

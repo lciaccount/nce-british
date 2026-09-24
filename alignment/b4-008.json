@@ -1,0 +1,141 @@
+{
+  "audioSha256": "7e0d40d3b02b793a3d48177ac8ea98602ff8f66d872af8cce7c427fe7d04cf1f",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-008-001",
+      "text": "What makes trading between rich countries difficult?",
+      "start": 11.312,
+      "end": 14.162,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-008-002",
+      "text": "Chickens slaughtered in the United States, claim officials in Brussels, are not fit to grace European tables.",
+      "start": 16.953,
+      "end": 23.843,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-008-003",
+      "text": "No, say the Americans: our fowl are fine, we simply clean them in a different way.",
+      "start": 25.172,
+      "end": 31.422,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-008-004",
+      "text": "These days, it is differences in national regulations, far more than tariffs, that put sand in the wheels of trade between rich countries.",
+      "start": 32.633,
+      "end": 41.883,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-008-005",
+      "text": "It is not just farmers who are complaining.",
+      "start": 43.072,
+      "end": 45.543,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-008-006",
+      "text": "An electric razor that meets the European Union's safety standards must be approved by American testers before it can be sold in the United States, and an American-made dialysis machine needs the EU's okay before it hits the market in Europe.",
+      "start": 46.532,
+      "end": 64.283,
+      "score": 0.949,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-008-007",
+      "text": "As it happens, a razor that is safe in Europe is unlikely to electrocute Americans.",
+      "start": 65.873,
+      "end": 71.403,
+      "score": 0.944,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-008-008",
+      "text": "So, ask businesses on both sides of the Atlantic, why have two lots of tests where one would do?",
+      "start": 72.172,
+      "end": 79.443,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-008-009",
+      "text": "Politicians agree, in principle, so America and the EU have been trying to reach a deal which would eliminate the need to double-test many products.",
+      "start": 80.752,
+      "end": 91.183,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-008-010",
+      "text": "They hope to finish in time for a trade summit between America and the EU on May 28th.",
+      "start": 92.433,
+      "end": 98.563,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-008-011",
+      "text": "Although negotiators are optimistic, the details are complex enough that they may be hard-pressed to get a deal at all.",
+      "start": 99.433,
+      "end": 106.823,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-008-012",
+      "text": "Why?",
+      "start": 107.913,
+      "end": 108.323,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-008-013",
+      "text": "One difficulty is to construct the agreements.",
+      "start": 109.052,
+      "end": 111.703,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-008-014",
+      "text": "The Americans would happily reach one accord on standards for medical devices and then hammer out different pacts covering, say, electronic goods and drug manufacturing.",
+      "start": 112.653,
+      "end": 123.163,
+      "score": 0.944,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-008-015",
+      "text": "The EU -- following fine continental traditions -- wants agreement on general principles, which could be applied to many types of products and perhaps extended to other countries.",
+      "start": 124.252,
+      "end": 135.903,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

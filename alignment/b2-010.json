@@ -1,0 +1,123 @@
+{
+  "audioSha256": "b55b383b3731b9b1f360536f21add80c0557be53b8d8dc0a344592131e4734bc",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-010-001",
+      "text": "What happened to the clavichord?",
+      "start": 14.752,
+      "end": 17.422,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-010-002",
+      "text": "We have an old musical instrument.",
+      "start": 20.352,
+      "end": 23.043,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-010-003",
+      "text": "It is called a clavichord.",
+      "start": 24.553,
+      "end": 26.962,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-010-004",
+      "text": "It was made in Germany in 1681.",
+      "start": 28.573,
+      "end": 31.762,
+      "score": 0.602,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b2-010-005",
+      "text": "Our clavichord is kept in the living room.",
+      "start": 33.233,
+      "end": 35.903,
+      "score": 0.947,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-010-006",
+      "text": "It has belonged to our family for a long time.",
+      "start": 36.812,
+      "end": 40.163,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-010-007",
+      "text": "The instrument was bought by my grandfather many years ago.",
+      "start": 41.473,
+      "end": 46.003,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-010-008",
+      "text": "Recently it was damaged by a visitor.",
+      "start": 47.712,
+      "end": 50.503,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-010-009",
+      "text": "She tried to play jazz on it!",
+      "start": 51.593,
+      "end": 54.363,
+      "score": 0.899,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-010-010",
+      "text": "She struck the keys too hard and two of the strings were broken.",
+      "start": 55.233,
+      "end": 60.723,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-010-011",
+      "text": "My father was shocked.",
+      "start": 62.392,
+      "end": 64.463,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-010-012",
+      "text": "Now we are not allowed to touch it.",
+      "start": 65.513,
+      "end": 67.623,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-010-013",
+      "text": "It is being repaired by a friend of my father's.",
+      "start": 68.353,
+      "end": 71.303,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

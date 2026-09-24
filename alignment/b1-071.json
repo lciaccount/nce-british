@@ -1,0 +1,186 @@
+{
+  "audioSha256": "4b826fe887ba7df1b3355adefee6911953584c5d37d6fbcdec698fd6f328e8c8",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-071-001",
+      "text": "How did Pauline answer the telephone at nine o'clock?",
+      "start": 12.912,
+      "end": 16.822,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-071-002",
+      "text": "What's Ron Marston like, Pauline?",
+      "start": 19.573,
+      "end": 22.523,
+      "score": 0.874,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-071-003",
+      "text": "He's awful!",
+      "start": 24.053,
+      "end": 25.043,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-071-004",
+      "text": "He telephoned me four times yesterday and three times the day before yesterday.",
+      "start": 25.593,
+      "end": 32.263,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-071-005",
+      "text": "He telephoned the office yesterday morning and yesterday afternoon.",
+      "start": 33.413,
+      "end": 38.523,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-071-006",
+      "text": "My boss answered the telephone.",
+      "start": 39.573,
+      "end": 41.683,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-071-007",
+      "text": "What did your boss say to him?",
+      "start": 43.172,
+      "end": 45.003,
+      "score": 0.928,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-071-008",
+      "text": "He said, 'Pauline is typing letters.",
+      "start": 46.672,
+      "end": 49.643,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-071-009",
+      "text": "She can't speak to you now!'",
+      "start": 50.252,
+      "end": 52.083,
+      "score": 0.937,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-071-010",
+      "text": "Then I arrived home at six o'clock yesterday evening.",
+      "start": 53.413,
+      "end": 56.783,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-071-011",
+      "text": "He telephoned again.",
+      "start": 57.373,
+      "end": 58.603,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-071-012",
+      "text": "But I didn't answer the phone!",
+      "start": 59.433,
+      "end": 61.403,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-071-013",
+      "text": "Did he telephone again last night?",
+      "start": 62.653,
+      "end": 64.723,
+      "score": 0.944,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-071-014",
+      "text": "Yes, he did.",
+      "start": 65.953,
+      "end": 66.723,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-071-015",
+      "text": "He telephoned at nine o'clock.",
+      "start": 67.532,
+      "end": 69.663,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-071-016",
+      "text": "What did you say to him?",
+      "start": 71.493,
+      "end": 72.703,
+      "score": 0.862,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-071-017",
+      "text": "I said, 'This is Pauline's mother.",
+      "start": 74.172,
+      "end": 76.943,
+      "score": 0.935,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-071-018",
+      "text": "Please don't telephone my daughter again!'",
+      "start": 77.752,
+      "end": 80.163,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-071-019",
+      "text": "Did he telephone again?",
+      "start": 81.353,
+      "end": 82.603,
+      "score": 0.929,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-071-020",
+      "text": "No, he didn't!",
+      "start": 83.532,
+      "end": 84.603,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

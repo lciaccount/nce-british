@@ -1,0 +1,222 @@
+{
+  "audioSha256": "98b5c3242b38b8f9d8a00f131991a9e34486fbf673df54019a0ed75a8716b59d",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-095-001",
+      "text": "Why was the Ambassador particularly lucky?",
+      "start": 12.292,
+      "end": 15.682,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-095-002",
+      "text": "When the Ambassador of Escalopia returned home for lunch, his wife got a shock.",
+      "start": 18.393,
+      "end": 24.142,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-095-003",
+      "text": "He looked pale and his clothes were in a frightful state.",
+      "start": 24.913,
+      "end": 28.867,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-095-004",
+      "text": "'What has happened?'",
+      "start": 28.867,
+      "end": 31.843,
+      "score": 0.886,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-095-005",
+      "text": "she asked.",
+      "start": 32.112,
+      "end": 32.918,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-095-006",
+      "text": "'How did your clothes get into such a mess?'",
+      "start": 32.918,
+      "end": 36.367,
+      "score": 0.891,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-095-007",
+      "text": "'A fire extinguisher, my dear,' answered the Ambassador drily.",
+      "start": 36.367,
+      "end": 42.423,
+      "score": 0.885,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-095-008",
+      "text": "'University students set the Embassy on fire this morning.'",
+      "start": 43.392,
+      "end": 47.083,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-095-009",
+      "text": "'Good heavens!'",
+      "start": 48.553,
+      "end": 50.163,
+      "score": 0.842,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-095-010",
+      "text": "exclaimed his wife.",
+      "start": 51.133,
+      "end": 52.258,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-095-011",
+      "text": "'And where were you at the time?'",
+      "start": 52.258,
+      "end": 55.227,
+      "score": 0.892,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-095-012",
+      "text": "'I was in my office as usual,' answered the Ambassador.",
+      "start": 55.227,
+      "end": 61.358,
+      "score": 0.932,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-095-013",
+      "text": "'The fire broke out in the basement.",
+      "start": 61.358,
+      "end": 64.203,
+      "score": 0.948,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-095-014",
+      "text": "I went down immediately, of course, and that fool, Horst, aimed a fire extinguisher at me.",
+      "start": 65.353,
+      "end": 72.663,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-095-015",
+      "text": "He thought I was on fire.",
+      "start": 73.593,
+      "end": 75.183,
+      "score": 0.993,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-095-016",
+      "text": "I must definitely get that fellow posted.'",
+      "start": 76.612,
+      "end": 79.943,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-095-017",
+      "text": "The Ambassador's wife went on asking questions, when she suddenly noticed a big hole in her husband's hat.",
+      "start": 82.133,
+      "end": 90.218,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-095-018",
+      "text": "'And how can you explain that?'",
+      "start": 90.218,
+      "end": 95.183,
+      "score": 0.888,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-095-019",
+      "text": "she asked.",
+      "start": 95.892,
+      "end": 96.663,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-095-020",
+      "text": "'Oh, that,' said the Ambassador.",
+      "start": 98.112,
+      "end": 100.637,
+      "score": 0.902,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-095-021",
+      "text": "'Someone fired a shot through my office window.",
+      "start": 100.637,
+      "end": 104.663,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-095-022",
+      "text": "Accurate, don't you think?",
+      "start": 105.493,
+      "end": 106.583,
+      "score": 0.94,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-095-023",
+      "text": "Fortunately, I wasn't wearing it at the time.",
+      "start": 107.953,
+      "end": 110.343,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-095-024",
+      "text": "If I had been, I would not have been able to get home for lunch.'",
+      "start": 111.252,
+      "end": 118.323,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

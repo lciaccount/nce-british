@@ -1,0 +1,105 @@
+{
+  "audioSha256": "2d3dc53ce3c31feb0c6d9292ca530218c542fcf926bedc96cb740cf571835635",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-038-001",
+      "text": "Why did Harrison sell his house so quickly?",
+      "start": 14.612,
+      "end": 19.343,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-038-002",
+      "text": "My old friend, Harrison, had lived in the Mediterranean for many years before he returned to England.",
+      "start": 22.193,
+      "end": 31.082,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-038-003",
+      "text": "He had often dreamed of retiring in England and had planned to settle down in the country.",
+      "start": 32.892,
+      "end": 39.003,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-038-004",
+      "text": "He had no sooner returned than he bought a house and went to live there.",
+      "start": 41.392,
+      "end": 46.143,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-038-005",
+      "text": "Almost immediately he began to complain about the weather, for even though it was still summer, it rained continually and it was often bitterly cold.",
+      "start": 47.972,
+      "end": 60.483,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-038-006",
+      "text": "After so many years of sunshine, Harrison got a shock.",
+      "start": 62.273,
+      "end": 66.643,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-038-007",
+      "text": "He acted as if he had never lived in England before.",
+      "start": 68.032,
+      "end": 71.143,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-038-008",
+      "text": "In the end, it was more than he could bear.",
+      "start": 72.612,
+      "end": 75.363,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-038-009",
+      "text": "He had hardly had time to settle down when he sold the house and left the country.",
+      "start": 77.052,
+      "end": 82.203,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-038-010",
+      "text": "The dream he had had for so many years ended there.",
+      "start": 83.692,
+      "end": 87.243,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-038-011",
+      "text": "Harrison had thought of everything except the weather.",
+      "start": 88.653,
+      "end": 92.123,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

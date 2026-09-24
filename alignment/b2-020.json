@@ -1,0 +1,141 @@
+{
+  "audioSha256": "cf4bd00066c5fd0b03d82ca0c85d325a05afc891080a83f1b16472f05e0835e2",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-020-001",
+      "text": "Why is fishing the writer's favourite sport?",
+      "start": 15.312,
+      "end": 19.262,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-020-002",
+      "text": "Fishing is my favourite sport.",
+      "start": 22.273,
+      "end": 24.902,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-020-003",
+      "text": "I often fish for hours without catching anything.",
+      "start": 26.332,
+      "end": 30.782,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-020-004",
+      "text": "But this does not worry me.",
+      "start": 31.672,
+      "end": 33.483,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-020-005",
+      "text": "Some fishermen are unlucky.",
+      "start": 35.112,
+      "end": 37.183,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-020-006",
+      "text": "Instead of catching fish, they catch old boots and rubbish.",
+      "start": 38.233,
+      "end": 42.743,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-020-007",
+      "text": "I am even less lucky.",
+      "start": 44.712,
+      "end": 46.603,
+      "score": 0.994,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-020-008",
+      "text": "I never catch anything  --  not even old boots.",
+      "start": 47.193,
+      "end": 50.303,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-020-009",
+      "text": "After having spent whole mornings on the river, I always go home with an empty bag.",
+      "start": 52.612,
+      "end": 58.998,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-020-010",
+      "text": "'You must give up fishing!'",
+      "start": 58.998,
+      "end": 63.043,
+      "score": 0.909,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-020-011",
+      "text": "my friends say.",
+      "start": 63.572,
+      "end": 64.683,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-020-012",
+      "text": "'It's a waste of time.'",
+      "start": 65.672,
+      "end": 67.443,
+      "score": 0.893,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-020-013",
+      "text": "But they don't realize one important thing.",
+      "start": 69.133,
+      "end": 72.683,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-020-014",
+      "text": "I'm not really interested in fishing.",
+      "start": 74.293,
+      "end": 76.583,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-020-015",
+      "text": "I am only interested in sitting in a boat and doing nothing at all!",
+      "start": 77.972,
+      "end": 82.463,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "audioSha256": "7f3b3fd91c5e50f6abf59ca6e4a9ff1c3cad3a853b0c9f479f1ffdffb58051dd",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-009-001",
+      "text": "How is Emma?",
+      "start": 11.892,
+      "end": 13.202,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-009-002",
+      "text": "Hello Helen.",
+      "start": 16.273,
+      "end": 17.142,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-009-003",
+      "text": "Hi Steven.",
+      "start": 18.353,
+      "end": 19.503,
+      "score": 0.884,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-009-004",
+      "text": "How are you today?",
+      "start": 20.773,
+      "end": 22.442,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-009-005",
+      "text": "I'm very well thank you.",
+      "start": 23.793,
+      "end": 25.862,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-009-006",
+      "text": "And you?",
+      "start": 27.113,
+      "end": 27.622,
+      "score": 0.938,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-009-007",
+      "text": "I'm fine thanks.",
+      "start": 28.753,
+      "end": 30.182,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-009-008",
+      "text": "How is Tony?",
+      "start": 32.532,
+      "end": 33.723,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-009-009",
+      "text": "He's fine thanks.",
+      "start": 34.773,
+      "end": 36.563,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-009-010",
+      "text": "How's Emma?",
+      "start": 37.913,
+      "end": 38.783,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-009-011",
+      "text": "She's very well too Helen.",
+      "start": 40.212,
+      "end": 42.543,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-009-012",
+      "text": "Goodbye Helen.",
+      "start": 44.873,
+      "end": 45.843,
+      "score": 0.954,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-009-013",
+      "text": "Nice to see you.",
+      "start": 46.873,
+      "end": 47.843,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-009-014",
+      "text": "Nice to see you too Steven.",
+      "start": 49.093,
+      "end": 51.803,
+      "score": 0.948,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-009-015",
+      "text": "Goodbye.",
+      "start": 52.712,
+      "end": 53.383,
+      "score": 0.612,
+      "timingValid": true,
+      "needsReview": true
+    }
+  ]
+}

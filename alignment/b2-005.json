@@ -1,0 +1,69 @@
+{
+  "audioSha256": "f6024e3322c2830a1299439b107994965f5fd197c154d54e4b40c998a9d6e2c4",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-005-001",
+      "text": "What does 'No wrong numbers' mean?",
+      "start": 13.592,
+      "end": 18.402,
+      "score": 0.919,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-005-002",
+      "text": "Mr.James Scott has a garage in Silbury and now he has just bought another garage in Pinhurst.",
+      "start": 21.312,
+      "end": 31.362,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-005-003",
+      "text": "Pinhurst is only five miles from Silbury, but Mr. Scott cannot get a telephone for his new garage, so he has just bought twelve pigeons.",
+      "start": 32.852,
+      "end": 46.063,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-005-004",
+      "text": "Yesterday, a pigeon carried the first message from Pinhurst to Silbury.",
+      "start": 47.892,
+      "end": 53.103,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-005-005",
+      "text": "The bird covered the distance in three minutes.",
+      "start": 54.492,
+      "end": 57.363,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-005-006",
+      "text": "Up to now, Mr.Scott has sent a great many requests for spare parts and other urgent messages from one garage to the other.",
+      "start": 58.812,
+      "end": 68.003,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-005-007",
+      "text": "In this way, he has begun his own private 'telephone' service.",
+      "start": 69.353,
+      "end": 74.303,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

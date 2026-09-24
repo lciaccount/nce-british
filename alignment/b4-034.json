@@ -1,0 +1,132 @@
+{
+  "audioSha256": "de0208898bebd32ff70e4f4bf3291e11e06c8debfd095ce145cd37a6dcb31849",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-034-001",
+      "text": "What do adolescents respect in parents?",
+      "start": 11.392,
+      "end": 14.522,
+      "score": 0.937,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-034-002",
+      "text": "Parents are often upset when their children praise the homes of their friends and regard it as a slur on their own cooking, or cleaning, or furniture, and often are foolish enough to let the adolescents see that they are annoyed.",
+      "start": 17.273,
+      "end": 32.783,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-034-003",
+      "text": "They may even accuse them of disloyalty, or make some spiteful remark about the friends' parents.",
+      "start": 33.752,
+      "end": 40.623,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-034-004",
+      "text": "Such a loss of dignity and descent into childish behaviour on the part of the adults deeply shocks the adolescents, and makes them resolve that in future they will not talk to their parents about the places or people they visit.",
+      "start": 41.672,
+      "end": 57.103,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-034-005",
+      "text": "Before very long the parents will be complaining that the child is so secretive and never tells them anything, but they seldom realize that they have brought this on themselves.",
+      "start": 58.273,
+      "end": 69.723,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-034-006",
+      "text": "Disillusionment with the parents, however good and adequate they may be both as parents and as individuals, is to some degree inevitable.",
+      "start": 71.073,
+      "end": 80.503,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-034-007",
+      "text": "Most children have such a high ideal of their parents, unless the parents themselves have been unsatisfactory, that it can hardly hope to stand up to a realistic evaluation.",
+      "start": 81.573,
+      "end": 92.343,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-034-008",
+      "text": "Parents would be greatly surprised and deeply touched if they realized how much belief their children usually have in their character and infallibility, and how much this faith means to a child.",
+      "start": 93.692,
+      "end": 106.863,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-034-009",
+      "text": "If parents were prepared for this adolescent reaction, and realized that was a sign that the child was growing up and developing valuable powers of observation and independent judgment, they would not be so hurt, and therefore would not drive the child into opposition by resenting and resisting it.",
+      "start": 108.133,
+      "end": 128.142,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-034-010",
+      "text": "The adolescent, with his passion for sincerity, always respects a parent who admits that he is wrong, or ignorant, or even that he has been unfair or unjust.",
+      "start": 129.312,
+      "end": 141.382,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-034-011",
+      "text": "What the child cannot forgive is the parents' refusal to admit these charges if the child knows them to be true.",
+      "start": 142.392,
+      "end": 149.522,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-034-012",
+      "text": "Victorian parents believed that they kept their dignity by retreating behind an unreasoning authoritarian attitude in fact they did nothing of the kind, but children were then too cowed to let them know how they really felt.",
+      "start": 151.172,
+      "end": 168.062,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-034-013",
+      "text": "Today we tend to go to the other extreme, but on the whole this is a healthier attitude both for the child and the parent.",
+      "start": 169.072,
+      "end": 177.562,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-034-014",
+      "text": "It is always wiser and safer to face up to reality, however painful it may be at the moment.",
+      "start": 178.472,
+      "end": 185.422,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

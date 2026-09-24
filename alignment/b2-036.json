@@ -1,0 +1,114 @@
+{
+  "audioSha256": "c104a9088d25705e26f82faf09c58b8d5ce22b7358b7444b9edb4f5631f65442",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-036-001",
+      "text": "What is Debbie going to try to do?",
+      "start": 14.512,
+      "end": 17.703,
+      "score": 0.917,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-036-002",
+      "text": "Debbie Hart is going to swim across the English Channel tomorrow.",
+      "start": 20.713,
+      "end": 25.203,
+      "score": 0.95,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-036-003",
+      "text": "She is going to set out from the French coast at five o'clock in the morning.",
+      "start": 26.773,
+      "end": 32.263,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-036-004",
+      "text": "Debbie is only eleven years old and she hopes to set up a new world record.",
+      "start": 33.712,
+      "end": 40.163,
+      "score": 0.945,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-036-005",
+      "text": "She is a strong swimmer and many people feel that she is sure to succeed.",
+      "start": 41.373,
+      "end": 46.963,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-036-006",
+      "text": "Debbie's father will set out with her in a small boat.",
+      "start": 48.873,
+      "end": 52.963,
+      "score": 0.94,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-036-007",
+      "text": "Mr. Hart has trained his daughter for years.",
+      "start": 54.593,
+      "end": 57.843,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-036-008",
+      "text": "Tomorrow he will be watching her anxiously as she swims the long distance to England.",
+      "start": 59.392,
+      "end": 65.983,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-036-009",
+      "text": "Debbie intends to take short rests every two hours.",
+      "start": 67.832,
+      "end": 72.083,
+      "score": 0.933,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-036-010",
+      "text": "She will have something to drink but she will not eat any solid food.",
+      "start": 73.312,
+      "end": 78.263,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-036-011",
+      "text": "Most of Debbie's school friends will be waiting for her on the English coast.",
+      "start": 79.513,
+      "end": 84.323,
+      "score": 0.938,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-036-012",
+      "text": "Among them will be Debbie's mother, who swam the Channel herself when she was a girl.",
+      "start": 85.653,
+      "end": 92.023,
+      "score": 0.953,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

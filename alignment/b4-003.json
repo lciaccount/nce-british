@@ -1,0 +1,123 @@
+{
+  "audioSha256": "d764d68f301e15cf350e999ad5470260d2981890c933d538b56b679baf593591",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-003-001",
+      "text": "What was the main objective of early mountain climbers?",
+      "start": 12.172,
+      "end": 15.862,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-003-002",
+      "text": "Modern alpinists try to climb mountains by a route which will give them good sport, and the more difficult it is, the more highly it is regarded.",
+      "start": 18.693,
+      "end": 28.663,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-003-003",
+      "text": "In the pioneering days however, this was not the case at all.",
+      "start": 30.113,
+      "end": 33.663,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-003-004",
+      "text": "The early climbers were looking for the easiest way to the top because the summit was the prize they sought, especially if it had never been attained before.",
+      "start": 34.492,
+      "end": 44.783,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-003-005",
+      "text": "It is true that during their explorations they often faced difficulties and dangers of the most perilous nature, equipped in a manner which would make a modern climber shudder at the thought, but they did not go out of their way to court such excitement.",
+      "start": 46.133,
+      "end": 63.683,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-003-006",
+      "text": "They had a single aim, a solitary goal -- the top!",
+      "start": 64.552,
+      "end": 69.563,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-003-007",
+      "text": "It is hard for us to realize nowadays how difficult it was for the pioneers.",
+      "start": 71.112,
+      "end": 75.683,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-003-008",
+      "text": "Except for one or two places such as Zermatt and Chamonix, which had rapidly become popular.",
+      "start": 77.032,
+      "end": 84.103,
+      "score": 0.939,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-003-009",
+      "text": "Alpine villages tended to be impoverished settlements cut off from civilization by the high mountains.",
+      "start": 84.832,
+      "end": 91.203,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-003-010",
+      "text": "Such inns as there were were generally dirty and flea-ridden; the food simply local cheese accompanied by bread often twelve months old, all washed down with coarse wine.",
+      "start": 92.413,
+      "end": 105.583,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-003-011",
+      "text": "Often a valley boasted no inn at all, and climbers found shelter wherever they could -- sometimes with the local priest (who was usually as poor as his parishioners), sometimes with shepherds or cheese-makers.",
+      "start": 106.972,
+      "end": 121.963,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-003-012",
+      "text": "Invariably the background was the same:dirt and poverty, and very uncomfortable.",
+      "start": 123.252,
+      "end": 129.562,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-003-013",
+      "text": "For men accustomed to eating seven-course dinners and sleeping between fine linen sheets at home, the change to the Alps must have been very hard indeed.",
+      "start": 130.752,
+      "end": 140.463,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

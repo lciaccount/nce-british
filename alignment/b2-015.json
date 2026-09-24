@@ -1,0 +1,114 @@
+{
+  "audioSha256": "15c5014b15f518f230bf1d0d7ef3acf0361bb688ddcaa60c79028dd6d377c187",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-015-001",
+      "text": "What was the good news?",
+      "start": 13.252,
+      "end": 15.122,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-015-002",
+      "text": "The secretary told me that Mr. Harmsworth would see me.",
+      "start": 17.933,
+      "end": 22.703,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-015-003",
+      "text": "I felt very nervous when I went into his office.",
+      "start": 24.453,
+      "end": 27.782,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-015-004",
+      "text": "He did not look up from his desk when I entered.",
+      "start": 29.073,
+      "end": 32.183,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-015-005",
+      "text": "After I had sat down, he said that business was very bad.",
+      "start": 33.513,
+      "end": 38.783,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-015-006",
+      "text": "He told me that the firm could not afford to pay such large salaries.",
+      "start": 40.593,
+      "end": 46.323,
+      "score": 0.994,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-015-007",
+      "text": "Twenty people had already left.",
+      "start": 48.852,
+      "end": 51.023,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-015-008",
+      "text": "I knew that my turn had come.",
+      "start": 52.433,
+      "end": 54.378,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-015-009",
+      "text": "'Mr.",
+      "start": 54.378,
+      "end": 57.903,
+      "score": 0.831,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-015-010",
+      "text": "Harmsworth,' I said in a weak voice.",
+      "start": 57.933,
+      "end": 62.098,
+      "score": 0.95,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-015-011",
+      "text": "'Don't interrupt,' he said.",
+      "start": 62.098,
+      "end": 65.922,
+      "score": 0.899,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-015-012",
+      "text": "Then he smiled and told me I would receive an extra thousand pounds a year!",
+      "start": 67.633,
+      "end": 74.483,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

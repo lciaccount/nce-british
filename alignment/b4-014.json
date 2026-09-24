@@ -1,0 +1,123 @@
+{
+  "audioSha256": "1d97577f157690dc5b8ae3dec3df3fc965b52f4a7bc6578aababd183b76cfe99",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-014-001",
+      "text": "Why do small errors make it impossible to predict the weather system with a high degree of accuracy?",
+      "start": 13.032,
+      "end": 19.602,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-014-002",
+      "text": "Beyond two or three days, the world's best weather forecasts are speculative, and beyond six or seven they are worthless.",
+      "start": 23.193,
+      "end": 32.323,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-014-003",
+      "text": "The Butterfly Effect is the reason.",
+      "start": 33.333,
+      "end": 35.163,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-014-004",
+      "text": "For small pieces of weather-- and to a global forecaster, small can mean thunderstorms and blizzards-- any prediction deteriorates rapidly.",
+      "start": 36.172,
+      "end": 46.723,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-014-005",
+      "text": "Errors and uncertainties multiply, cascading upward through a chain of turbulent features, from dust devils and squalls up to continent-size eddies that only satellites can see.",
+      "start": 47.752,
+      "end": 60.523,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-014-006",
+      "text": "The modern weather models work with a grid of points of the order of sixty miles apart, and even so, some starting data has to be guessed, since ground stations and satellites cannot see everywhere.",
+      "start": 62.752,
+      "end": 77.123,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-014-007",
+      "text": "But suppose the earth could be covered with sensors spaced one foot apart, rising at one-foot intervals all the way to the top of the atmosphere.",
+      "start": 78.353,
+      "end": 88.103,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-014-008",
+      "text": "Suppose every sensor gives perfectly accurate readings of temperature, pressure, humidity, and any other quantity a meteorologist would want.",
+      "start": 89.332,
+      "end": 99.843,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-014-009",
+      "text": "Precisely at noon an infinitely powerful computer takes all the data and calculates what will happen at each point at 12.01, then 12.02, then 12.03...",
+      "start": 101.093,
+      "end": 114.683,
+      "score": 0.825,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-014-010",
+      "text": "The computer will still be unable to predict whether Princeton, New Jersey, will have sun or rain on a day one month away.",
+      "start": 116.853,
+      "end": 125.043,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-014-011",
+      "text": "At noon the spaces between the sensors will hide fluctuations that the computer will not know about, tiny deviations from the average.",
+      "start": 126.793,
+      "end": 135.623,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-014-012",
+      "text": "By 12.01, those fluctuations will already have created small errors one foot away.",
+      "start": 136.812,
+      "end": 143.222,
+      "score": 0.854,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-014-013",
+      "text": "Soon the errors will have multiplied to the ten-foot scale, and so on up to the size of the globe.",
+      "start": 144.172,
+      "end": 150.922,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

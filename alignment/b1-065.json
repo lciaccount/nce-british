@@ -1,0 +1,213 @@
+{
+  "audioSha256": "105218dcf3be43a6e84a25b7abd4d6e1a4422ea44df0181b4b091eec21b8dcbf",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-065-001",
+      "text": "Does Jill take the key to the front door?",
+      "start": 13.032,
+      "end": 16.162,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-065-002",
+      "text": "What are you going to do this evening, Jill?",
+      "start": 18.933,
+      "end": 21.742,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-065-003",
+      "text": "I'm going to meet some friends, Dad.",
+      "start": 23.133,
+      "end": 25.343,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-065-004",
+      "text": "You mustn't come home late.",
+      "start": 26.433,
+      "end": 28.203,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-065-005",
+      "text": "You must be home at half past ten.",
+      "start": 28.892,
+      "end": 31.622,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-065-006",
+      "text": "I can't get home so early, Dad!",
+      "start": 33.273,
+      "end": 35.903,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-065-007",
+      "text": "Can I have the key to the front door, please?",
+      "start": 37.633,
+      "end": 40.383,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-065-008",
+      "text": "No, you can't.",
+      "start": 41.233,
+      "end": 42.903,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-065-009",
+      "text": "Jill's eighteen years old, Tom.",
+      "start": 44.672,
+      "end": 47.163,
+      "score": 0.922,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-065-010",
+      "text": "She's not a baby.",
+      "start": 47.812,
+      "end": 48.943,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-065-011",
+      "text": "Give her the key.",
+      "start": 49.633,
+      "end": 50.643,
+      "score": 0.803,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-065-012",
+      "text": "She always comes home early.",
+      "start": 51.653,
+      "end": 53.803,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-065-013",
+      "text": "Oh, all right!",
+      "start": 55.073,
+      "end": 56.663,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-065-014",
+      "text": "Here you are.",
+      "start": 58.093,
+      "end": 59.003,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-065-015",
+      "text": "But you mustn't come home after a quarter past eleven.",
+      "start": 59.733,
+      "end": 63.483,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-065-016",
+      "text": "Do you hear?",
+      "start": 63.933,
+      "end": 64.683,
+      "score": 0.937,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-065-017",
+      "text": "Yes, Dad.",
+      "start": 65.752,
+      "end": 67.043,
+      "score": 0.857,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-065-018",
+      "text": "Thanks, Mum.",
+      "start": 68.192,
+      "end": 68.963,
+      "score": 0.892,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-065-019",
+      "text": "That's all right.",
+      "start": 70.493,
+      "end": 71.383,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-065-020",
+      "text": "Goodbye.",
+      "start": 72.213,
+      "end": 72.863,
+      "score": 0.927,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-065-021",
+      "text": "Enjoy yourself!",
+      "start": 73.653,
+      "end": 74.683,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-065-022",
+      "text": "We always enjoy ourselves, Mum.",
+      "start": 75.992,
+      "end": 78.263,
+      "score": 0.942,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-065-023",
+      "text": "Bye-bye.",
+      "start": 78.972,
+      "end": 79.443,
+      "score": 0.74,
+      "timingValid": true,
+      "needsReview": true
+    }
+  ]
+}

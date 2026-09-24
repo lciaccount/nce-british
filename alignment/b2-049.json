@@ -1,0 +1,105 @@
+{
+  "audioSha256": "8c900c1b754cf75b1ad4bf60af5ee0a81c1e901120d145b8f4374f3b33faefd3",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-049-001",
+      "text": "How did the dream end?",
+      "start": 13.052,
+      "end": 14.702,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-049-002",
+      "text": "Tired of sleeping on the floor, a young man in Teheran saved up for years to buy a real bed.",
+      "start": 17.573,
+      "end": 26.302,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-049-003",
+      "text": "For the first time in his life, he became the proud owner of a bed which had springs and a mattress.",
+      "start": 28.153,
+      "end": 36.183,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-049-004",
+      "text": "Because the weather was very hot, he carried the bed on to the roof of his house.",
+      "start": 38.553,
+      "end": 44.443,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-049-005",
+      "text": "He slept very well for the first two nights, but on the third night, a storm blew up.",
+      "start": 46.172,
+      "end": 52.743,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-049-006",
+      "text": "A gust of wind swept the bed off the roof and sent it crashing into the courtyard below.",
+      "start": 54.712,
+      "end": 62.163,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-049-007",
+      "text": "The young man did not wake up until the bed had struck the ground.",
+      "start": 64.133,
+      "end": 68.483,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-049-008",
+      "text": "Although the bed was smashed to pieces, the man was miraculously unhurt.",
+      "start": 70.913,
+      "end": 76.363,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-049-009",
+      "text": "When he woke up, he was still on the mattress.",
+      "start": 77.693,
+      "end": 80.963,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-049-010",
+      "text": "Glancing at the bits of wood and metal that lay around him, the man sadly picked up the mattress and carried it into his house.",
+      "start": 82.733,
+      "end": 92.043,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-049-011",
+      "text": "After he had put it on the floor, he promptly went to sleep again.",
+      "start": 93.933,
+      "end": 97.743,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

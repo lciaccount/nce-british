@@ -1,0 +1,96 @@
+{
+  "audioSha256": "0804501203258f28bca5d7a10a999f62b631ae78f67f46f35586465c85dcfec6",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-021-001",
+      "text": "Why do people think the writer is mad?",
+      "start": 14.412,
+      "end": 17.602,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-021-002",
+      "text": "Aeroplanes are slowly driving me mad.",
+      "start": 20.593,
+      "end": 24.203,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-021-003",
+      "text": "I live near an airport and passing planes can be heard night and day.",
+      "start": 25.873,
+      "end": 32.163,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-021-004",
+      "text": "The airport was built years ago, but for some reason it could not be used then.",
+      "start": 34.013,
+      "end": 42.103,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-021-005",
+      "text": "Last year, however, it came into use.",
+      "start": 43.812,
+      "end": 47.323,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-021-006",
+      "text": "Over a hundred people must have been driven away from their homes by the noise.",
+      "start": 48.773,
+      "end": 53.823,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-021-007",
+      "text": "I am one of the few people left.",
+      "start": 55.513,
+      "end": 57.663,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-021-008",
+      "text": "Sometimes I think this house will be knocked down by a passing plane.",
+      "start": 59.433,
+      "end": 64.503,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-021-009",
+      "text": "I have been offered a large sum of money to go away, but I am determined to stay here.",
+      "start": 66.293,
+      "end": 73.823,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-021-010",
+      "text": "Everybody says I must be mad and they are probably right.",
+      "start": 75.233,
+      "end": 79.063,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

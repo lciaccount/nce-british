@@ -1,0 +1,96 @@
+{
+  "audioSha256": "bc687f38859a6f94420f9efdb274abc50f6c1893a15578dd1b2cd073255dceb4",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-062-001",
+      "text": "What was the danger to the villages after the fire?",
+      "start": 13.192,
+      "end": 17.782,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-062-002",
+      "text": "Firemen had been fighting the forest fire for nearly three weeks before they could get it under control.",
+      "start": 20.532,
+      "end": 27.782,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-062-003",
+      "text": "A short time before, great trees had covered the countryside for miles around.",
+      "start": 29.312,
+      "end": 35.683,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-062-004",
+      "text": "Now, smoke still rose up from the warm ground over the desolate hills.",
+      "start": 36.672,
+      "end": 43.123,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-062-005",
+      "text": "Winter was coming on and the hills threatened the surrounding villages with destruction, for heavy rain would not only wash away the soil but would cause serious floods as well.",
+      "start": 44.273,
+      "end": 58.083,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-062-006",
+      "text": "When the fire had at last been put out, the forest authorities ordered several tons of a special type of grass-seed which would grow quickly.",
+      "start": 59.793,
+      "end": 70.283,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-062-007",
+      "text": "The seed was sprayed over the ground in huge quantities by aeroplanes.",
+      "start": 71.593,
+      "end": 77.823,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-062-008",
+      "text": "The planes had been planting seed for nearly a month when it began to rain.",
+      "start": 79.272,
+      "end": 84.703,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-062-009",
+      "text": "By then, however, in many places the grass had already taken root.",
+      "start": 85.912,
+      "end": 91.083,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-062-010",
+      "text": "In place of the great trees which had been growing there for centuries, patches of green had begun to appear in the blackened soil.",
+      "start": 92.252,
+      "end": 100.723,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

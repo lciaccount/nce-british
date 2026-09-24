@@ -1,0 +1,321 @@
+{
+  "audioSha256": "7f1e85e16a3ca382ddcc02a295c7ac488178d048faf524eaf87d0e4b4984d645",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-048-001",
+      "text": "Why was the village silent?",
+      "start": 11.352,
+      "end": 13.602,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-002",
+      "text": "In this much-travelled world, there are still thousands of places which are inaccessible to tourists.",
+      "start": 16.352,
+      "end": 22.363,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-003",
+      "text": "We always assume that villagers in remote places are friendly and hospitable.",
+      "start": 23.393,
+      "end": 28.462,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-004",
+      "text": "But people who are cut off not only from foreign tourists, but even from their own countrymen can be hostile to travellers.",
+      "start": 29.312,
+      "end": 37.403,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-005",
+      "text": "Visits to really remote villages are seldom enjoyable--as my wife and I discovered during a tour through the Balkans.",
+      "start": 38.133,
+      "end": 46.543,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-006",
+      "text": "We had spent several days in a small town and visited a number of old churches in the vicinity.",
+      "start": 47.833,
+      "end": 54.283,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-007",
+      "text": "These attracted many visitors, for they were not only of great architectural interest, but contained a large number of beautifully preserved frescoes as well.",
+      "start": 55.752,
+      "end": 65.943,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-008",
+      "text": "On the day before our departure, several bus loads of tourists descended on the town.",
+      "start": 67.133,
+      "end": 72.503,
+      "score": 0.946,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-009",
+      "text": "This was more than we could bear, so we decided to spend our last day exploring the countryside.",
+      "start": 73.713,
+      "end": 80.623,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-010",
+      "text": "Taking a path which led out of the town, we crossed a few fields until we came to a dense wood.",
+      "start": 81.912,
+      "end": 88.823,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-011",
+      "text": "We expected the path to end abruptly, but we found that it traced its way through the trees.",
+      "start": 89.713,
+      "end": 95.323,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-012",
+      "text": "We tramped through the wood for over two hours until we arrived at a deep stream.",
+      "start": 96.213,
+      "end": 100.803,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-013",
+      "text": "We could see that the path continued on the other side, but we had no idea how we could get across the stream.",
+      "start": 101.713,
+      "end": 108.503,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-014",
+      "text": "Suddenly my wife spotted a boat moored to the bank.",
+      "start": 109.593,
+      "end": 112.943,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-015",
+      "text": "In it there was a boatman fast asleep.",
+      "start": 113.752,
+      "end": 116.283,
+      "score": 0.995,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-016",
+      "text": "We gently woke him up and asked him to ferry us to the other side.",
+      "start": 116.972,
+      "end": 120.983,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-017",
+      "text": "Though he was reluctant to do so at first, we eventually persuaded him to take us.",
+      "start": 122.192,
+      "end": 126.943,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-018",
+      "text": "The path led to a tiny village perched on the steep sides of a mountain.",
+      "start": 128.172,
+      "end": 132.802,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-019",
+      "text": "The place consisted of a straggling unmade road which was lined on either side by small houses.",
+      "start": 133.772,
+      "end": 140.002,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-020",
+      "text": "Even under a clear blue sky, the village looked forbidding, as all the houses were built of grey mud bricks.",
+      "start": 140.872,
+      "end": 149.222,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-021",
+      "text": "The village seemed deserted, the only sign of life being an ugly-looking black goat on a short length of rope tied to a tree in a field nearby.",
+      "start": 150.332,
+      "end": 159.922,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-022",
+      "text": "Sitting down on a dilapidated wooden fence near the field, we opened a couple of tins of sardines and had a picnic lunch.",
+      "start": 160.852,
+      "end": 169.082,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-023",
+      "text": "All at once, I noticed that my wife seemed to be filled with alarm.",
+      "start": 170.252,
+      "end": 174.702,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-024",
+      "text": "Looking up I saw that we were surrounded by children in rags who were looking at us silently as we ate.",
+      "start": 175.752,
+      "end": 182.802,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-025",
+      "text": "We offered them food and spoke to them kindly, but they remained motionless.",
+      "start": 183.712,
+      "end": 189.302,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-026",
+      "text": "I concluded that they were simply shy of strangers.",
+      "start": 190.392,
+      "end": 193.522,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-027",
+      "text": "When we later walked down the main street of the village, we were followed by a silent procession of children.",
+      "start": 194.512,
+      "end": 200.123,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-028",
+      "text": "The village which had seemed deserted, immediately came to life.",
+      "start": 201.052,
+      "end": 205.162,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-029",
+      "text": "Faces appeared at windows.",
+      "start": 206.132,
+      "end": 207.702,
+      "score": 0.921,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-030",
+      "text": "Men in shirt sleeves stood outside their houses and glared at us.",
+      "start": 208.512,
+      "end": 212.742,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-031",
+      "text": "Old women in black shawls peered at us from doorways.",
+      "start": 213.812,
+      "end": 217.382,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-032",
+      "text": "The most frightening thing of all was that not a sound could be heard.",
+      "start": 218.192,
+      "end": 222.403,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-033",
+      "text": "There was no doubt that we were unwelcome visitors.",
+      "start": 223.272,
+      "end": 226.282,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-034",
+      "text": "We needed no further warning.",
+      "start": 227.132,
+      "end": 228.742,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-048-035",
+      "text": "Turning back down the main street, we quickened our pace and made our way rapidly towards the stream where we hoped the boatman was waiting.",
+      "start": 229.512,
+      "end": 238.362,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

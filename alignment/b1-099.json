@@ -1,0 +1,159 @@
+{
+  "audioSha256": "294b49ef13e976ae070fa1668521ad5f03b5aac4d5b82129028bc7e06c5f1e6c",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-099-001",
+      "text": "Must Andy go to see the doctor?",
+      "start": 12.012,
+      "end": 14.542,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-099-002",
+      "text": "Ow!",
+      "start": 17.492,
+      "end": 17.703,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-099-003",
+      "text": "What's the matter, Andy?",
+      "start": 18.713,
+      "end": 19.902,
+      "score": 0.899,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-099-004",
+      "text": "I slipped and fell downstairs.",
+      "start": 20.652,
+      "end": 23.043,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-099-005",
+      "text": "Have you hurt yourself?",
+      "start": 23.893,
+      "end": 25.302,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-099-006",
+      "text": "Yes, I have.",
+      "start": 25.873,
+      "end": 27.122,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-099-007",
+      "text": "I think that I've hurt my back.",
+      "start": 27.712,
+      "end": 29.803,
+      "score": 0.943,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-099-008",
+      "text": "Try and stand up.",
+      "start": 30.913,
+      "end": 32.183,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-099-009",
+      "text": "Can you stand up?",
+      "start": 33.472,
+      "end": 34.443,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-099-010",
+      "text": "Here.",
+      "start": 35.752,
+      "end": 36.083,
+      "score": 0.998,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-099-011",
+      "text": "Let me help you.",
+      "start": 36.413,
+      "end": 37.343,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-099-012",
+      "text": "I'm sorry, Lucy.",
+      "start": 38.593,
+      "end": 40.023,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-099-013",
+      "text": "I'm afraid that I can't get up.",
+      "start": 40.413,
+      "end": 42.683,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-099-014",
+      "text": "I think that the doctor had better see you.",
+      "start": 44.312,
+      "end": 46.663,
+      "score": 0.938,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-099-015",
+      "text": "I'll phone Dr. Carter.",
+      "start": 47.453,
+      "end": 49.023,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-099-016",
+      "text": "The doctor says that he will come at once.",
+      "start": 50.873,
+      "end": 53.263,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-099-017",
+      "text": "I'm sure that you need an X-ray, Andy.",
+      "start": 54.293,
+      "end": 56.923,
+      "score": 0.95,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

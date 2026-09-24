@@ -1,0 +1,159 @@
+{
+  "audioSha256": "fe33d37dc2026ef486a3766cb40c00dafec996fa49cf3b5c6c8e7cc4fc84957d",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-007-001",
+      "text": "What is Rober's job?",
+      "start": 12.432,
+      "end": 14.662,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-007-002",
+      "text": "I am a new student.",
+      "start": 17.593,
+      "end": 19.183,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-007-003",
+      "text": "My name's Robert.",
+      "start": 19.992,
+      "end": 21.762,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-007-004",
+      "text": "Nice to meet you.",
+      "start": 23.433,
+      "end": 25.142,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-007-005",
+      "text": "My name's Sophie.",
+      "start": 26.273,
+      "end": 28.282,
+      "score": 0.802,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-007-006",
+      "text": "Are you French?",
+      "start": 29.933,
+      "end": 31.203,
+      "score": 0.999,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-007-007",
+      "text": "Yes I am.",
+      "start": 31.953,
+      "end": 33.483,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-007-008",
+      "text": "Are you French too?",
+      "start": 35.713,
+      "end": 37.443,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-007-009",
+      "text": "No I am not.",
+      "start": 38.672,
+      "end": 41.023,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-007-010",
+      "text": "What nationality are you?",
+      "start": 42.212,
+      "end": 44.983,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-007-011",
+      "text": "I'm Italian.",
+      "start": 46.473,
+      "end": 48.163,
+      "score": 0.952,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-007-012",
+      "text": "Are you a teacher?",
+      "start": 50.812,
+      "end": 52.403,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-007-013",
+      "text": "No I'm not.",
+      "start": 53.273,
+      "end": 54.843,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-007-014",
+      "text": "What's your job?",
+      "start": 56.653,
+      "end": 58.103,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-007-015",
+      "text": "I'm a keyboard operator.",
+      "start": 59.312,
+      "end": 62.043,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-007-016",
+      "text": "What's your job?",
+      "start": 63.752,
+      "end": 65.083,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-007-017",
+      "text": "I'm an engineer.",
+      "start": 66.312,
+      "end": 68.083,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

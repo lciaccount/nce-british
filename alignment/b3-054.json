@@ -1,0 +1,285 @@
+{
+  "audioSha256": "a1043784e74bfd7bc6d8301a669c7dba5bf1eb036701a44d2cc64531999854c8",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-054-001",
+      "text": "Was the writer successful in protecting his peach tree?",
+      "start": 13.352,
+      "end": 17.102,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-002",
+      "text": "Why not?",
+      "start": 17.753,
+      "end": 18.343,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-003",
+      "text": "We have been brought up to fear insects.",
+      "start": 21.073,
+      "end": 23.642,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-004",
+      "text": "We regard them as unnecessary creatures that do more harm than good.",
+      "start": 24.233,
+      "end": 28.542,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-005",
+      "text": "We continually wage war on them, for they contaminate our food, carry diseases, or devour our crops.",
+      "start": 29.212,
+      "end": 36.383,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-006",
+      "text": "They sting or bite without provocation; they fly uninvited into our rooms on summer nights, or beat against our lighted windows.",
+      "start": 36.972,
+      "end": 46.043,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-007",
+      "text": "We live in dread not only of unpleasant insects like spiders or wasps, but of quite harmless ones like moths.",
+      "start": 47.073,
+      "end": 55.363,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-008",
+      "text": "Reading about them increases our understanding without dispelling our fears.",
+      "start": 56.073,
+      "end": 60.483,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-009",
+      "text": "Knowing that the industrious ant lives in a highly organized society does nothing to prevent us from being filled with revulsion when we find hordes of them crawling over a carefully prepared picnic lunch.",
+      "start": 61.392,
+      "end": 74.563,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-010",
+      "text": "No matter how much we like honey, or how much we have read about the uncanny sense of direction which bees possess, we have a horror of being stung.",
+      "start": 75.433,
+      "end": 85.303,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-011",
+      "text": "Most of our fears are unreasonable, but they are impossible to erase.",
+      "start": 86.272,
+      "end": 91.003,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-012",
+      "text": "At the same time, however, insects are strangely fascinating.",
+      "start": 91.953,
+      "end": 95.903,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-013",
+      "text": "We enjoy reading about them, especially when we find that, like the praying mantis, they lead perfectly horrible lives.",
+      "start": 96.713,
+      "end": 104.943,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-014",
+      "text": "We enjoy staring at them, entranced as they go about their business, unaware (we hope) of our presence.",
+      "start": 105.593,
+      "end": 112.963,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-015",
+      "text": "Who has not stood in awe at the sight of a spider pouncing on a fly, or a column of ants triumphantly bearing home an enormous dead beetle?",
+      "start": 113.513,
+      "end": 123.443,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-016",
+      "text": "Last summer I spent days in the garden watching thousands of ants crawling up the trunk of my prize peach tree.",
+      "start": 124.392,
+      "end": 131.762,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-017",
+      "text": "The tree has grown against a warm wall on a sheltered side of the house.",
+      "start": 132.452,
+      "end": 136.502,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-018",
+      "text": "I am especially proud of it, not only because it has survived several severe winters, but because it occasionally produces luscious peaches.",
+      "start": 137.132,
+      "end": 146.602,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-019",
+      "text": "During the summer, I noticed that the leaves of the tree were beginning to wither.",
+      "start": 147.412,
+      "end": 151.922,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-020",
+      "text": "Clusters of tiny insects called aphides were to be found on the underside of the leaves.",
+      "start": 152.352,
+      "end": 158.463,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-021",
+      "text": "They were visited by a large colony of ants which obtained a sort of honey from them.",
+      "start": 159.392,
+      "end": 164.343,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-022",
+      "text": "I immediately embarked on an experiment which even though it failed to get rid of the ants kept me fascinated for twenty-four hours.",
+      "start": 165.012,
+      "end": 172.702,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-023",
+      "text": "I bound the base of the tree with sticky tape, making it impossible for the ants to reach the aphides.",
+      "start": 173.812,
+      "end": 179.662,
+      "score": 0.937,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-024",
+      "text": "The tape was so sticky that they did not dare to cross it.",
+      "start": 180.412,
+      "end": 183.502,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-025",
+      "text": "For a long time, I watched them scurrying around the base of the tree in bewilderment.",
+      "start": 184.172,
+      "end": 189.123,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-026",
+      "text": "I even went out at midnight with a torch and noted with satisfaction (and surprise) that the ants were still swarming around the sticky tape without being able to do anything about it.",
+      "start": 189.912,
+      "end": 201.062,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-027",
+      "text": "I got up early next morning hoping to find that the ants had given up in despair.",
+      "start": 201.952,
+      "end": 206.942,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-028",
+      "text": "Instead, I saw that they had discovered a new route.",
+      "start": 207.652,
+      "end": 211.403,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-029",
+      "text": "They were climbing up the wall of the house and then on to the leaves of the tree.",
+      "start": 211.992,
+      "end": 216.602,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-030",
+      "text": "I realized sadly that I had been completely defeated by their ingenuity.",
+      "start": 217.592,
+      "end": 222.422,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-054-031",
+      "text": "The ants had been quick to find an answer to my thoroughly unscientific methods!",
+      "start": 222.892,
+      "end": 228.102,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

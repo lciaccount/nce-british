@@ -1,0 +1,114 @@
+{
+  "audioSha256": "b2da77130a7e4bcd913e33c6aed1c7e53a8971dc0e9d7dbcf45415c4a5ece48b",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-094-001",
+      "text": "What kind of race do the children compete in?",
+      "start": 14.092,
+      "end": 17.482,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-094-002",
+      "text": "Experiments have proved that children can be instructed in swimming at a very early age.",
+      "start": 20.692,
+      "end": 27.262,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-094-003",
+      "text": "At a special swimming pool in Los Angeles, children become expert at holding their breath under water even before they can walk.",
+      "start": 29.113,
+      "end": 37.903,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-094-004",
+      "text": "Babies of two months old do not appear to be reluctant to enter the water.",
+      "start": 39.633,
+      "end": 44.343,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-094-005",
+      "text": "It is not long before they are so accustomed to swimming that they can pick up weights from the floor of the pool.",
+      "start": 45.572,
+      "end": 52.503,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-094-006",
+      "text": "A game that is very popular with these young swimmers is the underwater tricycle race.",
+      "start": 54.193,
+      "end": 60.063,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-094-007",
+      "text": "Tricycles are lined up on the floor of the pool seven feet under water.",
+      "start": 61.413,
+      "end": 66.603,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-094-008",
+      "text": "The children compete against each other to reach the other end of the pool.",
+      "start": 67.892,
+      "end": 72.223,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-094-009",
+      "text": "Many pedal their tricycles but most of them prefer to push or drag them.",
+      "start": 73.612,
+      "end": 79.422,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-094-010",
+      "text": "Some children can cover the whole length of the pool without coming up for breath even once.",
+      "start": 81.052,
+      "end": 86.463,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-094-011",
+      "text": "Whether they will ever become future Olympic champions, only time will tell.",
+      "start": 87.853,
+      "end": 92.763,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-094-012",
+      "text": "Meanwhile, they should encourage those among us who cannot swim five yards before they are gasping for air.",
+      "start": 93.733,
+      "end": 100.503,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

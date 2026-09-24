@@ -1,0 +1,105 @@
+{
+  "audioSha256": "582aba8df2d82137d6202aeea1d79096718afe2ddfa4b40c8f1e9ad2ba4d49a9",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-033-001",
+      "text": "Where is the Jones family?",
+      "start": 13.912,
+      "end": 16.043,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-033-002",
+      "text": "It is a fine day today.",
+      "start": 18.812,
+      "end": 20.982,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-033-003",
+      "text": "There are some clouds in the sky, but the sun is shining.",
+      "start": 22.473,
+      "end": 28.962,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-033-004",
+      "text": "Mr. Jones is with his family.",
+      "start": 31.513,
+      "end": 34.863,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-033-005",
+      "text": "They are walking over the bridge.",
+      "start": 36.573,
+      "end": 39.543,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-033-006",
+      "text": "There are some boats on the river.",
+      "start": 41.733,
+      "end": 44.463,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-033-007",
+      "text": "Mr. Jones and his wife are looking at them.",
+      "start": 47.212,
+      "end": 51.483,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-033-008",
+      "text": "Sally is looking at a big ship.",
+      "start": 53.653,
+      "end": 57.263,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-033-009",
+      "text": "The ship is going under the bridge.",
+      "start": 59.573,
+      "end": 62.703,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-033-010",
+      "text": "Tim is looking at an aeroplane.",
+      "start": 64.993,
+      "end": 68.143,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-033-011",
+      "text": "The aeroplane is flying over the river.",
+      "start": 70.233,
+      "end": 74.303,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

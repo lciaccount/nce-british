@@ -1,0 +1,105 @@
+{
+  "audioSha256": "6b9e245afb70705fba339e0fec1f013aa806d161933190fc0106482eb7b9854c",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-016-001",
+      "text": "What is the author's main argument about the modern city?",
+      "start": 13.932,
+      "end": 17.723,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-016-002",
+      "text": "In the organization of industrial life the influence of the factory upon the physiological and mental state of the workers has been completely neglected.",
+      "start": 20.453,
+      "end": 30.142,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-016-003",
+      "text": "Modern industry is based on the conception of the maximum production at lowest cost, in order that an individual or a group of individuals may earn as much money as possible.",
+      "start": 31.273,
+      "end": 43.323,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-016-004",
+      "text": "It has expanded without any idea of the true nature of the human beings who run the machines, and without giving any consideration to the effects produced on the individuals and on their descendants by the artificial mode of existence imposed by the factory.",
+      "start": 44.572,
+      "end": 61.263,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-016-005",
+      "text": "The great cities have been built with no regard for us.",
+      "start": 62.432,
+      "end": 65.823,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-016-006",
+      "text": "The shape and dimensions of the skyscrapers depend entirely on the necessity of obtaining the maximum income per square foot of ground, and of offering to the tenants offices and apartments that please them.",
+      "start": 66.793,
+      "end": 80.663,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-016-007",
+      "text": "This caused the construction of gigantic buildings where too large masses of human beings are crowded together.",
+      "start": 82.013,
+      "end": 90.003,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-016-008",
+      "text": "Civilized men like such a way of living.",
+      "start": 91.392,
+      "end": 94.003,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-016-009",
+      "text": "While they enjoy the comfort and banal luxury of their dwelling, they do not realize that they are deprived of the necessities of life.",
+      "start": 94.793,
+      "end": 102.863,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-016-010",
+      "text": "The modern city consists of monstrous edifices and of dark, narrow streets full of petrol fumes and toxic gases, torn by the noise of the taxicabs, lorries and buses, and thronged ceaselessly by great crowds.",
+      "start": 104.112,
+      "end": 119.803,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-016-011",
+      "text": "Obviously, it has not been planned for the good of its inhabitants.",
+      "start": 120.713,
+      "end": 124.243,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "audioSha256": "f2f5683bfaf749f3862e1e0723876ae8c00daad8b26c7469013260a0dc44ebcb",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-001-001",
+      "text": "Whose handbag is it?",
+      "start": 10.992,
+      "end": 12.582,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-001-002",
+      "text": "Excuse me!",
+      "start": 15.352,
+      "end": 15.942,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-001-003",
+      "text": "Yes?",
+      "start": 16.973,
+      "end": 17.482,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-001-004",
+      "text": "Is this your handbag?",
+      "start": 18.492,
+      "end": 20.242,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-001-005",
+      "text": "Pardon?",
+      "start": 21.492,
+      "end": 21.982,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-001-006",
+      "text": "Is this your handbag?",
+      "start": 23.312,
+      "end": 25.302,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-001-007",
+      "text": "Yes it is.",
+      "start": 26.492,
+      "end": 27.922,
+      "score": 0.95,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-001-008",
+      "text": "Thank you very much.",
+      "start": 30.352,
+      "end": 32.383,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

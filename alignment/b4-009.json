@@ -1,0 +1,168 @@
+{
+  "audioSha256": "162b71667b92f668fed02be15b226db6206b1770904db3f9ef69f03182e35957",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-009-001",
+      "text": "What important thing did King Alfred learn when he penetrated the Danish camp of Guthrum?",
+      "start": 12.872,
+      "end": 19.402,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-009-002",
+      "text": "Alfred the Great acted as his own spy, visiting Danish camps disguised as a minstrel.",
+      "start": 22.233,
+      "end": 28.942,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-009-003",
+      "text": "In those days wandering minstrels were welcome everywhere.",
+      "start": 30.013,
+      "end": 33.443,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-009-004",
+      "text": "They were not fighting men, and their harp was their passport.",
+      "start": 34.252,
+      "end": 38.103,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-009-005",
+      "text": "Alfred had learned many of their ballads in his youth and could vary his programme with acrobatic tricks and simple conjuring.",
+      "start": 39.193,
+      "end": 47.183,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-009-006",
+      "text": "While Alfred's little army slowly began to gather at Athelney, the king himself set out to penetrate the camp of Guthrum, the commander of the Danish invaders.",
+      "start": 48.712,
+      "end": 60.123,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-009-007",
+      "text": "These had settled down for the winter at Chippenham: thither Alfred went.",
+      "start": 61.513,
+      "end": 66.703,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-009-008",
+      "text": "He noticed at once that discipline was slack: the Danes had the self-confidence of conquerors, and their security precautions were casual.",
+      "start": 67.392,
+      "end": 76.642,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-009-009",
+      "text": "They lived well, on the proceeds of raids on neighbouring regions.",
+      "start": 77.752,
+      "end": 81.343,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-009-010",
+      "text": "There they collected women as well as food and drink, and a life of ease had made them soft.",
+      "start": 82.213,
+      "end": 88.263,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-009-011",
+      "text": "Alfred stayed in the camp a week before he returned to Athelney.",
+      "start": 89.953,
+      "end": 93.703,
+      "score": 0.945,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-009-012",
+      "text": "The force there assembled was trivial compared with the Danish horde.",
+      "start": 94.793,
+      "end": 98.563,
+      "score": 0.948,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-009-013",
+      "text": "But Alfred had deduced that the Danes were no longer fit for prolonged battle: and that their commissariat had no organization, but depended on irregular raids.",
+      "start": 99.413,
+      "end": 110.703,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-009-014",
+      "text": "So, faced with the Danish advance, Alfred did not risk open battle but harried the enemy.",
+      "start": 111.913,
+      "end": 118.663,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-009-015",
+      "text": "He was constantly on the move, drawing the Danes after him.",
+      "start": 119.413,
+      "end": 122.983,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-009-016",
+      "text": "His patrols halted the raiding parties: hunger assailed the Danish army.",
+      "start": 123.832,
+      "end": 128.843,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-009-017",
+      "text": "Now Alfred began a long series of skirmishes -- and within a month the Danes had surrendered.",
+      "start": 130.112,
+      "end": 136.602,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-009-018",
+      "text": "The episode could reasonably serve as a unique epic of royal espionage!",
+      "start": 137.392,
+      "end": 142.683,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

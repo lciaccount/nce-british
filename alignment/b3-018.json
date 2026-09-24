@@ -1,0 +1,177 @@
+{
+  "audioSha256": "50960d737944023720ca29014d70a2682ef3d23b167d41344e9d82f6c0267739",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-018-001",
+      "text": "How might some of the exhibits have been dangerous?",
+      "start": 14.232,
+      "end": 17.102,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-018-002",
+      "text": "Modern sculpture rarely surprises us any more.",
+      "start": 19.853,
+      "end": 22.982,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-018-003",
+      "text": "The idea that modern art can only be seen in museums is mistaken.",
+      "start": 23.992,
+      "end": 28.782,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-018-004",
+      "text": "Even people who take no interest in art cannot have failed to notice examples of modern sculpture on display in public places.",
+      "start": 30.352,
+      "end": 38.323,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-018-005",
+      "text": "Strange forms stand in gardens, and outside buildings and shops.",
+      "start": 40.013,
+      "end": 44.363,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-018-006",
+      "text": "We have got quite used to them.",
+      "start": 45.812,
+      "end": 47.263,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-018-007",
+      "text": "Some so-called 'modern' pieces have been on display for nearly eighty years.",
+      "start": 48.472,
+      "end": 52.983,
+      "score": 0.954,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-018-008",
+      "text": "In spite of this, some people--including myself--were surprised by a recent exhibition of modern sculpture.",
+      "start": 54.693,
+      "end": 62.123,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-018-009",
+      "text": "The first thing I saw when I entered the art gallery was a notice which said: 'Do not touch the exhibits, some of them are dangerous!'",
+      "start": 63.712,
+      "end": 72.883,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-018-010",
+      "text": "The objects on display were pieces of moving sculpture.",
+      "start": 73.812,
+      "end": 76.922,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-018-011",
+      "text": "Oddly shaped forms that are suspended from the ceiling and move in response to a gust of wind are quite familiar to everybody.",
+      "start": 77.653,
+      "end": 85.183,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-018-012",
+      "text": "These objects, however, were different.",
+      "start": 86.472,
+      "end": 88.863,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-018-013",
+      "text": "Lined up against the wall, there were long thin wires attached to metal spheres.",
+      "start": 90.052,
+      "end": 94.963,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-018-014",
+      "text": "The spheres had been magnetized and attracted or repelled each other all the time.",
+      "start": 96.112,
+      "end": 101.543,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-018-015",
+      "text": "In the centre of the hall, there were a number of tall structures which contained coloured lights.",
+      "start": 102.853,
+      "end": 108.263,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-018-016",
+      "text": "These lights flickered continuously like traffic lights which have gone mad.",
+      "start": 109.472,
+      "end": 113.963,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-018-017",
+      "text": "Sparks were emitted from small black boxes and red lamps flashed on and off angrily.",
+      "start": 114.692,
+      "end": 120.383,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-018-018",
+      "text": "It was rather like an exhibition of prehistoric electronic equipment.",
+      "start": 121.612,
+      "end": 126.003,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-018-019",
+      "text": "These peculiar forms not only seemed designed to shock people emotionally, but to give them electric shocks as well!",
+      "start": 127.192,
+      "end": 134.882,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "audioSha256": "e38b9da2a145952349368f8223aeeb62045d5746094d448994acfdad9c7e9382",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-001-001",
+      "text": "Why did the writer complain to the people behind him?",
+      "start": 12.992,
+      "end": 17.922,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-001-002",
+      "text": "Last week I went to the theatre.",
+      "start": 20.652,
+      "end": 23.122,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-001-003",
+      "text": "I had a very good seat.",
+      "start": 24.253,
+      "end": 25.762,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-001-004",
+      "text": "The play was very interesting.",
+      "start": 27.513,
+      "end": 29.523,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-001-005",
+      "text": "I did not enjoy it.",
+      "start": 30.892,
+      "end": 32.303,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-001-006",
+      "text": "A young man and a young woman were sitting behind me.",
+      "start": 33.573,
+      "end": 37.383,
+      "score": 0.917,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-001-007",
+      "text": "They were talking loudly.",
+      "start": 38.233,
+      "end": 40.163,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-001-008",
+      "text": "I got very angry.",
+      "start": 40.852,
+      "end": 42.363,
+      "score": 0.994,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-001-009",
+      "text": "I could not hear the actors.",
+      "start": 43.532,
+      "end": 45.483,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-001-010",
+      "text": "I turned round.",
+      "start": 46.633,
+      "end": 47.863,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-001-011",
+      "text": "I looked at the man and the woman angrily.",
+      "start": 49.193,
+      "end": 52.143,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-001-012",
+      "text": "They did not pay any attention.",
+      "start": 53.553,
+      "end": 55.463,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-001-013",
+      "text": "In the end, I could not bear it.",
+      "start": 56.573,
+      "end": 59.343,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-001-014",
+      "text": "I turned round again.",
+      "start": 59.853,
+      "end": 61.138,
+      "score": 0.994,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-001-015",
+      "text": "'I can't hear a word!'",
+      "start": 61.138,
+      "end": 64.562,
+      "score": 0.862,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-001-016",
+      "text": "I said angrily.",
+      "start": 65.353,
+      "end": 66.383,
+      "score": 0.999,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-001-017",
+      "text": "'It's none of your business,' the young man said rudely.",
+      "start": 67.373,
+      "end": 71.268,
+      "score": 0.929,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-001-018",
+      "text": "'This is a private conversation!'",
+      "start": 71.268,
+      "end": 76.743,
+      "score": 0.922,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "audioSha256": "4dffb89b4401a8877494302faf6df648424bd1bf416264a32f4dff3cdefac143",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-093-001",
+      "text": "Why is Nigel a lucky man?",
+      "start": 12.512,
+      "end": 15.162,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-093-002",
+      "text": "Nigel is our new next-door neighbour.",
+      "start": 18.053,
+      "end": 20.223,
+      "score": 0.944,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-093-003",
+      "text": "He's a pilot.",
+      "start": 20.832,
+      "end": 21.822,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-093-004",
+      "text": "He was in the R.A.F.",
+      "start": 22.512,
+      "end": 24.422,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-093-005",
+      "text": "He will fly to New York next month.",
+      "start": 25.492,
+      "end": 27.703,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-093-006",
+      "text": "The month after next he'll fly to Tokyo.",
+      "start": 28.833,
+      "end": 31.362,
+      "score": 0.917,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-093-007",
+      "text": "At the moment, he's in Madrid.",
+      "start": 32.833,
+      "end": 34.603,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-093-008",
+      "text": "He flew to Spain a week ago.",
+      "start": 35.513,
+      "end": 37.543,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-093-009",
+      "text": "He'll return to London the week after next.",
+      "start": 38.653,
+      "end": 41.183,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-093-010",
+      "text": "He's only forty-one years old, and he has already been to nearly every country in the world.",
+      "start": 42.373,
+      "end": 48.863,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-093-011",
+      "text": "Nigel is a very lucky man.",
+      "start": 50.172,
+      "end": 52.563,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-093-012",
+      "text": "But his wife isn't very lucky.",
+      "start": 53.392,
+      "end": 55.243,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-093-013",
+      "text": "She usually stays at home!",
+      "start": 55.992,
+      "end": 57.943,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

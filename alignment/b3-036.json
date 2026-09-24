@@ -1,0 +1,195 @@
+{
+  "audioSha256": "b9fd46de7a48cdcc45bc797fccf85c99bfc1f5f0c1231b910031ed30fb4ec3ab",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-036-001",
+      "text": "What was the chance in a million?",
+      "start": 12.592,
+      "end": 14.723,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-036-002",
+      "text": "We are less credulous than we used to be.",
+      "start": 17.453,
+      "end": 19.883,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-036-003",
+      "text": "In the nineteenth century, a novelist would bring his story to a conclusion by presenting his readers with a series of coincidences--most of them wildly improbable.",
+      "start": 20.913,
+      "end": 32.503,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-036-004",
+      "text": "Readers happily accepted the fact that an obscure maidservant was really the hero's mother.",
+      "start": 33.553,
+      "end": 39.483,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-036-005",
+      "text": "A long-lost brother, who was presumed dead, was really alive all the time and wickedly plotting to bring about the hero's downfall.",
+      "start": 40.133,
+      "end": 48.543,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-036-006",
+      "text": "And so on.",
+      "start": 49.053,
+      "end": 49.763,
+      "score": 0.993,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-036-007",
+      "text": "Modern readers would find such naive solutions totally unacceptable.",
+      "start": 50.413,
+      "end": 55.083,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-036-008",
+      "text": "Yet, in real life, circumstances do sometimes conspire to bring about coincidences which anyone but a nineteenth century novelist would find incredible.",
+      "start": 55.653,
+      "end": 66.643,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-036-009",
+      "text": "When I was a boy, my grandfather told me how a German taxi driver, Franz Bussman, found a brother who was thought to have been killed twenty years before.",
+      "start": 67.713,
+      "end": 78.422,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-036-010",
+      "text": "While on a walking tour with his wife, he stopped to talk to a workman.",
+      "start": 79.272,
+      "end": 83.583,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-036-011",
+      "text": "After they had gone on, Mrs. Bussman commented on the workman's close resemblance to her husband and even suggested that he might be his brother.",
+      "start": 84.453,
+      "end": 94.143,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-036-012",
+      "text": "Franz poured scorn on the idea, pointing out that his brother had been killed in action during the war.",
+      "start": 95.532,
+      "end": 103.303,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-036-013",
+      "text": "Though Mrs. Bussman was fully acquainted with this story, she thought that there was a chance in a million that she might be right.",
+      "start": 104.412,
+      "end": 112.623,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-036-014",
+      "text": "A few days later, she sent a boy to the workman to ask him if his name was Hans Bussman.",
+      "start": 113.552,
+      "end": 119.922,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-036-015",
+      "text": "Needless to say, the man's name was Hans Bussman and he really was Franz's long-lost brother.",
+      "start": 120.993,
+      "end": 128.302,
+      "score": 0.933,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-036-016",
+      "text": "When the brothers were reunited, Hans explained how it was that he was still alive.",
+      "start": 129.192,
+      "end": 135.042,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-036-017",
+      "text": "After having been wounded towards the end of the war, he had been sent to hospital and was separated from his unit.",
+      "start": 135.692,
+      "end": 142.843,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-036-018",
+      "text": "The hospital had been bombed and Hans had made his way back into Western Germany on foot.",
+      "start": 143.772,
+      "end": 149.942,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-036-019",
+      "text": "Meanwhile, his unit was lost and all records of him had been destroyed.",
+      "start": 151.052,
+      "end": 156.222,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-036-020",
+      "text": "Hans returned to his family home, but the house had been bombed and no one in the neighbourhood knew what had become of the inhabitants.",
+      "start": 157.152,
+      "end": 165.442,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-036-021",
+      "text": "Assuming that his family had been killed during an air raid, Hans settled down in a village fifty miles away where he had remained ever since.",
+      "start": 166.512,
+      "end": 176.302,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

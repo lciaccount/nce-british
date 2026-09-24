@@ -1,0 +1,105 @@
+{
+  "audioSha256": "d74969136909085841ebad7fd5c2fd3fa698bf37c1b97424df4005c471992d97",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-052-001",
+      "text": "What is the writer's carpet made of?",
+      "start": 14.312,
+      "end": 16.942,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-052-002",
+      "text": "We have just moved into a new house and I have been working hard all morning.",
+      "start": 19.753,
+      "end": 26.082,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-052-003",
+      "text": "I have been trying to get my new room in order.",
+      "start": 28.113,
+      "end": 30.962,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-052-004",
+      "text": "This has not been easy because I own over a thousand books.",
+      "start": 32.532,
+      "end": 37.443,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-052-005",
+      "text": "To make matters worse, the room is rather small, so I have temporarily put my books on the floor.",
+      "start": 38.653,
+      "end": 46.223,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-052-006",
+      "text": "At the moment, they cover every inch of floor space and I actually have to walk on them to get in or out of the room.",
+      "start": 47.752,
+      "end": 57.123,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-052-007",
+      "text": "A short while ago, my sister helped me to carry one of my old bookcases up the stairs.",
+      "start": 58.853,
+      "end": 65.743,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-052-008",
+      "text": "She went into my room and got a big surprise when she saw all those books on the floor.",
+      "start": 67.413,
+      "end": 73.818,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-052-009",
+      "text": "'This is the prettiest carpet I have ever seen,' she said.",
+      "start": 73.818,
+      "end": 79.023,
+      "score": 0.935,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-052-010",
+      "text": "She gazed at it for some time then added, 'You don't need bookcases at all.",
+      "start": 80.593,
+      "end": 86.223,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-052-011",
+      "text": "You can sit here in your spare time and read the carpet!'",
+      "start": 86.752,
+      "end": 92.823,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

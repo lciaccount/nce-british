@@ -1,0 +1,123 @@
+{
+  "audioSha256": "6dd5bce5dc4f88c7ec056ac489b0e8fe49b6cd0faf64846016cfbecc46503d78",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-013-001",
+      "text": "What do oilmen want to achieve as soon as they strike oil?",
+      "start": 11.892,
+      "end": 15.782,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-013-002",
+      "text": "The deepest holes of all are made for oil, and they go down to as much as 25, 000 feet.",
+      "start": 18.553,
+      "end": 25.302,
+      "score": 0.932,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-013-003",
+      "text": "But we do not need to send man down to get the oil out, as we must with other mineral deposits.",
+      "start": 26.613,
+      "end": 32.883,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-013-004",
+      "text": "The holes are only borings, less than a foot in diameter.",
+      "start": 34.293,
+      "end": 38.343,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-013-005",
+      "text": "My particular experience is largely in oil, and the search for oil has done more to improve deep drilling than any other mining activity.",
+      "start": 39.373,
+      "end": 48.443,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-013-006",
+      "text": "When it has been decided where we are going to drill, we put up at the surface an oil derrick.",
+      "start": 49.953,
+      "end": 56.443,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-013-007",
+      "text": "It has to be tall because it is like a giant block and tackle and we have to lower into the ground and haul out of the ground great lengths of drill pipe which are rotated by an engine at the top and are fitted with a cutting bit at the bottom.",
+      "start": 57.733,
+      "end": 73.303,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-013-008",
+      "text": "The geologist needs to know what rocks the drill has reached, so every so often a sample is obtained with a coring bit.",
+      "start": 74.972,
+      "end": 83.703,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-013-009",
+      "text": "It cuts a clean cylinder of rock, from which can be seen the strata the drill has been cutting through.",
+      "start": 84.953,
+      "end": 91.203,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-013-010",
+      "text": "Once we get down to the oil, it usually flows to the surface because great pressure either from gas or water, is pushing it.",
+      "start": 92.672,
+      "end": 101.383,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-013-011",
+      "text": "This pressure must be under control, and we control it by means of the mud which we circulate down the drill pipe.",
+      "start": 102.653,
+      "end": 110.143,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-013-012",
+      "text": "We endeavour to avoid the old, romantic idea of a gusher, which wastes oil and gas.",
+      "start": 111.612,
+      "end": 118.363,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-013-013",
+      "text": "We want it to stay down the hole until we can lead it off in a controlled manner.",
+      "start": 119.252,
+      "end": 124.323,
+      "score": 0.948,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

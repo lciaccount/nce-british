@@ -1,0 +1,132 @@
+{
+  "audioSha256": "66d5842d3d80a2a69ef1fde61944dc5b7abeeb035953c87a940246db1bdd6b6b",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-019-001",
+      "text": "Why do the children thank their mother?",
+      "start": 13.772,
+      "end": 16.502,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-019-002",
+      "text": "What's the matter children?",
+      "start": 19.273,
+      "end": 21.262,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-019-003",
+      "text": "We're tired ... ... and thirsty  Mum.",
+      "start": 22.832,
+      "end": 26.703,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-019-004",
+      "text": "Sit down here.",
+      "start": 27.812,
+      "end": 29.282,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-019-005",
+      "text": "Are you all right now?",
+      "start": 31.392,
+      "end": 32.823,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-019-006",
+      "text": "No we aren't.",
+      "start": 33.972,
+      "end": 35.923,
+      "score": 0.889,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-019-007",
+      "text": "Look!",
+      "start": 37.612,
+      "end": 38.043,
+      "score": 0.999,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-019-008",
+      "text": "There's an ice cream man.",
+      "start": 39.172,
+      "end": 41.403,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-019-009",
+      "text": "Two ice cream please.",
+      "start": 43.612,
+      "end": 45.903,
+      "score": 0.993,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-019-010",
+      "text": "Here you are children.",
+      "start": 48.333,
+      "end": 50.163,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-019-011",
+      "text": "Thanks Mum.",
+      "start": 51.593,
+      "end": 52.763,
+      "score": 0.716,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b1-019-012",
+      "text": "These ice creams are nice.",
+      "start": 54.672,
+      "end": 57.763,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-019-013",
+      "text": "Are you all right now?",
+      "start": 59.793,
+      "end": 61.163,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-019-014",
+      "text": "Yes we are thank you!",
+      "start": 62.612,
+      "end": 65.543,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

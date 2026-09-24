@@ -1,0 +1,168 @@
+{
+  "audioSha256": "e9f77b45060cb19ce650909890cf956b81fb7738fdc96a58d6dec34c918d074a",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-067-001",
+      "text": "What are the Johnsons going to do at the weekend?",
+      "start": 13.572,
+      "end": 17.262,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-067-002",
+      "text": "Hello.",
+      "start": 19.973,
+      "end": 20.402,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-067-003",
+      "text": "Were you at the butcher's?",
+      "start": 21.133,
+      "end": 22.742,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-067-004",
+      "text": "Yes, I was.",
+      "start": 23.593,
+      "end": 24.782,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-067-005",
+      "text": "Were you at the butcher's, too?",
+      "start": 25.253,
+      "end": 26.862,
+      "score": 0.898,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-067-006",
+      "text": "No, I wasn't.",
+      "start": 27.892,
+      "end": 29.303,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-067-007",
+      "text": "I was at the greengrocer's.",
+      "start": 29.953,
+      "end": 31.803,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-067-008",
+      "text": "How's Jimmy today?",
+      "start": 32.612,
+      "end": 34.083,
+      "score": 0.953,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-067-009",
+      "text": "He's very well, thank you.",
+      "start": 35.352,
+      "end": 36.863,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-067-010",
+      "text": "Was he absent from school last week?",
+      "start": 38.032,
+      "end": 40.323,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-067-011",
+      "text": "Yes, he was.",
+      "start": 41.752,
+      "end": 42.963,
+      "score": 0.997,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-067-012",
+      "text": "He was absent on Monday, Tuesday, Wednesday and Thursday.",
+      "start": 43.733,
+      "end": 48.883,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-067-013",
+      "text": "How are you all keeping?",
+      "start": 49.992,
+      "end": 51.343,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-067-014",
+      "text": "Very well, thank you.",
+      "start": 52.212,
+      "end": 53.403,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-067-015",
+      "text": "We're going to spend three days in the country!",
+      "start": 54.073,
+      "end": 56.543,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-067-016",
+      "text": "We're going to stay at my mother's for the weekend.",
+      "start": 57.193,
+      "end": 59.583,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-067-017",
+      "text": "Friday, Saturday and Sunday in the country!",
+      "start": 61.032,
+      "end": 64.043,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-067-018",
+      "text": "Aren't you lucky!",
+      "start": 64.793,
+      "end": 65.723,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

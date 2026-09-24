@@ -1,0 +1,204 @@
+{
+  "audioSha256": "dec92dd06739e6131230b5f42d88b8ea022ccc6ba230e97242a8086120a57c3b",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-074-001",
+      "text": "Why was their disguise 'too perfect' ?",
+      "start": 12.852,
+      "end": 16.863,
+      "score": 0.901,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-074-002",
+      "text": "An ancient bus stopped by a dry river bed and a party of famous actors and actresses got off.",
+      "start": 19.473,
+      "end": 26.782,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-074-003",
+      "text": "Dressed in dark glasses and old clothes, they had taken special precautions so that no one should recognize them.",
+      "start": 28.032,
+      "end": 35.983,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-074-004",
+      "text": "But as they soon discovered, disguises can sometimes be too perfect.",
+      "start": 37.553,
+      "end": 43.768,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-074-005",
+      "text": "'This is a wonderful place for a picnic,' said Gloria Gleam.",
+      "start": 43.768,
+      "end": 50.288,
+      "score": 0.904,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-074-006",
+      "text": "'It couldn't be better, Gloria,' Brinksley Meers agreed.",
+      "start": 50.288,
+      "end": 56.203,
+      "score": 0.903,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-074-007",
+      "text": "'No newspaper men, no film fans!",
+      "start": 56.873,
+      "end": 59.303,
+      "score": 0.903,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-074-008",
+      "text": "Why don't we come more often?'",
+      "start": 59.892,
+      "end": 61.583,
+      "score": 0.95,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-074-009",
+      "text": "Meanwhile, two other actors Rockwall Slinger and Merlin Greeves, had carried two large food baskets to a shady spot under some trees.",
+      "start": 63.352,
+      "end": 76.422,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-074-010",
+      "text": "When they had all made themselves comfortable, a stranger appeared.",
+      "start": 78.252,
+      "end": 82.283,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-074-011",
+      "text": "He looked very angry.",
+      "start": 82.812,
+      "end": 84.583,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-074-012",
+      "text": "'Now you get out of here, all of you!'",
+      "start": 86.252,
+      "end": 89.143,
+      "score": 0.913,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-074-013",
+      "text": "he shouted.",
+      "start": 89.793,
+      "end": 90.543,
+      "score": 0.995,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-074-014",
+      "text": "'I'm sheriff here.",
+      "start": 91.532,
+      "end": 92.883,
+      "score": 0.892,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-074-015",
+      "text": "Do you see that notice?",
+      "start": 93.672,
+      "end": 95.183,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-074-016",
+      "text": "It says \"No Camping\"  -- in case you can't read!'",
+      "start": 95.972,
+      "end": 100.883,
+      "score": 0.941,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-074-017",
+      "text": "'Look, sheriff,' said Rockwall, 'don't be too hard on us.",
+      "start": 103.013,
+      "end": 108.063,
+      "score": 0.876,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-074-018",
+      "text": "I'm Rockwall Slinger and this is Merlin Greeves.'",
+      "start": 109.133,
+      "end": 113.303,
+      "score": 0.937,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-074-019",
+      "text": "'Oh, is it?'",
+      "start": 114.752,
+      "end": 116.063,
+      "score": 0.767,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b2-074-020",
+      "text": "said the sheriff with a sneer.",
+      "start": 116.472,
+      "end": 118.248,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-074-021",
+      "text": "'Well, I'm Brinksley Meers, and my other name is Gloria Gleam.",
+      "start": 118.248,
+      "end": 124.503,
+      "score": 0.891,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-074-022",
+      "text": "Now you get out of here fast!'",
+      "start": 125.032,
+      "end": 130.562,
+      "score": 0.931,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "audioSha256": "1c636dc5df2474a6d983abe5d78085dc22f73aae8d312b2d25925ac2a87970a9",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-123-001",
+      "text": "Who is the man with the beard?",
+      "start": 13.692,
+      "end": 15.822,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-123-002",
+      "text": "Look, Scott.",
+      "start": 18.553,
+      "end": 19.242,
+      "score": 0.994,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-123-003",
+      "text": "This is a photograph I took during my trip to Australia.",
+      "start": 19.832,
+      "end": 23.203,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-123-004",
+      "text": "Let me see it, Mike.",
+      "start": 24.773,
+      "end": 26.002,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-123-005",
+      "text": "This is a good photograph.",
+      "start": 27.453,
+      "end": 29.002,
+      "score": 0.996,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-123-006",
+      "text": "Who are these people?",
+      "start": 29.492,
+      "end": 30.622,
+      "score": 0.949,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-123-007",
+      "text": "They're people I met during the trip.",
+      "start": 32.333,
+      "end": 34.263,
+      "score": 0.906,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-123-008",
+      "text": "That's the ship we travelled on.",
+      "start": 35.873,
+      "end": 37.603,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-123-009",
+      "text": "What a beautiful ship!",
+      "start": 39.633,
+      "end": 41.003,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-123-010",
+      "text": "Who's this?",
+      "start": 42.612,
+      "end": 43.383,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-123-011",
+      "text": "That's the man I told you about.",
+      "start": 44.532,
+      "end": 46.143,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-123-012",
+      "text": "Remember?",
+      "start": 46.413,
+      "end": 46.903,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-123-013",
+      "text": "Ah yes.",
+      "start": 48.413,
+      "end": 49.123,
+      "score": 0.859,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-123-014",
+      "text": "The one who offered you a job in Australia.",
+      "start": 49.653,
+      "end": 52.083,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-123-015",
+      "text": "That's right.",
+      "start": 53.053,
+      "end": 53.763,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-123-016",
+      "text": "Who's this?",
+      "start": 55.312,
+      "end": 56.043,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-123-017",
+      "text": "Guess!",
+      "start": 57.373,
+      "end": 57.783,
+      "score": 0.931,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-123-018",
+      "text": "It's not you, is it?",
+      "start": 59.312,
+      "end": 60.623,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-123-019",
+      "text": "That's right.",
+      "start": 61.593,
+      "end": 62.303,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-123-020",
+      "text": "I grew a beard during the trip, but I shaved it off when I came home.",
+      "start": 62.953,
+      "end": 67.623,
+      "score": 0.888,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-123-021",
+      "text": "Why did you shave it off?",
+      "start": 69.133,
+      "end": 70.483,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-123-022",
+      "text": "My wife didn't like it!",
+      "start": 71.913,
+      "end": 73.503,
+      "score": 0.995,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

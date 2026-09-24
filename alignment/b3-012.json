@@ -1,0 +1,168 @@
+{
+  "audioSha256": "d2445e820df5ebd4bc6a0cc9dfcff311f78935577b0d827648c5137d015eb3da",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-012-001",
+      "text": "What was exceptional about the two men's stay on the desert island?",
+      "start": 13.572,
+      "end": 17.742,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-012-002",
+      "text": "Most of us have formed an unrealistic picture of life on a desert island.",
+      "start": 20.473,
+      "end": 25.122,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-012-003",
+      "text": "We sometimes imagine a desert island to be a sort of paradise where the sun always shines.",
+      "start": 26.373,
+      "end": 32.263,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-012-004",
+      "text": "Life there is simple and good.",
+      "start": 33.733,
+      "end": 35.723,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-012-005",
+      "text": "Ripe fruit falls from the trees and you never have to work.",
+      "start": 36.672,
+      "end": 40.003,
+      "score": 0.993,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-012-006",
+      "text": "The other side of the picture is quite the opposite.",
+      "start": 40.833,
+      "end": 43.243,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-012-007",
+      "text": "Life on a desert island is wretched.",
+      "start": 44.352,
+      "end": 46.863,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-012-008",
+      "text": "You either starve to death or live like Robinson Crusoe, waiting for a boat which never comes.",
+      "start": 47.553,
+      "end": 53.903,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-012-009",
+      "text": "Perhaps there is an element of truth in both these pictures, but few of us have had the opportunity to find out.",
+      "start": 55.332,
+      "end": 62.123,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-012-010",
+      "text": "Two men who recently spent five days on a coral island wished they had stayed there longer.",
+      "start": 63.672,
+      "end": 69.143,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-012-011",
+      "text": "They were taking a badly damaged boat from the Virgin Islands to Miami to have it repaired.",
+      "start": 70.293,
+      "end": 76.023,
+      "score": 0.953,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-012-012",
+      "text": "During the journey, their boat began to sink.",
+      "start": 76.873,
+      "end": 79.563,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-012-013",
+      "text": "They quickly loaded a small rubber dinghy with food, matches, and cans of beer and rowed for a few miles across the Caribbean until they arrived at a tiny coral island.",
+      "start": 80.353,
+      "end": 91.043,
+      "score": 0.949,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-012-014",
+      "text": "There were hardly any trees on the island and there was no water, but this did not prove to be a problem.",
+      "start": 92.633,
+      "end": 98.783,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-012-015",
+      "text": "The men collected rainwater in the rubber dinghy.",
+      "start": 99.812,
+      "end": 102.603,
+      "score": 0.934,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-012-016",
+      "text": "As they had brought a spear gun with them, they had plenty to eat.",
+      "start": 103.672,
+      "end": 106.883,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-012-017",
+      "text": "They caught lobster and fish every day, and as one of them put it 'ate like kings'.",
+      "start": 107.713,
+      "end": 113.303,
+      "score": 0.926,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-012-018",
+      "text": "When a passing tanker rescued them five days later, both men were genuinely sorry that they had to leave.",
+      "start": 114.213,
+      "end": 121.523,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

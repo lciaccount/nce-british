@@ -1,0 +1,105 @@
+{
+  "audioSha256": "ea772ca7c46d0294c1a169de2a6cba43f04478d4a1b3f02c712e6c8ed3889e38",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-067-001",
+      "text": "Why does Tazieff risk his life like this?",
+      "start": 12.772,
+      "end": 15.902,
+      "score": 0.923,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-067-002",
+      "text": "Haroun Tazieff, the Polish scientist, has spent his lifetime studying active volcanoes and deep caves in all parts of the world.",
+      "start": 18.773,
+      "end": 31.537,
+      "score": 0.952,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-067-003",
+      "text": "In 1948, he went to Lake Kivu in the Congo to observe a new volcano which he later named Kituro.",
+      "start": 31.537,
+      "end": 42.883,
+      "score": 0.796,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b2-067-004",
+      "text": "Tazieff was able to set up his camp very close to the volcano while it was erupting violently.",
+      "start": 44.392,
+      "end": 51.863,
+      "score": 0.948,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-067-005",
+      "text": "Though he managed to take a number of brilliant photographs, he could not stay near the volcano for very long.",
+      "start": 53.532,
+      "end": 60.963,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-067-006",
+      "text": "He noticed that a river of liquid rock was coming towards him.",
+      "start": 62.072,
+      "end": 66.583,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-067-007",
+      "text": "It threatened to surround him completely, but Tazieff managed to escape just in time.",
+      "start": 67.953,
+      "end": 74.863,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-067-008",
+      "text": "He waited until the volcano became quiet and he was able to return two days later.",
+      "start": 76.193,
+      "end": 82.843,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-067-009",
+      "text": "This time, he managed to climb into the mouth of Kituro so that he could take photographs and measure temperatures.",
+      "start": 84.412,
+      "end": 92.723,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-067-010",
+      "text": "Tazieff has often risked his life in this way.",
+      "start": 94.293,
+      "end": 97.323,
+      "score": 0.908,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-067-011",
+      "text": "He has been able to tell us more about active volcanoes than any man alive.",
+      "start": 98.312,
+      "end": 103.903,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

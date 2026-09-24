@@ -1,0 +1,78 @@
+{
+  "audioSha256": "bf43f03210310cffb48f9e51bf81e39ad6dbd71aef6acb9037b60c22663851e2",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-022-001",
+      "text": "How did Jane receive a letter from a stranger?",
+      "start": 13.512,
+      "end": 17.422,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-022-002",
+      "text": "My daughter, Jane, never dreamed of receiving a letter from a girl of her own age in Holland.",
+      "start": 20.373,
+      "end": 27.622,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-022-003",
+      "text": "Last year, we were travelling across the Channel and Jane put a piece of paper with her name and address on it into a bottle.",
+      "start": 29.873,
+      "end": 39.843,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-022-004",
+      "text": "She threw the bottle into the sea.",
+      "start": 41.473,
+      "end": 43.843,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-022-005",
+      "text": "She never thought of it again, but ten months later, she received a letter from a girl in Holland.",
+      "start": 45.793,
+      "end": 54.023,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-022-006",
+      "text": "Both girls write to each other regularly now.",
+      "start": 55.392,
+      "end": 58.263,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-022-007",
+      "text": "However, they have decided to use the post office.",
+      "start": 59.793,
+      "end": 63.543,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-022-008",
+      "text": "Letters will cost a little more, but they will certainly travel faster.",
+      "start": 64.433,
+      "end": 69.443,
+      "score": 0.936,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

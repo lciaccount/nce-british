@@ -1,0 +1,114 @@
+{
+  "audioSha256": "0e76e2d7d562f71ba72e144a5e431d936da3a305fa881bdef652f7bebfe43a26",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-014-001",
+      "text": "How did Hawkwood make money in times of peace?",
+      "start": 12.512,
+      "end": 15.383,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-014-002",
+      "text": "There was a time when the owners of shops and businesses in Chicago had to pay large sums of money to gangsters in return for 'protection'.",
+      "start": 18.152,
+      "end": 27.483,
+      "score": 0.953,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-014-003",
+      "text": "If the money was not paid promptly, the gangsters would quickly put a man out of business by destroying his shop.",
+      "start": 28.733,
+      "end": 35.843,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-014-004",
+      "text": "Obtaining 'protection money' is not a modern crime.",
+      "start": 37.353,
+      "end": 40.643,
+      "score": 0.939,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-014-005",
+      "text": "As long ago as the fourteenth century, an Englishman, Sir John Hawkwood, made the remarkable discovery that people would rather pay large sums of money than have their life work destroyed by gangsters.",
+      "start": 41.973,
+      "end": 55.063,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-014-006",
+      "text": "Six hundred years ago, Sir John Hawkwood arrived in Italy with a band of soldiers and settled near Florence.",
+      "start": 56.513,
+      "end": 63.783,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-014-007",
+      "text": "He soon made a name for himself and came to be known to the Italians as Giovanni Acuto.",
+      "start": 64.653,
+      "end": 70.863,
+      "score": 0.943,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-014-008",
+      "text": "Whenever the Italian city-states were at war with each other, Hawkwood used to hire his soldiers to princes who were willing to pay the high price he demanded.",
+      "start": 72.332,
+      "end": 81.422,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-014-009",
+      "text": "In times of peace, when business was bad, Hawkwood and his men would march into a city-state, and after burning down a few farms, would offer to go away if protection money was paid to them.",
+      "start": 82.612,
+      "end": 95.683,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-014-010",
+      "text": "Hawkwood made large sums of money in this way.",
+      "start": 96.752,
+      "end": 99.543,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-014-011",
+      "text": "In spite of this, the Italians regarded him as a sort of hero.",
+      "start": 100.873,
+      "end": 104.743,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-014-012",
+      "text": "When he died at the age of eighty, the Florentines gave him a state funeral and had a picture painted which was dedicated to the memory of 'the most valiant soldier and most notable leader, Signor Giovanni Haukodue'.",
+      "start": 105.993,
+      "end": 121.903,
+      "score": 0.941,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

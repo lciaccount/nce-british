@@ -1,0 +1,105 @@
+{
+  "audioSha256": "1b3c6039dbafbdce4263d6d292cb5cb386f5d4497ef043b89ff04518fa132e8a",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-071-001",
+      "text": "Has Big Ben ever gone wrong?",
+      "start": 13.672,
+      "end": 16.422,
+      "score": 0.943,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-071-002",
+      "text": "When you visit London, one of the first things you will see is Big Ben, the famous clock which can be heard all over the world on the B.B.C.",
+      "start": 19.233,
+      "end": 30.502,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-071-003",
+      "text": "If the Houses of Parliament had not been burned down in 1834, the great clock would never have been erected.",
+      "start": 32.293,
+      "end": 40.783,
+      "score": 0.811,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-071-004",
+      "text": "Big Ben takes its name from Sir Benjamin Hall who was responsible for the making of the clock when the new Houses of Parliament were being built.",
+      "start": 42.212,
+      "end": 53.983,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-071-005",
+      "text": "It is not only of immense size, but is extremely accurate as well.",
+      "start": 55.593,
+      "end": 61.843,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-071-006",
+      "text": "Officials from Greenwich Observatory have the clock checked twice a day.",
+      "start": 63.252,
+      "end": 68.623,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-071-007",
+      "text": "On the B.B.C.",
+      "start": 69.913,
+      "end": 70.703,
+      "score": 0.943,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-071-008",
+      "text": "you can hear the clock when it is actually striking because microphones are connected to the clock tower.",
+      "start": 71.532,
+      "end": 78.983,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-071-009",
+      "text": "Big Ben has rarely gone wrong.",
+      "start": 80.532,
+      "end": 82.562,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-071-010",
+      "text": "Once, however, it failed to give the correct time.",
+      "start": 83.993,
+      "end": 87.283,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-071-011",
+      "text": "A painter who had been working on the tower hung a pot of paint on one of the hands and slowed it down!",
+      "start": 88.552,
+      "end": 96.103,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

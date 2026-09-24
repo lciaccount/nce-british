@@ -1,0 +1,195 @@
+{
+  "audioSha256": "ec64248e31750932385479efd8cf2c0e95a191ff4f6ee786038773674bab35c9",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-097-001",
+      "text": "Does Mr. Hall get his case back?",
+      "start": 13.972,
+      "end": 16.883,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-097-002",
+      "text": "I left a suitcase on the train to London the other day.",
+      "start": 19.652,
+      "end": 22.703,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-097-003",
+      "text": "Can you describe it, sir?",
+      "start": 24.293,
+      "end": 25.922,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-097-004",
+      "text": "It's a small blue case and it's got a zip.",
+      "start": 27.253,
+      "end": 30.942,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-097-005",
+      "text": "There's a label on the handle with my name and address on it.",
+      "start": 32.013,
+      "end": 36.303,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-097-006",
+      "text": "Is this case yours?",
+      "start": 38.093,
+      "end": 39.703,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-097-007",
+      "text": "No, that's not mine.",
+      "start": 40.992,
+      "end": 42.563,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-097-008",
+      "text": "What about this one?",
+      "start": 43.833,
+      "end": 45.403,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-097-009",
+      "text": "This one's got a label.",
+      "start": 46.413,
+      "end": 48.023,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-097-010",
+      "text": "Let me see it.",
+      "start": 49.413,
+      "end": 50.363,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-097-011",
+      "text": "What's your name and address?",
+      "start": 52.053,
+      "end": 53.923,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-097-012",
+      "text": "David Hall, 83, Bridge Street.",
+      "start": 55.453,
+      "end": 59.063,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-097-013",
+      "text": "That's right.",
+      "start": 60.733,
+      "end": 61.523,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-097-014",
+      "text": "D. N. Hall, 83, Bridge Street.",
+      "start": 62.432,
+      "end": 67.763,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-097-015",
+      "text": "Three pounds fifty pence, please.",
+      "start": 69.153,
+      "end": 71.422,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-097-016",
+      "text": "Here you are.",
+      "start": 72.853,
+      "end": 73.443,
+      "score": 0.742,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b1-097-017",
+      "text": "Thank you.",
+      "start": 74.453,
+      "end": 75.083,
+      "score": 0.997,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-097-018",
+      "text": "Hey!",
+      "start": 76.612,
+      "end": 76.922,
+      "score": 0.945,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-097-019",
+      "text": "What's the matter?",
+      "start": 77.573,
+      "end": 78.483,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-097-020",
+      "text": "This case doesn't belong to me!",
+      "start": 79.793,
+      "end": 81.603,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-097-021",
+      "text": "You've given me the wrong case!",
+      "start": 82.073,
+      "end": 84.203,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

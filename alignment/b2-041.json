@@ -1,0 +1,141 @@
+{
+  "audioSha256": "f684921e8cc8bfc627683df70a44ef1f5630c5e64fc6d9104ab7774dafec3705",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-041-001",
+      "text": "What kind of shopping does the writer enjoy, do you think?",
+      "start": 15.512,
+      "end": 19.898,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-041-002",
+      "text": "'Do you call that a hat?'",
+      "start": 19.898,
+      "end": 25.242,
+      "score": 0.891,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-041-003",
+      "text": "I said to my wife.",
+      "start": 26.293,
+      "end": 27.328,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-041-004",
+      "text": "'You needn't be so rude about it,' my wife answered as she looked at herself in the mirror.",
+      "start": 27.328,
+      "end": 34.663,
+      "score": 0.953,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-041-005",
+      "text": "I sat down on one of those modern chairs with holes in it and waited.",
+      "start": 36.553,
+      "end": 41.563,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-041-006",
+      "text": "We had been in the hat shop for half an hour and my wife was still in front of the mirror.",
+      "start": 43.172,
+      "end": 49.478,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-041-007",
+      "text": "'We mustn't buy things we don't need,' I remarked suddenly.",
+      "start": 49.478,
+      "end": 56.063,
+      "score": 0.949,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-041-008",
+      "text": "I regretted saying it almost at once.",
+      "start": 57.252,
+      "end": 59.657,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-041-009",
+      "text": "'You needn't have said that,' my wife answered.",
+      "start": 59.657,
+      "end": 64.858,
+      "score": 0.929,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-041-010",
+      "text": "'I needn't remind you of that terrible tie you bought yesterday.'",
+      "start": 64.858,
+      "end": 71.288,
+      "score": 0.953,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-041-011",
+      "text": "'I find it beautiful,' I said.",
+      "start": 71.288,
+      "end": 75.543,
+      "score": 0.929,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-041-012",
+      "text": "'A man can never have too many ties.'",
+      "start": 76.552,
+      "end": 79.148,
+      "score": 0.93,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-041-013",
+      "text": "'And a woman can't have too many hats,' she answered.",
+      "start": 79.148,
+      "end": 84.562,
+      "score": 0.927,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-041-014",
+      "text": "Ten minutes later we walked out of the shop together.",
+      "start": 86.472,
+      "end": 89.703,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-041-015",
+      "text": "My wife was wearing a hat that looked like a lighthouse!",
+      "start": 91.713,
+      "end": 95.422,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

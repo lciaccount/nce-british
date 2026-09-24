@@ -1,0 +1,159 @@
+{
+  "audioSha256": "0eca688d8aa2291b9ba8bb6eafc9f2a21af635a2ac15a9ea5c5af8f906c3f01f",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-041-001",
+      "text": "Who is the tin of tobacco for?",
+      "start": 13.332,
+      "end": 15.922,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-041-002",
+      "text": "Is that bag heavy, Penny?",
+      "start": 18.713,
+      "end": 20.442,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-041-003",
+      "text": "Not very.",
+      "start": 21.172,
+      "end": 21.802,
+      "score": 0.994,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-041-004",
+      "text": "Here!",
+      "start": 22.933,
+      "end": 23.343,
+      "score": 0.938,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-041-005",
+      "text": "Put it on this chair.",
+      "start": 24.113,
+      "end": 25.442,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-041-006",
+      "text": "What's in it?",
+      "start": 26.593,
+      "end": 27.223,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-041-007",
+      "text": "A piece of cheese.",
+      "start": 28.333,
+      "end": 29.442,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-041-008",
+      "text": "A loaf of bread.",
+      "start": 30.773,
+      "end": 31.822,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-041-009",
+      "text": "A bar of soap.",
+      "start": 32.873,
+      "end": 33.823,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-041-010",
+      "text": "A bar of chocolate.",
+      "start": 34.852,
+      "end": 36.043,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-041-011",
+      "text": "A bottle of milk.",
+      "start": 37.093,
+      "end": 38.043,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-041-012",
+      "text": "A pound of sugar.",
+      "start": 39.332,
+      "end": 40.363,
+      "score": 0.998,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-041-013",
+      "text": "Half a pound of coffee.",
+      "start": 41.992,
+      "end": 43.283,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-041-014",
+      "text": "A quarter of a pound of tea.",
+      "start": 44.892,
+      "end": 46.483,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-041-015",
+      "text": "And a tin of tobacco.",
+      "start": 47.573,
+      "end": 48.803,
+      "score": 0.997,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-041-016",
+      "text": "Is that tin of tobacco for me?",
+      "start": 50.352,
+      "end": 52.403,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-041-017",
+      "text": "Well, it's certainly not for me!",
+      "start": 52.852,
+      "end": 54.563,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

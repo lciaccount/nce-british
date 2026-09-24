@@ -1,0 +1,240 @@
+{
+  "audioSha256": "b237b519c951d252fe2275a983fcc3d95d8687e763d90bec6d1c751d0be2148a",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-045-001",
+      "text": "Does the writer think the parents were lucky or unlucky to gain prosperity in this way?",
+      "start": 12.432,
+      "end": 17.843,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-045-002",
+      "text": "Why?",
+      "start": 18.553,
+      "end": 18.922,
+      "score": 0.999,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-045-003",
+      "text": "In democratic countries any efforts to restrict the freedom of the press are rightly condemned.",
+      "start": 21.713,
+      "end": 27.843,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-045-004",
+      "text": "However, this freedom can easily be abused.",
+      "start": 28.873,
+      "end": 32.183,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-045-005",
+      "text": "Stories about people often attract far more public attention than political events.",
+      "start": 33.133,
+      "end": 38.243,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-045-006",
+      "text": "Though we may enjoy reading about the lives of others, it is extremely doubtful whether we would equally enjoy reading about ourselves.",
+      "start": 39.332,
+      "end": 47.503,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-045-007",
+      "text": "Acting on the contention that facts are sacred, reporters can cause untold suffering to individuals by publishing details about their private lives.",
+      "start": 48.532,
+      "end": 58.743,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-045-008",
+      "text": "Newspapers exert such tremendous influence that they can not only bring about major changes to the lives of ordinary people but can even overthrow a government.",
+      "start": 59.633,
+      "end": 69.823,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-045-009",
+      "text": "The story of a poor family that acquired fame and fortune overnight, dramatically illustrates the power of the press.",
+      "start": 70.853,
+      "end": 77.943,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-045-010",
+      "text": "The family lived in Aberdeen, a small town of 23, 000 inhabitants in South Dakota.",
+      "start": 78.793,
+      "end": 85.123,
+      "score": 0.932,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-045-011",
+      "text": "As the parents had five children, life was a perpetual struggle against poverty.",
+      "start": 85.772,
+      "end": 90.523,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-045-012",
+      "text": "They were expecting their sixth child and were faced with even more pressing economic problems.",
+      "start": 91.312,
+      "end": 96.583,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-045-013",
+      "text": "If they had only had one more child, the fact would have passed unnoticed.",
+      "start": 97.492,
+      "end": 101.903,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-045-014",
+      "text": "They would have continued to struggle against economic odds and would have lived in obscurity.",
+      "start": 102.493,
+      "end": 107.523,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-045-015",
+      "text": "But they suddenly became the parents of quintuplets, four girls and a boy, an event which radically changed their lives.",
+      "start": 108.413,
+      "end": 116.803,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-045-016",
+      "text": "The day after the birth of the five children, an aeroplane arrived in Aberdeen bringing sixty reporters and photographers.",
+      "start": 117.653,
+      "end": 125.783,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-045-017",
+      "text": "The rise to fame was swift.",
+      "start": 127.192,
+      "end": 129.042,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-045-018",
+      "text": "Television cameras and newspapers carried the news to everyone in the country.",
+      "start": 129.752,
+      "end": 134.623,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-045-019",
+      "text": "Newspapers and magazines offered the family huge sums for the exclusive rights to publish stories and photographs.",
+      "start": 135.632,
+      "end": 143.022,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-045-020",
+      "text": "Gifts poured in not only from unknown people, but from baby food and soap manufacturers who wished to advertise their products.",
+      "start": 144.372,
+      "end": 152.702,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-045-021",
+      "text": "The old farmhouse the family lived in was to be replaced by a new $500, 000 home.",
+      "start": 153.452,
+      "end": 159.403,
+      "score": 0.943,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-045-022",
+      "text": "Reporters kept pressing for interviews so lawyers had to be employed to act as spokesmen for the family at press conferences.",
+      "start": 160.232,
+      "end": 167.322,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-045-023",
+      "text": "While the five babies were still quietly sleeping in oxygen tents in a hospital nursery, their parents were paying the price for fame.",
+      "start": 168.152,
+      "end": 176.382,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-045-024",
+      "text": "It would never again be possible for them to lead normal lives.",
+      "start": 177.092,
+      "end": 180.903,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-045-025",
+      "text": "They had become the victims of commercialization, for their names had acquired a market value.",
+      "start": 181.732,
+      "end": 187.903,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-045-026",
+      "text": "Instead of being five new family members, these children had immediately become a commodity.",
+      "start": 188.552,
+      "end": 195.222,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

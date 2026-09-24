@@ -1,0 +1,123 @@
+{
+  "audioSha256": "369219840ada04097541cd81b1bac2f9a38250b65d372acd270f96f1affcb9aa",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-002-001",
+      "text": "How much of each year do spiders spend killing insects?",
+      "start": 12.432,
+      "end": 17.302,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-002-002",
+      "text": "Why, you may wonder, should spiders be our friends?",
+      "start": 20.172,
+      "end": 23.402,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-002-003",
+      "text": "Because they destroy so many insects, and insects include some of the greatest enemies of the human race.",
+      "start": 24.473,
+      "end": 31.262,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-002-004",
+      "text": "Insects would make it impossible for us to live in the world; they would devour all our crops and kill our flocks and herds, if it were not for the protection we get from insect eating animals.",
+      "start": 32.633,
+      "end": 46.403,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-002-005",
+      "text": "We owe a lot to the birds and beasts who eat insects but all of them put together kill only a fraction of the number destroyed by spiders.",
+      "start": 47.913,
+      "end": 57.683,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-002-006",
+      "text": "Moreover, unlike some of the other insect eaters, spiders never do the least harm to us or our belongings.",
+      "start": 58.752,
+      "end": 66.943,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-002-007",
+      "text": "Spiders are not insects, as many people think, nor even nearly related to them.",
+      "start": 68.293,
+      "end": 74.703,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-002-008",
+      "text": "One can tell the difference almost at a glance, for a spider always has eight legs and an insect never more than six.",
+      "start": 76.032,
+      "end": 84.963,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-002-009",
+      "text": "How many spiders are engaged in this work on our behalf?",
+      "start": 86.993,
+      "end": 90.243,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-002-010",
+      "text": "One authority on spiders made a census of the spiders in a grass field in the south of England, and he estimated that there were more than 2, 250, 000 in one acre; that is something like 6, 000, 000 spiders of different kinds on a football pitch.",
+      "start": 91.513,
+      "end": 111.203,
+      "score": 0.934,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-002-011",
+      "text": "Spiders are busy for at least half the year in killing insects.",
+      "start": 112.392,
+      "end": 116.903,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-002-012",
+      "text": "It is impossible to make more than the wildest guess at how many they kill, but they are hungry creatures, not content with only three meals a day.",
+      "start": 118.172,
+      "end": 128.123,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-002-013",
+      "text": "It has been estimated that the weight of all the insects destroyed by spiders in Britain in one year would be greater than the total weight of all the human beings in the country.",
+      "start": 129.192,
+      "end": 140.742,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

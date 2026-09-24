@@ -1,0 +1,123 @@
+{
+  "audioSha256": "607a3bc7fa9257f10d633f5a18cf2d80f1e0a87c85b013b94eca9e08e58ea9f4",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-007-001",
+      "text": "In what way does echo-location in bats play an utilitarian role?",
+      "start": 11.392,
+      "end": 17.062,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-007-002",
+      "text": "Not all sounds made by animals serve as language, and we have only to turn to that extraordinary discovery of echo-location in bats to see a case in which the voice plays a strictly utilitarian role.",
+      "start": 19.893,
+      "end": 35.043,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-007-003",
+      "text": "To get a full appreciation of what this means we must turn first to some recent human inventions.",
+      "start": 36.392,
+      "end": 43.123,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-007-004",
+      "text": "Everyone knows that if he shouts in the vicinity of a wall or a mountainside, an echo will come back.",
+      "start": 44.612,
+      "end": 51.563,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-007-005",
+      "text": "The further off this solid obstruction, the longer time will elapse for the return of the echo.",
+      "start": 52.593,
+      "end": 57.923,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-007-006",
+      "text": "A sound made by tapping on the hull of a ship will be reflected from the sea bottom, and by measuring the time interval between the taps and the receipt of the echoes the depth of the sea at that point can be calculated.",
+      "start": 59.233,
+      "end": 73.922,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-007-007",
+      "text": "So was born the echo-sounding apparatus, now in general use in ships.",
+      "start": 75.193,
+      "end": 80.643,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-007-008",
+      "text": "Every solid object will reflect a sound, varying according to the size and nature of the object.",
+      "start": 81.892,
+      "end": 88.823,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-007-009",
+      "text": "A shoal of fish will do this.",
+      "start": 90.172,
+      "end": 91.723,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-007-010",
+      "text": "So it is a comparatively simple step from locating the sea bottom to locating a shoal of fish.",
+      "start": 93.013,
+      "end": 99.503,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-007-011",
+      "text": "With experience, and with improved apparatus, it is now possible not only to locate a shoal but to tell if it is herring, cod, or other well-known fish, by the pattern of its echo.",
+      "start": 100.933,
+      "end": 114.803,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-007-012",
+      "text": "It has been found that certain bats emit squeaks and by receiving the echoes, they can locate and steer clear of obstacles -- or locate flying insects on which they feed.",
+      "start": 116.353,
+      "end": 128.982,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-007-013",
+      "text": "This echo-location in bats is often compared with radar, the principle of which is similar.",
+      "start": 130.072,
+      "end": 136.082,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

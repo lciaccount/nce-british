@@ -1,0 +1,123 @@
+{
+  "audioSha256": "7238249cf1094f52fe56dabea0cd055af517a5ee8c69ff559f38c2af2b8eaf9d",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-088-001",
+      "text": "Why is the rescue taking so long?",
+      "start": 14.252,
+      "end": 17.282,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-088-002",
+      "text": "Six men have been trapped in a mine for seventeen hours.",
+      "start": 20.633,
+      "end": 25.043,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-088-003",
+      "text": "If they are not brought to the surface soon they may lose their lives.",
+      "start": 26.793,
+      "end": 31.042,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-088-004",
+      "text": "However, rescue operations are proving difficult.",
+      "start": 32.472,
+      "end": 35.803,
+      "score": 0.996,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-088-005",
+      "text": "If explosives are used, vibrations will cause the roof of the mine to collapse.",
+      "start": 36.853,
+      "end": 42.763,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-088-006",
+      "text": "Rescue workers are therefore drilling a hole on the north side of the mine.",
+      "start": 44.153,
+      "end": 50.063,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-088-007",
+      "text": "They intend to bring the men up in a special capsule.",
+      "start": 50.933,
+      "end": 54.863,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-088-008",
+      "text": "If there had not been a hard layer of rock beneath the soil, they would have completed the job in a few hours.",
+      "start": 56.492,
+      "end": 64.043,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-088-009",
+      "text": "As it is, they have been drilling for 16 hours and they still have a long way to go.",
+      "start": 65.093,
+      "end": 71.422,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-088-010",
+      "text": "Meanwhile, a microphone, which was lowered into the mine two hours ago, has enabled the men to keep in touch with their closest relatives.",
+      "start": 72.953,
+      "end": 82.623,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-088-011",
+      "text": "Though they are running out of food and drink, the men are cheerful and confident that they will get out soon.",
+      "start": 84.213,
+      "end": 91.283,
+      "score": 0.94,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-088-012",
+      "text": "They have been told that rescue operations are progressing smoothly.",
+      "start": 92.272,
+      "end": 96.243,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-088-013",
+      "text": "If they knew how difficult it was to drill through the hard rock, they would lose heart.",
+      "start": 97.713,
+      "end": 103.463,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

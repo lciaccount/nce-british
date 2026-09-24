@@ -1,0 +1,132 @@
+{
+  "audioSha256": "555984aab946a9845c9ec196a391df39e8c50a79ef1b86872b853edeaceb9acc",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-009-001",
+      "text": "What does 'a cold welcome' refer to?",
+      "start": 13.332,
+      "end": 18.043,
+      "score": 0.924,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-009-002",
+      "text": "On Wednesday evening, we went to the Town Hall.",
+      "start": 20.893,
+      "end": 24.182,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-009-003",
+      "text": "It was the last day of the year and a large crowd of people had gathered under the Town Hall clock.",
+      "start": 25.332,
+      "end": 32.623,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-009-004",
+      "text": "It would strike twelve in twenty minutes' time.",
+      "start": 34.532,
+      "end": 37.843,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-009-005",
+      "text": "Fifteen minutes passed and then, at five to twelve, the clock stopped.",
+      "start": 39.193,
+      "end": 46.083,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-009-006",
+      "text": "The big minute hand did not move.",
+      "start": 47.852,
+      "end": 51.403,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-009-007",
+      "text": "We waited and waited, but nothing happened.",
+      "start": 52.593,
+      "end": 56.403,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-009-008",
+      "text": "Suddenly someone shouted.",
+      "start": 57.752,
+      "end": 59.583,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-009-009",
+      "text": "'It's two minutes past twelve!",
+      "start": 60.633,
+      "end": 63.863,
+      "score": 0.947,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-009-010",
+      "text": "The clock has stopped!'",
+      "start": 64.573,
+      "end": 66.883,
+      "score": 0.91,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-009-011",
+      "text": "I looked at my watch.",
+      "start": 68.793,
+      "end": 69.922,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-009-012",
+      "text": "It was true.",
+      "start": 70.373,
+      "end": 71.083,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-009-013",
+      "text": "The big clock refused to welcome the New Year.",
+      "start": 71.873,
+      "end": 75.603,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-009-014",
+      "text": "At that moment, everybody began to laugh and sing.",
+      "start": 77.013,
+      "end": 81.963,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

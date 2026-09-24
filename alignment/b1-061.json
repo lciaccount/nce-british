@@ -1,0 +1,177 @@
+{
+  "audioSha256": "ef4f2722575a3ee1d86c83c0895be3ec5b66285014732352b8700282b110d426",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-061-001",
+      "text": "What is good news for Jimmy?",
+      "start": 12.192,
+      "end": 14.282,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-061-002",
+      "text": "Where's Jimmy?",
+      "start": 17.073,
+      "end": 18.082,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-061-003",
+      "text": "He's in bed.",
+      "start": 18.613,
+      "end": 19.523,
+      "score": 0.715,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b1-061-004",
+      "text": "What's the matter with him?",
+      "start": 20.492,
+      "end": 21.942,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-061-005",
+      "text": "He feels ill.",
+      "start": 22.393,
+      "end": 23.362,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-061-006",
+      "text": "He looks ill. We must call the doctor.",
+      "start": 24.652,
+      "end": 28.322,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-061-007",
+      "text": "Yes, we must.",
+      "start": 28.892,
+      "end": 30.282,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-061-008",
+      "text": "Can you remember the doctor's telephone number?",
+      "start": 31.653,
+      "end": 34.643,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-061-009",
+      "text": "Yes.",
+      "start": 35.213,
+      "end": 35.643,
+      "score": 0.883,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-061-010",
+      "text": "It's 09754.",
+      "start": 36.172,
+      "end": 41.303,
+      "score": 0.388,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b1-061-011",
+      "text": "Open your mouth, Jimmy.",
+      "start": 43.413,
+      "end": 44.943,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-061-012",
+      "text": "Show me your tongue.",
+      "start": 45.773,
+      "end": 47.123,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-061-013",
+      "text": "Say, 'Ah'.",
+      "start": 48.053,
+      "end": 49.563,
+      "score": 0.736,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b1-061-014",
+      "text": "What's the matter with him, doctor?",
+      "start": 52.212,
+      "end": 53.823,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-061-015",
+      "text": "He has a bad cold, Mr. Williams, so he must stay in bed for a week.",
+      "start": 55.213,
+      "end": 60.903,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-061-016",
+      "text": "That's good news for Jimmy.",
+      "start": 61.833,
+      "end": 63.623,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-061-017",
+      "text": "Good news?",
+      "start": 64.513,
+      "end": 65.263,
+      "score": 0.997,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-061-018",
+      "text": "Why?",
+      "start": 65.892,
+      "end": 66.283,
+      "score": 0.993,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-061-019",
+      "text": "Because he doesn't like school!",
+      "start": 67.633,
+      "end": 70.183,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

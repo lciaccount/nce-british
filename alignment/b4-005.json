@@ -1,0 +1,141 @@
+{
+  "audioSha256": "febf355e41f9f52d265f194d6aabcf60439e4de2e6a25824657c9c9f33803360",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-005-001",
+      "text": "How does the writer like to treat young people?",
+      "start": 10.672,
+      "end": 14.082,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-005-002",
+      "text": "People are always talking about 'the problem of youth'.",
+      "start": 16.773,
+      "end": 20.383,
+      "score": 0.931,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-005-003",
+      "text": "If there is one -- which I take leave to doubt -- then it is older people who create it, not the young themselves.",
+      "start": 21.293,
+      "end": 28.983,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-005-004",
+      "text": "Let us get down to fundamentals and agree that the young are after all human beings -- people just like their elders.",
+      "start": 29.992,
+      "end": 38.103,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-005-005",
+      "text": "There is only one difference between an old man and a young one: the young man has a glorious future before him and the old one has a splendid future behind him: and maybe that is where the rub is.",
+      "start": 38.972,
+      "end": 53.903,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-005-006",
+      "text": "When I was a teenager, I felt that I was just young and uncertain -- that I was a new boy in a huge school, and I would have been very pleased to be regarded as something so interesting as a problem.",
+      "start": 55.252,
+      "end": 68.563,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-005-007",
+      "text": "For one thing, being a problem gives you a certain identity, and that is one of the things the young are busily engaged in seeking.",
+      "start": 69.552,
+      "end": 78.303,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-005-008",
+      "text": "I find young people exciting.",
+      "start": 79.972,
+      "end": 82.023,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-005-009",
+      "text": "They have an air of freedom, and they have not a dreary commitment to mean ambitions or love of comfort.",
+      "start": 82.853,
+      "end": 89.843,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-005-010",
+      "text": "They are not anxious social climbers, and they have no devotion to material things.",
+      "start": 90.733,
+      "end": 95.883,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-005-011",
+      "text": "All this seems to me to link them with life and the origins of things.",
+      "start": 97.193,
+      "end": 101.503,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-005-012",
+      "text": "It's as if they were in some sense cosmic beings in violent and lovely contrast with us suburban creatures.",
+      "start": 102.453,
+      "end": 110.422,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-005-013",
+      "text": "All that is in my mind when I meet a young person.",
+      "start": 112.472,
+      "end": 115.263,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-005-014",
+      "text": "He may be conceited, ill-mannered,  presumptuous or fatuous,  but I do not turn for protection to dreary cliches about respect for elders -- as if mere age were a reason for respect.",
+      "start": 116.153,
+      "end": 131.082,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-005-015",
+      "text": "I accept that we are equals, and I will argue with him, as an equal, if I think he is wrong.",
+      "start": 132.152,
+      "end": 139.002,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

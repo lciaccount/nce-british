@@ -1,0 +1,159 @@
+{
+  "audioSha256": "8f0fdd2b5557574fd8332b14db93dadf8f4ab962e840741ffa4dbc865feed13e",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-068-001",
+      "text": "Why did Elizabeth tell Nigel that she was going to the dentist?",
+      "start": 12.172,
+      "end": 18.203,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-068-002",
+      "text": "I crossed the street to avoid meeting him but he saw me and came running towards me.",
+      "start": 21.273,
+      "end": 27.102,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-068-003",
+      "text": "It was no use pretending that I had not seen him, so I waved to him.",
+      "start": 28.873,
+      "end": 33.983,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-068-004",
+      "text": "I never enjoy meeting Nigel Dykes.",
+      "start": 35.153,
+      "end": 38.323,
+      "score": 0.947,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-068-005",
+      "text": "He never has anything to do.",
+      "start": 39.312,
+      "end": 41.283,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-068-006",
+      "text": "No matter how busy you are, he always insists on coming with you.",
+      "start": 42.932,
+      "end": 48.203,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-068-007",
+      "text": "I had to think of a way of preventing him from following me around all morning.",
+      "start": 49.733,
+      "end": 54.897,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-068-008",
+      "text": "'Hello, Nigel,' I said 'Fancy meeting you here!'",
+      "start": 54.897,
+      "end": 61.508,
+      "score": 0.863,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-068-009",
+      "text": "'Hi, Elizabeth,' Nigel answered.",
+      "start": 61.508,
+      "end": 65.348,
+      "score": 0.875,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-068-010",
+      "text": "'I was just wondering how to spend the morning--until I saw you.",
+      "start": 65.348,
+      "end": 71.823,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-068-011",
+      "text": "You're not busy doing anything, are you?'",
+      "start": 73.192,
+      "end": 76.127,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-068-012",
+      "text": "'No, not at all,' I answered.",
+      "start": 76.127,
+      "end": 80.623,
+      "score": 0.905,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-068-013",
+      "text": "'I'm going to...' 'Would you mind my coming with you?'",
+      "start": 81.312,
+      "end": 86.123,
+      "score": 0.903,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-068-014",
+      "text": "he asked, before I had finished speaking.",
+      "start": 87.032,
+      "end": 90.243,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-068-015",
+      "text": "'Not at all,' I lied, 'but I'm going to the dentist.'",
+      "start": 91.692,
+      "end": 96.447,
+      "score": 0.891,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-068-016",
+      "text": "'Then I'll come with you,' he answered.",
+      "start": 96.447,
+      "end": 100.543,
+      "score": 0.913,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-068-017",
+      "text": "'There's always plenty to read in the waiting room!'",
+      "start": 100.593,
+      "end": 107.743,
+      "score": 0.926,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

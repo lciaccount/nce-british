@@ -1,0 +1,186 @@
+{
+  "audioSha256": "9377db9cedf58de5e985937d29e334f9c7a11be12b238a864f529965e7eb0ec9",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-009-001",
+      "text": "How do cats try to protect themselves when falling from great heights?",
+      "start": 11.732,
+      "end": 16.262,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-009-002",
+      "text": "Cats never fail to fascinate human beings.",
+      "start": 19.012,
+      "end": 21.942,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-009-003",
+      "text": "They can be friendly and affectionate towards humans, but they lead mysterious lives of their own as well.",
+      "start": 22.913,
+      "end": 29.502,
+      "score": 0.95,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-009-004",
+      "text": "They never become submissive like dogs and horses.",
+      "start": 30.753,
+      "end": 33.743,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-009-005",
+      "text": "As a result, humans have learned to respect feline independence.",
+      "start": 35.133,
+      "end": 39.183,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-009-006",
+      "text": "Most cats remain suspicious of humans all their lives.",
+      "start": 40.572,
+      "end": 44.343,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-009-007",
+      "text": "One of the things that fascinates us most about cats is the popular belief that they have nine lives.",
+      "start": 45.752,
+      "end": 52.443,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-009-008",
+      "text": "Apparently, there is a good deal of truth in this idea.",
+      "start": 53.472,
+      "end": 56.383,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-009-009",
+      "text": "A cat's ability to survive falls is based on fact.",
+      "start": 57.233,
+      "end": 60.743,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-009-010",
+      "text": "Recently the New York Animal Medical Centre made a study of 132 cats over a period of five months.",
+      "start": 62.293,
+      "end": 70.483,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-009-011",
+      "text": "All these cats had one experience in common: they had fallen off high buildings, yet only eight of them died from shock or injuries.",
+      "start": 71.953,
+      "end": 81.103,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-009-012",
+      "text": "Of course, New York is the ideal place for such an interesting study, because there is no shortage of tall buildings.",
+      "start": 82.073,
+      "end": 89.483,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-009-013",
+      "text": "There are plenty of high-rise windowsills to fall from!",
+      "start": 90.812,
+      "end": 93.643,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-009-014",
+      "text": "One cat, Sabrina, fell 32 storeys, yet only suffered from a broken tooth.",
+      "start": 95.032,
+      "end": 102.118,
+      "score": 0.95,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-009-015",
+      "text": "'Cats behave like well-trained paratroopers,' a doctor said.",
+      "start": 102.118,
+      "end": 106.943,
+      "score": 0.922,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-009-016",
+      "text": "It seems that the further cats fall, the less they are likely to injure themselves.",
+      "start": 108.172,
+      "end": 113.403,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-009-017",
+      "text": "In a long drop, they reach speeds of 60 miles an hour and more.",
+      "start": 114.453,
+      "end": 119.103,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-009-018",
+      "text": "At high speeds, falling cats have time to relax.",
+      "start": 120.052,
+      "end": 123.703,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-009-019",
+      "text": "They stretch out their legs like flying squirrels.",
+      "start": 124.532,
+      "end": 127.183,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-009-020",
+      "text": "This increases their air-resistance and reduces the shock of impact when they hit the ground.",
+      "start": 128.192,
+      "end": 134.022,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

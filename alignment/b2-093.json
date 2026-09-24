@@ -1,0 +1,96 @@
+{
+  "audioSha256": "0f1093ee6e7b6bf8563007fcae74bc3a147a158884eeb01c436d0c2a53090a71",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-093-001",
+      "text": "Where was the Statue of Liberty made?",
+      "start": 13.132,
+      "end": 15.643,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-093-002",
+      "text": "One of the most famous monuments in the world, the Statue of Liberty, was presented to the USA in the nineteenth century by the people of France.",
+      "start": 18.853,
+      "end": 31.242,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-093-003",
+      "text": "The great statue, which was designed by the sculptor Auguste Bartholdi, took ten years to complete.",
+      "start": 32.773,
+      "end": 42.303,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-093-004",
+      "text": "The actual figure was made of copper supported by a metal framework which had been especially constructed by Eiffel.",
+      "start": 44.492,
+      "end": 54.983,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-093-005",
+      "text": "Before it could be transported to the United States, a site had to be found for it and a pedestal had to be built.",
+      "start": 56.373,
+      "end": 65.343,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-093-006",
+      "text": "The site chosen was an island at the entrance of New York Harbour.",
+      "start": 67.392,
+      "end": 72.328,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-093-007",
+      "text": "By 1884, a statue which was 151 feet tall had been erected in Paris.",
+      "start": 72.328,
+      "end": 82.503,
+      "score": 0.749,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b2-093-008",
+      "text": "The following year, it was taken to pieces and sent to America.",
+      "start": 83.772,
+      "end": 88.723,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-093-009",
+      "text": "By the end of October 1886, the statue had been put together again and it was officially presented to the American people by Bartholdi.",
+      "start": 90.532,
+      "end": 101.503,
+      "score": 0.811,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-093-010",
+      "text": "Ever since then, the great monument has been a symbol of liberty for the millions of people who have passed through New York Harbour to make their homes in America.",
+      "start": 102.692,
+      "end": 113.363,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

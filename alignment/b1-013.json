@@ -1,0 +1,132 @@
+{
+  "audioSha256": "32173843d770625b5a9755c61dab1f3b9e0bbd8a8aa4f86ce3ea8b089baee676",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-013-001",
+      "text": "What colour is Anna's hat?",
+      "start": 13.912,
+      "end": 16.482,
+      "score": 0.922,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-013-002",
+      "text": "What colour's your new dress?",
+      "start": 19.353,
+      "end": 22.442,
+      "score": 0.899,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-013-003",
+      "text": "It's green.",
+      "start": 24.032,
+      "end": 24.742,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-013-004",
+      "text": "Come upstairs and see it.",
+      "start": 26.113,
+      "end": 28.102,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-013-005",
+      "text": "Thank you.",
+      "start": 29.633,
+      "end": 30.242,
+      "score": 0.999,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-013-006",
+      "text": "Look!",
+      "start": 32.333,
+      "end": 32.723,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-013-007",
+      "text": "Here it is!",
+      "start": 33.573,
+      "end": 34.403,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-013-008",
+      "text": "That's a nice dress.",
+      "start": 36.353,
+      "end": 38.323,
+      "score": 0.993,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-013-009",
+      "text": "It's very smart.",
+      "start": 39.032,
+      "end": 40.683,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-013-010",
+      "text": "My hat's new too.",
+      "start": 42.572,
+      "end": 44.323,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-013-011",
+      "text": "What colour is it?",
+      "start": 46.333,
+      "end": 47.663,
+      "score": 0.927,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-013-012",
+      "text": "It's the same colour.",
+      "start": 49.852,
+      "end": 51.323,
+      "score": 0.942,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-013-013",
+      "text": "It's green  too.",
+      "start": 52.413,
+      "end": 53.843,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-013-014",
+      "text": "That is a lovely hat!",
+      "start": 56.472,
+      "end": 59.543,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

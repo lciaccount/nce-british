@@ -1,0 +1,195 @@
+{
+  "audioSha256": "0ca35ed1bd7a5d7d42742109aaf53e8ae9014c68d4b690dc8821dc2fc6cd61c6",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-002-001",
+      "text": "Why was the writer's aunt surprised?",
+      "start": 13.552,
+      "end": 16.942,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-002-002",
+      "text": "It was Sunday.",
+      "start": 19.812,
+      "end": 20.842,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-002-003",
+      "text": "I never get up early on Sundays.",
+      "start": 21.913,
+      "end": 24.262,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-002-004",
+      "text": "I sometimes stay in bed until lunchtime.",
+      "start": 25.433,
+      "end": 28.422,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-002-005",
+      "text": "Last Sunday I got up very late.",
+      "start": 29.892,
+      "end": 33.303,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-002-006",
+      "text": "I looked out of the window.",
+      "start": 35.013,
+      "end": 36.723,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-002-007",
+      "text": "It was dark outside.",
+      "start": 38.733,
+      "end": 40.617,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-002-008",
+      "text": "'What a day!'",
+      "start": 40.617,
+      "end": 43.683,
+      "score": 0.844,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-002-009",
+      "text": "I thought.",
+      "start": 44.252,
+      "end": 44.903,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-002-010",
+      "text": "'It's raining again.'",
+      "start": 45.812,
+      "end": 47.383,
+      "score": 0.869,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-002-011",
+      "text": "Just then, the telephone rang.",
+      "start": 48.873,
+      "end": 51.143,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-002-012",
+      "text": "It was my aunt Lucy.",
+      "start": 52.532,
+      "end": 54.017,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-002-013",
+      "text": "'I've just arrived by train,' she said.",
+      "start": 54.017,
+      "end": 58.968,
+      "score": 0.915,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-002-014",
+      "text": "'I'm coming to see you.'",
+      "start": 58.968,
+      "end": 60.978,
+      "score": 0.91,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-002-015",
+      "text": "'But I'm still having breakfast,' I said.",
+      "start": 60.978,
+      "end": 66.287,
+      "score": 0.912,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-002-016",
+      "text": "'What are you doing?'",
+      "start": 66.287,
+      "end": 69.123,
+      "score": 0.888,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-002-017",
+      "text": "she asked.",
+      "start": 70.073,
+      "end": 70.943,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-002-018",
+      "text": "'I'm having breakfast,' I repeated.",
+      "start": 72.233,
+      "end": 75.318,
+      "score": 0.886,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-002-019",
+      "text": "'Dear me,' she said.",
+      "start": 75.318,
+      "end": 78.943,
+      "score": 0.875,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-002-020",
+      "text": "'Do you always get up so late?",
+      "start": 79.933,
+      "end": 82.143,
+      "score": 0.94,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-002-021",
+      "text": "It's one o'clock!'",
+      "start": 82.933,
+      "end": 84.163,
+      "score": 0.926,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

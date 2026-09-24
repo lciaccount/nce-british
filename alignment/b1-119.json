@@ -1,0 +1,186 @@
+{
+  "audioSha256": "7a7873ca3bb2f9fa032723036b591f30ace5e7d82328c4b790ded9d86d1df1e6",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-119-001",
+      "text": "Who called out to the thieves in the dark?",
+      "start": 13.432,
+      "end": 16.023,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-119-002",
+      "text": "Do you like stories?",
+      "start": 18.812,
+      "end": 19.822,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-119-003",
+      "text": "I want to tell you a true story.",
+      "start": 20.953,
+      "end": 23.163,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-119-004",
+      "text": "It happened to a friend of mine a year ago.",
+      "start": 24.212,
+      "end": 26.642,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-119-005",
+      "text": "While my friend, George, was reading in bed, two thieves climbed into his kitchen.",
+      "start": 28.193,
+      "end": 34.143,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-119-006",
+      "text": "After they had entered the house, they went into the dining room.",
+      "start": 35.532,
+      "end": 39.643,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-119-007",
+      "text": "It was very dark, so they turned on a torch.",
+      "start": 41.193,
+      "end": 44.683,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-119-008",
+      "text": "Suddenly, they heard a voice behind them.",
+      "start": 46.233,
+      "end": 48.638,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-119-009",
+      "text": "'What's up?",
+      "start": 48.638,
+      "end": 50.583,
+      "score": 0.846,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-119-010",
+      "text": "What's up?'",
+      "start": 50.972,
+      "end": 51.603,
+      "score": 0.846,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-119-011",
+      "text": "someone called.",
+      "start": 51.773,
+      "end": 52.643,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-119-012",
+      "text": "The thieves dropped the torch and ran away as quickly as they could.",
+      "start": 53.752,
+      "end": 57.663,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-119-013",
+      "text": "George heard the noise and came downstairs quickly.",
+      "start": 59.133,
+      "end": 62.203,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-119-014",
+      "text": "He turned on the light, but he couldn't see anyone.",
+      "start": 63.532,
+      "end": 67.043,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-119-015",
+      "text": "The thieves had already gone.",
+      "start": 68.093,
+      "end": 69.922,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-119-016",
+      "text": "But George's parrot, Henry, was still there.",
+      "start": 71.192,
+      "end": 74.343,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-119-017",
+      "text": "What's up, George?",
+      "start": 75.433,
+      "end": 76.343,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-119-018",
+      "text": "he called.",
+      "start": 76.513,
+      "end": 77.068,
+      "score": 0.953,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-119-019",
+      "text": "'Nothing, Henry,' George said and smiled.",
+      "start": 77.068,
+      "end": 80.538,
+      "score": 0.918,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-119-020",
+      "text": "'Go back to sleep.'",
+      "start": 80.538,
+      "end": 84.703,
+      "score": 0.873,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

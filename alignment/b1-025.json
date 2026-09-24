@@ -1,0 +1,123 @@
+{
+  "audioSha256": "2da15dd2d0d2060cf072cb8d6f1838f82327d2153018e7c278cd542606aa97f4",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-025-001",
+      "text": "What colour is the electric cooker?",
+      "start": 13.932,
+      "end": 16.822,
+      "score": 0.95,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-025-002",
+      "text": "Mrs. Smith's kitchen is small.",
+      "start": 19.553,
+      "end": 23.043,
+      "score": 0.909,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-025-003",
+      "text": "There is a refrigerator in the kitchen.",
+      "start": 25.032,
+      "end": 28.703,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-025-004",
+      "text": "The refrigerator is white.",
+      "start": 31.032,
+      "end": 34.023,
+      "score": 0.917,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-025-005",
+      "text": "It is on the right.",
+      "start": 36.032,
+      "end": 37.403,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-025-006",
+      "text": "There is an electric cooker in the kitchen.",
+      "start": 40.053,
+      "end": 43.663,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-025-007",
+      "text": "The cooker is blue.",
+      "start": 45.572,
+      "end": 47.863,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-025-008",
+      "text": "It is on the left.",
+      "start": 49.752,
+      "end": 51.023,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-025-009",
+      "text": "There is a table in the middle of the room.",
+      "start": 53.513,
+      "end": 57.143,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-025-010",
+      "text": "There is a bottle on the table.",
+      "start": 59.392,
+      "end": 62.043,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-025-011",
+      "text": "The bottle is empty.",
+      "start": 64.032,
+      "end": 66.183,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-025-012",
+      "text": "There is a cup on the table, too.",
+      "start": 68.493,
+      "end": 71.763,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-025-013",
+      "text": "The cup is clean.",
+      "start": 74.133,
+      "end": 76.083,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

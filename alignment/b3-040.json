@@ -1,0 +1,195 @@
+{
+  "audioSha256": "cc1010749bf7317e338957d1c99b6e0401051e520a7d1c20c6d5ffb2c9cbafa6",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-040-001",
+      "text": "How did the policeman discover that the whole thing was a joke?",
+      "start": 11.892,
+      "end": 15.902,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-040-002",
+      "text": "It has never been explained why university students seem to enjoy practical jokes more than anyone else.",
+      "start": 18.633,
+      "end": 25.422,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-040-003",
+      "text": "Students specialize in a particular type of practical joke: the hoax.",
+      "start": 26.433,
+      "end": 31.223,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-040-004",
+      "text": "Inviting the fire brigade to put out a nonexistent fire is a crude form of deception which no self-respecting student would ever indulde in.",
+      "start": 32.032,
+      "end": 40.963,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-040-005",
+      "text": "Students often create amusing situations which are funny to everyone except the victims.",
+      "start": 41.913,
+      "end": 48.383,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-040-006",
+      "text": "When a student recently saw two workmen using a pneumatic drill outside his university, he immediately telephoned the police and informed them that two students dressed up as workmen were tearing up the road with a pneumatic drill.",
+      "start": 49.633,
+      "end": 65.103,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-040-007",
+      "text": "As soon as he had hung up, he went over to the workmen and told them that if a policeman ordered them to go away, they were not to take him seriously.",
+      "start": 65.672,
+      "end": 74.603,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-040-008",
+      "text": "He added that a student had dressed up as a policeman and was playing all sorts of silly jokes on people.",
+      "start": 75.453,
+      "end": 81.343,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-040-009",
+      "text": "Both the police and the workmen were grateful to the student for this piece of advance information.",
+      "start": 82.192,
+      "end": 87.523,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-040-010",
+      "text": "The student hid in an archway nearby where he could watch and hear everything that went on.",
+      "start": 88.513,
+      "end": 93.383,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-040-011",
+      "text": "Sure enough, a policeman arrived on the scene and politely asked the workmen to go away.",
+      "start": 94.112,
+      "end": 99.363,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-040-012",
+      "text": "When he received a very rude reply from one of the workmen, he threatened to remove them by force.",
+      "start": 100.112,
+      "end": 105.503,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-040-013",
+      "text": "The workmen told him to do as he pleased and the policeman telephoned for help.",
+      "start": 106.353,
+      "end": 110.703,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-040-014",
+      "text": "Shortly afterwards, 4 more policemen arrived and remonstrated with the workmen.",
+      "start": 111.892,
+      "end": 116.903,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-040-015",
+      "text": "As the men refused to stop working, the police attempted to seize the pneumatic drill.",
+      "start": 117.832,
+      "end": 122.343,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-040-016",
+      "text": "The workmen struggled fiercely and one of them lost his temper.",
+      "start": 123.453,
+      "end": 126.943,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-040-017",
+      "text": "He threatened to call the police.",
+      "start": 127.733,
+      "end": 129.382,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-040-018",
+      "text": "At this, the police pointed out ironically that this would hardly be necessary as the men were already under arrest.",
+      "start": 130.372,
+      "end": 137.882,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-040-019",
+      "text": "Pretending to speak seriously, one of the workmen asked if he might make a telephone call before being taken to the station.",
+      "start": 138.712,
+      "end": 145.882,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-040-020",
+      "text": "Permission was granted and a policeman accompanied him to a pay phone.",
+      "start": 146.672,
+      "end": 150.843,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-040-021",
+      "text": "Only when he saw that the man was actually telephoning the police did he realize that they had all been the victims of a hoax.",
+      "start": 151.712,
+      "end": 159.162,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "audioSha256": "48466402093646d0ca574d2f530be9321c288b36f805a7d40480c90019ea74c1",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-081-001",
+      "text": "Why is Carol disappointed?",
+      "start": 13.952,
+      "end": 16.223,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-081-002",
+      "text": "Hi, Carol!",
+      "start": 18.933,
+      "end": 19.602,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-081-003",
+      "text": "Where's Tom?",
+      "start": 19.992,
+      "end": 20.703,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-081-004",
+      "text": "He's upstairs.",
+      "start": 21.133,
+      "end": 22.062,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-081-005",
+      "text": "He's having a bath.",
+      "start": 22.373,
+      "end": 23.362,
+      "score": 0.942,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-081-006",
+      "text": "Tom!",
+      "start": 24.633,
+      "end": 25.282,
+      "score": 0.939,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-081-007",
+      "text": "Yes?",
+      "start": 25.733,
+      "end": 26.302,
+      "score": 0.999,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-081-008",
+      "text": "Sam's here.",
+      "start": 26.953,
+      "end": 27.883,
+      "score": 0.736,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b1-081-009",
+      "text": "I'm nearly ready.",
+      "start": 28.473,
+      "end": 29.843,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-081-010",
+      "text": "Hello, Sam.",
+      "start": 32.312,
+      "end": 33.183,
+      "score": 0.874,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-081-011",
+      "text": "Have a cigarette.",
+      "start": 33.793,
+      "end": 34.863,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-081-012",
+      "text": "No, thanks, Tom.",
+      "start": 36.353,
+      "end": 37.683,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-081-013",
+      "text": "Have a glass of whisky then.",
+      "start": 39.073,
+      "end": 40.543,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-081-014",
+      "text": "OK.",
+      "start": 42.172,
+      "end": 42.443,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-081-015",
+      "text": "Thanks.",
+      "start": 43.293,
+      "end": 43.723,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-081-016",
+      "text": "Is dinnner ready, Carol?",
+      "start": 46.172,
+      "end": 47.303,
+      "score": 0.935,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-081-017",
+      "text": "It's nearly ready.",
+      "start": 47.892,
+      "end": 48.803,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-081-018",
+      "text": "We can have dinner at seven o'clock.",
+      "start": 49.373,
+      "end": 51.423,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-081-019",
+      "text": "Sam and I had lunch together today.",
+      "start": 52.553,
+      "end": 54.843,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-081-020",
+      "text": "We went to a restaurant.",
+      "start": 55.573,
+      "end": 57.163,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-081-021",
+      "text": "What did you have?",
+      "start": 57.633,
+      "end": 58.523,
+      "score": 0.913,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-081-022",
+      "text": "We had roast beef and potatoes.",
+      "start": 59.332,
+      "end": 62.463,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-081-023",
+      "text": "Oh!",
+      "start": 63.712,
+      "end": 63.923,
+      "score": 0.848,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-081-024",
+      "text": "What's the matter, Carol?",
+      "start": 65.153,
+      "end": 66.483,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-081-025",
+      "text": "Well, you're going to have roast beef and potatoes again tonight!",
+      "start": 67.552,
+      "end": 71.803,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "audioSha256": "0b63ccdb58067bc9808f56bcc44116f3c53798b268199c65eff4e7e9470cbb34",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-012-001",
+      "text": "Why is there no risk to the customer when a bank prints the customer's name on his cheques?",
+      "start": 12.692,
+      "end": 18.402,
+      "score": 0.924,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-012-002",
+      "text": "When anyone opens a current account at a bank, he is lending the bank money, repayment of which he may demand at any time either in cash or by drawing a cheque in favour of another person.",
+      "start": 21.193,
+      "end": 34.703,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-012-003",
+      "text": "Primarily, the banker-customer relationship is that of debtor and creditor-- who is which depending on whether the customer's account is in credit or is overdrawn.",
+      "start": 35.953,
+      "end": 48.783,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-012-004",
+      "text": "But, in addition to that basically simple concept, the bank and its customer owe a large number of obligations to one another.",
+      "start": 49.852,
+      "end": 58.603,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-012-005",
+      "text": "Many of these obligations can give rise to problems and complications but a bank customer, unlike, say, a buyer of goods, cannot complain that the law is loaded against him.",
+      "start": 60.112,
+      "end": 72.603,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-012-006",
+      "text": "The bank must obey its customer's instructions, and not those of anyone else.",
+      "start": 74.192,
+      "end": 79.063,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-012-007",
+      "text": "When, for example, a customer first opens an account, he instructs the bank to debit his account only in respect of cheques drawn by himself.",
+      "start": 80.032,
+      "end": 89.323,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-012-008",
+      "text": "He gives the bank specimens of his signature, and there is a very firm rule that the bank has no right or authority to pay out a customer's money on a cheque on which its customer's signature has been forged.",
+      "start": 90.853,
+      "end": 104.422,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-012-009",
+      "text": "It makes no difference that the forgery may have been a very skillful one: the bank must recognize its customer's signature.",
+      "start": 105.312,
+      "end": 113.383,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-012-010",
+      "text": "For this reason there is no risk to the customer in the practice, adopted by banks, of printing the customer's name on his cheques.",
+      "start": 114.433,
+      "end": 122.283,
+      "score": 0.948,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-012-011",
+      "text": "If this facilitates forgery, it is the bank which will lose, not the customer.",
+      "start": 123.752,
+      "end": 129.282,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

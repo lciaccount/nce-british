@@ -1,0 +1,132 @@
+{
+  "audioSha256": "96a8b3eea1768b58f1862265718a4e3b1042a0fd4ef354547d3f7a28fc5adba3",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-039-001",
+      "text": "Where does Sam put the vase in the end?",
+      "start": 13.472,
+      "end": 16.942,
+      "score": 0.949,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-039-002",
+      "text": "What are you going to do with that vase, Penny?",
+      "start": 19.832,
+      "end": 22.482,
+      "score": 0.91,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-039-003",
+      "text": "I'm going to put it on this table, Sam.",
+      "start": 24.093,
+      "end": 26.962,
+      "score": 0.925,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-039-004",
+      "text": "Don't do that.",
+      "start": 28.593,
+      "end": 29.602,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-039-005",
+      "text": "Give it to me.",
+      "start": 30.593,
+      "end": 31.562,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-039-006",
+      "text": "What are you going to do with it?",
+      "start": 32.693,
+      "end": 34.823,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-039-007",
+      "text": "I'm going to put it here, in front of the window.",
+      "start": 36.093,
+      "end": 39.903,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-039-008",
+      "text": "Be careful!",
+      "start": 41.373,
+      "end": 42.283,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-039-009",
+      "text": "Don't drop it!",
+      "start": 42.873,
+      "end": 43.863,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-039-010",
+      "text": "Don't put it there, Sam.",
+      "start": 46.032,
+      "end": 47.783,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-039-011",
+      "text": "Put it here, on this shelf.",
+      "start": 48.413,
+      "end": 50.863,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-039-012",
+      "text": "There we are!",
+      "start": 52.873,
+      "end": 53.823,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-039-013",
+      "text": "It's a lovely vase.",
+      "start": 54.672,
+      "end": 56.423,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-039-014",
+      "text": "Those flowers are lovely, too.",
+      "start": 57.133,
+      "end": 59.143,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

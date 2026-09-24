@@ -1,0 +1,276 @@
+{
+  "audioSha256": "2baf3eb1ef1bb9969f02095ab853425cecbf5f9cb49131d0626221013cc79ee9",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-052-001",
+      "text": "Why did Harry decide to give up his little game?",
+      "start": 11.992,
+      "end": 15.383,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-002",
+      "text": "My cousin, Harry, keeps a large curiously-shaped bottle on permanent display in his study.",
+      "start": 18.172,
+      "end": 24.302,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-003",
+      "text": "Despite the fact that the bottle is tinted a delicate shade of green, an observant visitor would soon notice that it is filled with what looks like a thick, greyish substance.",
+      "start": 25.393,
+      "end": 37.903,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-004",
+      "text": "If you were to ask Harry what was in the bottle, he would tell you that it contained perfumed mud.",
+      "start": 39.032,
+      "end": 45.783,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-005",
+      "text": "If you expressed doubt or surprise, he would immediately invite you to smell it and then to rub some into your skin.",
+      "start": 46.972,
+      "end": 54.683,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-006",
+      "text": "The brief experiment would dispel any further doubts she might have.",
+      "start": 55.653,
+      "end": 59.603,
+      "score": 0.921,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-007",
+      "text": "The bottle really does contain perfumed mud.",
+      "start": 60.312,
+      "end": 63.823,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-008",
+      "text": "How Harry came into the possession of this outlandish stuff makes an interesting story which he is fond of relating.",
+      "start": 64.593,
+      "end": 72.063,
+      "score": 0.943,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-009",
+      "text": "Furthermore, the acquisition of this bottle cured him of a bad habit he had been developing for years.",
+      "start": 72.953,
+      "end": 79.463,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-010",
+      "text": "Harry used to consider it a great joke to go into expensive cosmetic shops and make outrageous requests for goods that do not exist.",
+      "start": 80.832,
+      "end": 90.123,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-011",
+      "text": "He would invent fanciful names on the spot.",
+      "start": 91.013,
+      "end": 93.563,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-012",
+      "text": "On entering a shop, he would ask for a new perfume called 'Scented Shadow' or for 'insoluble bath cubes'.",
+      "start": 94.312,
+      "end": 102.143,
+      "score": 0.911,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-013",
+      "text": "If a shop assistant told him she had not heard of it, he would pretend to be considerably put out.",
+      "start": 103.073,
+      "end": 109.043,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-014",
+      "text": "He loved to be told that one of his imaginary products was temporarily out of stock and he would faithfully promise to call again at some future date, but of course he never did.",
+      "start": 110.052,
+      "end": 122.083,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-015",
+      "text": "How Harry managed to keep a straight face during these performances is quite beyond me.",
+      "start": 123.052,
+      "end": 128.242,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-016",
+      "text": "Harry does not need to be prompted to explain how he bought his precious bottle of mud.",
+      "start": 129.612,
+      "end": 134.782,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-017",
+      "text": "One day, he went to an exclusive shop in London and asked for 'Myrolite'.",
+      "start": 135.592,
+      "end": 141.022,
+      "score": 0.922,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-018",
+      "text": "The shop assistant looked puzzled and Harry repeated the word, slowly stressing each syllable.",
+      "start": 141.752,
+      "end": 147.843,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-019",
+      "text": "When the woman shook her head in bewilderment, Harry went on to explain that 'myrolite' was a hard, amber-like substance which could be used to remove freckles.",
+      "start": 148.372,
+      "end": 159.642,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-020",
+      "text": "This explanation evidently conveyed something to the woman who searched shelf after shelf.",
+      "start": 160.792,
+      "end": 166.562,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-021",
+      "text": "She produced all sorts of weird concoctions, but none of them met with Harry's requirements.",
+      "start": 167.672,
+      "end": 173.123,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-022",
+      "text": "When Harry put on his act of being mildly annoyed, the assistant promised to order some for him.",
+      "start": 174.072,
+      "end": 180.222,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-023",
+      "text": "Intoxicated by his success, Harry then asked for perfumed mud.",
+      "start": 181.152,
+      "end": 185.862,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-024",
+      "text": "He expected the assistant to look at him in blank astonishment.",
+      "start": 186.552,
+      "end": 190.102,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-025",
+      "text": "However, it was his turn to be surprised, for the woman's eyes immediately lit up and she fetched several bottles which she placed on the counter for Harry to inspect.",
+      "start": 190.912,
+      "end": 202.202,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-026",
+      "text": "For once, Harry had to admit defeat.",
+      "start": 202.852,
+      "end": 205.502,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-027",
+      "text": "He picked up what seemed to be the smallest bottle and discreetly asked the price.",
+      "start": 205.972,
+      "end": 210.722,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-028",
+      "text": "He was glad to get away with a mere twenty pounds and he beat a hasty retreat, clutching the precious bottle under his arm.",
+      "start": 211.532,
+      "end": 219.683,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-029",
+      "text": "From then on, Harry decided that this little game he had invented might prove to be expensive.",
+      "start": 220.572,
+      "end": 226.382,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-052-030",
+      "text": "The curious bottle which now adorns the bookcase in his study was his first and last purchase of rare cosmetics.",
+      "start": 227.092,
+      "end": 235.662,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

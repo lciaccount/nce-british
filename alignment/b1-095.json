@@ -1,0 +1,213 @@
+{
+  "audioSha256": "39639946c342c293973dc1835a06eebc047b095da57376fc03f76d98fd12cbb2",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-095-001",
+      "text": "Why did George and Ken miss the train?",
+      "start": 12.312,
+      "end": 15.462,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-095-002",
+      "text": "Two return tickets to London, please.",
+      "start": 18.332,
+      "end": 20.582,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-095-003",
+      "text": "What time will the next train leave?",
+      "start": 21.573,
+      "end": 23.543,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-095-004",
+      "text": "At nineteen minutes past eight.",
+      "start": 24.992,
+      "end": 27.322,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-095-005",
+      "text": "Which platform?",
+      "start": 28.532,
+      "end": 29.462,
+      "score": 0.998,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-095-006",
+      "text": "Platform Two.",
+      "start": 30.633,
+      "end": 31.682,
+      "score": 0.948,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-095-007",
+      "text": "Over the bridge.",
+      "start": 32.273,
+      "end": 33.263,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-095-008",
+      "text": "What time will the next train leave?",
+      "start": 35.293,
+      "end": 37.043,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-095-009",
+      "text": "At eight nineteen.",
+      "start": 38.293,
+      "end": 39.383,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-095-010",
+      "text": "We've got plenty of time.",
+      "start": 40.513,
+      "end": 42.143,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-095-011",
+      "text": "It's only three minutes to eight.",
+      "start": 43.572,
+      "end": 45.663,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-095-012",
+      "text": "Let's go and have a drink.",
+      "start": 47.032,
+      "end": 48.483,
+      "score": 0.954,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-095-013",
+      "text": "There's a bar next door to the station.",
+      "start": 49.093,
+      "end": 51.623,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-095-014",
+      "text": "We had better go back to the station now, Ken.",
+      "start": 53.933,
+      "end": 56.763,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-095-015",
+      "text": "Tickets, please.",
+      "start": 58.972,
+      "end": 60.103,
+      "score": 0.931,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-095-016",
+      "text": "We want to catch the eight nineteen to London.",
+      "start": 61.892,
+      "end": 64.883,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-095-017",
+      "text": "You've just missed it!",
+      "start": 66.233,
+      "end": 67.783,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-095-018",
+      "text": "What!",
+      "start": 68.873,
+      "end": 69.243,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-095-019",
+      "text": "It's only eight fifteen.",
+      "start": 69.812,
+      "end": 71.463,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-095-020",
+      "text": "I'm sorry, sir.",
+      "start": 72.733,
+      "end": 73.863,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-095-021",
+      "text": "That clock's ten minutes slow.",
+      "start": 74.513,
+      "end": 76.523,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-095-022",
+      "text": "When's the next train?",
+      "start": 78.153,
+      "end": 79.483,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-095-023",
+      "text": "In five hours' time!",
+      "start": 81.013,
+      "end": 83.143,
+      "score": 0.933,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

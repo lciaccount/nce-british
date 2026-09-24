@@ -1,0 +1,105 @@
+{
+  "audioSha256": "d2466e8108930593ee5bf4cf067eb26bcf714d061531aa90b34a4b3f754be08c",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-028-001",
+      "text": "What are patients looking for when they visit the doctor?",
+      "start": 12.232,
+      "end": 15.422,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-028-002",
+      "text": "This is a sceptical age, but although our faith in many of the things in which our forefathers fervently believed has weakened, our confidence in the curative properties of the bottle of medicine remains the same as theirs.",
+      "start": 18.213,
+      "end": 32.943,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-028-003",
+      "text": "This modern faith in medicines is proved by the fact that the annual drug bill of the Health Services is mounting to astronomical figures.",
+      "start": 33.933,
+      "end": 42.963,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-028-004",
+      "text": "and shows no signs at present of ceasing to rise.",
+      "start": 43.492,
+      "end": 46.743,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-028-005",
+      "text": "The majority of the patients attending the medical out-patients departments of our hospitals feel that they have not received adequate treatment unless they are able to carry home with them some tangible remedy in the shape of a bottle of medicine, a box of pills, or a small jar of ointment, and the doctor in charge of the department is only too ready to provide them with these requirements.",
+      "start": 48.013,
+      "end": 73.243,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-028-006",
+      "text": "There is no quicker method of disposing of patients than by giving them what they are asking for, and since most medical men in the Health Services are overworked and have little time for offering time-consuming and little-appreciated advice on such subjects as diet, right living, and the need for abandoning bad habits etc., the bottle, the box, and the jar are almost always granted them.",
+      "start": 74.332,
+      "end": 102.643,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-028-007",
+      "text": "Nor is it only the ignorant and ill-educated person who has such faith in the bottle of medicine.",
+      "start": 104.153,
+      "end": 110.223,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-028-008",
+      "text": "It is recounted of Thomas Carlyle that when he heard of the illness of his friend, Henry Taylor, he went off immediately to visit him, carrying with him in his pocket what remained a bottle of medicine formerly prescribed for an indisposition of Mrs. Carlyle's.",
+      "start": 111.453,
+      "end": 129.162,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-028-009",
+      "text": "Carlyle was entirely ignorant of what the bottle in his pocket contained, of the nature of the illness from which his friend was suffering, and of what had previously been wrong with his wife, but a medicine that had worked so well in one form of illness would surely be of equal benefit in another, and comforted by the thought of the help he was bringing to his friend, he hastened to Henry Taylor's house.",
+      "start": 130.252,
+      "end": 155.782,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-028-010",
+      "text": "History does not relate whether his friend accepted his medical help, but in all probability he did.",
+      "start": 156.932,
+      "end": 164.262,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-028-011",
+      "text": "The great advantage of taking medicine is that it makes no demands on the taker beyond that of putting up for a moment with a disgusting taste, and that is what all patients demand of their doctors--to be cured at no inconvenience to themselves.",
+      "start": 165.232,
+      "end": 181.862,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

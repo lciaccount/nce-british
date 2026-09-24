@@ -1,0 +1,159 @@
+{
+  "audioSha256": "8ae0bb1e69f6b0b0890bb4bc29fb39f7965e904af7e0b90999bab5dd47cbf759",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-137-001",
+      "text": "What would Julie like to do, if she had the money?",
+      "start": 12.992,
+      "end": 16.462,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-137-002",
+      "text": "Are you doing the football pools, Brain?",
+      "start": 19.193,
+      "end": 21.363,
+      "score": 0.881,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-137-003",
+      "text": "Yes, I've nearly finished, Julie.",
+      "start": 21.973,
+      "end": 24.223,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-137-004",
+      "text": "I'm sure we'll win something this week.",
+      "start": 25.013,
+      "end": 27.302,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-137-005",
+      "text": "You always say that, but we never win anything!",
+      "start": 28.093,
+      "end": 31.902,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-137-006",
+      "text": "What will you do if you win a lot of money?",
+      "start": 33.773,
+      "end": 37.043,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-137-007",
+      "text": "If I win a lot of money I'll buy you a mink coat.",
+      "start": 38.392,
+      "end": 43.203,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-137-008",
+      "text": "I don't want a mink coat!",
+      "start": 44.193,
+      "end": 46.223,
+      "score": 0.935,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-137-009",
+      "text": "I want to see the world.",
+      "start": 47.352,
+      "end": 49.103,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-137-010",
+      "text": "All right.",
+      "start": 49.873,
+      "end": 50.503,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-137-011",
+      "text": "If we win a lot of money we'll travel round the world and we'll stay at the best hotels.",
+      "start": 51.233,
+      "end": 57.683,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-137-012",
+      "text": "Then we'll return home and buy a big house in the country.",
+      "start": 58.593,
+      "end": 62.383,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-137-013",
+      "text": "We'll have a beautiful garden and...",
+      "start": 63.133,
+      "end": 65.323,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-137-014",
+      "text": "But if we spend all that money we'll be poor again.",
+      "start": 65.453,
+      "end": 70.343,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-137-015",
+      "text": "What'll we do then?",
+      "start": 71.413,
+      "end": 72.422,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-137-016",
+      "text": "If we spend all the money we'll try and win the football pools again.",
+      "start": 73.433,
+      "end": 78.503,
+      "score": 0.933,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-137-017",
+      "text": "It's a pleasant dream but everything depends on 'if' !",
+      "start": 80.093,
+      "end": 84.903,
+      "score": 0.921,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

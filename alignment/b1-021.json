@@ -1,0 +1,96 @@
+{
+  "audioSha256": "652d5fed0cd1bb65d6c3e299264baecd5e64c37115746dffad8df40d03586b31",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-021-001",
+      "text": "Which book does the man want?",
+      "start": 13.012,
+      "end": 15.422,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-021-002",
+      "text": "Give me a book please, Jane.",
+      "start": 18.312,
+      "end": 20.422,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-021-003",
+      "text": "Which book?",
+      "start": 22.012,
+      "end": 22.802,
+      "score": 0.954,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-021-004",
+      "text": "This one?",
+      "start": 24.172,
+      "end": 24.762,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-021-005",
+      "text": "No, not that one.",
+      "start": 26.032,
+      "end": 28.002,
+      "score": 0.997,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-021-006",
+      "text": "The red one.",
+      "start": 28.733,
+      "end": 29.682,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-021-007",
+      "text": "This one?",
+      "start": 30.892,
+      "end": 31.442,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-021-008",
+      "text": "Yes, please.",
+      "start": 32.433,
+      "end": 33.543,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-021-009",
+      "text": "Here you are.",
+      "start": 34.693,
+      "end": 35.583,
+      "score": 0.909,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-021-010",
+      "text": "Thank you.",
+      "start": 36.633,
+      "end": 37.263,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

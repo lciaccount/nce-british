@@ -1,0 +1,195 @@
+{
+  "audioSha256": "eda197c2e8dba78543c707befe34a932738586a33af4d2955e2726cf1f509e04",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-113-001",
+      "text": "Who has got some small change?",
+      "start": 12.692,
+      "end": 14.643,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-113-002",
+      "text": "Fares, please!",
+      "start": 17.393,
+      "end": 18.203,
+      "score": 0.673,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b1-113-003",
+      "text": "Trafalgar Square, please.",
+      "start": 19.553,
+      "end": 20.762,
+      "score": 0.848,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-113-004",
+      "text": "I'm sorry, sir.",
+      "start": 22.053,
+      "end": 23.043,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-113-005",
+      "text": "I can't change a ten-pound note.",
+      "start": 23.573,
+      "end": 25.703,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-113-006",
+      "text": "Haven't you got any small change?",
+      "start": 26.212,
+      "end": 28.282,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-113-007",
+      "text": "I've got no small change, I am afraid.",
+      "start": 29.433,
+      "end": 31.562,
+      "score": 0.927,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-113-008",
+      "text": "I'll ask some of the passengers.",
+      "start": 32.873,
+      "end": 34.383,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-113-009",
+      "text": "Have you any small change, sir?",
+      "start": 35.672,
+      "end": 37.343,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-113-010",
+      "text": "I'm sorry.",
+      "start": 38.273,
+      "end": 38.943,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-113-011",
+      "text": "I've got none.",
+      "start": 39.472,
+      "end": 40.383,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-113-012",
+      "text": "I haven't got any either.",
+      "start": 42.293,
+      "end": 43.763,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-113-013",
+      "text": "Can you change this ten-pound note, madam?",
+      "start": 45.193,
+      "end": 47.623,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-113-014",
+      "text": "I'm afraid I can't.",
+      "start": 48.553,
+      "end": 49.623,
+      "score": 0.578,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b1-113-015",
+      "text": "Neither can I. I'm very sorry, sir.",
+      "start": 51.013,
+      "end": 55.123,
+      "score": 0.954,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-113-016",
+      "text": "You must get off the bus.",
+      "start": 55.633,
+      "end": 57.203,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-113-017",
+      "text": "None of our passengers can change this note.",
+      "start": 58.053,
+      "end": 60.703,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-113-018",
+      "text": "They're all millionaires!",
+      "start": 61.633,
+      "end": 63.163,
+      "score": 0.952,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-113-019",
+      "text": "Except us.",
+      "start": 66.032,
+      "end": 66.743,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-113-020",
+      "text": "I've got some small change.",
+      "start": 68.252,
+      "end": 69.483,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-113-021",
+      "text": "So have I.",
+      "start": 70.493,
+      "end": 71.083,
+      "score": 0.645,
+      "timingValid": true,
+      "needsReview": true
+    }
+  ]
+}

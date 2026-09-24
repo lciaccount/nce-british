@@ -1,0 +1,96 @@
+{
+  "audioSha256": "ab90a08a334a1c7967bec3daf52bda85ab86e76e3fec86d6cd7ec20a52db842c",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-016-001",
+      "text": "What was the polite request?",
+      "start": 14.172,
+      "end": 16.662,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-016-002",
+      "text": "If you park your car in the wrong place, a traffic policeman will soon find it.",
+      "start": 19.593,
+      "end": 26.322,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-016-003",
+      "text": "You will be very lucky if he lets you go without a ticket.",
+      "start": 28.253,
+      "end": 32.863,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-016-004",
+      "text": "However, this does not always happen.",
+      "start": 34.793,
+      "end": 38.023,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-016-005",
+      "text": "Traffic police are sometimes very polite.",
+      "start": 39.713,
+      "end": 43.083,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-016-006",
+      "text": "During a holiday in Sweden, I found this note on my car: 'sir, we welcome you to our city.",
+      "start": 45.032,
+      "end": 57.343,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-016-007",
+      "text": "This is a No Parking area.",
+      "start": 58.713,
+      "end": 61.203,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-016-008",
+      "text": "You will enjoy your stay here if you pay attention to our street signs.",
+      "start": 62.873,
+      "end": 68.223,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-016-009",
+      "text": "This note is only a reminder.'",
+      "start": 69.853,
+      "end": 72.383,
+      "score": 0.926,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-016-010",
+      "text": "If you receive a request like this, you cannot fail to obey it!",
+      "start": 74.513,
+      "end": 79.723,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

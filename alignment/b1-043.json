@@ -1,0 +1,177 @@
+{
+  "audioSha256": "c1cb66abec88b5000c2c22865659dd752a87557e8f1589262dcf3164557df546",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-043-001",
+      "text": "How do you know Sam doesn't make the tea very often?",
+      "start": 12.232,
+      "end": 15.582,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-043-002",
+      "text": "Can you make the tea, Sam?",
+      "start": 18.332,
+      "end": 20.142,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-043-003",
+      "text": "Yes, of course I can, Penny.",
+      "start": 21.172,
+      "end": 23.543,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-043-004",
+      "text": "Is there any water in this kettle?",
+      "start": 26.032,
+      "end": 28.242,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-043-005",
+      "text": "Yes, there is.",
+      "start": 29.212,
+      "end": 30.163,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-043-006",
+      "text": "Where's the tea?",
+      "start": 31.892,
+      "end": 33.083,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-043-007",
+      "text": "It's over there, behind the teapot.",
+      "start": 34.633,
+      "end": 37.563,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-043-008",
+      "text": "Can you see it?",
+      "start": 38.293,
+      "end": 39.223,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-043-009",
+      "text": "I can see the teapot, but I can't see the tea.",
+      "start": 40.733,
+      "end": 45.083,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-043-010",
+      "text": "There it is!",
+      "start": 46.312,
+      "end": 47.363,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-043-011",
+      "text": "It's in front of you!",
+      "start": 48.352,
+      "end": 49.643,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-043-012",
+      "text": "Ah yes, I can see it now.",
+      "start": 50.953,
+      "end": 54.083,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-043-013",
+      "text": "Where are the cups?",
+      "start": 56.273,
+      "end": 57.923,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-043-014",
+      "text": "There are some in the cupboard.",
+      "start": 59.392,
+      "end": 61.423,
+      "score": 0.903,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-043-015",
+      "text": "Can you find them?",
+      "start": 63.252,
+      "end": 64.283,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-043-016",
+      "text": "Yes.",
+      "start": 65.733,
+      "end": 66.123,
+      "score": 0.946,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-043-017",
+      "text": "Here they are.",
+      "start": 66.672,
+      "end": 67.583,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-043-018",
+      "text": "Hurry up, Sam!",
+      "start": 68.453,
+      "end": 69.503,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-043-019",
+      "text": "The kettle's boiling!",
+      "start": 70.413,
+      "end": 71.943,
+      "score": 0.91,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "audioSha256": "e58b8fe3edfec4a0d41d2ecbcf32f7a570b5f404eaf8dac0b1d8869e348018b9",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-011-001",
+      "text": "What, according to the author, is the best way to overcome the fear of death as you get older?",
+      "start": 13.012,
+      "end": 19.742,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-011-002",
+      "text": "Some old people are oppressed by the fear of death.",
+      "start": 22.532,
+      "end": 25.822,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-011-003",
+      "text": "In the young there is a justification for this feeling.",
+      "start": 27.212,
+      "end": 30.182,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-011-004",
+      "text": "Young men who have reason to fear that they will be killed in battle may justifiably feel bitter in the thought that they have been cheated of the best things that life has to offer.",
+      "start": 31.212,
+      "end": 41.903,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-011-005",
+      "text": "But in an old man who has known human joys and sorrows, and has achieved whatever work it was in him to do, the fear of death is somewhat abject and ignoble.",
+      "start": 43.212,
+      "end": 55.823,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-011-006",
+      "text": "The best way to overcome it--so at least it seems to me-- is to make your interests gradually wider and more impersonal, until bit by bit the walls of the ego recede, and your life becomes increasingly merged in the universal life.",
+      "start": 57.513,
+      "end": 76.163,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-011-007",
+      "text": "An individual human existence should be like a river-- small at first, narrowly contained within its banks, and rushing passionately past boulders and over waterfalls.",
+      "start": 77.772,
+      "end": 90.583,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-011-008",
+      "text": "Gradually the river grows wider, the banks recede, the waters flow more quietly, and in the end, without any visiblebreak, they become merged in the sea, and painlessly lose their individual being.",
+      "start": 92.312,
+      "end": 108.363,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-011-009",
+      "text": "The man who, in old age can see his life in this way, will not suffer from the fear of death, since the things he cares for will continue.",
+      "start": 109.772,
+      "end": 120.443,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-011-010",
+      "text": "And if, with the decay of vitality, weariness increases, the thought of rest will be not unwelcome.",
+      "start": 121.812,
+      "end": 129.422,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-011-011",
+      "text": "I should wish to die while still at work, knowing that others will carry on what I can no longer do, and content in the thought that what was possible has been done.",
+      "start": 130.952,
+      "end": 142.922,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

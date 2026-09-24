@@ -1,0 +1,222 @@
+{
+  "audioSha256": "6ebc6091e21527959d7babee7a2257e3c2d10ecec53c19637b735f2f595adaee",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-039-001",
+      "text": "What was the differnce between Bruce's behaviour and that of other people?",
+      "start": 12.192,
+      "end": 17.062,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-039-002",
+      "text": "The rough road across the plain soon became so bad that we tried to get Bruce to drive back to the village we had come from.",
+      "start": 19.812,
+      "end": 27.322,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-039-003",
+      "text": "Even though the road was littered with boulders and pitted with holes, Bruce was not in the least perturbed.",
+      "start": 28.593,
+      "end": 35.243,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-039-004",
+      "text": "Glancing at his map, he informed us that the next village was a mere twenty miles away.",
+      "start": 36.672,
+      "end": 42.583,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-039-005",
+      "text": "It was not that Bruce always underestimated difficulties.",
+      "start": 43.752,
+      "end": 47.083,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-039-006",
+      "text": "He simply had no sense of danger at all.",
+      "start": 47.793,
+      "end": 50.243,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-039-007",
+      "text": "No matter what the conditions were, he believed that a car should be driven as fast as it could possibly go.",
+      "start": 51.073,
+      "end": 57.923,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-039-008",
+      "text": "As we bumped over the dusty track, we swerved to avoid large boulders.",
+      "start": 59.392,
+      "end": 64.002,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-039-009",
+      "text": "The wheels scooped up stones which hammered ominously under the car.",
+      "start": 64.972,
+      "end": 68.903,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-039-010",
+      "text": "We felt sure that sooner or later a stone would rip a hole in our petrol tank or damage the engine.",
+      "start": 69.772,
+      "end": 76.043,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-039-011",
+      "text": "Because of this, we kept looking back, wondering if we were leaving a trail of oil and petrol behind us.",
+      "start": 77.172,
+      "end": 84.263,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-039-012",
+      "text": "What a relief it was when the boulders suddenly disappeared, giving way to a stretch of plain where the only obstacles were clumps bushes.",
+      "start": 85.892,
+      "end": 95.063,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-039-013",
+      "text": "But there was worse to come.",
+      "start": 96.052,
+      "end": 97.663,
+      "score": 0.993,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-039-014",
+      "text": "Just ahead of us there was a huge fissure.",
+      "start": 98.472,
+      "end": 101.083,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-039-015",
+      "text": "In response to renewed pleadings, Bruce stopped.",
+      "start": 101.873,
+      "end": 105.163,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-039-016",
+      "text": "Though we all got out to examine the fissure, he remained in the car.",
+      "start": 105.832,
+      "end": 109.683,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-039-017",
+      "text": "We informed him that the fissure extended for fifty yards and was two feet wide and four feet deep.",
+      "start": 110.312,
+      "end": 117.223,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-039-018",
+      "text": "Even this had no effect.",
+      "start": 117.933,
+      "end": 119.343,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-039-019",
+      "text": "Bruce went into a low gear and drove at a terrifying speed, keeping the front wheels astride the crack as he followed its zigzag course.",
+      "start": 119.933,
+      "end": 128.843,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-039-020",
+      "text": "Before we had time to worry about what might happen, we were back on the plain again.",
+      "start": 129.612,
+      "end": 134.722,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-039-021",
+      "text": "Bruce consulted the map once more and told us that the village was now only fifteen miles away.",
+      "start": 135.432,
+      "end": 141.403,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-039-022",
+      "text": "Our next obstacle was a shallow pool of water about half a mile across.",
+      "start": 142.132,
+      "end": 147.162,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-039-023",
+      "text": "Bruce charged at it, but in the middle, the car came to a grinding halt.",
+      "start": 148.332,
+      "end": 152.722,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-039-024",
+      "text": "A yellow light on the dashboard flashed angrily and Bruce cheerfully announced that there was no oil in the engine!",
+      "start": 153.752,
+      "end": 161.542,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

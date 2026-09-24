@@ -1,0 +1,105 @@
+{
+  "audioSha256": "6cc29ed819c9fd3e33ff48507417a93c258d327fe80a3845066600fc23302159",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-024-001",
+      "text": "Had the writer's money been stolen?",
+      "start": 15.012,
+      "end": 17.762,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-024-002",
+      "text": "I entered the hotel manager's office and sat down.",
+      "start": 20.713,
+      "end": 25.163,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-024-003",
+      "text": "I had just lost ￡50 and I felt very upset.",
+      "start": 27.433,
+      "end": 33.438,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-024-004",
+      "text": "'I left the money in my room,' I said, 'and it's not there now.  '",
+      "start": 33.438,
+      "end": 42.003,
+      "score": 0.906,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-024-005",
+      "text": "The manager was sympathetic, but he could do nothing.",
+      "start": 43.852,
+      "end": 48.358,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-024-006",
+      "text": "'Everyone's losing money these days,' he said.",
+      "start": 48.358,
+      "end": 53.583,
+      "score": 0.947,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-024-007",
+      "text": "He started to complain about this wicked world but was interrupted by a knock at the door.",
+      "start": 54.953,
+      "end": 62.543,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-024-008",
+      "text": "A girl came in and put an envelope on his desk.",
+      "start": 64.153,
+      "end": 67.863,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-024-009",
+      "text": "It contained ￡50.",
+      "start": 69.453,
+      "end": 71.263,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-024-010",
+      "text": "'I found this outside this gentleman's room,' she said.",
+      "start": 71.752,
+      "end": 78.377,
+      "score": 0.943,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-024-011",
+      "text": "'Well,' I said to the manager,'there is still some honesty in this world!'",
+      "start": 78.377,
+      "end": 88.922,
+      "score": 0.913,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

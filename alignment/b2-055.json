@@ -1,0 +1,105 @@
+{
+  "audioSha256": "0a3f8186b80eb7a14bc9a8ac373a6ef665eb72f305e7c9e0adb06617229bed79",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-055-001",
+      "text": "What did the team find?",
+      "start": 12.032,
+      "end": 13.723,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-055-002",
+      "text": "Dreams of finding lost treasure almost came true recently.",
+      "start": 16.533,
+      "end": 20.723,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-055-003",
+      "text": "A new machine called 'The Revealer' has been invented and it has been used to detect gold which has been buried in the ground.",
+      "start": 21.893,
+      "end": 31.703,
+      "score": 0.932,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-055-004",
+      "text": "The machine was used in a cave near the seashore where--it is said--pirates used to hide gold.",
+      "start": 33.153,
+      "end": 41.143,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-055-005",
+      "text": "The pirates would often bury gold in the cave and then fail to collect it.",
+      "start": 42.812,
+      "end": 47.823,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-055-006",
+      "text": "Armed with the new machine, a search party went into the cave hoping to find buried treasure.",
+      "start": 49.852,
+      "end": 56.803,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-055-007",
+      "text": "The leader of the party was examining the soil near the entrance to the cave when the machine showed that there was gold under the ground.",
+      "start": 58.472,
+      "end": 67.643,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-055-008",
+      "text": "Very excited, the party dug a hole two feet deep.",
+      "start": 69.172,
+      "end": 73.683,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-055-009",
+      "text": "They finally found a small gold coin which was almost worthless.",
+      "start": 75.552,
+      "end": 79.603,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-055-010",
+      "text": "The party then searched the whole cave thoroughly but did not find anything except an empty tin trunk.",
+      "start": 81.353,
+      "end": 88.663,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-055-011",
+      "text": "In spite of this, many people are confident that 'The Revealer' may reveal something of value fairly soon.",
+      "start": 89.913,
+      "end": 98.063,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

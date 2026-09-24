@@ -1,0 +1,87 @@
+{
+  "audioSha256": "469cfa46221729f10046058464388cc8d23ad17e3fa6e7c9d6f6c72c0a15962b",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-042-001",
+      "text": "What happened when the snake charmer began to play jazz?",
+      "start": 15.372,
+      "end": 19.523,
+      "score": 0.949,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-042-002",
+      "text": "As we had had a long walk through one of the markets of old Delhi, we stopped at a square to have a rest.",
+      "start": 23.332,
+      "end": 31.622,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-042-003",
+      "text": "After a time, we noticed a snake charmer with two large baskets at the other side of the square, so we went to have a look at him.",
+      "start": 33.472,
+      "end": 43.383,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-042-004",
+      "text": "As soon as he saw us, he picked up a long pipe which was covered with coins and opened one of the baskets.",
+      "start": 45.133,
+      "end": 54.363,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-042-005",
+      "text": "When he began to play a tune, we had our first glimpse of the snake.",
+      "start": 56.172,
+      "end": 61.923,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-042-006",
+      "text": "It rose out of the basket and began to follow the movements of the pipe.",
+      "start": 63.532,
+      "end": 69.023,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-042-007",
+      "text": "We were very much surprised when the snake charmer suddenly began to play jazz and modern pop songs.",
+      "start": 70.453,
+      "end": 78.743,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-042-008",
+      "text": "The snake, however, continued to 'dance' slowly.",
+      "start": 80.713,
+      "end": 85.383,
+      "score": 0.933,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-042-009",
+      "text": "It obviously could not tell the difference between Indian music and jazz!",
+      "start": 86.532,
+      "end": 91.823,
+      "score": 0.928,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

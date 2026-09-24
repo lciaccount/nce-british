@@ -1,0 +1,195 @@
+{
+  "audioSha256": "984ffe7bc175534a7020ab8680e0fbfcad848e202d3a3a57cb101f1a5dd2f302",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-038-001",
+      "text": "What is the importance of the dots, lines, and symbols engraved on stone, bones and ivory?",
+      "start": 12.332,
+      "end": 19.503,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-038-002",
+      "text": "Future historians will be in a unique position when they come to record the history of our own times.",
+      "start": 22.133,
+      "end": 28.402,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-038-003",
+      "text": "They will hardly know which facts to select from the great mass of evidence that steadily accumulates.",
+      "start": 29.693,
+      "end": 35.843,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-038-004",
+      "text": "What is more, they will not have to rely solely on the written word.",
+      "start": 37.332,
+      "end": 41.483,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-038-005",
+      "text": "Films, videos, CDs and CD-ROMs are just some of the bewildering amount of information they will have.",
+      "start": 42.352,
+      "end": 50.383,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-038-006",
+      "text": "They will be able, as it were, to see and hear us in action.",
+      "start": 50.953,
+      "end": 54.923,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-038-007",
+      "text": "But the historian attempting to reconstruct the distant past is always faced with a difficult task.",
+      "start": 55.633,
+      "end": 62.263,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-038-008",
+      "text": "He has to deduce what he can from the few scanty clues available.",
+      "start": 63.273,
+      "end": 67.383,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-038-009",
+      "text": "Even seemingly insignificant remains can shed interesting light on the history of early man.",
+      "start": 68.692,
+      "end": 74.303,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-038-010",
+      "text": "Up to now, historians have assumed that calendars came into being with the advent of agriculture, for then man was faced with a real need to understand something about the seasons.",
+      "start": 75.573,
+      "end": 87.263,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-038-011",
+      "text": "Recent scientific evidence seems to indicate that this assumption is incorrect.",
+      "start": 88.192,
+      "end": 93.323,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-038-012",
+      "text": "Historians have long been puzzled by dots, lines and symbols which have been engraved on walls, bones, and the ivory tusks of mammoths.",
+      "start": 94.513,
+      "end": 104.922,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-038-013",
+      "text": "The nomads who made these markings lived by hunting and fishing during the last Ice Age which began about 35, 000 B.C.",
+      "start": 105.772,
+      "end": 114.703,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-038-014",
+      "text": "and ended about 10, 000 B.C.",
+      "start": 115.513,
+      "end": 118.083,
+      "score": 0.871,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-038-015",
+      "text": "By correlating markings made in various parts of the world, historians have been able to read this difficult code.",
+      "start": 118.913,
+      "end": 126.483,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-038-016",
+      "text": "They have found that it is connected with the passage of days and the phases of the moon.",
+      "start": 127.192,
+      "end": 132.542,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-038-017",
+      "text": "It is, in fact, a primitive type of calendar.",
+      "start": 133.352,
+      "end": 136.262,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-038-018",
+      "text": "It has long been known that the hunting scenes depicted on walls were not simply a form of artistic expression.",
+      "start": 137.552,
+      "end": 144.642,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-038-019",
+      "text": "They had a definite meaning, for they were as near as early man could get to writing.",
+      "start": 145.232,
+      "end": 150.662,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-038-020",
+      "text": "It is possible that there is a definite relation between these paintings and the markings that sometimes accompany them.",
+      "start": 151.472,
+      "end": 158.702,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-038-021",
+      "text": "It seems that man was making a real effort to understand the seasons 20, 000 years earlier than has been supposed.",
+      "start": 159.512,
+      "end": 167.722,
+      "score": 0.953,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

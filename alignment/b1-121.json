@@ -1,0 +1,159 @@
+{
+  "audioSha256": "7a57bb8aa191b37991651d001a44a9d7e774bb86e114d73cba05e9f00db0e26f",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-121-001",
+      "text": "Why didn't Caroline recognize the customer straight away?",
+      "start": 13.812,
+      "end": 17.642,
+      "score": 0.946,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-121-002",
+      "text": "I bought two expensive dictionaries here half an hour ago, but I forgot to take them with me.",
+      "start": 20.593,
+      "end": 27.502,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-121-003",
+      "text": "Who served you, sir?",
+      "start": 29.492,
+      "end": 30.922,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-121-004",
+      "text": "The lady who is standing behind the counter.",
+      "start": 32.032,
+      "end": 34.763,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-121-005",
+      "text": "Which books did you buy?",
+      "start": 36.573,
+      "end": 38.083,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-121-006",
+      "text": "The books which are on the counter.",
+      "start": 39.713,
+      "end": 41.823,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-121-007",
+      "text": "Did you serve this gentleman half an hour ago, Caroline?",
+      "start": 44.093,
+      "end": 47.443,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-121-008",
+      "text": "He says he's the man who bought these books.",
+      "start": 48.133,
+      "end": 51.343,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-121-009",
+      "text": "I can't remember.",
+      "start": 52.693,
+      "end": 53.963,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-121-010",
+      "text": "The man who I served was wearing a hat.",
+      "start": 54.972,
+      "end": 57.543,
+      "score": 0.954,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-121-011",
+      "text": "Have you got a hat, sir?",
+      "start": 58.693,
+      "end": 60.343,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-121-012",
+      "text": "Yes, I have.",
+      "start": 61.473,
+      "end": 62.983,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-121-013",
+      "text": "Would you put it on, please?",
+      "start": 64.332,
+      "end": 66.062,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-121-014",
+      "text": "All right.",
+      "start": 67.552,
+      "end": 68.243,
+      "score": 0.995,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-121-015",
+      "text": "Is this the man that you served, Caroline?",
+      "start": 70.153,
+      "end": 72.323,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-121-016",
+      "text": "Yes.",
+      "start": 72.873,
+      "end": 73.443,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-121-017",
+      "text": "I recognize him now.",
+      "start": 73.793,
+      "end": 75.343,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

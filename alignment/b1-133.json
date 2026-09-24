@@ -1,0 +1,177 @@
+{
+  "audioSha256": "7e24456661ea4120f1ca9c92087d1ce522819980e18998f50379676c5467b273",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-133-001",
+      "text": "What reasons did Karen Marsh give for wanting to retire?",
+      "start": 13.292,
+      "end": 16.942,
+      "score": 0.95,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-133-002",
+      "text": "Have you just made a new film, Miss Marsh?",
+      "start": 19.613,
+      "end": 21.723,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-133-003",
+      "text": "Yes, I have.",
+      "start": 22.512,
+      "end": 24.163,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-133-004",
+      "text": "Are you going to make another?",
+      "start": 24.832,
+      "end": 26.203,
+      "score": 0.994,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-133-005",
+      "text": "No, I'm not.",
+      "start": 26.913,
+      "end": 28.163,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-133-006",
+      "text": "I'm going to retire.",
+      "start": 28.873,
+      "end": 30.242,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-133-007",
+      "text": "I feel very tired.",
+      "start": 31.172,
+      "end": 33.003,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-133-008",
+      "text": "I don't want to make another film for a long time.",
+      "start": 33.672,
+      "end": 36.903,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-133-009",
+      "text": "Let's buy a newspaper, Liz.",
+      "start": 38.433,
+      "end": 40.203,
+      "score": 0.824,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-133-010",
+      "text": "Listen to this!",
+      "start": 40.752,
+      "end": 41.428,
+      "score": 0.997,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-133-011",
+      "text": "'Karen Marsh: Sensational News!",
+      "start": 41.428,
+      "end": 45.323,
+      "score": 0.894,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-133-012",
+      "text": "By our reporter, Alan Jones.",
+      "start": 45.612,
+      "end": 47.503,
+      "score": 0.947,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-133-013",
+      "text": "Karen Marsh arrived at London Airport today.",
+      "start": 48.392,
+      "end": 51.463,
+      "score": 0.935,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-133-014",
+      "text": "She was wearing a blue dress and a mink coat.",
+      "start": 51.972,
+      "end": 54.703,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-133-015",
+      "text": "She told me she had just made a new film.",
+      "start": 55.593,
+      "end": 58.043,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-133-016",
+      "text": "she said she was not going to make another.",
+      "start": 58.953,
+      "end": 61.263,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-133-017",
+      "text": "She said she was going to retire.",
+      "start": 61.873,
+      "end": 63.803,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-133-018",
+      "text": "She told reporters she felt very tired and didn't want to make another film for a long time.'",
+      "start": 64.633,
+      "end": 70.422,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-133-019",
+      "text": "I wonder why!",
+      "start": 71.793,
+      "end": 72.763,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

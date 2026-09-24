@@ -1,0 +1,222 @@
+{
+  "audioSha256": "8d1fde851747419a8f2319ac8345b9a24398fd54514d93a7eb7b521d5bf23bce",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-024-001",
+      "text": "Who was Sebastian?",
+      "start": 12.472,
+      "end": 13.782,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-024-002",
+      "text": "We often read in novels how a seemingly respectable person or family has some terrible secret which has been concealed from strangers for years.",
+      "start": 16.492,
+      "end": 25.982,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-024-003",
+      "text": "The English language possesses a vivid saying to describe this sort of situation.",
+      "start": 27.293,
+      "end": 32.203,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-024-004",
+      "text": "The terrible secret is called 'a skeleton in the cupboard'.",
+      "start": 33.672,
+      "end": 37.583,
+      "score": 0.949,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-024-005",
+      "text": "At some dramatic moment in the story, the terrible secret becomes known and a reputation is ruined.",
+      "start": 38.733,
+      "end": 45.483,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-024-006",
+      "text": "The reader's hair stands on end when he reads in the final pages of the novel that the heroine, a dear old lady who had always been so kind to everybody, had, in her youth, poisoned every one of her five husbands.",
+      "start": 46.133,
+      "end": 60.743,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-024-007",
+      "text": "It is all very well for such things to occur in fiction.",
+      "start": 62.293,
+      "end": 65.062,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-024-008",
+      "text": "To varying degrees, we all have secrets which we do not want even our closest friends to learn, but few of us have skeletons in the cupboard.",
+      "start": 66.213,
+      "end": 75.783,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-024-009",
+      "text": "The only person I know who has a skeleton in the cupboard is George Carlton, and he is very proud of the fact.",
+      "start": 76.853,
+      "end": 84.443,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-024-010",
+      "text": "George studied medicine in his youth.",
+      "start": 85.612,
+      "end": 87.683,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-024-011",
+      "text": "Instead of becoming a doctor, however, he became a successful writer of detective stories.",
+      "start": 88.713,
+      "end": 94.263,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-024-012",
+      "text": "I once spent an uncomfortable weekend which I shall never forget at his house.",
+      "start": 95.392,
+      "end": 100.443,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-024-013",
+      "text": "George showed me to the guestroom which, he said, was rarely used.",
+      "start": 101.793,
+      "end": 106.043,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-024-014",
+      "text": "He told me to unpack my things and then come down to dinner.",
+      "start": 107.032,
+      "end": 110.623,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-024-015",
+      "text": "After I had stacked my shirts and underclothes in two empty drawers, I decided to hang one of the two suits I had brought with me in the cupboard.",
+      "start": 111.832,
+      "end": 120.743,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-024-016",
+      "text": "I opened the cupboard door and then stood in front of it petrified.",
+      "start": 121.672,
+      "end": 125.783,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-024-017",
+      "text": "A skeleton was dangling before my eyes.",
+      "start": 126.612,
+      "end": 129.002,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-024-018",
+      "text": "The sudden movement of the door made it sway slightly and it gave me the impression that it was about to leap out at me.",
+      "start": 130.372,
+      "end": 137.382,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-024-019",
+      "text": "Dropping my suit, I dashed downstairs to tell George.",
+      "start": 138.332,
+      "end": 141.843,
+      "score": 0.993,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-024-020",
+      "text": "This was worse than 'a terrible secret'; this was a real skeleton!",
+      "start": 143.052,
+      "end": 147.782,
+      "score": 0.949,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-024-021",
+      "text": "But George was unsympathetic.",
+      "start": 148.892,
+      "end": 150.737,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-024-022",
+      "text": "'Oh, that,' he said with a smile as if he were talking about an old friend.",
+      "start": 150.737,
+      "end": 156.347,
+      "score": 0.941,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-024-023",
+      "text": "'That's Sebastian.",
+      "start": 156.347,
+      "end": 158.282,
+      "score": 0.857,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-024-024",
+      "text": "You forget that I was a medical student once upon a time.'",
+      "start": 158.952,
+      "end": 165.082,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

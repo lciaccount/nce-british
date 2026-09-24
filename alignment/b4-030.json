@@ -1,0 +1,141 @@
+{
+  "audioSha256": "314319c5ad6475e86322ee3fc15afda00e6c3d830557a60309970cf2a0996ded",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-030-001",
+      "text": "How did people probably imagine the sea-floor before it was investigated?",
+      "start": 11.992,
+      "end": 17.402,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-030-002",
+      "text": "Our knowledge of the oceans a hundred years ago was confined to the two-dimensional shape of the sea surface and the hazards of navigation presented by the irregularities in depth of the shallow water close to the land.",
+      "start": 20.213,
+      "end": 35.103,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-030-003",
+      "text": "The open sea was deep and mysterious, and anyone who gave more than a passing thought to the bottom confines of the oceans probably assumed that the sea-bed was flat.",
+      "start": 36.532,
+      "end": 48.683,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-030-004",
+      "text": "Sir James Clark Ross had obtained a sounding of over 2, 400 fathoms in 1839, but it was not until 1869, when H.M.S.",
+      "start": 49.752,
+      "end": 61.523,
+      "score": 0.671,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b4-030-005",
+      "text": "Porcupine was put at the disposal of the Royal Society for several cruises that a series of deep soundings was obtained in the Atlantic and the first samples were collected by dredging the bottom.",
+      "start": 61.532,
+      "end": 75.983,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-030-006",
+      "text": "Shortly after this the famous H.M.S.",
+      "start": 77.153,
+      "end": 80.108,
+      "score": 0.954,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-030-007",
+      "text": "Challenger expedition established the study of the sea-floor as a subject worthy of the most qualified physicists and geologists.",
+      "start": 80.108,
+      "end": 88.663,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-030-008",
+      "text": "A burst of activity associated with the laying of submarine cables soon confirmed the Challenger's observation that many parts of the ocean were two to three miles deep, and the existence of underwater features of considerable magnitude.",
+      "start": 89.752,
+      "end": 106.083,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-030-009",
+      "text": "Today, enough soundings are available to enable a relief map of the Atlantic to be drawn and we know something of the great variety of the sea bed's topography.",
+      "start": 107.133,
+      "end": 117.963,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-030-010",
+      "text": "Since the sea covers the greater part of the earth's surface, it is quite reasonable to regard the sea floor as the basic form of the crust of the earth, with superimposed upon it the continents, together with the islands and other features of the oceans.",
+      "start": 119.332,
+      "end": 135.762,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-030-011",
+      "text": "The continents form rugged tablelands which stand nearly three miles above the floor of the open ocean.",
+      "start": 136.873,
+      "end": 144.282,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-030-012",
+      "text": "From the shore line, out to a distance which may be anywhere from a few miles to a few hundred miles, runs the gentle slope of the continental shelf, geologically part of the continents.",
+      "start": 145.632,
+      "end": 158.882,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-030-013",
+      "text": "The real dividing line between continents and oceans occurs at the foot of a steeper slope.",
+      "start": 160.052,
+      "end": 166.142,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-030-014",
+      "text": "This continental slope usually starts at a place somewhere near the 100-fathom mark and in the course of a few hundred miles reaches the true ocean floor at 2, 500-3, 500 fathoms.",
+      "start": 167.492,
+      "end": 183.123,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-030-015",
+      "text": "The slope averages about 1 in 30, but contains steep, probably vertical, cliffs, and gentle sediment-covered terraces, and near its lower reaches there is a long tailing-off which is almost certainly the result of material transported out to deep water after being eroded from the continental masses.",
+      "start": 184.312,
+      "end": 207.623,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

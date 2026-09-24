@@ -1,0 +1,159 @@
+{
+  "audioSha256": "257df881f5a73ed4eff88cb957c6be41e4ed58ba1b566ba4382dc3b537c1c3e9",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-141-001",
+      "text": "Why was the mother embarrassed?",
+      "start": 14.452,
+      "end": 16.562,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-141-002",
+      "text": "Last week, my four-year-old daughter, Sally, was invited to a children's party.",
+      "start": 19.373,
+      "end": 26.122,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-141-003",
+      "text": "I decided to take her by train.",
+      "start": 27.293,
+      "end": 29.343,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-141-004",
+      "text": "Sally was very excited because she had never travelled on a train before.",
+      "start": 30.992,
+      "end": 35.803,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-141-005",
+      "text": "She sat near the window and asked questions about everything she saw.",
+      "start": 37.073,
+      "end": 42.543,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-141-006",
+      "text": "Suddenly, a middle-age lady got on the train and sat opposite Sally.",
+      "start": 44.072,
+      "end": 49.298,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-141-007",
+      "text": "'Hello, little girl,' she said.",
+      "start": 49.298,
+      "end": 53.203,
+      "score": 0.866,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-141-008",
+      "text": "Sally did not answer, but looked at her curiously.",
+      "start": 54.492,
+      "end": 58.103,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-141-009",
+      "text": "The lady was dressed in a blue coat and a large, funny hat.",
+      "start": 59.392,
+      "end": 64.422,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-141-010",
+      "text": "After the train had left the station, the lady opened her handbag and took out her powder compact.",
+      "start": 66.213,
+      "end": 73.123,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-141-011",
+      "text": "She then began to make up her face.",
+      "start": 74.392,
+      "end": 76.528,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-141-012",
+      "text": "'Why are you doing that?'",
+      "start": 76.528,
+      "end": 80.163,
+      "score": 0.869,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-141-013",
+      "text": "Sally asked.",
+      "start": 81.032,
+      "end": 82.062,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-141-014",
+      "text": "'To make myself beautiful,' the lady answered.",
+      "start": 83.713,
+      "end": 87.943,
+      "score": 0.941,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-141-015",
+      "text": "She put away her compact and smiled kindly.",
+      "start": 89.532,
+      "end": 92.838,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-141-016",
+      "text": "'But you are still ugly,' Sally said.",
+      "start": 92.838,
+      "end": 97.683,
+      "score": 0.936,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-141-017",
+      "text": "Sally was amused, but I was very embarrassed!",
+      "start": 98.733,
+      "end": 103.943,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

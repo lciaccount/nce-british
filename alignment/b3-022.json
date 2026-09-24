@@ -1,0 +1,213 @@
+{
+  "audioSha256": "ca12c090df0079c9adce0ecf9e515ba8d73af7f71bfd7c0ca7e40a3f901e49da",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-022-001",
+      "text": "Which actor read the letter in the end, the aristocrat or the gaoler?",
+      "start": 12.172,
+      "end": 17.402,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-022-002",
+      "text": "Some plays are so successful that they run for years on end.",
+      "start": 20.152,
+      "end": 24.043,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-022-003",
+      "text": "In many ways, this is unfortunate for the poor actors who are required to go on repeating the same lines night after night.",
+      "start": 25.193,
+      "end": 33.083,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-022-004",
+      "text": "One would expect them to know their parts by heart and never have cause to falter.",
+      "start": 33.793,
+      "end": 38.423,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-022-005",
+      "text": "Yet this is not always the case.",
+      "start": 39.373,
+      "end": 41.603,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-022-006",
+      "text": "A famous actor in a highly successful play was once cast in the role of an aristocrat who had been imprisoned in the Bastille for twenty years.",
+      "start": 42.892,
+      "end": 52.883,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-022-007",
+      "text": "In the last act, a gaoler would always come on to the stage with a letter which he would hand to the prisoner.",
+      "start": 54.153,
+      "end": 60.183,
+      "score": 0.916,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-022-008",
+      "text": "Even though the noble was expected to read the letter at each performance, he always insisted that it should be written out in full.",
+      "start": 60.812,
+      "end": 68.143,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-022-009",
+      "text": "One night, the gaoler decided to play a joke on his colleague to find out if, after so many performances, he had managed to learn the contents of the letter by heart.",
+      "start": 70.013,
+      "end": 80.503,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-022-010",
+      "text": "The curtain went up on the final act of the play and revealed the aristocrat sitting alone behind bars in his dark cell.",
+      "start": 81.793,
+      "end": 90.043,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-022-011",
+      "text": "Just then, the gaoler appeared with the precious letter in his hands.",
+      "start": 91.433,
+      "end": 95.663,
+      "score": 0.947,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-022-012",
+      "text": "He entered the cell and presented the letter to the aristocrat.",
+      "start": 96.853,
+      "end": 100.363,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-022-013",
+      "text": "But the copy he gave him had not been written out in full as usual.",
+      "start": 101.052,
+      "end": 105.703,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-022-014",
+      "text": "It was simply a blank sheet of paper.",
+      "start": 106.672,
+      "end": 109.343,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-022-015",
+      "text": "The gaoler looked on eagerly, anxious to see if his fellow actor had at last learnt his lines.",
+      "start": 110.413,
+      "end": 116.543,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-022-016",
+      "text": "The noble stared at the blank sheet of paper for a few seconds.",
+      "start": 117.552,
+      "end": 120.903,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-022-017",
+      "text": "Then, squinting his eyes, he said: 'The light is dim.",
+      "start": 121.633,
+      "end": 125.703,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-022-018",
+      "text": "Read the letter to me.'",
+      "start": 126.493,
+      "end": 127.843,
+      "score": 0.942,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-022-019",
+      "text": "And he promptly handed the sheet of paper to the gaoler.",
+      "start": 128.632,
+      "end": 131.562,
+      "score": 0.946,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-022-020",
+      "text": "Finding that he could not remember a word of the letter either, the gaoler replied: 'The light is indeed dim, sire.",
+      "start": 132.472,
+      "end": 140.222,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-022-021",
+      "text": "I must get my glasses.  '",
+      "start": 140.972,
+      "end": 142.502,
+      "score": 0.937,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-022-022",
+      "text": "With this, he hurried off the stage.",
+      "start": 143.292,
+      "end": 145.382,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-022-023",
+      "text": "Much to the aristocrat's amusement, the gaoler returned a few moments later with a pair of glasses and the usual copy of the letter which he proceeded to read to the prisoner.",
+      "start": 146.092,
+      "end": 157.222,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

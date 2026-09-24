@@ -1,0 +1,150 @@
+{
+  "audioSha256": "95c214f03a80bc016adb152ce74cded358e0357f26ec79ba7a74f55a19915cf6",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-069-001",
+      "text": "Which car was the winner in 1995?",
+      "start": 12.852,
+      "end": 16.183,
+      "score": 0.606,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b1-069-002",
+      "text": "There is a car race near our town every year.",
+      "start": 18.933,
+      "end": 22.397,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-069-003",
+      "text": "In 1995, there was a very big race.",
+      "start": 22.397,
+      "end": 27.922,
+      "score": 0.634,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b1-069-004",
+      "text": "There were hundreds of people there.",
+      "start": 29.253,
+      "end": 31.203,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-069-005",
+      "text": "My wife and I were at the race.",
+      "start": 32.433,
+      "end": 34.703,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-069-006",
+      "text": "Our friends Julie and Jack were there, too.",
+      "start": 36.032,
+      "end": 39.203,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-069-007",
+      "text": "You can see us in the crowd.",
+      "start": 40.653,
+      "end": 42.243,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-069-008",
+      "text": "We are standing on the left.",
+      "start": 43.273,
+      "end": 44.923,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-069-009",
+      "text": "There were twenty cars in the race.",
+      "start": 47.392,
+      "end": 49.643,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-069-010",
+      "text": "There were English cars, French cars, German cars, Italian cars, American cars and Japanese cars.",
+      "start": 50.733,
+      "end": 61.243,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-069-011",
+      "text": "It was an exciting finish.",
+      "start": 62.833,
+      "end": 64.763,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-069-012",
+      "text": "The winner was Billy Stewart.",
+      "start": 65.873,
+      "end": 67.903,
+      "score": 0.908,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-069-013",
+      "text": "He was in car number fifteen.",
+      "start": 69.252,
+      "end": 71.263,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-069-014",
+      "text": "Five other cars were just behind him.",
+      "start": 72.472,
+      "end": 75.383,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-069-015",
+      "text": "On the way home, my wife said to me, 'Don't drive so quickly!",
+      "start": 77.392,
+      "end": 83.062,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-069-016",
+      "text": "You're not Billy Stewart!'",
+      "start": 83.752,
+      "end": 88.103,
+      "score": 0.87,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

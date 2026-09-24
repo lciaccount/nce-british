@@ -1,0 +1,105 @@
+{
+  "audioSha256": "f858bd8e38770e2f35aa4424c703a127226ccd82900c214e85ab52247e3a0875",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-030-001",
+      "text": "What happened to the man in the boat?",
+      "start": 13.932,
+      "end": 16.683,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-030-002",
+      "text": "The Wayle is a small river that cuts across the park near my home.",
+      "start": 19.613,
+      "end": 25.322,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-030-003",
+      "text": "I like sitting by the Wayle on fine afternoons.",
+      "start": 27.013,
+      "end": 30.383,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-030-004",
+      "text": "It was warm last Sunday, so I went and sat on the river bank as usual.",
+      "start": 31.933,
+      "end": 37.203,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-030-005",
+      "text": "Some children were playing games on the bank and there were some people rowing on the river.",
+      "start": 38.793,
+      "end": 44.683,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-030-006",
+      "text": "Suddenly, one of the children kicked a ball very hard and it went towards a passing boat.",
+      "start": 46.593,
+      "end": 53.723,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-030-007",
+      "text": "Some people on the bank called out to the man in the boat, but he did not hear them.",
+      "start": 55.532,
+      "end": 61.543,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-030-008",
+      "text": "The ball struck him so hard that he nearly fell into the water.",
+      "start": 62.892,
+      "end": 67.863,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-030-009",
+      "text": "I turned to look at the children, but there weren't any in sight: they had all run away!",
+      "start": 69.093,
+      "end": 75.142,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-030-010",
+      "text": "The man laughed when he realized what had happened.",
+      "start": 76.933,
+      "end": 79.883,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-030-011",
+      "text": "He called out to the children and threw the ball back to the bank.",
+      "start": 80.912,
+      "end": 85.083,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

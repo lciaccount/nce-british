@@ -1,0 +1,123 @@
+{
+  "audioSha256": "0ac96b790fe7904025554b45269dc09a5a56a161a15414df914958a3fb340753",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-003-001",
+      "text": "Does the man get his umbrella back?",
+      "start": 11.892,
+      "end": 14.383,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-003-002",
+      "text": "My coat and my umbrella please.",
+      "start": 17.133,
+      "end": 19.863,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-003-003",
+      "text": "Here is my ticket.",
+      "start": 21.672,
+      "end": 23.102,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-003-004",
+      "text": "Thank you sir.",
+      "start": 25.973,
+      "end": 26.843,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-003-005",
+      "text": "Number five.",
+      "start": 29.433,
+      "end": 30.582,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-003-006",
+      "text": "Here's your umbrella and your coat.",
+      "start": 33.333,
+      "end": 36.463,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-003-007",
+      "text": "This is not my umbrella.",
+      "start": 38.992,
+      "end": 41.263,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-003-008",
+      "text": "Sorry sir.",
+      "start": 42.373,
+      "end": 43.203,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-003-009",
+      "text": "Is this your umbrella?",
+      "start": 45.653,
+      "end": 47.223,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-003-010",
+      "text": "No it isn't.",
+      "start": 49.073,
+      "end": 50.863,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-003-011",
+      "text": "Is this it?",
+      "start": 53.233,
+      "end": 54.083,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-003-012",
+      "text": "Yes it is.",
+      "start": 55.992,
+      "end": 57.843,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-003-013",
+      "text": "Thank you very much.",
+      "start": 59.193,
+      "end": 60.563,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

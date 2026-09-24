@@ -1,0 +1,177 @@
+{
+  "audioSha256": "3b78ab6fe4110d1be86cb8d6c28cbf638aee55ae2519b5ecdd051d8535e7fe43",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-045-001",
+      "text": "Why can't Pamela type the letter?",
+      "start": 13.172,
+      "end": 15.922,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-045-002",
+      "text": "Can you come here a minute please, Bob?",
+      "start": 18.793,
+      "end": 21.122,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-045-003",
+      "text": "Yes, sir?",
+      "start": 22.273,
+      "end": 22.782,
+      "score": 0.95,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-045-004",
+      "text": "Where's Pamela?",
+      "start": 24.413,
+      "end": 25.562,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-045-005",
+      "text": "She's next door.",
+      "start": 26.893,
+      "end": 27.803,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-045-006",
+      "text": "She's in her office, sir.",
+      "start": 28.553,
+      "end": 30.042,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-045-007",
+      "text": "Can she type this letter for me?",
+      "start": 32.172,
+      "end": 34.183,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-045-008",
+      "text": "Ask her please.",
+      "start": 35.312,
+      "end": 36.143,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-045-009",
+      "text": "Yes, sir.",
+      "start": 37.492,
+      "end": 38.083,
+      "score": 0.949,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-045-010",
+      "text": "Can you type this letter for the boss please, Pamela?",
+      "start": 40.373,
+      "end": 43.343,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-045-011",
+      "text": "Yes, of course I can.",
+      "start": 44.072,
+      "end": 45.583,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-045-012",
+      "text": "Here you are.",
+      "start": 46.752,
+      "end": 47.543,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-045-013",
+      "text": "Thank you, Bob.",
+      "start": 48.633,
+      "end": 49.443,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-045-014",
+      "text": "Bob!",
+      "start": 51.672,
+      "end": 52.123,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-045-015",
+      "text": "Yes?",
+      "start": 52.773,
+      "end": 53.163,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-045-016",
+      "text": "What's the matter?",
+      "start": 54.032,
+      "end": 54.963,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-045-017",
+      "text": "I can't type this letter.",
+      "start": 56.433,
+      "end": 58.103,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-045-018",
+      "text": "I can't read it!",
+      "start": 58.913,
+      "end": 59.903,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-045-019",
+      "text": "The boss's handwriting is terrible!",
+      "start": 61.212,
+      "end": 64.403,
+      "score": 0.954,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

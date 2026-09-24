@@ -1,0 +1,105 @@
+{
+  "audioSha256": "e1c2ef4672e2cc02b215acda08362542e3897629340c3e67ac3eb1806fa4ad89",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-015-001",
+      "text": "Why is secrecy particularly important in the chemical industries?",
+      "start": 12.412,
+      "end": 17.023,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-015-002",
+      "text": "Two factors weigh heavily against the effectiveness of scientific research in industry.",
+      "start": 19.812,
+      "end": 25.343,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-015-003",
+      "text": "One is the general atmosphere of secrecy in which it is carried out, the other the lack of freedom of the individual research worker.",
+      "start": 26.712,
+      "end": 35.663,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-015-004",
+      "text": "In so far as any inquiry is a secret one, it naturally limits all those engaged in carrying it out from effective contact with their fellow scientists either in other countries or in universities, or even, often enough, in other departments of the same firm.",
+      "start": 37.112,
+      "end": 55.203,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-015-005",
+      "text": "The degree of secrecy naturally varies considerably.",
+      "start": 56.812,
+      "end": 60.183,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-015-006",
+      "text": "Some of the bigger firms are engaged in researches which are of such general and fundamental nature that it is a positive advantage to them not to keep them secret.",
+      "start": 61.212,
+      "end": 72.443,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-015-007",
+      "text": "Yet a great many processes depending on such research are sought for with complete secrecy until the stage at which patents can be taken out.",
+      "start": 73.672,
+      "end": 83.403,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-015-008",
+      "text": "Even more processes are never patented at all but kept as secret processes.",
+      "start": 84.692,
+      "end": 90.183,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-015-009",
+      "text": "This applies particularly to chemical industries, where chance discoveries play a much larger part than they do in physical and mechanical industries.",
+      "start": 91.252,
+      "end": 101.483,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-015-010",
+      "text": "Sometimes the secrecy goes to such an extent that the whole nature of the research cannot be mentioned.",
+      "start": 102.272,
+      "end": 108.743,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-015-011",
+      "text": "Many firms, for instance have great difficulty in obtaining technical or scientific books from libraries because they are unwilling to have their names entered as having taken out such and such a book, for fear the agents of other firms should be able to trace the kind of research they are likely to be undertaking.",
+      "start": 109.752,
+      "end": 129.262,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

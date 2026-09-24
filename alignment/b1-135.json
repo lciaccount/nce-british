@@ -1,0 +1,204 @@
+{
+  "audioSha256": "1b2df6c7d5e31486dfd9a0499b1677fa1282402b7ecbe02dde2691391251747d",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-135-001",
+      "text": "Is Karen Marsh going to retire, do you think?",
+      "start": 12.712,
+      "end": 15.542,
+      "score": 0.945,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-135-002",
+      "text": "Are you really going to retire, Miss Marsh?",
+      "start": 18.213,
+      "end": 20.402,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-135-003",
+      "text": "I may.",
+      "start": 21.573,
+      "end": 22.062,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-135-004",
+      "text": "I can't make up my mind.",
+      "start": 22.832,
+      "end": 24.302,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-135-005",
+      "text": "I will have to ask my future husband.",
+      "start": 25.193,
+      "end": 27.562,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-135-006",
+      "text": "He won't let me make another film.",
+      "start": 28.773,
+      "end": 30.642,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-135-007",
+      "text": "Your future husband, Miss Marsh?",
+      "start": 31.413,
+      "end": 33.163,
+      "score": 0.947,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-135-008",
+      "text": "Yes.",
+      "start": 33.873,
+      "end": 34.503,
+      "score": 0.921,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-135-009",
+      "text": "Let me introduce him to you.",
+      "start": 35.153,
+      "end": 36.963,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-135-010",
+      "text": "His name is Carlos.",
+      "start": 37.992,
+      "end": 40.123,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-135-011",
+      "text": "We're going to get married next week.",
+      "start": 41.432,
+      "end": 43.623,
+      "score": 0.954,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-135-012",
+      "text": "Look, Liz!",
+      "start": 44.953,
+      "end": 45.623,
+      "score": 0.783,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b1-135-013",
+      "text": "Here's another report about Karen Marsh.",
+      "start": 46.392,
+      "end": 48.883,
+      "score": 0.936,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-135-014",
+      "text": "Listen: 'Karen Marsh: The latest.",
+      "start": 49.233,
+      "end": 52.763,
+      "score": 0.909,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-135-015",
+      "text": "At her London Hotel today Miss Marsh told reporters she might retire.",
+      "start": 53.593,
+      "end": 59.383,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-135-016",
+      "text": "She said she couldn't make up her mind.",
+      "start": 60.312,
+      "end": 62.443,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-135-017",
+      "text": "She said she would have to ask her future husband.",
+      "start": 63.153,
+      "end": 66.123,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-135-018",
+      "text": "She said her future husband would not let her make another film.",
+      "start": 66.993,
+      "end": 71.303,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-135-019",
+      "text": "Then she introduced us to Carlos and told us they would get married next week.'",
+      "start": 72.433,
+      "end": 77.823,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-135-020",
+      "text": "That's sensational news, isn't it, Kate?",
+      "start": 79.133,
+      "end": 81.883,
+      "score": 0.806,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-135-021",
+      "text": "It certainly is.",
+      "start": 83.032,
+      "end": 84.303,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-135-022",
+      "text": "He'll be her sixth husband!",
+      "start": 85.093,
+      "end": 87.303,
+      "score": 0.889,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

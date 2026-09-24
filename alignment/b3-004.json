@@ -1,0 +1,141 @@
+{
+  "audioSha256": "514b1a657b4610cccc99574a0649fd25a2601ac4af6a384b1dcde3deb817b1a6",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-004-001",
+      "text": "Why did Alf want a white-collar job?",
+      "start": 12.872,
+      "end": 15.342,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-004-002",
+      "text": "These days, people who do manual work often receive far more money than people who work in offices.",
+      "start": 18.113,
+      "end": 25.203,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-004-003",
+      "text": "People who work in offices are frequently referred to as 'white-collar workers' for the simple reason that they usually wear a collar and tie to go to work.",
+      "start": 26.513,
+      "end": 35.943,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-004-004",
+      "text": "Such is human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers.",
+      "start": 37.112,
+      "end": 46.143,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-004-005",
+      "text": "This can give rise to curious situations, as it did in the case of Alfred Bloggs who worked as a dustman for the Ellesmere Corporation.",
+      "start": 47.492,
+      "end": 57.103,
+      "score": 0.941,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-004-006",
+      "text": "When he got married, Alf was too embarrassed to say anything to his wife about his job.",
+      "start": 58.773,
+      "end": 64.123,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-004-007",
+      "text": "He simply told her that he worked for the Corporation.",
+      "start": 65.373,
+      "end": 68.323,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-004-008",
+      "text": "Every morning, he left home dressed in a smart black suit.",
+      "start": 69.373,
+      "end": 73.403,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-004-009",
+      "text": "He then changed into overalls and spent the next eight hours as a dustman.",
+      "start": 74.752,
+      "end": 79.743,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-004-010",
+      "text": "Before returning home at night, he took a shower and changed back into his suit.",
+      "start": 80.713,
+      "end": 85.823,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-004-011",
+      "text": "Alf did this for over two years and his fellow dustmen kept his secret.",
+      "start": 86.953,
+      "end": 92.123,
+      "score": 0.937,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-004-012",
+      "text": "Alf's wife has never discovered that she married a dustman and she never will, for Alf has just found another job.",
+      "start": 93.593,
+      "end": 102.443,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-004-013",
+      "text": "He will soon be working in an office.",
+      "start": 103.593,
+      "end": 105.783,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-004-014",
+      "text": "He will be earning only half as much as he used to, but he feels that his rise in status is well worth the loss of money.",
+      "start": 106.832,
+      "end": 114.543,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-004-015",
+      "text": "From now on, he will wear a suit all day and others will call him 'Mr.Bloggs', not 'Alf'.",
+      "start": 115.752,
+      "end": 123.743,
+      "score": 0.936,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

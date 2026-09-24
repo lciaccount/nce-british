@@ -1,0 +1,177 @@
+{
+  "audioSha256": "24fbaed2cce2d053c2a344bdad7ea3b5c1f1d6dec1bbe1d1b032d5ceca337494",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-087-001",
+      "text": "What was wrong with the man's story?",
+      "start": 13.712,
+      "end": 16.418,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-087-002",
+      "text": "'At the time the murder was committed, I was travelling on the 8 o'clock train to London,' said the man.",
+      "start": 16.418,
+      "end": 26.942,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-087-003",
+      "text": "'Do you always catch such an early train?'",
+      "start": 28.633,
+      "end": 31.803,
+      "score": 0.922,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-087-004",
+      "text": "asked the inspector.",
+      "start": 32.392,
+      "end": 33.608,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-087-005",
+      "text": "'Of course I do,' answered the man.",
+      "start": 33.608,
+      "end": 37.767,
+      "score": 0.932,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-087-006",
+      "text": "'I must be at work at 10 o'clock.",
+      "start": 37.767,
+      "end": 41.423,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-087-007",
+      "text": "My employer will confirm that I was there on time.'",
+      "start": 42.453,
+      "end": 45.627,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-087-008",
+      "text": "'Would a later train get you to work on time?'",
+      "start": 45.627,
+      "end": 51.243,
+      "score": 0.927,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-087-009",
+      "text": "asked the inspector.",
+      "start": 52.073,
+      "end": 53.383,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-087-010",
+      "text": "'I suppose it would, but I never catch a later train.'",
+      "start": 55.293,
+      "end": 59.498,
+      "score": 0.926,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-087-011",
+      "text": "'At what time did you arrive at the station?'",
+      "start": 59.498,
+      "end": 64.983,
+      "score": 0.941,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-087-012",
+      "text": "'At ten to eight.",
+      "start": 66.933,
+      "end": 67.983,
+      "score": 0.859,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-087-013",
+      "text": "I bought a paper and waited for the train.'",
+      "start": 69.213,
+      "end": 71.998,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-087-014",
+      "text": "'And you didn't notice anything unusual?'",
+      "start": 71.998,
+      "end": 78.103,
+      "score": 0.928,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-087-015",
+      "text": "'Of course not.'",
+      "start": 79.532,
+      "end": 80.648,
+      "score": 0.81,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-087-016",
+      "text": "'I suggest,' said the inspector,' that you are not telling the truth.",
+      "start": 80.648,
+      "end": 88.083,
+      "score": 0.927,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-087-017",
+      "text": "I suggest that you did not catch the 8 o'clock train, but that you caught the 8.25 which would still get you to work on time.",
+      "start": 89.433,
+      "end": 99.583,
+      "score": 0.932,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-087-018",
+      "text": "You see, on the morning of the murder, the 8 o'clock train did not run at all.",
+      "start": 101.052,
+      "end": 107.343,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-087-019",
+      "text": "It broke down at Ferngreen station and was taken off the line.'",
+      "start": 108.373,
+      "end": 116.083,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

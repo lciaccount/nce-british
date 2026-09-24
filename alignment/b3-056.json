@@ -1,0 +1,222 @@
+{
+  "audioSha256": "ae799f9ca5b5365f59595bfa164a14c6a781fc87a510268afac70a1dbcf1541d",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-056-001",
+      "text": "Why had the neighbours left their farm?",
+      "start": 13.172,
+      "end": 15.702,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-056-002",
+      "text": "The river which forms the eastern boundary of our farm has always played an important part in our lives.",
+      "start": 18.573,
+      "end": 25.302,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-056-003",
+      "text": "Without it we could not make a living.",
+      "start": 26.233,
+      "end": 28.362,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-056-004",
+      "text": "There is only enough spring water to supply the needs of the house so we have to pump from the river for farm use.",
+      "start": 29.133,
+      "end": 35.563,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-056-005",
+      "text": "We tell the river all our secrets.",
+      "start": 36.373,
+      "end": 38.223,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-056-006",
+      "text": "We know instinctively, just as beekeepers with their bees, that misfortune might overtake us if the important events of our lives were not related to it.",
+      "start": 38.653,
+      "end": 48.663,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-056-007",
+      "text": "We have special river birthday parties in the summer.",
+      "start": 49.593,
+      "end": 52.403,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-056-008",
+      "text": "Sometimes we go upstream to a favourite backwater, sometimes we have our party at the boathouse, which a predecessor of ours at the farm built in the meadow hard by the deepest pool for swimming and diving.",
+      "start": 53.273,
+      "end": 67.643,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-056-009",
+      "text": "In a heat wave we choose a midnight birthday party and that is the most exciting of all.",
+      "start": 68.612,
+      "end": 74.903,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-056-010",
+      "text": "We welcome the seasons by the riverside, crowning the youngest girl with flowers in the spring, holding a summer festival on Midsummer Eve, giving thanks for the harvest in the autumn, and throwing a holly wreath into the current in the winter.",
+      "start": 75.672,
+      "end": 91.663,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-056-011",
+      "text": "After a long period of rain the river may overflow its banks.",
+      "start": 93.172,
+      "end": 97.203,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-056-012",
+      "text": "This is a rare occurrence as our climate seldom goes to extremes.",
+      "start": 98.193,
+      "end": 102.403,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-056-013",
+      "text": "We are lucky in that only the lower fields, which make up a very small proportion of our farm, are affected by flooding, but other farms are less favourably sited, and flooding can sometimes spell disaster for their owners.",
+      "start": 103.252,
+      "end": 118.483,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-056-014",
+      "text": "One bad winter we watched the river creep up the lower meadows.",
+      "start": 119.713,
+      "end": 123.503,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-056-015",
+      "text": "All the cattle had been moved into stalls and we stood to lose little.",
+      "start": 124.453,
+      "end": 128.403,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-056-016",
+      "text": "We were, however, worried about our nearest neighbours, whose farm was low lying and who were newcomers to the district.",
+      "start": 129.372,
+      "end": 136.822,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-056-017",
+      "text": "As the floods had put the telephone out of order, we could not find out how they were managing.",
+      "start": 137.652,
+      "end": 143.082,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-056-018",
+      "text": "From an attic window we could get a sweeping view of the river where their land joined ours, and at the most critical juncture we took turns in watching that point.",
+      "start": 144.032,
+      "end": 153.942,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-056-019",
+      "text": "The first sign of disaster was a dead sheep floating down.",
+      "start": 154.672,
+      "end": 158.562,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-056-020",
+      "text": "Next came a horse, swimming bravely, but we were afraid that the strength of the current would prevent its landing anywhere before it became exhausted.",
+      "start": 159.412,
+      "end": 168.322,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-056-021",
+      "text": "Suddenly a raft appeared, looking rather like Noah's ark, carrying the whole family, a few hens, the dogs, a cat, and a bird in a cage.",
+      "start": 169.352,
+      "end": 180.282,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-056-022",
+      "text": "We realized that they must have become unduly frightened by the rising flood, for their house, which had sound foundations, would have stood stoutly even if it had been almost submerged.",
+      "start": 181.212,
+      "end": 193.742,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-056-023",
+      "text": "The men of our family waded down through our flooded meadows with boat hooks, in the hope of being able to grapple a corner of the raft and pull it out of the current towrds our bank.",
+      "start": 194.672,
+      "end": 204.963,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-056-024",
+      "text": "We still think it a miracle that they were able to do so.",
+      "start": 205.752,
+      "end": 209.262,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

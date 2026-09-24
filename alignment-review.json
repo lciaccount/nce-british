@@ -1,0 +1,632 @@
+[
+  {
+    "lesson": "b1-005",
+    "id": "b1-005-003",
+    "text": "Good morning Mr. Blake.",
+    "start": 20.213,
+    "end": 22.062,
+    "score": 0.665,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b1-005",
+    "id": "b1-005-019",
+    "text": "And this is Xiaohui.",
+    "start": 76.653,
+    "end": 78.863,
+    "score": 0.75,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b1-009",
+    "id": "b1-009-015",
+    "text": "Goodbye.",
+    "start": 52.712,
+    "end": 53.383,
+    "score": 0.612,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b1-017",
+    "id": "b1-017-013",
+    "text": "They're sales reps.",
+    "start": 65.112,
+    "end": 66.763,
+    "score": 0.793,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b1-019",
+    "id": "b1-019-011",
+    "text": "Thanks Mum.",
+    "start": 51.593,
+    "end": 52.763,
+    "score": 0.716,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b1-061",
+    "id": "b1-061-003",
+    "text": "He's in bed.",
+    "start": 18.613,
+    "end": 19.523,
+    "score": 0.715,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b1-061",
+    "id": "b1-061-010",
+    "text": "It's 09754.",
+    "start": 36.172,
+    "end": 41.303,
+    "score": 0.388,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b1-061",
+    "id": "b1-061-013",
+    "text": "Say, 'Ah'.",
+    "start": 48.053,
+    "end": 49.563,
+    "score": 0.736,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b1-065",
+    "id": "b1-065-023",
+    "text": "Bye-bye.",
+    "start": 78.972,
+    "end": 79.443,
+    "score": 0.74,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b1-069",
+    "id": "b1-069-001",
+    "text": "Which car was the winner in 1995?",
+    "start": 12.852,
+    "end": 16.183,
+    "score": 0.606,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b1-069",
+    "id": "b1-069-003",
+    "text": "In 1995, there was a very big race.",
+    "start": 22.397,
+    "end": 27.922,
+    "score": 0.634,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b1-081",
+    "id": "b1-081-008",
+    "text": "Sam's here.",
+    "start": 26.953,
+    "end": 27.883,
+    "score": 0.736,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b1-083",
+    "id": "b1-083-002",
+    "text": "Hello, Sam.",
+    "start": 18.512,
+    "end": 19.562,
+    "score": 0.644,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b1-083",
+    "id": "b1-083-003",
+    "text": "Come in.",
+    "start": 19.873,
+    "end": 20.383,
+    "score": 0.647,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b1-085",
+    "id": "b1-085-002",
+    "text": "Hello, Ken.",
+    "start": 19.652,
+    "end": 20.842,
+    "score": 0.661,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b1-087",
+    "id": "b1-087-005",
+    "text": "It's LFZ 312 G. When did you bring it to us?",
+    "start": 26.832,
+    "end": 35.783,
+    "score": 0.778,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b1-089",
+    "id": "b1-089-012",
+    "text": "Yes, I've been here since 1976.",
+    "start": 44.712,
+    "end": 48.983,
+    "score": 0.595,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b1-091",
+    "id": "b1-091-022",
+    "text": "Poor Ian!",
+    "start": 81.593,
+    "end": 82.543,
+    "score": 0.657,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b1-097",
+    "id": "b1-097-016",
+    "text": "Here you are.",
+    "start": 72.853,
+    "end": 73.443,
+    "score": 0.742,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b1-101",
+    "id": "b1-101-005",
+    "text": "Eh?",
+    "start": 34.992,
+    "end": 35.263,
+    "score": 0.155,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b1-113",
+    "id": "b1-113-002",
+    "text": "Fares, please!",
+    "start": 17.393,
+    "end": 18.203,
+    "score": 0.673,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b1-113",
+    "id": "b1-113-014",
+    "text": "I'm afraid I can't.",
+    "start": 48.553,
+    "end": 49.623,
+    "score": 0.578,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b1-113",
+    "id": "b1-113-021",
+    "text": "So have I.",
+    "start": 70.493,
+    "end": 71.083,
+    "score": 0.645,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b1-115",
+    "id": "b1-115-015",
+    "text": "Hello, Jim.",
+    "start": 47.373,
+    "end": 48.323,
+    "score": 0.642,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b1-115",
+    "id": "b1-115-022",
+    "text": "There's none left.",
+    "start": 61.312,
+    "end": 62.183,
+    "score": 0.68,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b1-135",
+    "id": "b1-135-012",
+    "text": "Look, Liz!",
+    "start": 44.953,
+    "end": 45.623,
+    "score": 0.783,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b2-010",
+    "id": "b2-010-004",
+    "text": "It was made in Germany in 1681.",
+    "start": 28.573,
+    "end": 31.762,
+    "score": 0.602,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b2-025",
+    "id": "b2-025-001",
+    "text": "Do they speak English?",
+    "start": 13.012,
+    "end": 13.922,
+    "score": 0.333,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b2-031",
+    "id": "b2-031-005",
+    "text": "He saved money for years and in 1958 he bought a small workshop of his own.",
+    "start": 49.633,
+    "end": 57.303,
+    "score": 0.737,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b2-043",
+    "id": "b2-043-002",
+    "text": "In 1929, three years after his flight over the North Pole, the American explorer, R.E.",
+    "start": 17.067,
+    "end": 29.922,
+    "score": 0.769,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b2-056",
+    "id": "b2-056-006",
+    "text": "Built in 1885, it was the oldest car taking part.",
+    "start": 46.653,
+    "end": 51.543,
+    "score": 0.7,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b2-064",
+    "id": "b2-064-006",
+    "text": "In 1860, a better plan was put forward by an Englishman, William Low.",
+    "start": 52.638,
+    "end": 60.063,
+    "score": 0.728,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b2-064",
+    "id": "b2-064-012",
+    "text": "It was officially opened on March 7, 1994, finally connecting Britain to the European continent.",
+    "start": 93.933,
+    "end": 101.983,
+    "score": 0.798,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b2-066",
+    "id": "b2-066-002",
+    "text": "In 1963 a Lancaster bomber crashed on Wallis Island, a remote place in the South Pacific, a long way west of Samoa.",
+    "start": 17.767,
+    "end": 32.683,
+    "score": 0.765,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b2-067",
+    "id": "b2-067-003",
+    "text": "In 1948, he went to Lake Kivu in the Congo to observe a new volcano which he later named Kituro.",
+    "start": 31.537,
+    "end": 42.883,
+    "score": 0.796,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b2-072",
+    "id": "b2-072-003",
+    "text": "He set up a new world record in September 1935 at Bonneville Salt Flats, Utah.",
+    "start": 29.093,
+    "end": 37.743,
+    "score": 0.735,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b2-074",
+    "id": "b2-074-019",
+    "text": "'Oh, is it?'",
+    "start": 114.752,
+    "end": 116.063,
+    "score": 0.767,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b2-076",
+    "id": "b2-076-011",
+    "text": "Signor Fratelli, the present champion, has won it every year since 1991.",
+    "start": 103.892,
+    "end": 110.823,
+    "score": 0.709,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b2-080",
+    "id": "b2-080-001",
+    "text": "How many people visited the Great Exhibition of 1851?",
+    "start": 12.452,
+    "end": 17.942,
+    "score": 0.683,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b2-080",
+    "id": "b2-080-012",
+    "text": "It remained one of the most famous buildings in the world until it was burnt down in 1936.",
+    "start": 103.832,
+    "end": 114.663,
+    "score": 0.731,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b2-092",
+    "id": "b2-092-013",
+    "text": "'Your what?'",
+    "start": 100.052,
+    "end": 101.343,
+    "score": 0.612,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b2-093",
+    "id": "b2-093-007",
+    "text": "By 1884, a statue which was 151 feet tall had been erected in Paris.",
+    "start": 72.328,
+    "end": 82.503,
+    "score": 0.749,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b3-011",
+    "id": "b3-011-016",
+    "text": "'Perfume, eh?'",
+    "start": 88.708,
+    "end": 91.323,
+    "score": 0.72,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b3-011",
+    "id": "b3-011-021",
+    "text": "'It's hair gel.  '",
+    "start": 101.013,
+    "end": 101.823,
+    "score": 0.569,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b3-011",
+    "id": "b3-011-024",
+    "text": "'Try it!'",
+    "start": 111.017,
+    "end": 112.623,
+    "score": 0.688,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b3-017",
+    "id": "b3-017-002",
+    "text": "Verrazano, an Italian about whom little is known, sailed into New York Harbour in 1524 and named it Angouleme.",
+    "start": 18.073,
+    "end": 28.203,
+    "score": 0.734,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b3-021",
+    "id": "b3-021-006",
+    "text": "One of the most colourful figures in boxing history was Daniel Mendoza, who was born in 1764.",
+    "start": 45.892,
+    "end": 52.943,
+    "score": 0.764,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b3-021",
+    "id": "b3-021-007",
+    "text": "The use of gloves was not introduced until 1860, when the Marquis of Queensberry drew up the first set of rules.",
+    "start": 54.312,
+    "end": 62.443,
+    "score": 0.769,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b3-021",
+    "id": "b3-021-019",
+    "text": "It was not until his third match in 1790 that he finally beat Humphries and became Champion of England.",
+    "start": 131.432,
+    "end": 138.542,
+    "score": 0.785,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b3-021",
+    "id": "b3-021-024",
+    "text": "He was sent to prison for failing to pay his debts and died in poverty in 1836.",
+    "start": 166.152,
+    "end": 172.282,
+    "score": 0.775,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b3-025",
+    "id": "b3-025-008",
+    "text": "Both these ships set out from Shanghai on June 18th, 1872 on an exciting race to England.",
+    "start": 59.172,
+    "end": 66.562,
+    "score": 0.788,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b3-051",
+    "id": "b3-051-004",
+    "text": "In the 1970s, computers were common enough, but only in big business, government departments and large organizations.",
+    "start": 34.248,
+    "end": 44.703,
+    "score": 0.797,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b3-051",
+    "id": "b3-051-008",
+    "text": "In 1975, a primitive machine called the Altair, was launched in the USA.",
+    "start": 72.268,
+    "end": 79.903,
+    "score": 0.759,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b3-051",
+    "id": "b3-051-010",
+    "text": "This was followed, at the end of the 1970s, by a machine called an Apple.",
+    "start": 87.913,
+    "end": 93.043,
+    "score": 0.68,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b3-051",
+    "id": "b3-051-011",
+    "text": "In the early 1980s, the computer giant, IBM produced the world's first Personal Computer.",
+    "start": 93.913,
+    "end": 101.283,
+    "score": 0.736,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b3-053",
+    "id": "b3-053-009",
+    "text": "or 'Ombudsman'.",
+    "start": 86.153,
+    "end": 87.483,
+    "score": 0.73,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b4-018",
+    "id": "b4-018-005",
+    "text": "In 1928 some porpoises were photographed working like beavers to push ashore a waterlogged mattress.",
+    "start": 55.867,
+    "end": 65.143,
+    "score": 0.795,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b4-021",
+    "id": "b4-021-003",
+    "text": "From 1914 to 1924 he was supreme and unchallenged.",
+    "start": 33.873,
+    "end": 39.843,
+    "score": 0.542,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b4-027",
+    "id": "b4-027-003",
+    "text": "For nearly three and a half centuries she lay at the bottom of Stockholm harbour until her discovery in 1956.",
+    "start": 31.312,
+    "end": 39.163,
+    "score": 0.771,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b4-027",
+    "id": "b4-027-008",
+    "text": "As she was prepared for her maiden voyage on August 10, 1628, Stockholm was in a ferment.",
+    "start": 69.192,
+    "end": 76.683,
+    "score": 0.785,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b4-029",
+    "id": "b4-029-010",
+    "text": "The first tests on the Solent in 1959 caused a sensation.",
+    "start": 113.873,
+    "end": 118.983,
+    "score": 0.662,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b4-030",
+    "id": "b4-030-004",
+    "text": "Sir James Clark Ross had obtained a sounding of over 2, 400 fathoms in 1839, but it was not until 1869, when H.M.S.",
+    "start": 49.752,
+    "end": 61.523,
+    "score": 0.671,
+    "timingValid": true,
+    "needsReview": true
+  },
+  {
+    "lesson": "b4-041",
+    "id": "b4-041-021",
+    "text": "my son', or 'ho!",
+    "start": 231.632,
+    "end": 233.562,
+    "score": 0.792,
+    "timingValid": true,
+    "needsReview": true
+  }
+]

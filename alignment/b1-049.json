@@ -1,0 +1,150 @@
+{
+  "audioSha256": "b7d6a94bf8868a8383ab7022566607e51c4a27c914eadeda85095a0038313930",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-049-001",
+      "text": "What does Mr. Bird like?",
+      "start": 13.352,
+      "end": 15.542,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-049-002",
+      "text": "Do you want any meat today, Mrs. Bird?",
+      "start": 18.293,
+      "end": 20.842,
+      "score": 0.925,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-049-003",
+      "text": "Yes, please.",
+      "start": 21.652,
+      "end": 22.523,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-049-004",
+      "text": "Do you want beef or lamb?",
+      "start": 24.393,
+      "end": 26.642,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-049-005",
+      "text": "Beef, please.",
+      "start": 27.293,
+      "end": 28.562,
+      "score": 0.993,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-049-006",
+      "text": "This lamb's very good.",
+      "start": 29.812,
+      "end": 31.523,
+      "score": 0.994,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-049-007",
+      "text": "I like lamb, but my husband doesn't.",
+      "start": 32.873,
+      "end": 36.343,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-049-008",
+      "text": "What about some steak?",
+      "start": 37.992,
+      "end": 39.383,
+      "score": 0.924,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-049-009",
+      "text": "This is a nice piece.",
+      "start": 40.273,
+      "end": 41.963,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-049-010",
+      "text": "Give me that piece, please.",
+      "start": 43.532,
+      "end": 45.463,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-049-011",
+      "text": "And a pound of mince, too.",
+      "start": 46.953,
+      "end": 49.063,
+      "score": 0.901,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-049-012",
+      "text": "Do you want a chicken, Mrs. Bird?",
+      "start": 51.053,
+      "end": 53.403,
+      "score": 0.95,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-049-013",
+      "text": "They're very nice.",
+      "start": 54.212,
+      "end": 55.583,
+      "score": 0.945,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-049-014",
+      "text": "No, thank you.",
+      "start": 56.373,
+      "end": 57.463,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-049-015",
+      "text": "My husband likes steak, but he doesn't like chicken.",
+      "start": 58.633,
+      "end": 63.223,
+      "score": 0.927,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-049-016",
+      "text": "To tell you the truth, Mrs. Bird, I don't like chicken either!",
+      "start": 64.593,
+      "end": 69.083,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

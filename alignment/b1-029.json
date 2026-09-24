@@ -1,0 +1,96 @@
+{
+  "audioSha256": "e48733108a1eb4d1191019084bbf80d639ae5c86512561d2a689386f12f319e0",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-029-001",
+      "text": "How must Amy clean the floor?",
+      "start": 12.952,
+      "end": 15.742,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-029-002",
+      "text": "Come in, Amy.",
+      "start": 18.453,
+      "end": 19.622,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-029-003",
+      "text": "Shut the door, please.",
+      "start": 21.433,
+      "end": 22.843,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-029-004",
+      "text": "This bedroom's very untidy.",
+      "start": 25.332,
+      "end": 28.723,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-029-005",
+      "text": "What must I do, Mrs. Jones?",
+      "start": 31.212,
+      "end": 33.883,
+      "score": 0.917,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-029-006",
+      "text": "Open the window and air the room.",
+      "start": 36.172,
+      "end": 39.483,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-029-007",
+      "text": "Then put these clothes in the wardrobe.",
+      "start": 42.053,
+      "end": 46.143,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-029-008",
+      "text": "Then make the bed.",
+      "start": 47.873,
+      "end": 49.883,
+      "score": 0.996,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-029-009",
+      "text": "Dust the dressing table.",
+      "start": 52.073,
+      "end": 53.923,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-029-010",
+      "text": "Then sweep the floor.",
+      "start": 55.733,
+      "end": 57.523,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

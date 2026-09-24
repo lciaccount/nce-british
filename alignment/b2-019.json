@@ -1,0 +1,177 @@
+{
+  "audioSha256": "661368afb634d7a6614981b7d884466f759d261e2514648bd8c0225cb14bb75e",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-019-001",
+      "text": "When will the writer see the play?",
+      "start": 14.092,
+      "end": 16.708,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-019-002",
+      "text": "'The play may begin at any moment,' I said.",
+      "start": 16.708,
+      "end": 23.217,
+      "score": 0.936,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-019-003",
+      "text": "'It may have begun already,' Susan answered.",
+      "start": 23.217,
+      "end": 29.142,
+      "score": 0.933,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-019-004",
+      "text": "I hurried to the ticket office.",
+      "start": 30.852,
+      "end": 32.657,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-019-005",
+      "text": "'May I have two tickets please?'",
+      "start": 32.657,
+      "end": 36.163,
+      "score": 0.914,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-019-006",
+      "text": "I asked.",
+      "start": 36.693,
+      "end": 37.383,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-019-007",
+      "text": "'I'm sorry, we've sold out,' the girl said.",
+      "start": 39.233,
+      "end": 43.468,
+      "score": 0.904,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-019-008",
+      "text": "'What a pity!'",
+      "start": 43.468,
+      "end": 46.143,
+      "score": 0.845,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-019-009",
+      "text": "Susan exclaimed.",
+      "start": 46.532,
+      "end": 47.843,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-019-010",
+      "text": "Just then, a man hurried to the ticket office.",
+      "start": 49.212,
+      "end": 53.138,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-019-011",
+      "text": "'Can I return these two tickets?'",
+      "start": 53.138,
+      "end": 57.403,
+      "score": 0.897,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-019-012",
+      "text": "he asked.",
+      "start": 57.873,
+      "end": 58.618,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-019-013",
+      "text": "'Certainly,' the girl said.",
+      "start": 58.618,
+      "end": 62.523,
+      "score": 0.911,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-019-014",
+      "text": "I went back to the ticket office at once.",
+      "start": 64.293,
+      "end": 66.998,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-019-015",
+      "text": "'Could I have those two tickets please?'",
+      "start": 66.998,
+      "end": 71.503,
+      "score": 0.936,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-019-016",
+      "text": "I asked.",
+      "start": 71.812,
+      "end": 72.458,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-019-017",
+      "text": "'Certainly,' the girl said, 'but they're for next Wednesday's performance.",
+      "start": 72.458,
+      "end": 79.183,
+      "score": 0.911,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-019-018",
+      "text": "Do you still want them?'",
+      "start": 79.993,
+      "end": 81.183,
+      "score": 0.891,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-019-019",
+      "text": "'I might as well have them,' I said sadly.",
+      "start": 83.633,
+      "end": 87.823,
+      "score": 0.894,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "audioSha256": "accc4f1123109be859cfd155b315421384a851077f8b29e968f9015b4a648552",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-001-001",
+      "text": "Why are legends handed down by storytellers useful?",
+      "start": 12.052,
+      "end": 15.782,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-001-002",
+      "text": "We can read of things that happened 5, 000 years ago in the Near East, where people first learned to write.",
+      "start": 18.573,
+      "end": 25.942,
+      "score": 0.932,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-001-003",
+      "text": "But there are some parts of the world where even now people cannot write.",
+      "start": 27.273,
+      "end": 31.962,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-001-004",
+      "text": "The only way that they can preserve their history is to recount it as sagas legends handed down from one generation of storytellers to another.",
+      "start": 33.252,
+      "end": 45.123,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-001-005",
+      "text": "These legends are useful because they can tell us something about migrations of people who lived long ago, but none could write down what they did.",
+      "start": 46.913,
+      "end": 58.783,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-001-006",
+      "text": "Anthropologists wondered where the remote ancestors of the Polynesian peoples now living in the Pacific Islandscame from.",
+      "start": 60.453,
+      "end": 68.723,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-001-007",
+      "text": "The sagas of these people explain that some of them came from Indonesia about 2, 000 years ago.",
+      "start": 70.112,
+      "end": 77.403,
+      "score": 0.918,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-001-008",
+      "text": "But the first people who were like ourselves lived so long ago that even their sagas, if they had any, are forgotten.",
+      "start": 79.133,
+      "end": 87.823,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-001-009",
+      "text": "So archaeologists have neither history nor legends to help them to find out where the first 'modern men' came from.",
+      "start": 89.052,
+      "end": 97.303,
+      "score": 0.952,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-001-010",
+      "text": "Fortunately, however, ancient men made tools of stone, especially flint, because this is easier to shape than other kinds.",
+      "start": 99.013,
+      "end": 108.883,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-001-011",
+      "text": "They may also have used wood and skins, but these have rotted away.",
+      "start": 110.172,
+      "end": 115.303,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-001-012",
+      "text": "Stone does not decay, and so the tools of long ago have remained when even the bones of the men who made them have disappeared without trace.",
+      "start": 116.532,
+      "end": 128.422,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

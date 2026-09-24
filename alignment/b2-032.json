@@ -1,0 +1,96 @@
+{
+  "audioSha256": "c22521a51abcfcf5a9672cce1d845f1e0a356e99284b7a9b0a1ce2e9cd3ee944",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-032-001",
+      "text": "Who was the thief?",
+      "start": 12.972,
+      "end": 14.202,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-032-002",
+      "text": "People are not so honest as they once were.",
+      "start": 17.133,
+      "end": 19.922,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-032-003",
+      "text": "The temptation to steal is greater than ever before--especially in large shops.",
+      "start": 21.433,
+      "end": 27.682,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-032-004",
+      "text": "A detective recently watched a well-dressed woman who always went into a large store on Monday mornings.",
+      "start": 29.212,
+      "end": 36.503,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-032-005",
+      "text": "One Monday, there were fewer people in the shop than usual when the woman came in, so it was easier for the detective to watch her.",
+      "start": 38.472,
+      "end": 48.483,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-032-006",
+      "text": "The woman first bought a few small articles.",
+      "start": 50.413,
+      "end": 53.863,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-032-007",
+      "text": "After a little time, she chose one of the most expensive dresses in the shop and handed it to an assistant who wrapped it up for her as quickly as possible.",
+      "start": 55.273,
+      "end": 67.243,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-032-008",
+      "text": "Then the woman simply took the parcel and walked out of the shop without paying.",
+      "start": 68.993,
+      "end": 74.663,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-032-009",
+      "text": "When she was arrested, the detective found out that the shop assistant was her daughter.",
+      "start": 76.713,
+      "end": 83.323,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-032-010",
+      "text": "The girl 'gave' her mother a free dress once a week!",
+      "start": 84.832,
+      "end": 89.063,
+      "score": 0.932,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

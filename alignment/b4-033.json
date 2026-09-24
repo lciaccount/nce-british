@@ -1,0 +1,168 @@
+{
+  "audioSha256": "0954b9e37f10f34444d5636a7a373f957f9d70af050cfc27f376a5d4a582b8b1",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-033-001",
+      "text": "Why is education democratic in bookless tribal societies?",
+      "start": 10.832,
+      "end": 15.182,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-033-002",
+      "text": "Education is one of the key words of our time.",
+      "start": 17.973,
+      "end": 20.742,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-033-003",
+      "text": "A man without an education, many of us believe, is an unfortunate victim of adverse circumstances, deprived of one of the greatest twentieth-century opportunities.",
+      "start": 21.893,
+      "end": 32.703,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-033-004",
+      "text": "Convinced of the importance of education, modern states 'invest' in institutions of learning to get back 'interest' in the form of a large group of enlightened young men and women who are potential leaders.",
+      "start": 33.833,
+      "end": 47.603,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-033-005",
+      "text": "Education, with its cycles of instruction so carefully worked out, punctuated by textbooks--those purchasable wells of wisdom--what would civilization be like without its benefits?",
+      "start": 48.733,
+      "end": 61.863,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-033-006",
+      "text": "So much is certain: that we would have doctors and preachers, lawyers and defendants marriages and births--but our spiritual outlook would be different.",
+      "start": 63.293,
+      "end": 73.523,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-033-007",
+      "text": "We would lay less stress on 'facts and figures' and more on a good memory, on applied psychology, and on the capacity of a man to get along with his fellow-citizens.",
+      "start": 74.532,
+      "end": 85.583,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-033-008",
+      "text": "If our educational system were fashioned after its bookless past we would have the most democratic form of 'college' imaginable.",
+      "start": 86.853,
+      "end": 95.263,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-033-009",
+      "text": "Among tribal people all knowledge inherited by tradition is shared by all; it is taught to every member of the tribe so that in this respect everybody is equally equipped for life.",
+      "start": 96.433,
+      "end": 109.743,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-033-010",
+      "text": "It is the ideal condition of the 'equal start' which only our most progressive forms of modern education try to regain.",
+      "start": 111.633,
+      "end": 119.383,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-033-011",
+      "text": "In primitive cultures the obligation to seek and to receive the traditional instruction is binding to all.",
+      "start": 120.692,
+      "end": 127.583,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-033-012",
+      "text": "There are no'illiterates' --if the term can be applied to peoples without a script--while our own compulsory school attendance became law in Germany in 1642, in France in 1806, and in England in 1876 and is still nonexistent in a number of 'civilized' nations.",
+      "start": 128.852,
+      "end": 149.722,
+      "score": 0.801,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-033-013",
+      "text": "This shows how long it was before we deemed it necessary to make sure that all our children could share in the knowledge accumulated by the 'happy few' during the past centuries.",
+      "start": 150.632,
+      "end": 162.102,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-033-014",
+      "text": "Education in the wilderness is not a matter of monetary means.",
+      "start": 163.492,
+      "end": 167.602,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-033-015",
+      "text": "All are entitled to an equal start.",
+      "start": 168.552,
+      "end": 170.422,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-033-016",
+      "text": "There is none of the hurry which, in our society, often hampers the full development of a growing personality.",
+      "start": 171.792,
+      "end": 178.422,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-033-017",
+      "text": "There, a child grows up under the everpresent attention of his parents; therefore the jungles and the savannahs know of no 'juvenile delinquency'.",
+      "start": 179.373,
+      "end": 190.142,
+      "score": 0.95,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-033-018",
+      "text": "No necessity of making a living away from home results in neglect of children, and no father is confronted with his inability to 'buy' an education for his child.",
+      "start": 191.372,
+      "end": 203.442,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

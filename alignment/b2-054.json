@@ -1,0 +1,141 @@
+{
+  "audioSha256": "2d94d549787ff3d50cbc7d220e3721e3ad22196fd789d66198daf20f02663ae9",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-054-001",
+      "text": "What two interruptions did the writer have?",
+      "start": 13.492,
+      "end": 17.422,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-054-002",
+      "text": "After breakfast, I sent the children to school and then I went to the shops.",
+      "start": 20.393,
+      "end": 25.622,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-054-003",
+      "text": "It was still early when I returned home.",
+      "start": 27.473,
+      "end": 30.002,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-054-004",
+      "text": "The children were at school, my husband was at work and the house was quiet.",
+      "start": 31.672,
+      "end": 36.643,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-054-005",
+      "text": "So I decided to make some meat pies.",
+      "start": 38.373,
+      "end": 41.223,
+      "score": 0.996,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-054-006",
+      "text": "In a short time I was busy mixing butter and flour and my hands were soon covered with sticky pastry.",
+      "start": 42.953,
+      "end": 51.163,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-054-007",
+      "text": "At exactly that moment, the telephone rang.",
+      "start": 52.892,
+      "end": 56.203,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-054-008",
+      "text": "Nothing could have been more annoying.",
+      "start": 57.453,
+      "end": 59.443,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-054-009",
+      "text": "I picked up the receiver between two sticky fingers and was dismayed when I recognized the voice of Helen Bates.",
+      "start": 60.953,
+      "end": 70.003,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-054-010",
+      "text": "It took me ten minutes to persuade her to ring back later.",
+      "start": 71.373,
+      "end": 74.863,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-054-011",
+      "text": "At last I hung up the receiver.",
+      "start": 76.153,
+      "end": 78.263,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-054-012",
+      "text": "What a mess!",
+      "start": 79.252,
+      "end": 80.603,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-054-013",
+      "text": "There was pastry on my fingers, on the telephone, and on the doorknobs.",
+      "start": 81.832,
+      "end": 87.062,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-054-014",
+      "text": "I had no sooner got back to the kitchen than the doorbell rang loud enough to wake the dead.",
+      "start": 88.153,
+      "end": 94.643,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-054-015",
+      "text": "This time it was the postman and he wanted me to sign for a registered letter!",
+      "start": 95.453,
+      "end": 101.323,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

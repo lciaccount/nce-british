@@ -1,0 +1,123 @@
+{
+  "audioSha256": "b958c5478f03ecb4df29b448774f13f6d87222f5ed54e59cec9047966a9004f1",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-086-001",
+      "text": "What was the danger?",
+      "start": 12.812,
+      "end": 14.062,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-086-002",
+      "text": "As the man tried to swing the speedboat round, the steering wheel came away in his hands.",
+      "start": 16.992,
+      "end": 23.023,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-086-003",
+      "text": "He waved desperately to his companion, who had been water skiing for the last fifteen minutes.",
+      "start": 24.492,
+      "end": 30.582,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-086-004",
+      "text": "Both men had hardly had time to realize what was happening when they were thrown violently into the sea.",
+      "start": 31.793,
+      "end": 38.703,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-086-005",
+      "text": "The speedboat had struck a buoy, but it continued to move very quickly across the water.",
+      "start": 40.212,
+      "end": 46.883,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-086-006",
+      "text": "Both men had just begun to swim towards the shore, when they noticed with dismay that the speedboat was moving in a circle.",
+      "start": 48.133,
+      "end": 56.723,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-086-007",
+      "text": "It now came straight towards them at tremendous speed.",
+      "start": 57.633,
+      "end": 61.203,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-086-008",
+      "text": "In less than a minute, it roared past them only a few feet away.",
+      "start": 62.633,
+      "end": 67.703,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-086-009",
+      "text": "After it had passed, they swam on as quickly as they could because they knew that the boat would soon return.",
+      "start": 69.272,
+      "end": 76.422,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-086-010",
+      "text": "They had just had enough time to swim out of danger when the boat again completed a circle.",
+      "start": 77.612,
+      "end": 84.922,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-086-011",
+      "text": "On this occasion, however, it had slowed down considerably.",
+      "start": 86.312,
+      "end": 90.583,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-086-012",
+      "text": "The petrol had nearly all been used up.",
+      "start": 91.892,
+      "end": 94.422,
+      "score": 0.946,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-086-013",
+      "text": "Before long, the noise dropped completely and the boat began to drift gently across the water.",
+      "start": 95.633,
+      "end": 102.723,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

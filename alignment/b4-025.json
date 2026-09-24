@@ -1,0 +1,150 @@
+{
+  "audioSha256": "490b5cda7a8d2110814a951c042cf183376ee1e4c9f6085e4f6c724c97a1fd7f",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-025-001",
+      "text": "What conclusion does the author draw about noise and health in this piece?",
+      "start": 11.152,
+      "end": 15.542,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-025-002",
+      "text": "Many people in industry and the Services, who have practical experience of noise, regard any investigation of this question as a waste of time; they are not prepared even to admit the possibility that noise affects people.",
+      "start": 18.293,
+      "end": 33.543,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-025-003",
+      "text": "On the other hand, those who dislike noise will sometimes use most inadequate evidence to support their pleas for a quieter society.",
+      "start": 34.653,
+      "end": 43.383,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-025-004",
+      "text": "This is a pity, because noise abatement really is a good cause, and it is likely to be discredited if it gets to be associated with bad science.",
+      "start": 44.513,
+      "end": 54.883,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-025-005",
+      "text": "One allegation often made is that noise produces mental illness.",
+      "start": 56.972,
+      "end": 61.663,
+      "score": 0.934,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-025-006",
+      "text": "A recent article in a weekly newspaper, for instance, was headed with a striking illustration of a lady in a state of considerable distress, with the caption 'She was yet another victim, reduced to a screaming wreck'.",
+      "start": 62.953,
+      "end": 78.163,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-025-007",
+      "text": "On turning eagerly to the text, one learns that the lady was a typist who found the sound of office typewriters worried her more and more until eventually she had to go into a mental hospital.",
+      "start": 79.373,
+      "end": 92.643,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-025-008",
+      "text": "Now the snag in this sort of anecdote is of course that one cannot distinguish cause and effect.",
+      "start": 93.793,
+      "end": 100.323,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-025-009",
+      "text": "Was the noise a cause of the illness, or were the complaints about noise merely a symptom?",
+      "start": 101.532,
+      "end": 107.343,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-025-010",
+      "text": "Another patient might equally well complain that her neighbours were combining to slander her and persecute her, and yet one might be cautious about believing this statement.",
+      "start": 108.392,
+      "end": 118.363,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-025-011",
+      "text": "What is needed in the case of noise is a study of large numbers of people living under noisy conditions, to discover whether they are mentally ill more often than other people are.",
+      "start": 119.953,
+      "end": 131.222,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-025-012",
+      "text": "Some time ago the United States Navy, for instance, examined a very large number of men working on aircraft carriers: the study was known as Project Anehin.",
+      "start": 132.472,
+      "end": 143.623,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-025-013",
+      "text": "It can be unpleasant to live even several miles from an aerodrome; if you think what it must be like to share the deck of a ship with several squadrons of jet aircraft, you will realize that a modern navy is a good place to study noise.",
+      "start": 144.712,
+      "end": 160.222,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-025-014",
+      "text": "But neither psychiatric interviews nor objective tests were able to show any effects upon these American sailors.",
+      "start": 161.592,
+      "end": 169.403,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-025-015",
+      "text": "This result merely confirms earlier American and British studies: if there is any effect of noise upon mental health, it must be so small that present methods of psychiatric diagnosis cannot find it.",
+      "start": 170.792,
+      "end": 184.742,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-025-016",
+      "text": "That does not prove that it does not exist; but it does mean that noise is less dangerous than, say being brought up in an orphanage --which really is a mental health hazard.",
+      "start": 185.952,
+      "end": 197.942,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

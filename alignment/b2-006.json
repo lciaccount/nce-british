@@ -1,0 +1,114 @@
+{
+  "audioSha256": "2f3afd99eca81d066e75cebcecb64b90990308312c2c797a1dfc7c56c42327f0",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-006-001",
+      "text": "Who is Percy Buttons?",
+      "start": 13.172,
+      "end": 15.383,
+      "score": 0.995,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-006-002",
+      "text": "I have just moved to a house in Bridge Street.",
+      "start": 18.553,
+      "end": 22.223,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-006-003",
+      "text": "Yesterday a beggar knocked at my door.",
+      "start": 23.433,
+      "end": 26.082,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-006-004",
+      "text": "He asked me for a meal and a glass of beer.",
+      "start": 27.392,
+      "end": 30.682,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-006-005",
+      "text": "In return for this, the beggar stood on his head and sang songs.",
+      "start": 32.133,
+      "end": 37.243,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-006-006",
+      "text": "I gave him a meal.",
+      "start": 38.492,
+      "end": 39.603,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-006-007",
+      "text": "He ate the food and drank the beer.",
+      "start": 40.892,
+      "end": 43.123,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-006-008",
+      "text": "Then he put a piece of cheese in his pocket and went away.",
+      "start": 44.773,
+      "end": 48.643,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-006-009",
+      "text": "Later a neighbour told me about him.",
+      "start": 50.653,
+      "end": 53.803,
+      "score": 0.943,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-006-010",
+      "text": "Everybody knows him.",
+      "start": 55.112,
+      "end": 56.383,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-006-011",
+      "text": "His name is Percy Buttons.",
+      "start": 57.392,
+      "end": 59.643,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-006-012",
+      "text": "He calls at every house in the street once a month and always asks for a meal and a glass of beer.",
+      "start": 60.312,
+      "end": 68.583,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

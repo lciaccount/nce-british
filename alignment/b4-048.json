@@ -1,0 +1,186 @@
+{
+  "audioSha256": "021849c994075fb0c20948949c78163da36de137cc3d42c4f203ee82aa62a3b6",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-048-001",
+      "text": "How does the older investor differ in his approach to investment from the younger investor?",
+      "start": 12.412,
+      "end": 17.982,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-048-002",
+      "text": "There is no shortage of tipsters around offering 'get-rich-quick' opportunities.",
+      "start": 20.713,
+      "end": 25.482,
+      "score": 0.953,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-048-003",
+      "text": "But if you are a serious private investor, leave the Las Vegas mentality to those with money to fritter.",
+      "start": 26.253,
+      "end": 33.203,
+      "score": 0.95,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-048-004",
+      "text": "The serious investor needs a proper 'portfolio' --a well-planned selection of investments, with a definite structure and a clear aim.",
+      "start": 34.073,
+      "end": 43.003,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-048-005",
+      "text": "But exactly how does a newcomer to the stock market go about achieving that?",
+      "start": 43.913,
+      "end": 48.823,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-048-006",
+      "text": "Well, if you go to five reputable stock brokers and ask them what you should do with your money, you're likely to get five different answers, --  even if you give all the relevant information about your age, family, finances and what you want from your investments.",
+      "start": 49.953,
+      "end": 67.983,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-048-007",
+      "text": "Moral?",
+      "start": 68.993,
+      "end": 69.422,
+      "score": 0.995,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-048-008",
+      "text": "There is no one 'right' way to structure a portfolio.",
+      "start": 69.972,
+      "end": 73.063,
+      "score": 0.933,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-048-009",
+      "text": "However, there are undoubtedly some wrong ways, and you can be sure that none of our five advisers would have suggested sinking all (or perhaps any) of your money into Periwigs.",
+      "start": 73.653,
+      "end": 86.363,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-048-010",
+      "text": "So what should you do?",
+      "start": 87.433,
+      "end": 88.883,
+      "score": 0.998,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-048-011",
+      "text": "We'll assume that you have sorted out the basics--like mortgages, pensions, insurance and access to sufficient cash reserves.",
+      "start": 89.933,
+      "end": 98.543,
+      "score": 0.954,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-048-012",
+      "text": "You should then establish your own individual aims.",
+      "start": 99.472,
+      "end": 102.143,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-048-013",
+      "text": "These are partly a matter of personal circumstances, partly a matter of psychology.",
+      "start": 102.933,
+      "end": 108.663,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-048-014",
+      "text": "For instance, if you are older you have less time to recover from any major losses, and you may well wish to boost your pension income.",
+      "start": 110.552,
+      "end": 119.543,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-048-015",
+      "text": "So preserving your capital and generating extra income are your main priorities.",
+      "start": 120.433,
+      "end": 126.283,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-048-016",
+      "text": "In this case, you'd probably construct a portfolio with some shares (but not high risk ones), along with gilts, cash deposits, and perhaps convertibles or the income shares of split capital investment trusts.",
+      "start": 127.172,
+      "end": 142.302,
+      "score": 0.953,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-048-017",
+      "text": "If you are younger, and in a solid financial position, you may decide to take an aggressive approach--but only if you're blessed with a sanguine disposition and won't suffer sleepless nights over share prices.",
+      "start": 143.672,
+      "end": 157.302,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-048-018",
+      "text": "If you recognize yourself in this description, you might include a couple of heady growth stocks in your portfolio, alongside your more pedestrian investments.",
+      "start": 158.572,
+      "end": 168.442,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-048-019",
+      "text": "Once you have decided on your investment aims you can then decide where to put your money.",
+      "start": 169.652,
+      "end": 175.042,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-048-020",
+      "text": "The golden rule here is spread your risk--if you put all of your money into Periwigs International, you're setting yourself up as a hostage to fortune.",
+      "start": 175.873,
+      "end": 186.702,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

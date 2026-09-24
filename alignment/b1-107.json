@@ -1,0 +1,177 @@
+{
+  "audioSha256": "7a59d4ee88ab230756f5c7f4592ac84acf707887b0b0316db1dddcded40f5d70",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-107-001",
+      "text": "What kind of dress does the Lady want?",
+      "start": 14.312,
+      "end": 16.762,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-107-002",
+      "text": "Do you like this dress, madam?",
+      "start": 19.433,
+      "end": 21.523,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-107-003",
+      "text": "I like the colour very much.",
+      "start": 23.212,
+      "end": 25.402,
+      "score": 0.952,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-107-004",
+      "text": "It's a lovely dress, but it's too small for me.",
+      "start": 25.913,
+      "end": 30.242,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-107-005",
+      "text": "What about this one?",
+      "start": 31.913,
+      "end": 33.103,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-107-006",
+      "text": "It's a lovely dress.",
+      "start": 34.352,
+      "end": 35.763,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-107-007",
+      "text": "It's very smart.",
+      "start": 36.053,
+      "end": 37.143,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-107-008",
+      "text": "Short skirts are in fashion now.",
+      "start": 38.213,
+      "end": 40.283,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-107-009",
+      "text": "Would you like to try it?",
+      "start": 41.193,
+      "end": 42.383,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-107-010",
+      "text": "All right.",
+      "start": 43.633,
+      "end": 44.143,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-107-011",
+      "text": "I'm afraid this green dress is too small for me as well.",
+      "start": 45.752,
+      "end": 49.463,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-107-012",
+      "text": "It's smaller than the blue one.",
+      "start": 50.312,
+      "end": 52.243,
+      "score": 0.954,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-107-013",
+      "text": "I don't like the colour either.",
+      "start": 53.153,
+      "end": 54.863,
+      "score": 0.953,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-107-014",
+      "text": "It doesn't suit me at all.",
+      "start": 55.553,
+      "end": 57.123,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-107-015",
+      "text": "I think the blue dress is prettier.",
+      "start": 57.992,
+      "end": 59.903,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-107-016",
+      "text": "Could you show me another blue dress?",
+      "start": 61.612,
+      "end": 64.062,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-107-017",
+      "text": "I want a dress like that one, but it must be my size.",
+      "start": 65.213,
+      "end": 69.463,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-107-018",
+      "text": "I'm afraid I haven't got a larger dress.",
+      "start": 71.293,
+      "end": 73.603,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-107-019",
+      "text": "This is the largest dress in the shop.",
+      "start": 74.493,
+      "end": 76.323,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

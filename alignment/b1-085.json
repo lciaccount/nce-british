@@ -1,0 +1,177 @@
+{
+  "audioSha256": "2ac6751160538d210a15c8509101767f733a272ded525c80a050065ca8b7b61e",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-085-001",
+      "text": "At what time of year did Ken visit Paris?",
+      "start": 13.152,
+      "end": 16.902,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-085-002",
+      "text": "Hello, Ken.",
+      "start": 19.652,
+      "end": 20.842,
+      "score": 0.661,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b1-085-003",
+      "text": "Hi, George.",
+      "start": 21.773,
+      "end": 22.523,
+      "score": 0.949,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-085-004",
+      "text": "Have you just been to the cinema?",
+      "start": 23.852,
+      "end": 25.902,
+      "score": 0.911,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-085-005",
+      "text": "Yes, I have.",
+      "start": 26.973,
+      "end": 28.242,
+      "score": 0.997,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-085-006",
+      "text": "What's on?",
+      "start": 29.453,
+      "end": 30.182,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-085-007",
+      "text": "'Paris in the Spring'.",
+      "start": 31.293,
+      "end": 32.783,
+      "score": 0.877,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-085-008",
+      "text": "Oh, I've already seen it.",
+      "start": 34.653,
+      "end": 36.743,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-085-009",
+      "text": "I saw it on television last year.",
+      "start": 37.593,
+      "end": 40.303,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-085-010",
+      "text": "It's an old film, but it's very good.",
+      "start": 41.413,
+      "end": 44.483,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-085-011",
+      "text": "Paris is a beautiful city.",
+      "start": 45.953,
+      "end": 48.303,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-085-012",
+      "text": "I've never been there.",
+      "start": 49.513,
+      "end": 50.883,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-085-013",
+      "text": "Have you ever been there, Ken?",
+      "start": 51.752,
+      "end": 53.483,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-085-014",
+      "text": "Yes, I have.",
+      "start": 54.672,
+      "end": 56.143,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-085-015",
+      "text": "I was there in April.",
+      "start": 56.992,
+      "end": 59.023,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-085-016",
+      "text": "Paris in the spring, eh?",
+      "start": 60.513,
+      "end": 62.483,
+      "score": 0.938,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-085-017",
+      "text": "It was spring, but the weather was awful.",
+      "start": 63.913,
+      "end": 67.603,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-085-018",
+      "text": "It rained all the time.",
+      "start": 68.413,
+      "end": 70.463,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-085-019",
+      "text": "Just like London!",
+      "start": 71.832,
+      "end": 73.483,
+      "score": 0.996,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

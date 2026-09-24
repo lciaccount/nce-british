@@ -1,0 +1,168 @@
+{
+  "audioSha256": "b306c5d227f7385bf9ae7e3b85c33c9aae30fa616c024f9b99220db55ac037b1",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-015-001",
+      "text": "Did George get anything for his fifty pence?",
+      "start": 12.912,
+      "end": 15.643,
+      "score": 0.952,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-015-002",
+      "text": "What?",
+      "start": 16.633,
+      "end": 16.962,
+      "score": 0.993,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-015-003",
+      "text": "Children always appreciate small gifts of money.",
+      "start": 19.672,
+      "end": 22.363,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-015-004",
+      "text": "Mum or dad, of course, provides a regular supply of pocket money, but uncles and aunts are always a source of extra income.",
+      "start": 23.393,
+      "end": 31.803,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-015-005",
+      "text": "With some children, small sums go a long way.",
+      "start": 33.252,
+      "end": 36.603,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-015-006",
+      "text": "If fifty pence pieces are not exchanged for sweets, they rattle for months inside money boxes.",
+      "start": 38.032,
+      "end": 44.283,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-015-007",
+      "text": "Only very thrifty children manage to fill up a money box.",
+      "start": 45.392,
+      "end": 48.543,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-015-008",
+      "text": "For most of them, fifty pence is a small price to pay for a nice big bar of chocolate.",
+      "start": 49.532,
+      "end": 54.523,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-015-009",
+      "text": "My nephew, George, has a money box but it is always empty.",
+      "start": 56.093,
+      "end": 60.663,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-015-010",
+      "text": "Very few of the fifty pence pieces and pound coins I have given him have found their way there.",
+      "start": 61.932,
+      "end": 67.703,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-015-011",
+      "text": "I gave him fifty pence yesterday and advised him to save it.",
+      "start": 68.873,
+      "end": 72.883,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-015-012",
+      "text": "Instead, he bought himself fifty pence worth of trouble.",
+      "start": 73.812,
+      "end": 77.103,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-015-013",
+      "text": "On his way to the sweet shop, he dropped his fifty pence and it bounced along the pavement and then disappeared down a drain.",
+      "start": 78.392,
+      "end": 86.943,
+      "score": 0.938,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-015-014",
+      "text": "George took off his jacket, rolled up his sleeves and pushed his right arm through the drain cover.",
+      "start": 88.093,
+      "end": 94.943,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-015-015",
+      "text": "He could not find his 50 pence piece anywhere, and what is more, he could not get his arm out.",
+      "start": 96.233,
+      "end": 103.103,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-015-016",
+      "text": "A crowd of people gathered round him and a lady rubbed his arm with soap and butter, but George was firmly stuck.",
+      "start": 103.892,
+      "end": 110.843,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-015-017",
+      "text": "The fire brigade was called and two fire fighters freed George using a special type of grease.",
+      "start": 111.873,
+      "end": 118.083,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-015-018",
+      "text": "George was not too upset by his experience because the lady who owns the sweet shop heard about his troubles and rewarded him with a large box of chocolates.",
+      "start": 119.413,
+      "end": 129.683,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

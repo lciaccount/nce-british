@@ -1,0 +1,195 @@
+{
+  "audioSha256": "d810d2dfd3cadd604920adabda19e189308da0c561209d9774163e369ee8f366",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-125-001",
+      "text": "Does Susan have tea by herself?",
+      "start": 13.652,
+      "end": 16.043,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-125-002",
+      "text": "Can't you come in and have tea now, Peter?",
+      "start": 18.753,
+      "end": 21.162,
+      "score": 0.862,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-125-003",
+      "text": "Not yet.",
+      "start": 22.312,
+      "end": 22.863,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-125-004",
+      "text": "I must water the garden first.",
+      "start": 23.492,
+      "end": 25.343,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-125-005",
+      "text": "Do you have to water it now?",
+      "start": 26.613,
+      "end": 28.322,
+      "score": 0.95,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-125-006",
+      "text": "I'm afraid I must.",
+      "start": 29.253,
+      "end": 30.523,
+      "score": 0.929,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-125-007",
+      "text": "Look at it!",
+      "start": 31.212,
+      "end": 31.883,
+      "score": 0.996,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-125-008",
+      "text": "It's terribly dry.",
+      "start": 32.312,
+      "end": 33.763,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-125-009",
+      "text": "What a nuisance!",
+      "start": 34.612,
+      "end": 35.663,
+      "score": 0.907,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-125-010",
+      "text": "Last summer it was very dry, too.",
+      "start": 36.812,
+      "end": 39.163,
+      "score": 0.997,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-125-011",
+      "text": "Don't you remember?",
+      "start": 39.853,
+      "end": 40.683,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-125-012",
+      "text": "I had to water it every day.",
+      "start": 41.293,
+      "end": 43.223,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-125-013",
+      "text": "Well, I'll have tea by myself.",
+      "start": 44.252,
+      "end": 46.263,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-125-014",
+      "text": "That was quick!",
+      "start": 48.212,
+      "end": 49.063,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-125-015",
+      "text": "Have you finished already?",
+      "start": 49.312,
+      "end": 50.503,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-125-016",
+      "text": "Yes.",
+      "start": 51.073,
+      "end": 51.463,
+      "score": 0.999,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-125-017",
+      "text": "Look out of the window.",
+      "start": 52.172,
+      "end": 53.223,
+      "score": 0.993,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-125-018",
+      "text": "It's raining!",
+      "start": 54.172,
+      "end": 55.123,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-125-019",
+      "text": "That means you don't need to water the garden.",
+      "start": 55.693,
+      "end": 57.983,
+      "score": 0.917,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-125-020",
+      "text": "That was a pleasant surprise.",
+      "start": 58.752,
+      "end": 60.543,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-125-021",
+      "text": "It means I can have tea, instead.",
+      "start": 61.212,
+      "end": 63.323,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

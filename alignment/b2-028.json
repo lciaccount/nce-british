@@ -1,0 +1,105 @@
+{
+  "audioSha256": "04b741003db1e503700acdf37c7acf6730087eea79324de428fc702e5daa1ec8",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-028-001",
+      "text": "What is Jasper White's problem?",
+      "start": 12.872,
+      "end": 15.702,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-028-002",
+      "text": "Jasper White is one of those rare people who believes in ancient myths.",
+      "start": 18.693,
+      "end": 24.543,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-028-003",
+      "text": "He has just bought a new house in the city, but ever since he moved in, he has had trouble with cars and their owners.",
+      "start": 26.212,
+      "end": 36.023,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-028-004",
+      "text": "When he returns home at night, he always finds that someone has parked a car outside his gate.",
+      "start": 38.032,
+      "end": 45.603,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-028-005",
+      "text": "Because of this, he has not been able to get his own car into his garage even once.",
+      "start": 47.433,
+      "end": 53.703,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-028-006",
+      "text": "Jasper has put up 'No Parking' signs outside his gate, but these have not had any effect.",
+      "start": 55.852,
+      "end": 63.403,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-028-007",
+      "text": "Now he has put an ugly stone head over the gate.",
+      "start": 65.433,
+      "end": 69.603,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-028-008",
+      "text": "It is one of the ugliest faces I have ever seen.",
+      "start": 71.332,
+      "end": 74.922,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-028-009",
+      "text": "I asked him what it was and he told me that it was Medusa, the Gorgon.",
+      "start": 76.972,
+      "end": 82.422,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-028-010",
+      "text": "Jasper hopes that she will turn cars and their owners to stone.",
+      "start": 84.172,
+      "end": 89.063,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-028-011",
+      "text": "But none of them has been turned to stone yet!",
+      "start": 90.272,
+      "end": 92.823,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

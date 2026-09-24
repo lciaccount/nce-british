@@ -1,0 +1,159 @@
+{
+  "audioSha256": "177437e036478b2eb894742c34ac4eb5b39c6962f544d3b602f415ca0bc6c0d1",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-017-001",
+      "text": "How is the bridge supported?",
+      "start": 13.412,
+      "end": 15.303,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-017-002",
+      "text": "Verrazano, an Italian about whom little is known, sailed into New York Harbour in 1524 and named it Angouleme.",
+      "start": 18.073,
+      "end": 28.203,
+      "score": 0.734,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b3-017-003",
+      "text": "He described it as 'a very agreeable situation located within two small hills in the midst of which flowed a great river.'",
+      "start": 29.053,
+      "end": 36.983,
+      "score": 0.946,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-017-004",
+      "text": "Though Verrazano is by no means considered to be a great explorer, his name will probably remain immortal, for on November 21st, 1964, the longest suspension bridge in the world was named after him.",
+      "start": 38.133,
+      "end": 53.143,
+      "score": 0.849,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-017-005",
+      "text": "The Verrazano Bridge, which was designed by Othmar Ammann, joins Brooklyn to Staten Island.",
+      "start": 54.793,
+      "end": 61.843,
+      "score": 0.927,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-017-006",
+      "text": "It has a span of 4, 260 feet.",
+      "start": 62.913,
+      "end": 66.263,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-017-007",
+      "text": "The bridge is so long that the shape of the earth had to be taken into account by its designer.",
+      "start": 67.413,
+      "end": 72.963,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-017-008",
+      "text": "Two great towers support four huge cables.",
+      "start": 74.373,
+      "end": 77.803,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-017-009",
+      "text": "The towers are built on immense underwater platforms made of steel and concrete.",
+      "start": 78.832,
+      "end": 84.163,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-017-010",
+      "text": "The platforms extend to a depth of over 100 feet under the sea.",
+      "start": 84.993,
+      "end": 89.203,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-017-011",
+      "text": "These alone took sixteen months to build.",
+      "start": 90.312,
+      "end": 93.083,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-017-012",
+      "text": "Above the surface of the water, the towers rise to a height of nearly 700 feet.",
+      "start": 94.093,
+      "end": 99.363,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-017-013",
+      "text": "They support the cables from which the bridge has been suspended.",
+      "start": 100.552,
+      "end": 104.083,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-017-014",
+      "text": "Each of the four cables contains 26, 108 lengths of wire.",
+      "start": 105.293,
+      "end": 111.163,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-017-015",
+      "text": "It has been estimated that if the bridge were packed with cars, it would still only be carrying a third of its total capacity.",
+      "start": 112.233,
+      "end": 119.543,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-017-016",
+      "text": "However, size and strength are not the only important things about this bridge.",
+      "start": 120.612,
+      "end": 125.643,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-017-017",
+      "text": "Despite its immensity, it is both simple and elegant, fulfilling its designer's dream to creat 'an enormous object drawn as faintly as possible'.",
+      "start": 126.993,
+      "end": 137.502,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

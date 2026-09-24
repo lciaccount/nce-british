@@ -1,0 +1,231 @@
+{
+  "audioSha256": "172dd7bb24b5b401031043a70490d357485bba898e0aaa22e8d3d24aaa1df269",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-083-001",
+      "text": "Where did Sam go for his holiday this year?",
+      "start": 12.892,
+      "end": 15.803,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-083-002",
+      "text": "Hello, Sam.",
+      "start": 18.512,
+      "end": 19.562,
+      "score": 0.644,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b1-083-003",
+      "text": "Come in.",
+      "start": 19.873,
+      "end": 20.383,
+      "score": 0.647,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b1-083-004",
+      "text": "Hi, Sam.",
+      "start": 21.793,
+      "end": 22.462,
+      "score": 0.87,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-083-005",
+      "text": "We're having lunch.",
+      "start": 23.073,
+      "end": 24.023,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-083-006",
+      "text": "Do you want to have lunch with us?",
+      "start": 24.933,
+      "end": 26.502,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-083-007",
+      "text": "No, thank you, Tom.",
+      "start": 28.032,
+      "end": 29.142,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-083-008",
+      "text": "I've already had lunch.",
+      "start": 29.812,
+      "end": 30.942,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-083-009",
+      "text": "I had lunch at half past twelve.",
+      "start": 31.733,
+      "end": 33.903,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-083-010",
+      "text": "Have a cup of coffee then.",
+      "start": 34.672,
+      "end": 36.063,
+      "score": 0.865,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-083-011",
+      "text": "I've just had a cup, thank you.",
+      "start": 37.233,
+      "end": 38.903,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-083-012",
+      "text": "I had one after my lunch.",
+      "start": 39.593,
+      "end": 41.363,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-083-013",
+      "text": "Let's go into the living room, Carol.",
+      "start": 43.072,
+      "end": 44.903,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-083-014",
+      "text": "We can have our coffee there.",
+      "start": 45.453,
+      "end": 46.903,
+      "score": 0.995,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-083-015",
+      "text": "Excuse the mess, Sam.",
+      "start": 48.252,
+      "end": 49.883,
+      "score": 0.921,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-083-016",
+      "text": "This room's very untidy.",
+      "start": 50.293,
+      "end": 52.243,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-083-017",
+      "text": "We're packing our suitcases.",
+      "start": 52.892,
+      "end": 54.663,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-083-018",
+      "text": "We're going to leave tomorrow.",
+      "start": 55.352,
+      "end": 57.003,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-083-019",
+      "text": "Tom and I are going to have a holiday.",
+      "start": 57.713,
+      "end": 60.123,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-083-020",
+      "text": "Aren't you lucky!",
+      "start": 61.293,
+      "end": 62.483,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-083-021",
+      "text": "When are you going to have a holiday, Sam?",
+      "start": 63.953,
+      "end": 66.062,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-083-022",
+      "text": "I don't know.",
+      "start": 67.233,
+      "end": 68.043,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-083-023",
+      "text": "I've already had my holiday this year.",
+      "start": 68.892,
+      "end": 71.263,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-083-024",
+      "text": "Where did you go?",
+      "start": 72.112,
+      "end": 72.943,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-083-025",
+      "text": "I stayed at home!",
+      "start": 74.112,
+      "end": 75.363,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

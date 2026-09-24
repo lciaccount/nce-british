@@ -1,0 +1,114 @@
+{
+  "audioSha256": "3fd8ee986e5f45c0680ae7547b3c98221a32c50182bc3fd5f356852223e2922e",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-079-001",
+      "text": "Why did the plane turn back?",
+      "start": 12.392,
+      "end": 14.822,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-079-002",
+      "text": "I used to travel by air a great deal when I was a boy.",
+      "start": 17.553,
+      "end": 20.942,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-079-003",
+      "text": "My parents used to live in South America and I used to fly there from Europe in the holidays.",
+      "start": 22.253,
+      "end": 28.562,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-079-004",
+      "text": "A flight attendant would take charge of me and I never had an unpleasant experience.",
+      "start": 30.133,
+      "end": 35.423,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-079-005",
+      "text": "I am used to travelling by air and only on one occasion have I ever felt frightened.",
+      "start": 36.733,
+      "end": 42.963,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-079-006",
+      "text": "After taking off, we were flying low over the city and slowly gaining height, when the plane suddenly turned round and flew back to the airport.",
+      "start": 44.233,
+      "end": 55.183,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-079-007",
+      "text": "While we were waiting to land, a flight attendant told us to keep calm and to get off the plane quietly as soon as it had touched down.",
+      "start": 56.593,
+      "end": 65.723,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-079-008",
+      "text": "Everybody on board was worried and we were curious to find out what had happened.",
+      "start": 67.413,
+      "end": 72.803,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-079-009",
+      "text": "Later we learnt that there was a very important person on board.",
+      "start": 74.172,
+      "end": 78.642,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-079-010",
+      "text": "The police had been told that a bomb had been planted on the plane.",
+      "start": 79.933,
+      "end": 84.003,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-079-011",
+      "text": "After we had landed, the plane was searched thoroughly.",
+      "start": 85.052,
+      "end": 88.783,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-079-012",
+      "text": "Fortunately, nothing was found and five hours later we were able to take off again.",
+      "start": 89.913,
+      "end": 95.203,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

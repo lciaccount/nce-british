@@ -1,0 +1,195 @@
+{
+  "audioSha256": "e3a767673c5df71e65e71ae942b518a91cbc086e03c529cbfa58eba985cb0be4",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-005-001",
+      "text": "Is Chang-woo Chinese?",
+      "start": 13.372,
+      "end": 15.803,
+      "score": 0.883,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-005-002",
+      "text": "Good morning.",
+      "start": 18.672,
+      "end": 19.383,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-005-003",
+      "text": "Good morning Mr. Blake.",
+      "start": 20.213,
+      "end": 22.062,
+      "score": 0.665,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b1-005-004",
+      "text": "This is Miss Sophie Dupont.",
+      "start": 23.652,
+      "end": 26.102,
+      "score": 0.947,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-005-005",
+      "text": "Sophie is a new student.",
+      "start": 27.273,
+      "end": 29.483,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-005-006",
+      "text": "She is French.",
+      "start": 30.633,
+      "end": 31.983,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-005-007",
+      "text": "Sophie this is Hans.",
+      "start": 34.352,
+      "end": 36.803,
+      "score": 0.948,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-005-008",
+      "text": "He is German.",
+      "start": 37.832,
+      "end": 39.263,
+      "score": 0.937,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-005-009",
+      "text": "Nice to meet you.",
+      "start": 41.293,
+      "end": 42.743,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-005-010",
+      "text": "And this is Naoko.",
+      "start": 44.973,
+      "end": 46.943,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-005-011",
+      "text": "She's Japanese.",
+      "start": 48.172,
+      "end": 49.763,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-005-012",
+      "text": "Nice to meet you.",
+      "start": 51.212,
+      "end": 53.123,
+      "score": 0.942,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-005-013",
+      "text": "And this is Chang-woo.",
+      "start": 54.793,
+      "end": 57.403,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-005-014",
+      "text": "He's Korean.",
+      "start": 58.612,
+      "end": 60.083,
+      "score": 0.856,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-005-015",
+      "text": "Nice to meet you.",
+      "start": 61.852,
+      "end": 63.543,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-005-016",
+      "text": "And this is Luming.",
+      "start": 66.272,
+      "end": 68.623,
+      "score": 0.946,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-005-017",
+      "text": "He's Chinese.",
+      "start": 69.993,
+      "end": 71.483,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-005-018",
+      "text": "Nice to meet you.",
+      "start": 73.213,
+      "end": 75.043,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-005-019",
+      "text": "And this is Xiaohui.",
+      "start": 76.653,
+      "end": 78.863,
+      "score": 0.75,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b1-005-020",
+      "text": "She is Chinese too.",
+      "start": 80.112,
+      "end": 81.422,
+      "score": 0.872,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-005-021",
+      "text": "Nice to meet you.",
+      "start": 83.172,
+      "end": 84.683,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

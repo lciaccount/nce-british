@@ -1,0 +1,213 @@
+{
+  "audioSha256": "7032d1c6b56cd8e5e22ead7c1d5d22d67c7872faaddb52686502bdb9fe332d68",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-101-001",
+      "text": "Does grandmother seem pleased to get a card from Jimmy?",
+      "start": 14.292,
+      "end": 18.043,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-101-002",
+      "text": "Why/Why not?",
+      "start": 19.492,
+      "end": 21.062,
+      "score": 0.998,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-101-003",
+      "text": "Read Jimmy's card to me please, Penny.",
+      "start": 23.812,
+      "end": 26.748,
+      "score": 0.942,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-101-004",
+      "text": "'I have just arrived in Scotland and I'm staying at a Youth Hostel.'",
+      "start": 26.748,
+      "end": 33.863,
+      "score": 0.945,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-101-005",
+      "text": "Eh?",
+      "start": 34.992,
+      "end": 35.263,
+      "score": 0.155,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b1-101-006",
+      "text": "He says he's just arrived in Scotland.",
+      "start": 36.653,
+      "end": 40.083,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-101-007",
+      "text": "He says he's staying at a Youth Hostel.",
+      "start": 40.873,
+      "end": 44.003,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-101-008",
+      "text": "You know he's a member of the Y.H.A.",
+      "start": 44.852,
+      "end": 48.923,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-101-009",
+      "text": "The what?",
+      "start": 50.413,
+      "end": 51.043,
+      "score": 0.905,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-101-010",
+      "text": "The Y.H.A., Mum.",
+      "start": 52.513,
+      "end": 54.643,
+      "score": 0.896,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-101-011",
+      "text": "The Youth Hostels Association.",
+      "start": 55.373,
+      "end": 57.883,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-101-012",
+      "text": "What else does he say?",
+      "start": 59.312,
+      "end": 60.963,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-101-013",
+      "text": "'I'll write a letter soon.",
+      "start": 60.992,
+      "end": 64.683,
+      "score": 0.934,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-101-014",
+      "text": "I hope you are all well.'",
+      "start": 65.653,
+      "end": 67.363,
+      "score": 0.918,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-101-015",
+      "text": "What?",
+      "start": 68.713,
+      "end": 69.143,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-101-016",
+      "text": "Speak up, Penny.",
+      "start": 70.032,
+      "end": 71.163,
+      "score": 0.917,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-101-017",
+      "text": "I'm afraid I can't hear you.",
+      "start": 72.353,
+      "end": 74.703,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-101-018",
+      "text": "He says he'll write a letter soon.",
+      "start": 75.992,
+      "end": 79.023,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-101-019",
+      "text": "He hopes we are all well.",
+      "start": 79.772,
+      "end": 81.988,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-101-020",
+      "text": "'Love, Jimmy.'",
+      "start": 81.988,
+      "end": 83.743,
+      "score": 0.828,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-101-021",
+      "text": "Is that all?",
+      "start": 85.692,
+      "end": 86.483,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-101-022",
+      "text": "He doesn't say very much, does he?",
+      "start": 87.373,
+      "end": 89.263,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-101-023",
+      "text": "He can't write very much on a card, Mum.",
+      "start": 91.233,
+      "end": 94.643,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

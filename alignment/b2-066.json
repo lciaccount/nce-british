@@ -1,0 +1,96 @@
+{
+  "audioSha256": "cd4e8364b0929b01154df5bf3e27ab98eddafb6ad857e958d791cd7a8ea7434e",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-066-001",
+      "text": "What was 'sweet as honey' and why?",
+      "start": 13.972,
+      "end": 17.767,
+      "score": 0.857,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-066-002",
+      "text": "In 1963 a Lancaster bomber crashed on Wallis Island, a remote place in the South Pacific, a long way west of Samoa.",
+      "start": 17.767,
+      "end": 32.683,
+      "score": 0.765,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b2-066-003",
+      "text": "The plane wasn't too badly damaged, but over the years the crash was forgotten and the wreck remained undisturbed.",
+      "start": 34.133,
+      "end": 42.323,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-066-004",
+      "text": "Then in 1989, twenty-six years after the crash, the plane was accidentally rediscovered in an aerial survey of the island.",
+      "start": 44.133,
+      "end": 55.863,
+      "score": 0.831,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-066-005",
+      "text": "By this time, a Lancaster bomber in reasonable condition was rare and worth rescuing.",
+      "start": 57.413,
+      "end": 64.163,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-066-006",
+      "text": "The French authorities had the plane packaged and moved in parts back to France.",
+      "start": 65.832,
+      "end": 72.063,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-066-007",
+      "text": "Now a group of enthusiasts are going to have the plane restored.",
+      "start": 73.513,
+      "end": 77.703,
+      "score": 0.935,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-066-008",
+      "text": "It has four Rolls-Royce Merlin engines but the group will need to have only three of them rebuilt.",
+      "start": 79.013,
+      "end": 85.983,
+      "score": 0.931,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-066-009",
+      "text": "Imagine their surprise and delight when they broke open the packing cases and found that the fourth engine was sweet as honey--still in perfect condition.",
+      "start": 87.593,
+      "end": 101.263,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-066-010",
+      "text": "A colony of bees had turned the engine into a hive and it was totally preserved in beeswax!",
+      "start": 102.812,
+      "end": 111.803,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "audioSha256": "bc1275f1f472d01c6fba218e357ca16c5cca794e6cd2805dffe9430a87ba5aa8",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-017-001",
+      "text": "What are Michael Baker and Jeremy Short's jobs?",
+      "start": 12.952,
+      "end": 17.102,
+      "score": 0.925,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-017-002",
+      "text": "Come and meet our employees Mr.Richards.",
+      "start": 19.992,
+      "end": 23.122,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-017-003",
+      "text": "Thank you Mr. Jackson.",
+      "start": 24.773,
+      "end": 26.302,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-017-004",
+      "text": "This is Nicola Grey and this is Claire Taylor.",
+      "start": 28.053,
+      "end": 34.003,
+      "score": 0.882,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-017-005",
+      "text": "How do you do?",
+      "start": 35.312,
+      "end": 36.023,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-017-006",
+      "text": "Those women are very hard-working.",
+      "start": 37.812,
+      "end": 40.543,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-017-007",
+      "text": "What are their jobs?",
+      "start": 41.513,
+      "end": 42.923,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-017-008",
+      "text": "They're keyboard operators.",
+      "start": 44.812,
+      "end": 46.883,
+      "score": 0.91,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-017-009",
+      "text": "This is Michael Baker and this is Jeremy Short.",
+      "start": 48.933,
+      "end": 54.183,
+      "score": 0.936,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-017-010",
+      "text": "How do you do?",
+      "start": 55.972,
+      "end": 56.723,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-017-011",
+      "text": "They aren't very busy!",
+      "start": 58.953,
+      "end": 60.543,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-017-012",
+      "text": "What are their jobs?",
+      "start": 61.793,
+      "end": 63.283,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-017-013",
+      "text": "They're sales reps.",
+      "start": 65.112,
+      "end": 66.763,
+      "score": 0.793,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b1-017-014",
+      "text": "They're very lazy.",
+      "start": 67.713,
+      "end": 69.363,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-017-015",
+      "text": "Who is this young man?",
+      "start": 71.812,
+      "end": 73.443,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-017-016",
+      "text": "This is Jim.",
+      "start": 75.252,
+      "end": 76.422,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-017-017",
+      "text": "He's our office assistant.",
+      "start": 77.492,
+      "end": 79.863,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

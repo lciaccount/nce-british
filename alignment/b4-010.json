@@ -1,0 +1,141 @@
+{
+  "audioSha256": "9f84b4e117ac6ec3bd3685a5349fce9c6c246fcd8f9dcd9aeeb07731584e229b",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-010-001",
+      "text": "What does the computer industry thrive on apart from anarchy?",
+      "start": 11.572,
+      "end": 15.602,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-010-002",
+      "text": "Technology trends may push Silicon Valley back to the future.",
+      "start": 18.413,
+      "end": 22.802,
+      "score": 0.949,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-010-003",
+      "text": "Carver Mead, a pioneer in integrated circuits and a professor of computer science at the California Institute of Technology, notes there are now workstations that enable engineers to design, test and produce chips right on their desks, much the way and editor creates a newsletter on a Macintosh.",
+      "start": 24.293,
+      "end": 47.663,
+      "score": 0.953,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-010-004",
+      "text": "As the time and cost of making a chip drop to a few days and a few hundred dollars, engineers may soon be free to let their imaginations soar without being penalized by expensive failures.",
+      "start": 49.233,
+      "end": 62.603,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-010-005",
+      "text": "Mead predicts that inventors will be able to perfect powerful customized chips over a weekend at the office -- spawning a new generation of garage start-ups and giving the U. S.  a jump on its foreign rivals in getting new products to market fast.",
+      "start": 63.993,
+      "end": 81.517,
+      "score": 0.952,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-010-006",
+      "text": "'We've got more garages with smart people,' Mead observes.",
+      "start": 81.517,
+      "end": 86.488,
+      "score": 0.922,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-010-007",
+      "text": "'We really thrive on anarchy. '",
+      "start": 86.488,
+      "end": 89.023,
+      "score": 0.909,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-010-008",
+      "text": "And on Asians.",
+      "start": 91.373,
+      "end": 92.203,
+      "score": 0.837,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-010-009",
+      "text": "Already, orientals and Asian Americans constitute the majority of the engineering staffs at many Valley firms.",
+      "start": 92.832,
+      "end": 100.562,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-010-010",
+      "text": "And Chinese, Korean, Filipino and Indian engineers are graduating in droves from California's colleges.",
+      "start": 101.692,
+      "end": 110.422,
+      "score": 0.944,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-010-011",
+      "text": "As the heads of next-generation start-ups, these Asian innovators can draw on customs and languages to forge tighter links with crucial Pacific Rim markets.",
+      "start": 111.873,
+      "end": 122.943,
+      "score": 0.95,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-010-012",
+      "text": "For instance, Alex Au, a Stanford Ph.",
+      "start": 124.013,
+      "end": 127.448,
+      "score": 0.892,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-010-013",
+      "text": "D. from Hong Kong, has set up a Taiwan factory to challenge Japan's near lock on the memory-chip market.",
+      "start": 127.448,
+      "end": 134.843,
+      "score": 0.92,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-010-014",
+      "text": "India-born N. Damodar Reddy's tiny California company reopened an AT&T chip plant in Kansas City last spring with financing from the state of Missouri.",
+      "start": 136.352,
+      "end": 148.482,
+      "score": 0.94,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-010-015",
+      "text": "Before it becomes a retirement village, Silicon Valley may prove a classroom for building a global business.",
+      "start": 149.452,
+      "end": 156.662,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

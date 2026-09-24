@@ -1,0 +1,87 @@
+{
+  "audioSha256": "caa20d1dcead8f3026d95a25378f3664ce2447621d573b86a0e5f4aab4053178",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-011-001",
+      "text": "Who paid for Tony's dinner?",
+      "start": 14.092,
+      "end": 16.543,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-011-002",
+      "text": "I was having dinner at a restaurant when Tony Steele came in.",
+      "start": 19.473,
+      "end": 23.843,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-011-003",
+      "text": "Tony worked in a lawyer's office years ago, but he is now working at a bank.",
+      "start": 25.433,
+      "end": 31.422,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-011-004",
+      "text": "He gets a good salary, but he always borrows money from his friends and never pays it back.",
+      "start": 32.992,
+      "end": 40.363,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-011-005",
+      "text": "Tony saw me and came and sat at the same table.",
+      "start": 42.392,
+      "end": 45.943,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-011-006",
+      "text": "He has never borrowed money from me.",
+      "start": 47.513,
+      "end": 49.383,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-011-007",
+      "text": "While he was eating, I asked him to lend me twenty pounds.",
+      "start": 51.013,
+      "end": 55.823,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-011-008",
+      "text": "To my surprise, he gave me the money immediately.",
+      "start": 57.933,
+      "end": 61.863,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-011-009",
+      "text": "'I have never borrowed any money from you,' Tony said, 'so now you can pay for my dinner!'",
+      "start": 64.532,
+      "end": 73.863,
+      "score": 0.93,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

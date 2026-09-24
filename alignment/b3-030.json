@@ -1,0 +1,240 @@
+{
+  "audioSha256": "d4b4805f7c6fe0bd072b34fe44debc125d47ce9201c82e998b4060e558914a0f",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-030-001",
+      "text": "Why did the two brothers keep the secret?",
+      "start": 11.992,
+      "end": 14.402,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-030-002",
+      "text": "For years, villagers believed that Endley farm was haunted.",
+      "start": 17.093,
+      "end": 21.343,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-030-003",
+      "text": "The farm was owned by two brothers, Joe and Bob Cox.",
+      "start": 22.133,
+      "end": 26.182,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-030-004",
+      "text": "They employed a few farmhands, but no one was willing to work there long.",
+      "start": 26.953,
+      "end": 31.182,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-030-005",
+      "text": "Every time a worker gave up his job, he told the same story.",
+      "start": 31.973,
+      "end": 36.003,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-030-006",
+      "text": "Farm labourers said that they always woke up to find that work had been done overnight.",
+      "start": 36.793,
+      "end": 42.403,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-030-007",
+      "text": "Hay had been cut and cowsheds had been cleaned.",
+      "start": 43.212,
+      "end": 46.583,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-030-008",
+      "text": "A farm worker, who stayed up all night, claimed to have seen a figure cutting corn in the moonlight.",
+      "start": 47.273,
+      "end": 53.543,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-030-009",
+      "text": "In time, it became an accepted fact that the Cox brothers employed a conscientious ghost that did most of their work for them.",
+      "start": 54.273,
+      "end": 62.923,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-030-010",
+      "text": "No one suspected that there might be someone else on the farm who had never been seen.",
+      "start": 64.112,
+      "end": 69.123,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-030-011",
+      "text": "This was indeed the case.",
+      "start": 69.993,
+      "end": 71.183,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-030-012",
+      "text": "A short time ago, villagers were astonished to learn that the ghost of Endley had died.",
+      "start": 71.873,
+      "end": 77.983,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-030-013",
+      "text": "Everyone went to the funeral, for the 'ghost' was none other than Eric Cox, a third brother who was supposed to have died as a young man.",
+      "start": 79.073,
+      "end": 88.103,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-030-014",
+      "text": "After the funeral, Joe and Bob revealed a secret which they had kept for over fifty years.",
+      "start": 88.953,
+      "end": 95.163,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-030-015",
+      "text": "Eric had been the eldest son of the family, very much older than his two brothers.",
+      "start": 96.353,
+      "end": 101.283,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-030-016",
+      "text": "He had been obliged to join the army during the Second World War.",
+      "start": 102.013,
+      "end": 105.422,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-030-017",
+      "text": "As he hated army life, he decided to desert his regiment.",
+      "start": 106.013,
+      "end": 109.763,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-030-018",
+      "text": "When he learnt that he would be sent abroad, he returned to the farm and his father hid him until the end of the war.",
+      "start": 110.373,
+      "end": 117.683,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-030-019",
+      "text": "Fearing the authorities, Eric remained in hiding after the war as well.",
+      "start": 118.392,
+      "end": 122.483,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-030-020",
+      "text": "His father told everybody that Eric had been killed in action.",
+      "start": 123.133,
+      "end": 126.703,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-030-021",
+      "text": "The only other people who knew the secret were Joe and Bob.",
+      "start": 127.493,
+      "end": 131.382,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-030-022",
+      "text": "They did not even tell their wives.",
+      "start": 132.052,
+      "end": 134.042,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-030-023",
+      "text": "When their father died they thought it their duty to keep Eric in hiding.",
+      "start": 134.692,
+      "end": 138.582,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-030-024",
+      "text": "All these years, Eric had lived as a recluse.",
+      "start": 139.212,
+      "end": 142.403,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-030-025",
+      "text": "He used to sleep during the day and work at night, quite unaware of the fact that he had become the ghost of Endley.",
+      "start": 143.212,
+      "end": 150.762,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-030-026",
+      "text": "When he died, however, his brothers found it impossible to keep the secret any longer.",
+      "start": 151.472,
+      "end": 156.282,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

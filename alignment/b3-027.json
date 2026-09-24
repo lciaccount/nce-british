@@ -1,0 +1,177 @@
+{
+  "audioSha256": "c33f75dc8a2d57974200c0e801db569e195d884e905ffd12f8c55a360470f9df",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-027-001",
+      "text": "What is the most important thing for a tramp?",
+      "start": 13.592,
+      "end": 15.883,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-027-002",
+      "text": "It has been said that everyone lives by selling something.",
+      "start": 18.573,
+      "end": 22.023,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-027-003",
+      "text": "In the light of this statement, teachers live by selling knowledge, philosophers by selling wisdom and priests by selling spiritual comfort.",
+      "start": 23.233,
+      "end": 33.763,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-027-004",
+      "text": "Though it may be possible to measure the value of material goods in terms of money, it is extremely difficult to estimate the true value of the services which people perform for us.",
+      "start": 35.233,
+      "end": 46.743,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-027-005",
+      "text": "There are times when we would willingly give everything we possess to save our lives, yet we might grudge paying a surgeon a high fee for offering us precisely this service.",
+      "start": 47.972,
+      "end": 59.563,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-027-006",
+      "text": "The conditions of society are such that skills have to be paid for in the same way that goods are paid for at a shop.",
+      "start": 60.593,
+      "end": 68.063,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-027-007",
+      "text": "Everyone has something to sell.",
+      "start": 69.213,
+      "end": 71.243,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-027-008",
+      "text": "Tramps seem to be the only exception to this general rule.",
+      "start": 72.812,
+      "end": 76.823,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-027-009",
+      "text": "Beggars almost sell themselves as human beings to arouse the pity of passers-by.",
+      "start": 78.093,
+      "end": 83.223,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-027-010",
+      "text": "But real tramps are not beggars.",
+      "start": 84.332,
+      "end": 86.503,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-027-011",
+      "text": "They have nothing to sell and require nothing from others.",
+      "start": 87.373,
+      "end": 90.523,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-027-012",
+      "text": "In seeking independence, they do not sacrifice their human dignity.",
+      "start": 91.713,
+      "end": 96.283,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-027-013",
+      "text": "A tramp may ask you for money, but he will never ask you to feel sorry for him.",
+      "start": 97.532,
+      "end": 102.523,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-027-014",
+      "text": "He has deliberately chosen to lead the life he leads and is fully aware of the consequences.",
+      "start": 103.832,
+      "end": 110.023,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-027-015",
+      "text": "He may never be sure where the next meal is coming from, but he is free from the thousands of anxieties which afflict other people.",
+      "start": 111.552,
+      "end": 119.823,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-027-016",
+      "text": "His few material possessions make it possible for him to move from place to place with ease.",
+      "start": 121.032,
+      "end": 126.283,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-027-017",
+      "text": "By having to sleep in the open, he gets far closer to the world of nature than most of us ever do.",
+      "start": 127.812,
+      "end": 133.702,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-027-018",
+      "text": "He may hunt, beg, or steal occasionally to keep himself alive; he may even, in times of real need, do a little work; but he will never sacrifice his freedom.",
+      "start": 134.972,
+      "end": 146.683,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-027-019",
+      "text": "We often speak of tramps with contempt and put them in the same class as beggars, but how many of us can honestly say that we have not felt a little envious of their simple way of life and their freedom from care?",
+      "start": 148.012,
+      "end": 162.282,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

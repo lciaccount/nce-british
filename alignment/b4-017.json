@@ -1,0 +1,159 @@
+{
+  "audioSha256": "3351e1d20487931e5478db9731f460ae85a550186e287e321d7d47d8873aed7c",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-017-001",
+      "text": "What factor helped to spread the disease of myxomatosis?",
+      "start": 12.972,
+      "end": 17.082,
+      "score": 0.908,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-017-002",
+      "text": "In the early days of the settlement of Australia, enterprising settlers unwisely introduced the European rabbit.",
+      "start": 19.893,
+      "end": 27.282,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-017-003",
+      "text": "This rabbit had no natural enemies in the Antipodes, so that it multiplied with that promiscuous abandon characteristic of rabbits.",
+      "start": 28.373,
+      "end": 38.203,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-017-004",
+      "text": "It overran a whole continent.",
+      "start": 39.433,
+      "end": 41.123,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-017-005",
+      "text": "It caused devastation by burrowing and by devouring the herbage which might have maintained millions of sheep and cattle.",
+      "start": 41.873,
+      "end": 49.723,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-017-006",
+      "text": "Scientists discovered that this particular variety of rabbit (and apparently no other animal) was susceptible to a fatal virus disease, myxomatosis.",
+      "start": 50.953,
+      "end": 62.083,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-017-007",
+      "text": "By infecting animals and letting them loose in the burrows, local epidemics of this disease could be created.",
+      "start": 63.273,
+      "end": 69.963,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-017-008",
+      "text": "Later it was found that there was a type of mosquito which acted as the carrier of this disease and passed it on to the rabbits.",
+      "start": 71.252,
+      "end": 79.363,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-017-009",
+      "text": "So while the rest of the world was trying to get rid of mosquitoes, Australia was encouraging this one.",
+      "start": 80.332,
+      "end": 86.683,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-017-010",
+      "text": "It effectively spread the disease all over the continent and drastically reduced the rabit population.",
+      "start": 87.873,
+      "end": 93.863,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-017-011",
+      "text": "It later became apparent that rabbits were developing a degree of resistance to this disease, so that the rabbit population was unlikely to be completely exterminated.",
+      "start": 95.112,
+      "end": 105.843,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-017-012",
+      "text": "There were hopes, however, that the problem of the rabbit would become manageable.",
+      "start": 106.953,
+      "end": 111.623,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-017-013",
+      "text": "Ironically, Europe, which had bequeathed the rabbit as a pest to Australia, acquired this man-made disease as a pestilence.",
+      "start": 113.233,
+      "end": 121.723,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-017-014",
+      "text": "A French physician decided to get rid of the wild rabbits on his own estate and introduced myxomatosis.",
+      "start": 122.772,
+      "end": 129.382,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-017-015",
+      "text": "It did not, however, remain within the confines of this estate.",
+      "start": 130.292,
+      "end": 133.903,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-017-016",
+      "text": "It spread through France, where wild rabbits are not generally regarded as a pest but as a sport and a useful food supply, and it spread to Britain where wild rabbits are regarded as a pest but where domesticated rabbits, equally susceptible to the disease, are the basis of a profitable fur industry.",
+      "start": 134.792,
+      "end": 155.822,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-017-017",
+      "text": "The question became one of whether Man could control the disease he had invented.",
+      "start": 156.952,
+      "end": 161.982,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

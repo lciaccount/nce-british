@@ -1,0 +1,132 @@
+{
+  "audioSha256": "f6a22915bfec2c364fc1317b5294b1d3ee1fe36dc786b3948544c6edd33ed4df",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-005-001",
+      "text": "What was the consequence of the editor's insistence on facts and statistics?",
+      "start": 11.052,
+      "end": 15.902,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-005-002",
+      "text": "Editors of newspapers and magazines often go to extremes to provide their readers with unimportant facts and statistics.",
+      "start": 18.672,
+      "end": 26.682,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-005-003",
+      "text": "Last year a journalist had been instructed by a well-known magazine to write an article on the president's palace in a new African republic.",
+      "start": 27.973,
+      "end": 37.723,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-005-004",
+      "text": "When the article arrived, the editor read the first sentence and then refused to publish it.",
+      "start": 38.752,
+      "end": 44.683,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-005-005",
+      "text": "The article began:'Hundreds of steps lead to the high wall which surrounds the president's palace.'",
+      "start": 45.913,
+      "end": 52.963,
+      "score": 0.949,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-005-006",
+      "text": "The editor at once sent the journalist a fax instructing him to find out the exact number of steps and the height of the wall.",
+      "start": 53.972,
+      "end": 62.783,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-005-007",
+      "text": "The journalist immediately set out to obtain these important facts, but he took a long time to send them.",
+      "start": 64.472,
+      "end": 71.223,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-005-008",
+      "text": "Meanwhile, the editor was getting impatient, for the magazine would soon go to press.",
+      "start": 71.953,
+      "end": 77.663,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-005-009",
+      "text": "He sent the journalist two more faxes, but received no reply.",
+      "start": 78.812,
+      "end": 83.483,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-005-010",
+      "text": "He sent yet another fax informing the journalist that if he did not reply soon he would be fired.",
+      "start": 84.573,
+      "end": 91.363,
+      "score": 0.953,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-005-011",
+      "text": "When the journalist again failed to reply,  the editor reluctantly published the article as it had originally been written.",
+      "start": 92.532,
+      "end": 101.243,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-005-012",
+      "text": "A week later, the editor at last received a fax from the journalist.",
+      "start": 102.433,
+      "end": 106.763,
+      "score": 0.928,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-005-013",
+      "text": "Not only had the poor man been arrested, but he had been sent to prison as well.",
+      "start": 107.972,
+      "end": 112.903,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-005-014",
+      "text": "However, he had at last been allowed to send a fax in which he informed the editor that he had been arrested while counting the 1, 084 steps leading to the 15th foot wall which surrounded the president's palace.",
+      "start": 113.733,
+      "end": 129.683,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

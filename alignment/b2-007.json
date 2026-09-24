@@ -1,0 +1,78 @@
+{
+  "audioSha256": "2839bd30e7e0b6e8ba007ca7587f54bb57e1a1db07027479a885af68b586eeb7",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-007-001",
+      "text": "Did the detectives save the diamonds?",
+      "start": 13.292,
+      "end": 16.922,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-007-002",
+      "text": "The plane was late and detectives were waiting at the airport all morning.",
+      "start": 20.192,
+      "end": 25.543,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-007-003",
+      "text": "They were expecting a valuable parcel of diamonds from South Africa.",
+      "start": 26.933,
+      "end": 31.523,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-007-004",
+      "text": "A few hours earlier, someone had told the police that thieves would try to steal the diamonds.",
+      "start": 33.273,
+      "end": 40.523,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-007-005",
+      "text": "When the plane arrived, some of the detectives were waiting inside the main building while others were waiting on the airfield.",
+      "start": 42.293,
+      "end": 51.703,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-007-006",
+      "text": "Two men took the parcel off the plane and carried it into the Customs House.",
+      "start": 53.593,
+      "end": 59.123,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-007-007",
+      "text": "While two detectives were keeping guard at the door, two others opened the parcel.",
+      "start": 60.773,
+      "end": 66.963,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-007-008",
+      "text": "To their surprise, the precious parcel was full of stones and sand!",
+      "start": 68.692,
+      "end": 74.943,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

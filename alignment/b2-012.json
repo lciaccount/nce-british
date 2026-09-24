@@ -1,0 +1,105 @@
+{
+  "audioSha256": "921055ba80bbd38802a0c21977d36ea00864ce91afd0f09174df26292d7b5a7d",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-012-001",
+      "text": "Where is Captain Alison going and how?",
+      "start": 13.132,
+      "end": 17.062,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-012-002",
+      "text": "Our neighbour, Captain Charles Alison, will sail from Portsmouth tomorrow.",
+      "start": 20.073,
+      "end": 25.822,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-012-003",
+      "text": "We'll meet him at the harbour early in the morning.",
+      "start": 27.653,
+      "end": 30.762,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-012-004",
+      "text": "He will be in his small boat, Topsail.",
+      "start": 32.053,
+      "end": 35.343,
+      "score": 0.915,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-012-005",
+      "text": "Topsail is a famous little boat.",
+      "start": 36.773,
+      "end": 39.163,
+      "score": 0.908,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-012-006",
+      "text": "It has sailed across the Atlantic many times.",
+      "start": 40.352,
+      "end": 43.723,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-012-007",
+      "text": "Captain Alison will set out at eight o'clock, so we'll have plenty of time.",
+      "start": 45.752,
+      "end": 52.043,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-012-008",
+      "text": "We'll see his boat and then we'll say goodbye to him.",
+      "start": 53.413,
+      "end": 56.643,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-012-009",
+      "text": "He will be away for two months.",
+      "start": 58.032,
+      "end": 59.903,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-012-010",
+      "text": "We are very proud of him.",
+      "start": 61.093,
+      "end": 62.703,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-012-011",
+      "text": "He will take part in an important race across the Atlantic.",
+      "start": 63.812,
+      "end": 67.843,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

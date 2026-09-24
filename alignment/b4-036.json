@@ -1,0 +1,168 @@
+{
+  "audioSha256": "5f975a80b828fc138c0c151ff053ae9e59bc9f9f39df71ba905eeee5de1387a7",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-036-001",
+      "text": "What's the most important factor, both in government or business, for keeping running costs low?",
+      "start": 11.472,
+      "end": 18.383,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-036-002",
+      "text": "If a nation is essentialy disunited, it is left to the government to hold it together.",
+      "start": 21.193,
+      "end": 26.462,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-036-003",
+      "text": "This increases the expense of government, and reduces correspondingly the amount of economic resources that could be used for developing the country.",
+      "start": 27.633,
+      "end": 37.023,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-036-004",
+      "text": "And it should not be forgotten how small those resources are in a poor and backward country.",
+      "start": 38.233,
+      "end": 43.783,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-036-005",
+      "text": "Where the cost of government is high, resources for development are correspondingly low.",
+      "start": 44.933,
+      "end": 50.223,
+      "score": 0.908,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-036-006",
+      "text": "This may be illustrated by comparing the position of a nation with that of a private business enterprise.",
+      "start": 51.873,
+      "end": 57.963,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-036-007",
+      "text": "An enterprise has to incur certain costs and expenses in order to stay in business.",
+      "start": 59.392,
+      "end": 64.903,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-036-008",
+      "text": "For our purposes, we are concerned only with one kind of cost--the cost of managing and administering the business.",
+      "start": 66.013,
+      "end": 74.503,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-036-009",
+      "text": "Such administrative overheads in a business are analogous to the cost of government in a nation.",
+      "start": 75.873,
+      "end": 82.062,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-036-010",
+      "text": "The administrative overheads of a business are low to the extent that everyone working in the business can be trusted to behave in a way that best promotes the interests of the firm.",
+      "start": 83.172,
+      "end": 94.323,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-036-011",
+      "text": "If they can each be trusted to take such responsibilities, and to exercise such initiative as falls within their sphere, then administrative overheads will be low.",
+      "start": 95.772,
+      "end": 106.863,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-036-012",
+      "text": "It will be low because it will be necessary to have only one man looking after each job without having another man to check upon what he is doing, keep him in line, and report on him to someone else.",
+      "start": 108.312,
+      "end": 121.562,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-036-013",
+      "text": "But if no one can be trusted to act in a loyal and responsible manner towards his job, then the business will require armies of administrators, checkers and foremen and administrative overheads will rise correspondingly.",
+      "start": 122.493,
+      "end": 138.542,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-036-014",
+      "text": "As administrative overheads rise, so the earnings of the business after meeting the expense of administration, will fall; and the business will have less money to distribute as dividends or invest directly in its future progress and development.",
+      "start": 140.212,
+      "end": 156.102,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-036-015",
+      "text": "It is precisely the same with a nation.",
+      "start": 157.612,
+      "end": 159.702,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-036-016",
+      "text": "To the extent that the people can be relied on to behave in a loyal and responsible manner, the government does not require armies of police and civil servants to keep them in order.",
+      "start": 160.452,
+      "end": 171.683,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-036-017",
+      "text": "But if a nation is disunited, the government cannot be sure that the actions of the people will be in the interests of the nation; and it will have to watch, check, and control the people accordingly.",
+      "start": 172.492,
+      "end": 185.602,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-036-018",
+      "text": "A disunited nation therefore has to incur unduly high costs of government.",
+      "start": 186.512,
+      "end": 191.642,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

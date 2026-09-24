@@ -1,0 +1,240 @@
+{
+  "audioSha256": "3ecd7a33e29912aa06bbee4b71df5e87901474a52d012b4e03500c634679a241",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-044-001",
+      "text": "What influences us from the moment of birth?",
+      "start": 11.452,
+      "end": 14.342,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-044-002",
+      "text": "Custom has not commonly been regarded as a subject of any great moment.",
+      "start": 17.213,
+      "end": 21.802,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-044-003",
+      "text": "The inner workings of our own brains we feel to be uniquely worthy of investigation, but custom, we have a way of thinking, is behaviour at is most commonplace.",
+      "start": 22.893,
+      "end": 34.963,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-044-004",
+      "text": "As a matter of fact, it is the other way around.",
+      "start": 36.112,
+      "end": 39.483,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-044-005",
+      "text": "Traditional custom, taken the world over, is a mass of detailed behaviour more astonishing than what any one person can ever evolve in individual actions, no matter how aberrant.",
+      "start": 40.392,
+      "end": 53.443,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-044-006",
+      "text": "Yet that is a rather trivial aspect of the matter.",
+      "start": 54.413,
+      "end": 57.443,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-044-007",
+      "text": "The fact of first-rate importance is the predominant role that custom plays in experience and in belief, and the very great varieties it may manifest.",
+      "start": 58.492,
+      "end": 68.563,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-044-008",
+      "text": "No man ever looks at the world with pristine eyes.",
+      "start": 70.312,
+      "end": 73.943,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-044-009",
+      "text": "He sees it edited by a definite set of customs and institutions and ways of thinking.",
+      "start": 74.873,
+      "end": 80.503,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-044-010",
+      "text": "Even in his philosophical probings he cannot go behind these stereotypes; his very concepts of the true and the false will still have reference to his particular traditional customs.",
+      "start": 81.573,
+      "end": 93.443,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-044-011",
+      "text": "John Dewey has said in all seriousness that the part played by custom in shaping the behaviour of the individual, as against any way in which he can affect traditional custom, is as the proportion of the total vocabulary of his mother tongue against those words of his own baby talk that are taken up into the vernacular of his family.",
+      "start": 94.832,
+      "end": 117.043,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-044-012",
+      "text": "When one seriously studies the social orders that have had the opportunity to develop autonomously, the figure becomes no more than an exact and matter-of-fact observation.",
+      "start": 118.252,
+      "end": 129.022,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-044-013",
+      "text": "The life history of the individual is first and foremost an accommodation to the patterns and standards traditionally handed down in his community.",
+      "start": 130.092,
+      "end": 139.382,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-044-014",
+      "text": "From the moment of his birth, the customs into which he is born shape his experience and behaviour.",
+      "start": 140.432,
+      "end": 146.522,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-044-015",
+      "text": "By the time he can talk, he is the little creature of his culture, and by the time he is grown and able to take part in its activities, its habits are his habits, its beliefs his beliefs, its impossibilities his impossibilities.",
+      "start": 147.472,
+      "end": 164.562,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-044-016",
+      "text": "Every child that is born into his group will share them with him, and no child born into one on the opposite side of the globe can ever achieve the thousandth part.",
+      "start": 166.032,
+      "end": 176.502,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-044-017",
+      "text": "There is no social problem it is more incumbent upon us to understand than this of the role of custom.",
+      "start": 177.512,
+      "end": 184.322,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-044-018",
+      "text": "Until we are intelligent as to its laws and varieties, the main complicating facts of human life must remain unintelligible.",
+      "start": 185.712,
+      "end": 194.262,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-044-019",
+      "text": "The study of custom can be profitable only after certain preliminary propositions have been accepted, and some of these propositions have been violently opposed.",
+      "start": 195.792,
+      "end": 206.582,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-044-020",
+      "text": "In the first place, any scientific study requires that there be no preferential weighting of one or another of the items in the series it selects for its consideration.",
+      "start": 207.692,
+      "end": 217.882,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-044-021",
+      "text": "In all the less controversial fields, like the study of cacti or termites or the nature of nebulae, the necessary method of study is to group the relevant material and to take note of all possible variant forms and conditions.",
+      "start": 219.232,
+      "end": 235.963,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-044-022",
+      "text": "In this way, we have learned all that we know of the laws of astronomy, or of the habits of the social insects, let us say.",
+      "start": 236.812,
+      "end": 245.322,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-044-023",
+      "text": "It is only in the study of man himself that the major social sciences have substituted the study of one local variation, that of Western civilization.",
+      "start": 246.852,
+      "end": 256.822,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-044-024",
+      "text": "Anthropology was by definition impossible, as long as these distinctions between ourselves and the primitive, ourselves and the barbarian, ourselves and the pagan, held sway over people's minds.",
+      "start": 258.732,
+      "end": 272.782,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-044-025",
+      "text": "It was necessary first to arrive at that degree of sophistication where we no longer set our own belief against our neighbour's superstition.",
+      "start": 273.692,
+      "end": 282.182,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-044-026",
+      "text": "It was necessary to recognize that these institutions which are based on the same premises, let us say the supernatural, must be considered together, our own among the rest.",
+      "start": 283.092,
+      "end": 295.662,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

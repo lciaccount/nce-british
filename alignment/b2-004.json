@@ -1,0 +1,96 @@
+{
+  "audioSha256": "6a60ee81b8bf8fc5efc96de87e2ecef340d3db63548ba4d0fd930af9b6f8eb24",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-004-001",
+      "text": "Why is Tim finding this trip exciting?",
+      "start": 14.132,
+      "end": 18.543,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-004-002",
+      "text": "I have just received a letter from my brother, Tim.",
+      "start": 21.453,
+      "end": 24.883,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-004-003",
+      "text": "He is in Australia.",
+      "start": 26.152,
+      "end": 27.502,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-004-004",
+      "text": "He has been there for six months.",
+      "start": 28.653,
+      "end": 30.803,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-004-005",
+      "text": "Tim is an engineer.",
+      "start": 32.212,
+      "end": 33.623,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-004-006",
+      "text": "He is working for a big firm and he has already visited a great number of different places in Australia.",
+      "start": 35.073,
+      "end": 43.143,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-004-007",
+      "text": "He has just bought an Australian car and has gone to Alice Springs, a small town in the centre of Australia.",
+      "start": 44.773,
+      "end": 53.943,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-004-008",
+      "text": "He will soon visit Darwin.",
+      "start": 54.873,
+      "end": 56.743,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-004-009",
+      "text": "From there, he will fly to Perth.",
+      "start": 57.972,
+      "end": 60.443,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-004-010",
+      "text": "My brother has never been abroad before, so he is finding this trip very exciting.",
+      "start": 61.913,
+      "end": 68.683,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

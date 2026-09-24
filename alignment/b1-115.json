@@ -1,0 +1,249 @@
+{
+  "audioSha256": "2772cba8d2a7c4d48983fff0130b5089aabb470033ebcc7879f2a0b809d922c5",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-115-001",
+      "text": "What does Jim have to drink?",
+      "start": 13.032,
+      "end": 14.842,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-115-002",
+      "text": "Isn't there anyone at home?",
+      "start": 17.613,
+      "end": 19.162,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-115-003",
+      "text": "I'll knock again, Helen.",
+      "start": 20.512,
+      "end": 21.622,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-115-004",
+      "text": "Everything's very quiet.",
+      "start": 22.473,
+      "end": 23.622,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-115-005",
+      "text": "I'm sure there's no one at home.",
+      "start": 24.293,
+      "end": 25.862,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-115-006",
+      "text": "But that's impossible.",
+      "start": 26.852,
+      "end": 28.362,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-115-007",
+      "text": "Carol and Tom invited us to lunch.",
+      "start": 28.833,
+      "end": 31.102,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-115-008",
+      "text": "Look through the window.",
+      "start": 32.112,
+      "end": 33.203,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-115-009",
+      "text": "Can you see anything?",
+      "start": 34.852,
+      "end": 35.923,
+      "score": 0.952,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-115-010",
+      "text": "Nothing at all.",
+      "start": 36.892,
+      "end": 38.083,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-115-011",
+      "text": "Let's try the back door.",
+      "start": 39.073,
+      "end": 40.443,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-115-012",
+      "text": "Look!",
+      "start": 41.733,
+      "end": 42.083,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-115-013",
+      "text": "Everyone's in the garden.",
+      "start": 42.833,
+      "end": 44.243,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-115-014",
+      "text": "Hello, Helen.",
+      "start": 46.013,
+      "end": 47.083,
+      "score": 0.9,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-115-015",
+      "text": "Hello, Jim.",
+      "start": 47.373,
+      "end": 48.323,
+      "score": 0.642,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b1-115-016",
+      "text": "Everybody wants to have lunch in the garden.",
+      "start": 49.532,
+      "end": 51.663,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-115-017",
+      "text": "It's nice and warm out here.",
+      "start": 52.133,
+      "end": 53.843,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-115-018",
+      "text": "Come and have something to drink.",
+      "start": 54.352,
+      "end": 56.063,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-115-019",
+      "text": "Thanks, Carol.",
+      "start": 56.913,
+      "end": 57.663,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-115-020",
+      "text": "May I have a glass of beer please?",
+      "start": 58.193,
+      "end": 59.983,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-115-021",
+      "text": "Beer?",
+      "start": 60.492,
+      "end": 60.943,
+      "score": 0.925,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-115-022",
+      "text": "There's none left.",
+      "start": 61.312,
+      "end": 62.183,
+      "score": 0.68,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b1-115-023",
+      "text": "You can have some lemonade.",
+      "start": 62.793,
+      "end": 64.263,
+      "score": 0.865,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-115-024",
+      "text": "Lemonade!",
+      "start": 64.953,
+      "end": 65.743,
+      "score": 0.908,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-115-025",
+      "text": "Don't believe her, Jim.",
+      "start": 66.812,
+      "end": 68.123,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-115-026",
+      "text": "She's only joking.",
+      "start": 68.433,
+      "end": 69.583,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-115-027",
+      "text": "Have some beer!",
+      "start": 69.993,
+      "end": 71.143,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

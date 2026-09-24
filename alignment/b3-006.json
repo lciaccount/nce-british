@@ -1,0 +1,159 @@
+{
+  "audioSha256": "2b71f912fffbaf81e61106b5f6d281c1c41e7db42fc0a97fc7469af04e8788e1",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-006-001",
+      "text": "How did Mr. Taylor try to stop the thieves?",
+      "start": 11.412,
+      "end": 14.643,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-006-002",
+      "text": "The expensive shops in a famous arcade near Piccadilly were just opening.",
+      "start": 17.433,
+      "end": 22.523,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-006-003",
+      "text": "At this time of the morning, the arcade was almost empty.",
+      "start": 23.553,
+      "end": 26.922,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-006-004",
+      "text": "Mr. Taylor, the owner of a jewellery shop was admiring a new window display.",
+      "start": 27.892,
+      "end": 33.183,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-006-005",
+      "text": "Two of his assistants had been working busily since 8 o'clock and had only just finished.",
+      "start": 34.193,
+      "end": 39.863,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-006-006",
+      "text": "Diamond necklaces and rings had been beautifully arranged on a background of black velvet.",
+      "start": 40.873,
+      "end": 46.243,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-006-007",
+      "text": "After gazing at the display for several minutes, Mr. Taylor went back into his shop.",
+      "start": 47.333,
+      "end": 53.043,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-006-008",
+      "text": "The silence was suddenly broken when a large car, with its headlights on and its horn blaring, roared down the arcade.",
+      "start": 54.532,
+      "end": 62.823,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-006-009",
+      "text": "It came to a stop outside the jeweller's.",
+      "start": 64.093,
+      "end": 66.583,
+      "score": 0.953,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-006-010",
+      "text": "One man stayed at the wheel while two others with black stockings over their faces jumped out and smashed the window of the shop with iron bars.",
+      "start": 67.672,
+      "end": 76.922,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-006-011",
+      "text": "While this was going on, Mr. Taylor was upstairs.",
+      "start": 78.213,
+      "end": 81.723,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-006-012",
+      "text": "He and his staff began throwing furniture out of the window.",
+      "start": 82.472,
+      "end": 85.983,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-006-013",
+      "text": "Chairs and tables went flying into the arcade.",
+      "start": 86.633,
+      "end": 89.503,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-006-014",
+      "text": "One of the thieves was struck by a heavy statue, but he was too busy helping himself to diamonds to notice any pain.",
+      "start": 90.532,
+      "end": 97.763,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-006-015",
+      "text": "The raid was all over in three minutes, for the men scrambled back into the car and it moved off at a fantastic speed.",
+      "start": 98.913,
+      "end": 106.983,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-006-016",
+      "text": "Just as it was leaving, Mr.Taylor rushed out and ran after it throwing ashtrays and vases, but it was impossible to stop the thieves.",
+      "start": 108.453,
+      "end": 118.243,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-006-017",
+      "text": "They had got away with thousands of pounds worth of diamonds.",
+      "start": 119.293,
+      "end": 122.863,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "audioSha256": "0c3d334c61a3d0eeb746619da8e2f4b4424e81224aad04cb2cdd3066143002ba",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-078-001",
+      "text": "For how long did the writer give up smoking?",
+      "start": 12.552,
+      "end": 15.742,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-078-002",
+      "text": "After reading an article entitled 'Cigarette Smoking and Your Health' I lit a cigarette to calm my nerves.",
+      "start": 18.413,
+      "end": 26.742,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-078-003",
+      "text": "I smoked with concentration and pleasure as I was sure that this would be my last cigarette.",
+      "start": 28.253,
+      "end": 35.563,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-078-004",
+      "text": "For a whole week I did not smoke at all and during this time my wife suffered terribly.",
+      "start": 37.032,
+      "end": 45.043,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-078-005",
+      "text": "I had all the usual symptoms of someone giving up smoking: a bad temper and an enormous appetite.",
+      "start": 46.392,
+      "end": 54.583,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-078-006",
+      "text": "My friends kept on offering me cigarettes and cigars.",
+      "start": 56.073,
+      "end": 59.963,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-078-007",
+      "text": "They made no effort to hide their amusement whenever I produced a packet of sweets from my pocket.",
+      "start": 60.653,
+      "end": 67.303,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-078-008",
+      "text": "After seven days of this I went to a party.",
+      "start": 69.493,
+      "end": 73.403,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-078-009",
+      "text": "Everybody around me was smoking and I felt extremely uncomfortable.",
+      "start": 74.713,
+      "end": 79.623,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-078-010",
+      "text": "When my old friend Brian urged me to accept a cigarette, it was more than I could bear.",
+      "start": 81.133,
+      "end": 87.183,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-078-011",
+      "text": "I took one guiltily, lit it and smoked with satisfaction.",
+      "start": 88.513,
+      "end": 94.303,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-078-012",
+      "text": "My wife was delighted that things had returned to normal once more.",
+      "start": 95.873,
+      "end": 100.103,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-078-013",
+      "text": "Anyway, as Brian pointed out, it is the easiest thing in the world to give up smoking.",
+      "start": 101.353,
+      "end": 108.383,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-078-014",
+      "text": "He himself has done it lots of times!",
+      "start": 109.073,
+      "end": 111.783,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

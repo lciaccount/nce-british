@@ -1,0 +1,204 @@
+{
+  "audioSha256": "52fe77e9572df410a4c9abd8f9c127027e60b1acfd00183e7f23222ba54d26f2",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-089-001",
+      "text": "Why couldn't Nigel decide?",
+      "start": 12.032,
+      "end": 14.182,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-089-002",
+      "text": "Good afternoon.",
+      "start": 16.893,
+      "end": 17.683,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-089-003",
+      "text": "I believe that this house is for sale.",
+      "start": 18.312,
+      "end": 20.742,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-089-004",
+      "text": "That's right.",
+      "start": 22.172,
+      "end": 23.043,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-089-005",
+      "text": "May I have a look at it, please?",
+      "start": 24.573,
+      "end": 26.402,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-089-006",
+      "text": "Yes, of course.",
+      "start": 28.453,
+      "end": 29.782,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-089-007",
+      "text": "Come in.",
+      "start": 30.513,
+      "end": 31.082,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-089-008",
+      "text": "How long have you lived here?",
+      "start": 32.953,
+      "end": 34.623,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-089-009",
+      "text": "I've lived here for twenty years.",
+      "start": 35.933,
+      "end": 38.263,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-089-010",
+      "text": "Twenty years!",
+      "start": 39.953,
+      "end": 41.283,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-089-011",
+      "text": "That's a long time.",
+      "start": 41.812,
+      "end": 43.643,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-089-012",
+      "text": "Yes, I've been here since 1976.",
+      "start": 44.712,
+      "end": 48.983,
+      "score": 0.595,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b1-089-013",
+      "text": "Then why do you want to sell it?",
+      "start": 50.852,
+      "end": 53.063,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-089-014",
+      "text": "Because I've just retired.",
+      "start": 54.433,
+      "end": 56.783,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-089-015",
+      "text": "I want to buy a small house in the country.",
+      "start": 57.672,
+      "end": 60.863,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-089-016",
+      "text": "How much does this house cost?",
+      "start": 62.992,
+      "end": 64.703,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-089-017",
+      "text": "￡68, 500.",
+      "start": 66.653,
+      "end": 70.003,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-089-018",
+      "text": "That's a lot of money!",
+      "start": 71.552,
+      "end": 73.343,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-089-019",
+      "text": "It's worth every penny of it.",
+      "start": 74.633,
+      "end": 76.403,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-089-020",
+      "text": "Well, I like the house, but I can't decide yet.",
+      "start": 77.992,
+      "end": 82.422,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-089-021",
+      "text": "My wife must see it first.",
+      "start": 83.332,
+      "end": 85.503,
+      "score": 0.945,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-089-022",
+      "text": "Women always have the last word.",
+      "start": 87.052,
+      "end": 89.903,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

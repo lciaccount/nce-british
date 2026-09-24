@@ -1,0 +1,213 @@
+{
+  "audioSha256": "252a401b67dac2b5d35b79ddd70ba04092c6aa8cf037aa6bc1c6da6db2da0fc1",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-034-001",
+      "text": "What was the 'happy discovery' ?",
+      "start": 12.052,
+      "end": 14.442,
+      "score": 0.899,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-034-002",
+      "text": "Antique shops exert a peculiar fascination on a great many people.",
+      "start": 17.152,
+      "end": 21.883,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-034-003",
+      "text": "The more expensive kind of antique shop where rare objects are beautifully displayed in glass cases to keep them free from dust is usually a forbidding place.",
+      "start": 22.913,
+      "end": 33.683,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-034-004",
+      "text": "But no one has to muster up courage to enter a less pretentious antique shop.",
+      "start": 34.752,
+      "end": 39.823,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-034-005",
+      "text": "There is always hope that in its labyrinth of musty, dark, disordered rooms a real rarity will be found amongst the piles of assorted junk that litter the floors.",
+      "start": 40.733,
+      "end": 52.083,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-034-006",
+      "text": "No one discovers a rarity by chance.",
+      "start": 53.612,
+      "end": 55.983,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-034-007",
+      "text": "A truly dedicated bargain hunter must have patience, and above all, the ability to recognize the worth of something when he sees it.",
+      "start": 56.812,
+      "end": 66.083,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-034-008",
+      "text": "To do this, he must be at least as knowledgeable as the dealer.",
+      "start": 67.073,
+      "end": 70.883,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-034-009",
+      "text": "Like a scientist bent on making a discovery, he must cherish the hope that one day he will be amply rewarded.",
+      "start": 72.052,
+      "end": 79.642,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-034-010",
+      "text": "My old friend, Frank Halliday, is just such a person.",
+      "start": 80.892,
+      "end": 84.823,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-034-011",
+      "text": "He has often described to me how he picked up a masterpiece for a mere ￡50.",
+      "start": 85.332,
+      "end": 90.263,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-034-012",
+      "text": "One Saturday morning, Frank visited an antique shop in my neighbourhood.",
+      "start": 90.392,
+      "end": 96.383,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-034-013",
+      "text": "As he had never been there before, he found a great deal to interest him.",
+      "start": 97.433,
+      "end": 101.823,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-034-014",
+      "text": "The morning passed rapidly and Frank was about to leave when he noticed a large packing case lying on the floor.",
+      "start": 102.672,
+      "end": 109.623,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-034-015",
+      "text": "The dealer told him that it had just come in, but that he could not be bothered to open it.",
+      "start": 110.493,
+      "end": 115.703,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-034-016",
+      "text": "Frank begged him to do so and the dealer reluctantly prised it open.",
+      "start": 116.593,
+      "end": 120.903,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-034-017",
+      "text": "The contents were disappointing.",
+      "start": 121.832,
+      "end": 123.683,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-034-018",
+      "text": "Apart from an interesting-looking carved dagger, the box was full of crockery, much of it broken.",
+      "start": 124.272,
+      "end": 130.262,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-034-019",
+      "text": "Frank gently lifted the crockery out of the box and suddenly noticed a miniature painting at the bottom of the packing case.",
+      "start": 130.992,
+      "end": 138.882,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-034-020",
+      "text": "As its composition and line reminded him of an Italian painting he knew well, he decided to buy it.",
+      "start": 139.732,
+      "end": 146.102,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-034-021",
+      "text": "Glancing at it briefly the dealer told him that it was worth ￡50.",
+      "start": 147.012,
+      "end": 151.422,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-034-022",
+      "text": "Frank could hardly conceal his excitement, for he knew that he had made a real discovery.",
+      "start": 152.612,
+      "end": 158.242,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-034-023",
+      "text": "The tiny painting proved to be an unknown masterpiece by Correggio and was worth hundreds and thousands of pounds.",
+      "start": 159.072,
+      "end": 166.762,
+      "score": 0.935,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

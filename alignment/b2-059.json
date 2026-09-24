@@ -1,0 +1,114 @@
+{
+  "audioSha256": "9bf7cb652f60af491d3c91f4f5c9f4656aaa1f2c64f771d137cab74fdad17ffc",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-059-001",
+      "text": "Why did Rex run away?",
+      "start": 12.332,
+      "end": 14.402,
+      "score": 0.948,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-059-002",
+      "text": "Our dog, Rex, used to sit outside our front gate and bark.",
+      "start": 17.293,
+      "end": 21.883,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-059-003",
+      "text": "Every time he wanted to come into the garden he would bark until someone opened the gate.",
+      "start": 23.093,
+      "end": 28.602,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-059-004",
+      "text": "As the neighbours complained of the noise, my husband spent weeks training him to press his paw on the latch to let himself in.",
+      "start": 30.352,
+      "end": 39.603,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-059-005",
+      "text": "Rex soon became an expert at opening the gate.",
+      "start": 41.392,
+      "end": 44.103,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-059-006",
+      "text": "However, when I was going out shopping last week, I noticed him in the garden near the gate.",
+      "start": 45.672,
+      "end": 52.083,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-059-007",
+      "text": "This time he was barking so that someone would let him out!",
+      "start": 53.293,
+      "end": 56.743,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-059-008",
+      "text": "Since then, he has developed another bad habit.",
+      "start": 58.853,
+      "end": 62.143,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-059-009",
+      "text": "As soon as he opens the gate from the outside, he comes into the garden and waits until the gate shuts.",
+      "start": 63.413,
+      "end": 70.203,
+      "score": 0.938,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-059-010",
+      "text": "Then he sits and barks until someone lets him out.",
+      "start": 71.733,
+      "end": 74.922,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-059-011",
+      "text": "After this he immediately lets himself in and begins barking again.",
+      "start": 76.032,
+      "end": 80.283,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-059-012",
+      "text": "Yesterday my husband removed the gate and Rex got so annoyed we have not seen him since.",
+      "start": 82.112,
+      "end": 88.483,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

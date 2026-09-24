@@ -1,0 +1,177 @@
+{
+  "audioSha256": "60c3b2f1235ca38e6515a14f661b8598034c1ae451ecd5f2d1d7ed6abb03ff53",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-025-001",
+      "text": "Do they speak English?",
+      "start": 13.012,
+      "end": 13.922,
+      "score": 0.333,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b2-025-002",
+      "text": "Why does the writer not understand the porter?",
+      "start": 16.492,
+      "end": 20.723,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-025-003",
+      "text": "I arrived in London at last.",
+      "start": 23.573,
+      "end": 25.642,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-025-004",
+      "text": "The railway station was big, black and dark.",
+      "start": 27.233,
+      "end": 31.483,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-025-005",
+      "text": "I did not know the way to my hotel, so I asked a porter.",
+      "start": 33.492,
+      "end": 37.983,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-025-006",
+      "text": "I not only spoke English very carefully, but very clearly as well.",
+      "start": 39.853,
+      "end": 46.083,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-025-007",
+      "text": "The porter, however, could not understand me.",
+      "start": 47.672,
+      "end": 50.743,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-025-008",
+      "text": "I repeated my question several times and at last he understood.",
+      "start": 52.573,
+      "end": 58.503,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-025-009",
+      "text": "he answered me, but he spoke neither slowly nor clearly.",
+      "start": 60.373,
+      "end": 65.588,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-025-010",
+      "text": "'I am a foreigner,' I said.",
+      "start": 65.588,
+      "end": 70.443,
+      "score": 0.9,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-025-011",
+      "text": "Then he spoke slowly, but I could not understand him.",
+      "start": 71.873,
+      "end": 76.943,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-025-012",
+      "text": "My teacher never spoke English like that!",
+      "start": 77.953,
+      "end": 80.703,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-025-013",
+      "text": "The porter and I looked at each other and smiled.",
+      "start": 82.472,
+      "end": 86.463,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-025-014",
+      "text": "Then he said something and I understood it.",
+      "start": 88.233,
+      "end": 90.828,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-025-015",
+      "text": "'You'll soon learn English!'",
+      "start": 90.828,
+      "end": 94.983,
+      "score": 0.898,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-025-016",
+      "text": "he said.",
+      "start": 95.913,
+      "end": 96.503,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-025-017",
+      "text": "I wonder.",
+      "start": 98.112,
+      "end": 98.783,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-025-018",
+      "text": "In England, each person speaks a different language.",
+      "start": 100.052,
+      "end": 103.743,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-025-019",
+      "text": "The English understand each other, but I don't understand them!",
+      "start": 104.653,
+      "end": 109.103,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

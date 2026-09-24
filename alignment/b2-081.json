@@ -1,0 +1,132 @@
+{
+  "audioSha256": "7a47be2831c9afea04ae09ea0a7151f34fcfb3b9c4af863ab0d769201d02e86d",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-081-001",
+      "text": "Why did the prisoner attack the driver?",
+      "start": 12.712,
+      "end": 15.643,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-081-002",
+      "text": "When he had killed the guard, the prisoner of war quickly dragged him into the bushes.",
+      "start": 18.453,
+      "end": 24.802,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-081-003",
+      "text": "Working rapidly in the darkness, he soon changed into the dead man's clothes.",
+      "start": 26.453,
+      "end": 32.383,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-081-004",
+      "text": "Now, dressed in a blue uniform and with a rifle over his shoulder, the prisoner marched boldly up and down in front of the camp.",
+      "start": 33.833,
+      "end": 43.543,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-081-005",
+      "text": "He could hear shouting in the camp itself.",
+      "start": 45.352,
+      "end": 47.683,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-081-006",
+      "text": "Lights were blazing and men were running here and there: they had just discovered that a prisoner had escaped.",
+      "start": 48.672,
+      "end": 56.123,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-081-007",
+      "text": "At that moment, a large black car with four officers inside it, stopped at the camp gates.",
+      "start": 58.153,
+      "end": 66.043,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-081-008",
+      "text": "The officers got out and the prisoner stood to attention and saluted as they passed.",
+      "start": 68.233,
+      "end": 74.403,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-081-009",
+      "text": "When they had gone the driver of the car came towards him.",
+      "start": 76.093,
+      "end": 80.323,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-081-010",
+      "text": "The man obviously wanted to talk.",
+      "start": 82.112,
+      "end": 84.703,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-081-011",
+      "text": "He was rather elderly with grey hair and clear blue eyes.",
+      "start": 85.953,
+      "end": 90.283,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-081-012",
+      "text": "The prisoner felt sorry for him, but there was nothing else he could do.",
+      "start": 92.153,
+      "end": 96.823,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-081-013",
+      "text": "As the man came near the prisoner knocked him to the ground with a sharp blow.",
+      "start": 98.633,
+      "end": 103.763,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-081-014",
+      "text": "Then, jumping into the car, he drove off as quickly as he could.",
+      "start": 104.633,
+      "end": 108.883,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

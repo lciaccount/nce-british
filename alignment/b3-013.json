@@ -1,0 +1,159 @@
+{
+  "audioSha256": "4f0edc402e63be52a9c01d424e7e7e70bcb1d3a57255b292f23922fd4417b99e",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-013-001",
+      "text": "What did the man expect to find under the stairs?",
+      "start": 11.672,
+      "end": 14.522,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-013-002",
+      "text": "After her husband had gone to work, Mrs. Richards sent her children to school and went upstairs to her bedroom.",
+      "start": 17.393,
+      "end": 25.023,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-013-003",
+      "text": "She was too excited to do any housework that morning, for in the evening she would be going to a fancy-dress party with her husband.",
+      "start": 26.332,
+      "end": 33.423,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-013-004",
+      "text": "She intended to dress up as a ghost and as she had made her costume the night before, she was impatient to try it on.",
+      "start": 34.693,
+      "end": 42.343,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-013-005",
+      "text": "Though the costume consisted only of a sheet, it was very effective.",
+      "start": 43.633,
+      "end": 48.343,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-013-006",
+      "text": "After putting it on, Mrs. Richards went downstairs.",
+      "start": 49.433,
+      "end": 53.083,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-013-007",
+      "text": "She wanted to find out whether it would be comfortable to wear.",
+      "start": 53.752,
+      "end": 56.863,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-013-008",
+      "text": "Just as Mrs. Richards was entering the dining-room, there was a knock on the front door.",
+      "start": 58.633,
+      "end": 63.923,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-013-009",
+      "text": "She knew that it must be the baker.",
+      "start": 65.073,
+      "end": 67.043,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-013-010",
+      "text": "She had told him to come straight in if ever she failed to open the door and to leave the bread on the kitchen table.",
+      "start": 68.013,
+      "end": 74.523,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-013-011",
+      "text": "Not wanting to frighten the poor man, Mrs. Richards quickly hid in the small storeroom under the stairs.",
+      "start": 76.093,
+      "end": 82.703,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-013-012",
+      "text": "She heard the front door open and heavy footsteps in the hall.",
+      "start": 84.052,
+      "end": 87.903,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-013-013",
+      "text": "Suddenly the door of the storeroom was opened and a man entered.",
+      "start": 88.993,
+      "end": 93.643,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-013-014",
+      "text": "Mrs. Richards realized that it must be the man from the Electricity Board who had come to read the metre.",
+      "start": 94.873,
+      "end": 101.523,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-013-015",
+      "text": "She tried to explain the situation, saying 'It's only me', but it was too late.",
+      "start": 102.493,
+      "end": 107.643,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-013-016",
+      "text": "The man let out a cry and jumped back several paces.",
+      "start": 108.433,
+      "end": 111.803,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-013-017",
+      "text": "When Mrs. Richards walked towards him, he fled, slamming the door behind him.",
+      "start": 112.793,
+      "end": 117.142,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

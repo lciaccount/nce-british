@@ -1,0 +1,195 @@
+{
+  "audioSha256": "5ee45321f77b668a075890214b11e434af3fb3623526457a4612110502529077",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-058-001",
+      "text": "What did the old lady find when she got home?",
+      "start": 12.152,
+      "end": 15.282,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-058-002",
+      "text": "The old lady was glad to be back at the block of flats where she lived.",
+      "start": 18.033,
+      "end": 22.462,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-058-003",
+      "text": "Her shopping had tired her and her basket had grown heavier with every step of the way home.",
+      "start": 23.613,
+      "end": 29.362,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-058-004",
+      "text": "In the lift her thoughts were on lunch and a good rest; but when she got out at her own floor, both were forgotten in her sudden discovery that her front door was open.",
+      "start": 30.653,
+      "end": 42.523,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-058-005",
+      "text": "She was thinking that she must reprimand her home help the next morning for such a monstrous piece of negligence, when she remembered that she had gone shopping after the home help had left and she knew that she had turned both keys in their locks.",
+      "start": 43.453,
+      "end": 59.543,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-058-006",
+      "text": "She walked slowly into the hall and at once noticed that all the room doors were open, yet following her regular practice she had shut them before going out.",
+      "start": 60.612,
+      "end": 71.103,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-058-007",
+      "text": "Looking into the drawing room, she saw a scene of confusion over by her writing desk.",
+      "start": 72.153,
+      "end": 77.843,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-058-008",
+      "text": "It was as clear as daylight then that burglars had forced an entry during her absence.",
+      "start": 78.772,
+      "end": 84.403,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-058-009",
+      "text": "Her first impulse was to go round all the rooms looking for the thieves, but then she decided that at her age it might be more prudent to have someone with her, so she went to fetch the porter from his basement.",
+      "start": 85.172,
+      "end": 98.343,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-058-010",
+      "text": "By this time her legs were beginning to tremble, so she sat down and accepted a cup of very strong tea, while he telephoned the police.",
+      "start": 99.093,
+      "end": 108.363,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-058-011",
+      "text": "Then, her composure regained, she was ready to set off with the porter's assistance to search for any intruders who might still be lurking in her flat.",
+      "start": 109.552,
+      "end": 119.363,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-058-012",
+      "text": "They went through the rooms, being careful to touch nothing, as they did not want to hinder the police in their search for fingerprints.",
+      "start": 120.612,
+      "end": 128.202,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-058-013",
+      "text": "The chaos was inconceivable.",
+      "start": 129.152,
+      "end": 131.422,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-058-014",
+      "text": "She had lived in the flat for thirty years and was a veritable magpie at hoarding: and it seemed as though everything she possessed had been tossed out and turned over and over.",
+      "start": 132.032,
+      "end": 143.442,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-058-015",
+      "text": "At least sorting out the things she should have discarded years ago was now being made easier for her.",
+      "start": 144.532,
+      "end": 150.382,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-058-016",
+      "text": "Then a police inspector arrived with a constable and she told them of her discovery of the ransacked flat.",
+      "start": 151.232,
+      "end": 157.822,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-058-017",
+      "text": "The inspector began to look for fingerprints, while the constable checked that the front door locks had not been forced, thereby proving that the burglars had either used skeleton keys or entered over the balcony.",
+      "start": 158.812,
+      "end": 172.782,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-058-018",
+      "text": "There was no trace of fingerprints, but the inspector found a dirty red bundle that contained jewellery which the old lady said was not hers.",
+      "start": 173.672,
+      "end": 183.502,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-058-019",
+      "text": "So their entry into this flat was apparently not the burglars' first job that day and they must have been disturbed.",
+      "start": 184.352,
+      "end": 192.442,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-058-020",
+      "text": "The inspector then asked the old lady to try to check what was missing by the next day, and advised her not to stay alone in the flat for a few nights.",
+      "start": 193.052,
+      "end": 202.502,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-058-021",
+      "text": "The old lady thought he was a fussy creature, but since the porter agreed with him, she rang up her daughter and asked for her help in what she described as a little spot of bother.",
+      "start": 203.712,
+      "end": 215.623,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

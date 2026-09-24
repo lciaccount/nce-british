@@ -1,0 +1,105 @@
+{
+  "audioSha256": "c89a0723d4132588a444d73260d315618fdbe1c3289e4efe765cf987d8790075",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-082-001",
+      "text": "What was the monster called?",
+      "start": 13.292,
+      "end": 15.762,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-082-002",
+      "text": "Fishermen and sailors sometimes claim to have seen monsters in the sea.",
+      "start": 18.693,
+      "end": 23.343,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-082-003",
+      "text": "Though people have often laughed at stories told by seamen, it is now known that many of these 'monsters' which have at times been sighted are simply strange fish.",
+      "start": 25.293,
+      "end": 38.743,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-082-004",
+      "text": "Occasionally, unusual creatures are washed to the shore, but they are rarely caught out at sea.",
+      "start": 40.653,
+      "end": 48.063,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-082-005",
+      "text": "Some time ago, however, a peculiar fish was caught near Madagascar.",
+      "start": 49.293,
+      "end": 54.883,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-082-006",
+      "text": "A small fishing boat was carried miles out to sea by the powerful fish as it pulled on the line.",
+      "start": 56.193,
+      "end": 63.543,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-082-007",
+      "text": "Realizing that this was no ordinary fish, the fisherman made every effort not to damage it in any way.",
+      "start": 64.793,
+      "end": 72.363,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-082-008",
+      "text": "When it was eventually brought to shore, it was found to be over thirteen feet long.",
+      "start": 73.892,
+      "end": 80.363,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-082-009",
+      "text": "It had a head like a horse big blue eyes, shining silver skin, and a bright red tail.",
+      "start": 81.593,
+      "end": 90.203,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-082-010",
+      "text": "The fish, which has since been set to a museum where it is being examined by a scientist, is called an oarfish.",
+      "start": 91.832,
+      "end": 100.363,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-082-011",
+      "text": "Such creatures have rarely been seen alive by man as they live at a depth of six hundred feet.",
+      "start": 101.853,
+      "end": 108.263,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

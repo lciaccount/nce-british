@@ -1,0 +1,105 @@
+{
+  "audioSha256": "6b59e56e79886b5d7e038e39df2f63d3c3362945458a3d31f1d844301e91f59e",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-004-001",
+      "text": "How did Vera disover she had this gift of second sight?",
+      "start": 11.832,
+      "end": 15.622,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-004-002",
+      "text": "Several cases have been reported in Russia recently of people who can read and detect colours with their fingers, and even see through solid doors and walls.",
+      "start": 18.473,
+      "end": 28.883,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-004-003",
+      "text": "One case concerns an 11-year-old schoolgirl Vera Petrova, who has normal vision but who can also perceive things with different parts of her skin, and through solid walls.",
+      "start": 30.413,
+      "end": 43.703,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-004-004",
+      "text": "This ability was first noticed by her father.",
+      "start": 45.013,
+      "end": 47.683,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-004-005",
+      "text": "One day she came into his office and happened to put her hands on the door of a locked safe.",
+      "start": 49.293,
+      "end": 54.903,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-004-006",
+      "text": "Suddenly she asked her father why he kept so many old newspapers locked away there, and even described the way they were done up in bundles.",
+      "start": 55.873,
+      "end": 65.363,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-004-007",
+      "text": "Vera's curious talent was brought to the notice of a scientific research institute in the town of Ulyanovsk, near where she lives, and in April she was given a series of tests by a special commission of the Ministry of Health of the Russian Federal Republic.",
+      "start": 66.812,
+      "end": 84.143,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-004-008",
+      "text": "During these tests she was able to read a newspaper through an opaque screen and, stranger still, by moving her elbow over a child's game of Lotto she was able to describe the figures and colours printed on it; and, in another instance, wearing stockings and slippers, to make out with her foot the outlines and colours of a picture hidden under a carpet.",
+      "start": 85.453,
+      "end": 111.922,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-004-009",
+      "text": "Other experiments showed that her knees and shoulders had a similar sensitivity.",
+      "start": 113.172,
+      "end": 118.203,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-004-010",
+      "text": "During all these tests Vera was blindfold; and indeed, except when blindfold she lacked the ability to perceive things with her skin.",
+      "start": 119.312,
+      "end": 129.123,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-004-011",
+      "text": "It was also found that although she could perceive things with her fingers this ability ceased the moment her hands were wet.",
+      "start": 130.272,
+      "end": 139.023,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

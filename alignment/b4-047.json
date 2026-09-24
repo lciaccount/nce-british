@@ -1,0 +1,294 @@
+{
+  "audioSha256": "ac6be924fa595cbe84ed73c278533c831bfc57ec3dba1cdc1499f518c5a83676",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-047-001",
+      "text": "What is one of the features of modern camping where nationality is concerned?",
+      "start": 12.692,
+      "end": 17.462,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-002",
+      "text": "Economy is one powerful motive for camping, since after the initial outlay upon equipment, or through hiring it, the total expense can be far less than the cost of hotels.",
+      "start": 20.293,
+      "end": 32.663,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-003",
+      "text": "But, contrary to a popular assumption, it is far from being the only one, or even the greatest.",
+      "start": 34.233,
+      "end": 40.363,
+      "score": 0.954,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-004",
+      "text": "The man who manoeuvres carelessly into his 20 pounds' worth of space at one of Europe's myriad permanent sites may find himself bumping a Bentley.",
+      "start": 41.233,
+      "end": 50.903,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-005",
+      "text": "More likely, Ford Escort will be hub to hub with Renault or Mercedes, but rarely with bicycles made for two.",
+      "start": 51.593,
+      "end": 59.043,
+      "score": 0.928,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-006",
+      "text": "That the equipment of modern camping becomes yearly more sophisticated is an entertaining paradox for the cynic, a brighter promise for the hopeful traveller who has sworn to get away from it all.",
+      "start": 60.532,
+      "end": 73.243,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-007",
+      "text": "It also provides--and some student sociologist might care to base his thesis upon the phenomenon--an escape of another kind.",
+      "start": 74.433,
+      "end": 83.603,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-008",
+      "text": "The modern traveller is often a man who dislikes the Splendide and the Bellavista, not because he cannot afford, or shuns their material comforts, but because he is afraid of them.",
+      "start": 84.653,
+      "end": 97.123,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-009",
+      "text": "Affluent he may be, but he is by no means sure what to tip the doorman or the chambermaid.",
+      "start": 98.112,
+      "end": 104.062,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-010",
+      "text": "Master in his own house he has little idea of when to say boo to a manager hotel.",
+      "start": 104.933,
+      "end": 110.703,
+      "score": 0.908,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-011",
+      "text": "From all such fears camping releases him.",
+      "start": 112.293,
+      "end": 115.183,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-012",
+      "text": "Granted, a snobbery of camping itself, based upon equipment and techniques, already exists; but it is of a kind that, if he meets it, he can readily understand and deal with.",
+      "start": 116.052,
+      "end": 128.222,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-013",
+      "text": "There is no superior 'they' in the shape of managements and hotel hierarchies to darken his holiday days.",
+      "start": 129.092,
+      "end": 136.523,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-014",
+      "text": "To such motives, yet another must be added.",
+      "start": 138.032,
+      "end": 140.922,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-015",
+      "text": "The contemporary phenomenon of car worship is to be explained not least by the sense of independence and freedom that ownership entails.",
+      "start": 142.052,
+      "end": 150.963,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-016",
+      "text": "To this pleasure camping gives an exquisite refinement.",
+      "start": 152.032,
+      "end": 155.582,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-017",
+      "text": "From one's own front door to home or foreign hills or sands and back again, everything is to hand.",
+      "start": 156.712,
+      "end": 163.382,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-018",
+      "text": "Not only are the means of arriving at the holiday paradise entirely within one's own command and keeping, but the means of escape from holiday hell (if the beach proves too crowded, the local weather too inclement) are there, outside--or, as likely, part of--the tent.",
+      "start": 164.112,
+      "end": 182.162,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-019",
+      "text": "Idealists have objected to the practice of camping, as to the package tour, that the traveller abroad thereby denies himself the opportunity of getting to know the people of the country visited.",
+      "start": 183.652,
+      "end": 195.742,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-020",
+      "text": "Insularity and self-containment, it is argued, go hand in hand.",
+      "start": 197.052,
+      "end": 201.382,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-021",
+      "text": "The opinion does not survive experience of a popular Continental camping place.",
+      "start": 202.512,
+      "end": 207.683,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-022",
+      "text": "Holiday hotels tend to cater for one nationality of visitors especially, sometimes exclusively.",
+      "start": 208.792,
+      "end": 215.382,
+      "score": 0.945,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-023",
+      "text": "Camping sites, by contrast, are highly cosmopolitan.",
+      "start": 216.352,
+      "end": 220.062,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-024",
+      "text": "Granted, a preponderance of Germans is a characteristic that seems common to most Mediterranean sites; but as yet there is no overwhelmingly specialized patronage.",
+      "start": 220.972,
+      "end": 232.022,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-025",
+      "text": "Notices forbidding the open-air drying of clothes, or the use of water points for car washing, or those inviting 'our camping friends' to a dance or a boat trip are printed not only in French or Italian or Spanish, but also in English, German and Dutch.",
+      "start": 233.212,
+      "end": 251.602,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-026",
+      "text": "At meal times the odour of sauerkraut vies with that of garlic.",
+      "start": 252.792,
+      "end": 257.962,
+      "score": 0.883,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-027",
+      "text": "The Frenchman's breakfast coffee competes with the Englishman's bacon and eggs.",
+      "start": 258.673,
+      "end": 263.382,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-028",
+      "text": "Whether the remarkable growth of organized camping means the eventual death of the more independent kind is hard to say.",
+      "start": 264.613,
+      "end": 272.082,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-029",
+      "text": "Municipalities naturally want to secure the campers' site fees and other custom.",
+      "start": 273.072,
+      "end": 277.962,
+      "score": 0.93,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-030",
+      "text": "Police are wary of itinerants who cannot be traced to a recognized camp boundary or to four walls.",
+      "start": 278.892,
+      "end": 285.802,
+      "score": 0.908,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-031",
+      "text": "But most probably it will all depend upon campers themselves: how many heath fires they cause; how much litter they leave; in short, whether or not they wholly alienate landowners and those who live in the countryside.",
+      "start": 286.592,
+      "end": 301.942,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-047-032",
+      "text": "Only good scouting is likely to preserve the freedoms so dear to the heart of the eternal Boy Scout.",
+      "start": 302.912,
+      "end": 309.582,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

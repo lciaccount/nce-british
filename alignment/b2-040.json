@@ -1,0 +1,159 @@
+{
+  "audioSha256": "40f347a1dcf6588f8fac0fb42a03cb6b1d15293d864114679e745a48137e009a",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-040-001",
+      "text": "Was Mrs. Rumbold a good companion at dinner?",
+      "start": 13.552,
+      "end": 17.822,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-040-002",
+      "text": "Last week at a dinner party, the hostess asked me to sit next to Mrs. Rumbold.",
+      "start": 20.613,
+      "end": 27.002,
+      "score": 0.953,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-040-003",
+      "text": "Mrs. Rumbold was a large, unsmiling lady in a tight black dress.",
+      "start": 28.593,
+      "end": 34.543,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-040-004",
+      "text": "She did not even look up when I took my seat beside her.",
+      "start": 36.453,
+      "end": 40.223,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-040-005",
+      "text": "Her eyes were fixed on her plate and in a short time, she was busy eating.",
+      "start": 41.793,
+      "end": 46.883,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-040-006",
+      "text": "I tried to make conversation.",
+      "start": 48.612,
+      "end": 50.363,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-040-007",
+      "text": "'A new play is coming to \"The Globe\" soon,' I said.",
+      "start": 53.633,
+      "end": 57.023,
+      "score": 0.924,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-040-008",
+      "text": "'Will you be seeing it?'",
+      "start": 57.612,
+      "end": 58.788,
+      "score": 0.887,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-040-009",
+      "text": "'No,' she answered.",
+      "start": 58.788,
+      "end": 62.328,
+      "score": 0.872,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-040-010",
+      "text": "'Will you be spending your holidays abroad this year?'",
+      "start": 62.328,
+      "end": 67.523,
+      "score": 0.936,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-040-011",
+      "text": "I asked.",
+      "start": 68.453,
+      "end": 69.097,
+      "score": 0.999,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-040-012",
+      "text": "'No,' she answered.",
+      "start": 69.097,
+      "end": 73.478,
+      "score": 0.873,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-040-013",
+      "text": "'Will you be staying in England?'",
+      "start": 73.478,
+      "end": 77.623,
+      "score": 0.914,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-040-014",
+      "text": "I asked.",
+      "start": 78.233,
+      "end": 79.023,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-040-015",
+      "text": "'No,' she answered.",
+      "start": 80.612,
+      "end": 83.103,
+      "score": 0.843,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-040-016",
+      "text": "In despair, I asked her whether she was enjoying her dinner.",
+      "start": 84.752,
+      "end": 89.088,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-040-017",
+      "text": "'Young man,' she answered, 'if you ate more and talked less, we would both enjoy our dinner!'",
+      "start": 89.088,
+      "end": 101.683,
+      "score": 0.944,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

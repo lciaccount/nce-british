@@ -1,0 +1,159 @@
+{
+  "audioSha256": "d1d4e7004e36def0dcc5860bdb2aaee9dab06ce40941cf81dc0361c2498eb4ff",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-022-001",
+      "text": "In what two areas have people made no 'progress' at all?",
+      "start": 11.372,
+      "end": 15.082,
+      "score": 0.938,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-022-002",
+      "text": "Why does the idea of progress loom so large in the modern world?",
+      "start": 17.832,
+      "end": 22.462,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-022-003",
+      "text": "Surely because progress of a particular kind is actually taking place around us and is becoming more and more manifest.",
+      "start": 23.693,
+      "end": 31.282,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-022-004",
+      "text": "Although mankind has undergone no general improvement in intelligence or morality, it has made extraordinary progress in the accumulation of knowledge.",
+      "start": 32.693,
+      "end": 42.283,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-022-005",
+      "text": "Knowledge began to increase as soon as the thoughts of one individual could be communicated to another by means of speech.",
+      "start": 43.873,
+      "end": 51.163,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-022-006",
+      "text": "With the invention of writing, a great advance was made, for knowledge could then be not only communicated but also stored.",
+      "start": 52.453,
+      "end": 61.123,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-022-007",
+      "text": "Libraries made education possible, and education in its turn added to libraries: the growth of knowledge followed a kind of compound interest law, which was greatly enhanced by the invention of printing.",
+      "start": 62.333,
+      "end": 76.883,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-022-008",
+      "text": "All this was comparatively slow until, with the coming of science, the tempo was suddenly raised.",
+      "start": 78.353,
+      "end": 84.922,
+      "score": 0.935,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-022-009",
+      "text": "Then knowledge began to be accumulated according to a systematic plan.",
+      "start": 86.112,
+      "end": 90.603,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-022-010",
+      "text": "The trickle became a stream: the stream has now become a torrent.",
+      "start": 91.913,
+      "end": 96.422,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-022-011",
+      "text": "Moreover, as soon as new knowledge is acquired, it is now turned to practical account.",
+      "start": 97.392,
+      "end": 102.963,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-022-012",
+      "text": "What is called 'modern civilization' is not the result of a balanced development of all man's nature, but of accumulated knowledge applied to practical life.",
+      "start": 104.252,
+      "end": 114.943,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-022-013",
+      "text": "The problem now facing humanity is: What is going to be done with all this knowledge?",
+      "start": 116.312,
+      "end": 121.283,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-022-014",
+      "text": "As is so often pointed out, knowledge is a two-edged weapon which can be used equally for good or evil.",
+      "start": 122.093,
+      "end": 129.082,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-022-015",
+      "text": "It is now being used indifferently for both.",
+      "start": 130.212,
+      "end": 132.802,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-022-016",
+      "text": "Could any spectacle, for instance, be more grimly whimsical than that of gunners using science to shatter men's bodies while, close at hand, surgeons use it to restore them?",
+      "start": 133.912,
+      "end": 144.502,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-022-017",
+      "text": "We have to ask ourselves very seriously what will happen if this twofold use of knowledge, with its ever-increasing power, continues.",
+      "start": 145.372,
+      "end": 153.362,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

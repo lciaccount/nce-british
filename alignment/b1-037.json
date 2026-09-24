@@ -1,0 +1,177 @@
+{
+  "audioSha256": "0c2a9a7db6277f5fba80d05ab7954ef4736ea1586b474640409fee40e09d3d3d",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-037-001",
+      "text": "What is Susan's favourite colour?",
+      "start": 14.392,
+      "end": 17.203,
+      "score": 0.927,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-037-002",
+      "text": "You're working hard, George.",
+      "start": 19.933,
+      "end": 21.703,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-037-003",
+      "text": "What are you doing?",
+      "start": 22.832,
+      "end": 24.002,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-037-004",
+      "text": "I'm making a bookcase.",
+      "start": 26.013,
+      "end": 28.142,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-037-005",
+      "text": "Give me that hammer please, Dan.",
+      "start": 30.573,
+      "end": 32.883,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-037-006",
+      "text": "Which hammer?",
+      "start": 35.153,
+      "end": 35.863,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-037-007",
+      "text": "This one?",
+      "start": 37.172,
+      "end": 37.743,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-037-008",
+      "text": "No, not that one.",
+      "start": 39.373,
+      "end": 41.323,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-037-009",
+      "text": "The big one.",
+      "start": 42.312,
+      "end": 43.383,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-037-010",
+      "text": "Here you are.",
+      "start": 45.812,
+      "end": 46.523,
+      "score": 0.942,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-037-011",
+      "text": "Thanks, Dan.",
+      "start": 47.933,
+      "end": 48.763,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-037-012",
+      "text": "What are you going to do now, George?",
+      "start": 50.953,
+      "end": 53.483,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-037-013",
+      "text": "I'm going to paint it.",
+      "start": 55.332,
+      "end": 57.263,
+      "score": 0.942,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-037-014",
+      "text": "What colour are you going to paint it?",
+      "start": 59.873,
+      "end": 62.323,
+      "score": 0.949,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-037-015",
+      "text": "I'm going to paint it pink.",
+      "start": 64.392,
+      "end": 66.403,
+      "score": 0.941,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-037-016",
+      "text": "Pink!",
+      "start": 68.312,
+      "end": 68.743,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-037-017",
+      "text": "This bookcase isn't for me.",
+      "start": 71.112,
+      "end": 73.103,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-037-018",
+      "text": "It's for my daughter, Susan.",
+      "start": 74.112,
+      "end": 76.343,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-037-019",
+      "text": "Pink's her favourite colour.",
+      "start": 77.693,
+      "end": 79.883,
+      "score": 0.901,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "audioSha256": "220836dc925de29ea8691e43c9c7b317fc59e15a144700684b8140da32755514",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-087-001",
+      "text": "Can the mechanics repair Mr. Wood's car?",
+      "start": 12.452,
+      "end": 15.862,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-087-002",
+      "text": "Is my car ready yet?",
+      "start": 18.652,
+      "end": 20.203,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-087-003",
+      "text": "I don't know, sir.",
+      "start": 21.893,
+      "end": 22.902,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-087-004",
+      "text": "What's the number of your car?",
+      "start": 23.433,
+      "end": 25.182,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-087-005",
+      "text": "It's LFZ 312 G. When did you bring it to us?",
+      "start": 26.832,
+      "end": 35.783,
+      "score": 0.778,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b1-087-006",
+      "text": "I brought it here three days ago.",
+      "start": 37.252,
+      "end": 39.743,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-087-007",
+      "text": "Ah yes, I remember now.",
+      "start": 41.413,
+      "end": 43.823,
+      "score": 0.914,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-087-008",
+      "text": "Have your mechanics finished yet?",
+      "start": 45.532,
+      "end": 47.323,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-087-009",
+      "text": "No, they're still working on it.",
+      "start": 48.793,
+      "end": 50.943,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-087-010",
+      "text": "Let's go into the garage and have a look at it.",
+      "start": 51.833,
+      "end": 55.263,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-087-011",
+      "text": "Isn't that your car?",
+      "start": 57.332,
+      "end": 58.763,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-087-012",
+      "text": "Well, it was my car.",
+      "start": 60.333,
+      "end": 62.623,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-087-013",
+      "text": "Didn't you have a crash?",
+      "start": 64.392,
+      "end": 65.743,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-087-014",
+      "text": "That's right.",
+      "start": 67.052,
+      "end": 67.843,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-087-015",
+      "text": "I drove it into a lamp-post.",
+      "start": 68.513,
+      "end": 70.863,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-087-016",
+      "text": "Can your mechanics repair it?",
+      "start": 72.052,
+      "end": 73.863,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-087-017",
+      "text": "Well, they're trying to repair it, sir.",
+      "start": 75.392,
+      "end": 78.403,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-087-018",
+      "text": "But to tell you the truth, you need a new car!",
+      "start": 79.013,
+      "end": 83.083,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

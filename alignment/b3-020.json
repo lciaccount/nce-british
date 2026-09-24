@@ -1,0 +1,168 @@
+{
+  "audioSha256": "c758fa526f4bf757ec2bcdd898e75f9cef1138c282e8f59b6c7185351d0b0d23",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-020-001",
+      "text": "What was the name of the first plane to fly across the English Channel?",
+      "start": 11.632,
+      "end": 15.662,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-020-002",
+      "text": "In 1908 Lord Northcliffe offered a prize of ￡1, 000 to the first man who would fly across the English Channel.",
+      "start": 18.393,
+      "end": 27.203,
+      "score": 0.851,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-020-003",
+      "text": "Over a year passed before the first attempt was made.",
+      "start": 28.352,
+      "end": 31.242,
+      "score": 0.951,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-020-004",
+      "text": "On July 19th, 1909, in the early morning, Hubert Latham took off from the French coast in his plane the 'Antoinette IV.'",
+      "start": 32.612,
+      "end": 42.783,
+      "score": 0.835,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-020-005",
+      "text": "He had travelled only seven miles across the Channel when his engine failed and he was forced to land on the sea.",
+      "start": 43.653,
+      "end": 49.743,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-020-006",
+      "text": "The 'Antoinette' floated on the water until Latham was picked up by a ship.",
+      "start": 51.013,
+      "end": 55.423,
+      "score": 0.931,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-020-007",
+      "text": "Two days later, Louis Bleriot arrived near Calais with a plane called 'No.XI'.",
+      "start": 56.713,
+      "end": 62.723,
+      "score": 0.858,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-020-008",
+      "text": "Bleriot had been making planes since 1905 and this was his latest model.",
+      "start": 63.913,
+      "end": 69.763,
+      "score": 0.808,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-020-009",
+      "text": "A week before, he had completed a successful overland flight during which he covered twenty-six miles.",
+      "start": 70.772,
+      "end": 77.243,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-020-010",
+      "text": "Latham, however, did not give up easily.",
+      "start": 78.453,
+      "end": 80.783,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-020-011",
+      "text": "He, too, arrived near Calais on the same day with a new 'Antoinette'.",
+      "start": 81.573,
+      "end": 86.062,
+      "score": 0.899,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-020-012",
+      "text": "It looked as if there would be an exciting race across the Channel.",
+      "start": 87.332,
+      "end": 90.483,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-020-013",
+      "text": "Both planes were going to take off on July 25th, but Latham failed to get up early enough.",
+      "start": 91.972,
+      "end": 98.323,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-020-014",
+      "text": "After making a short test flight at 4.15 a.m., Bleriot set off half an hour later.",
+      "start": 99.373,
+      "end": 105.503,
+      "score": 0.841,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-020-015",
+      "text": "His great flight lasted thirty-seven minutes.",
+      "start": 106.552,
+      "end": 109.463,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-020-016",
+      "text": "When he landed near Dover, the first person to greet him was a local policeman.",
+      "start": 110.513,
+      "end": 115.203,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-020-017",
+      "text": "Latham made another attempt a week later and got within half a mile of Dover, but he was unlucky again.",
+      "start": 116.213,
+      "end": 123.143,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-020-018",
+      "text": "His engine failed and he landed on the sea for the second time.",
+      "start": 123.873,
+      "end": 127.983,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

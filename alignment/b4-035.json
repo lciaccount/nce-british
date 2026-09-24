@@ -1,0 +1,204 @@
+{
+  "audioSha256": "e6aa484ecdb691f648d3e944bfcb7cfc860a798f68cde6b84c6a7812fef3517f",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-035-001",
+      "text": "When will it be possible for us to think seriously about colonising Mars?",
+      "start": 12.372,
+      "end": 16.982,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-035-002",
+      "text": "The Moon is likely to become the industrial hub of the Solar System supplying the rocket fuels for its ships, easily obtainable from the lunar rocks in the form of liquid oxygen.",
+      "start": 19.812,
+      "end": 32.503,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-035-003",
+      "text": "The reason lies in its gravity.",
+      "start": 33.593,
+      "end": 35.583,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-035-004",
+      "text": "Because the Moon has only an eightieth of the Earth's mass, it requires 97% less energy to travel the quarter of a million miles from the Moon to Earth-orbit than the 200 mile-journey from Earth's surface into orbit!",
+      "start": 36.513,
+      "end": 52.243,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-035-005",
+      "text": "This may sound fantastic, but it is easily calculated.",
+      "start": 53.312,
+      "end": 57.103,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-035-006",
+      "text": "To escape from the Earth in a rocket, one must travel at seven miles per second.",
+      "start": 58.213,
+      "end": 63.323,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-035-007",
+      "text": "The comparable speed from the Moon is only 1.5 miles per second.",
+      "start": 64.433,
+      "end": 69.183,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-035-008",
+      "text": "Because the gravity on the Moon's surface is only a sixth of Earth's (remember how easily the Apollo astronauts bounded along), it takes much less energy to accelerate to that 1.5mps than it does on Earth.",
+      "start": 70.713,
+      "end": 86.163,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-035-009",
+      "text": "Moon dwellers will be able to fly in space at only three percent of the cost of similar journeys by their terrestrial cousins.",
+      "start": 87.493,
+      "end": 95.383,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-035-010",
+      "text": "Arthur C.Clark once suggested a revolutionary idea passes through three phases: 1.",
+      "start": 96.772,
+      "end": 103.558,
+      "score": 0.933,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-035-011",
+      "text": "'It's impossible--don't waste my time.'",
+      "start": 103.558,
+      "end": 106.723,
+      "score": 0.915,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-035-012",
+      "text": "2.",
+      "start": 107.713,
+      "end": 108.003,
+      "score": 0.999,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-035-013",
+      "text": "'It's possible, but not worth doing.'",
+      "start": 109.093,
+      "end": 113.058,
+      "score": 0.925,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-035-014",
+      "text": "3.",
+      "start": 113.058,
+      "end": 113.417,
+      "score": 0.999,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-035-015",
+      "text": "'I said it was a good idea all along.'",
+      "start": 113.417,
+      "end": 116.803,
+      "score": 0.938,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-035-016",
+      "text": "The idea of colonising Mars--a world 160 times more distant than the Moon--will move decisively from the second phase to the third, when a significant number of people are living permanently in space.",
+      "start": 118.832,
+      "end": 133.102,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-035-017",
+      "text": "Mars has an extraordinary fascination for would-be voyagers.",
+      "start": 134.492,
+      "end": 138.042,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-035-018",
+      "text": "America, Russia and Europe are filled with enthusiasts--many of them serious and senior scientists who dream of sending people to it.",
+      "start": 139.112,
+      "end": 149.702,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-035-019",
+      "text": "Their aim is understandable.",
+      "start": 150.712,
+      "end": 152.722,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-035-020",
+      "text": "It is the one world in the Solar System that is most like the Earth.",
+      "start": 153.992,
+      "end": 157.922,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-035-021",
+      "text": "It is a world of red sandy deserts (hence its name--the Red Planet), cloudless skies, savage sandstorms, chasms wider than the Grand Canyon and at least one mountain more than twice as tall as Everest.",
+      "start": 158.972,
+      "end": 175.523,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-035-022",
+      "text": "It seems ideal for settlement.",
+      "start": 176.472,
+      "end": 178.382,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

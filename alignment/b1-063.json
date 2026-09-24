@@ -1,0 +1,213 @@
+{
+  "audioSha256": "edea131239e6fbd581ffb00ffc20c39b9c3d6836e35de747015e0a4309502ad5",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-063-001",
+      "text": "Who else is in bed today?",
+      "start": 12.672,
+      "end": 14.723,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-063-002",
+      "text": "Why?",
+      "start": 15.792,
+      "end": 16.183,
+      "score": 0.999,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-063-003",
+      "text": "How's Jimmy today?",
+      "start": 18.953,
+      "end": 20.342,
+      "score": 0.95,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-063-004",
+      "text": "Better.",
+      "start": 21.293,
+      "end": 21.727,
+      "score": 1.0,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-063-005",
+      "text": "Thank you, doctor.",
+      "start": 21.727,
+      "end": 22.682,
+      "score": 0.992,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-063-006",
+      "text": "Can I see him please, Mrs. Williams?",
+      "start": 23.793,
+      "end": 26.302,
+      "score": 0.922,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-063-007",
+      "text": "Certainly, doctor.",
+      "start": 26.672,
+      "end": 27.762,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-063-008",
+      "text": "Come upstairs.",
+      "start": 28.233,
+      "end": 29.122,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-063-009",
+      "text": "You look very well, Jimmy.",
+      "start": 31.153,
+      "end": 33.143,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-063-010",
+      "text": "You are better now, but you mustn't get up yet.",
+      "start": 33.992,
+      "end": 38.003,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-063-011",
+      "text": "You must stay in bed for another two days.",
+      "start": 38.953,
+      "end": 42.283,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-063-012",
+      "text": "The boy mustn't go to school yet, Mrs. Williams.",
+      "start": 44.233,
+      "end": 47.023,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-063-013",
+      "text": "And he mustn't eat rich food.",
+      "start": 47.773,
+      "end": 49.983,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-063-014",
+      "text": "Does he have a temperature, doctor?",
+      "start": 51.172,
+      "end": 53.083,
+      "score": 0.895,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-063-015",
+      "text": "No, he doesn't.",
+      "start": 54.312,
+      "end": 55.643,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-063-016",
+      "text": "Must he stay in bed?",
+      "start": 56.513,
+      "end": 57.743,
+      "score": 0.961,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-063-017",
+      "text": "Yes.",
+      "start": 58.312,
+      "end": 58.763,
+      "score": 1.0,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-063-018",
+      "text": "He must remain in bed for another two days.",
+      "start": 59.273,
+      "end": 62.483,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-063-019",
+      "text": "He can get up for about two hours each day, but you must keep the room warm.",
+      "start": 63.312,
+      "end": 69.303,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-063-020",
+      "text": "Where's Mr. Williams this evening?",
+      "start": 71.213,
+      "end": 73.343,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-063-021",
+      "text": "He's in bed, doctor.",
+      "start": 74.332,
+      "end": 75.763,
+      "score": 0.911,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-063-022",
+      "text": "Can you see him please?",
+      "start": 76.793,
+      "end": 78.323,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-063-023",
+      "text": "He has a bad cold, too!",
+      "start": 79.112,
+      "end": 80.803,
+      "score": 0.947,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

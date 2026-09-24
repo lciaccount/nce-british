@@ -1,0 +1,150 @@
+{
+  "audioSha256": "18b5e3537f40bc5c3e57c2d37e2ce62087334cac87cd444ea59c4b827b7eccb7",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b1-053-001",
+      "text": "What is the favourite subject of conversation in England?",
+      "start": 12.992,
+      "end": 17.343,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-053-002",
+      "text": "Where do you come from?",
+      "start": 20.973,
+      "end": 22.203,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-053-003",
+      "text": "I come from England.",
+      "start": 23.992,
+      "end": 25.622,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-053-004",
+      "text": "What's the climate like in your country?",
+      "start": 27.812,
+      "end": 30.442,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-053-005",
+      "text": "It's mild, but it's not always pleasant.",
+      "start": 32.093,
+      "end": 35.303,
+      "score": 0.995,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-053-006",
+      "text": "The weather's often cold in the North and windy in the East.",
+      "start": 36.733,
+      "end": 41.583,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-053-007",
+      "text": "It's often wet in the West and sometimes warm in the South.",
+      "start": 42.593,
+      "end": 47.363,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-053-008",
+      "text": "Which seasons do you like best?",
+      "start": 49.553,
+      "end": 51.983,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-053-009",
+      "text": "I like spring and summer.",
+      "start": 53.833,
+      "end": 55.783,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-053-010",
+      "text": "The days are long and the nights are short.",
+      "start": 56.653,
+      "end": 59.843,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-053-011",
+      "text": "The sun rises early and sets late.",
+      "start": 60.712,
+      "end": 64.103,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-053-012",
+      "text": "I don't like autumn and winter.",
+      "start": 65.793,
+      "end": 68.183,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-053-013",
+      "text": "The days are short and the nights are long.",
+      "start": 69.093,
+      "end": 72.603,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-053-014",
+      "text": "The sun rises late and sets early.",
+      "start": 73.772,
+      "end": 76.943,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-053-015",
+      "text": "Our climate is not very good, but it's certainly interesting.",
+      "start": 78.213,
+      "end": 83.263,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b1-053-016",
+      "text": "It's our favourite subject of conversation.",
+      "start": 84.153,
+      "end": 86.883,
+      "score": 0.954,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

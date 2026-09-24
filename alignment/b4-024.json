@@ -1,0 +1,96 @@
+{
+  "audioSha256": "cb1001b14fd49acf5ee94504831f0c9bbe8a3773fc1865f70f74686d37e86956",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-024-001",
+      "text": "What do glimpses of beauty, either in nature or art, often suggest to the human mind?",
+      "start": 11.532,
+      "end": 17.422,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-024-002",
+      "text": "A young man sees a sunset and, unable to understand or to express the emotion that it rouses in him, concludes that it must be the gateway to a world that lies beyond It is difficult for any of us in moments of intense aesthetic experience to resist the suggestion that we are catching a glimpse of a light that shines down to us from a different realm of existence, different and, because the experience is intensely moving, in some way higher.",
+      "start": 20.213,
+      "end": 51.763,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-024-003",
+      "text": "And, though the gleams blind and dazzle, yet do they convey a hint of beauty and serenity greater than we have known or imagined.",
+      "start": 52.933,
+      "end": 61.783,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-024-004",
+      "text": "Greater too than we can describe; for language, which was invented to convey the meanings of this world cannot readily be fitted to the uses of another.",
+      "start": 62.913,
+      "end": 72.903,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-024-005",
+      "text": "That all great art has this power of suggesting a world beyond is undeniable.",
+      "start": 74.633,
+      "end": 80.523,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-024-006",
+      "text": "In some moods, nature shares it.",
+      "start": 81.733,
+      "end": 83.843,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-024-007",
+      "text": "There is no sky in June so blue that it does not point forward to a bluer, no sunset so beautiful that it does not waken the vision of a greater beauty, a vision which passes before it is fully glimpsed, and in passing leaves an indefinable longing and regret.",
+      "start": 84.953,
+      "end": 105.023,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-024-008",
+      "text": "But, if this world is not merely a bad joke, life a vulgar flare amid the cool radiance of the stars, and existence an empty laugh braying across the mysteries; if these intimations of a something behind and beyond are not evil humour born of indigestion, or whimsies sent by the devil to mock and madden us, if, in a word beauty means something yet we must not seek to interpret the meaning.",
+      "start": 105.892,
+      "end": 136.582,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-024-009",
+      "text": "If we glimpse the unutterable, it is unwise to try to utter it, nor should we seek to invest with significance that which we cannot grasp.",
+      "start": 137.952,
+      "end": 148.022,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-024-010",
+      "text": "Beauty in terms of our human meanings is meaningless.",
+      "start": 148.952,
+      "end": 152.942,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "audioSha256": "d10da2ff34c255d6f4e12aa013f934181bf1c7135e72a75f7daedfa263bb12e6",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-008-001",
+      "text": "Why is Joe's garden the most beautiful one in the town?",
+      "start": 14.752,
+      "end": 19.562,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-008-002",
+      "text": "Joe Sanders has the most beautiful garden in our town.",
+      "start": 22.373,
+      "end": 26.982,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-008-003",
+      "text": "Nearly everybody enters for 'The Nicest Garden Competition' each year, but Joe wins every time.",
+      "start": 28.253,
+      "end": 36.263,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-008-004",
+      "text": "Bill Frith's garden is larger than Joe's.",
+      "start": 38.593,
+      "end": 41.323,
+      "score": 0.921,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-008-005",
+      "text": "Bill works harder than Joe and grows more flowers and vegetables, but Joe's garden is more interesting.",
+      "start": 42.473,
+      "end": 50.743,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-008-006",
+      "text": "He has made neat paths and has built a wooden bridge over a pool.",
+      "start": 51.892,
+      "end": 57.083,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-008-007",
+      "text": "I like gardens too, but I do not like hard work.",
+      "start": 58.593,
+      "end": 62.783,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-008-008",
+      "text": "Every year I enter for the garden competition too, and I always win a little prize for the worst garden in the town!",
+      "start": 64.552,
+      "end": 74.383,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

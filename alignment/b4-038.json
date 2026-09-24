@@ -1,0 +1,186 @@
+{
+  "audioSha256": "a2538f8200b9f241ccf3b7fa7319fba9b7dc8711c61f2c06585b45efc8d1c50a",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-038-001",
+      "text": "What does this text describe?",
+      "start": 12.072,
+      "end": 14.202,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-038-002",
+      "text": "Contamination of water supplies is usually due to poor sanitation close to water sources, sewage disposal into the sources themselves, leakage of sewage into distribution systems or contamination with industrial or farm waste.",
+      "start": 16.893,
+      "end": 33.523,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-038-003",
+      "text": "Even if a piped water supply is safe at its source, it is not always safe by the time it reaches the tap.",
+      "start": 35.013,
+      "end": 41.903,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-038-004",
+      "text": "Intermittent tap-water supplies should be regarded as particularly suspect.",
+      "start": 43.312,
+      "end": 48.463,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-038-005",
+      "text": "Travellers on short trips to areas with water supplies of uncertain quality should avoid drinking tap-water, or untreated water from any other source.",
+      "start": 49.752,
+      "end": 60.443,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-038-006",
+      "text": "It is best to keep to hot drinks, bottled or canned drinks of well-known brand names-international standard of water treatment are usually followed at bottling plants.",
+      "start": 61.612,
+      "end": 72.563,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-038-007",
+      "text": "Carbonated drinks are acidic, and slightly safer.",
+      "start": 73.752,
+      "end": 76.863,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-038-008",
+      "text": "Make sure that all bottles are opened in your presence, and that their rims are clean and dry.",
+      "start": 77.873,
+      "end": 83.823,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-038-009",
+      "text": "Boiling is always a good way of treating water.",
+      "start": 85.213,
+      "end": 87.883,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-038-010",
+      "text": "Some hotels supply boiled water on request and this can be used for drinking, or for brushing teeth.",
+      "start": 88.993,
+      "end": 95.223,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-038-011",
+      "text": "Portable boiling elements that can boil small quantities of water are useful when the right voltage of electricity is available.",
+      "start": 96.472,
+      "end": 104.463,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-038-012",
+      "text": "Refuse politely any cold drink from an unknown source.",
+      "start": 105.412,
+      "end": 109.443,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-038-013",
+      "text": "Ice is only as safe as the water from which it is made, and should not be put in drinks unless it is known to be safe.",
+      "start": 110.993,
+      "end": 118.243,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-038-014",
+      "text": "Drinks can be cooled by placing them on ice rather than adding ice to them.",
+      "start": 119.353,
+      "end": 124.223,
+      "score": 0.95,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-038-015",
+      "text": "Alcohol may be a medical disinfectant, but should not be relied upon to sterilize water.",
+      "start": 125.472,
+      "end": 131.382,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-038-016",
+      "text": "Ethanol is more effective at a concentration of 50-70 percent; below 20 per cent, its bactericidal action is negligible.",
+      "start": 132.572,
+      "end": 143.222,
+      "score": 0.958,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-038-017",
+      "text": "Spirits labelled 95 proof contain only about 47 per cent alcohol.",
+      "start": 144.392,
+      "end": 150.262,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-038-018",
+      "text": "Beware of methylated alcohol, which is very poisonous and should never be added to drinking water.",
+      "start": 151.272,
+      "end": 158.162,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-038-019",
+      "text": "If no other safe water supply can be obtained, tap water that is too hot to touch can be left to cool and is generally safe to drink.",
+      "start": 159.492,
+      "end": 168.582,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-038-020",
+      "text": "Those planning a trip to remote areas, or intending to live in countries where drinking water is not readily available, should know about the various possible methods for making water safe.",
+      "start": 169.812,
+      "end": 181.042,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

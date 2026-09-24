@@ -1,0 +1,303 @@
+{
+  "audioSha256": "95bde801ac78b4a7321b1bfcb0943b9490bd29e026915f533ea8c152d7e0fa59",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-057-001",
+      "text": "Did the narrater find his mother's grave?",
+      "start": 12.752,
+      "end": 15.582,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-002",
+      "text": "I stopped to let the car cool off and to study the map.",
+      "start": 18.293,
+      "end": 22.182,
+      "score": 0.96,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-003",
+      "text": "I had expected to be near my objective by now, but everything still seemed alien to me.",
+      "start": 22.812,
+      "end": 28.402,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-004",
+      "text": "I was only five when my father had taken me abroad, and that was eighteen years ago.",
+      "start": 29.153,
+      "end": 34.943,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-005",
+      "text": "When my mother had died after a tragic accident, he did not quickly recover from the shock and loneliness.",
+      "start": 35.793,
+      "end": 42.543,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-006",
+      "text": "Everything around him was full of her presence, continually reopening the wound.",
+      "start": 43.572,
+      "end": 48.963,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-007",
+      "text": "So he decided to emigrate.",
+      "start": 49.653,
+      "end": 51.383,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-008",
+      "text": "In the new country he became absorbed in making a new life for the two of us, so that he gradually ceased to grieve.",
+      "start": 52.172,
+      "end": 59.643,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-009",
+      "text": "He did not marry again and I was brought up without a woman's care; but I lacked for nothing, for he was both father and mother to me.",
+      "start": 60.572,
+      "end": 69.783,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-010",
+      "text": "He always meant to go back one day, but not to stay.",
+      "start": 70.733,
+      "end": 74.103,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-011",
+      "text": "His roots and mine had become too firmly embedded in the new land.",
+      "start": 74.832,
+      "end": 79.243,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-012",
+      "text": "But he wanted to see the old folk againand to visit my mother's grave.",
+      "start": 80.133,
+      "end": 84.422,
+      "score": 0.971,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-013",
+      "text": "He became mortally ill a few months before we had planned to go and, when he knew that he was dying, he made me promise to go on my own.",
+      "start": 85.192,
+      "end": 93.843,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-014",
+      "text": "I hired a car the day after landing and bought a comprehensive book of maps, which I found most helpful on the cross-country journey, but which I did not think I should need on the last stage.",
+      "start": 94.933,
+      "end": 107.323,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-015",
+      "text": "It was not that I actually remembered anything at all.",
+      "start": 108.093,
+      "end": 110.663,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-016",
+      "text": "But my father had described over and over again what we should see at every milestone after leaving the nearest town, so that I was positive I should recognize it as familiar territory.",
+      "start": 111.413,
+      "end": 124.083,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-017",
+      "text": "Well, I had been wrong, for I was now lost.",
+      "start": 124.972,
+      "end": 129.022,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-018",
+      "text": "I looked at the map and then at the milometer.",
+      "start": 130.012,
+      "end": 133.042,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-019",
+      "text": "I had come ten miles since leaving the town and at this point, according to my father, I should be looking at farms and cottages in a valley, with the spire of the church of our village showing in the far distance.",
+      "start": 133.652,
+      "end": 147.683,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-020",
+      "text": "I could see no valley, no farms, no cottages and no church spire-only a lake.",
+      "start": 148.552,
+      "end": 156.242,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-021",
+      "text": "I decided that I must have taken a wrong turning somewhere.",
+      "start": 156.832,
+      "end": 160.343,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-022",
+      "text": "So I drove back to the town and began to retrace the route, taking frequent glances at the map.",
+      "start": 160.972,
+      "end": 167.183,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-023",
+      "text": "I landed up at the same corner.",
+      "start": 168.352,
+      "end": 170.542,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-024",
+      "text": "The curious thing was that the lake was not marked on the map.",
+      "start": 171.472,
+      "end": 175.343,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-025",
+      "text": "I felt as if I had stumbled into a nightmare country, as you sometimes do in dreams.",
+      "start": 176.392,
+      "end": 181.822,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-026",
+      "text": "And, as in a nightmare, there was nobody in sight to help me.",
+      "start": 182.592,
+      "end": 186.343,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-027",
+      "text": "Fortunately for me, as I was wondering what to do next, there appeared on the horizon a man on horseback, riding in my direction.",
+      "start": 187.112,
+      "end": 195.882,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-028",
+      "text": "I waited till he came near, then I asked him the way to our old village.",
+      "start": 196.812,
+      "end": 201.662,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-029",
+      "text": "He said that there was now no village.",
+      "start": 202.612,
+      "end": 205.082,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-030",
+      "text": "I thought he must have misunderstood me, so I repeated its name.",
+      "start": 206.132,
+      "end": 210.022,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-031",
+      "text": "This time he pointed to the lake.",
+      "start": 210.892,
+      "end": 213.142,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-032",
+      "text": "The village no longer existed because it had been submerged, and all the valley too.",
+      "start": 214.132,
+      "end": 220.502,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-057-033",
+      "text": "The lake was not a natural one, but a man-made reservoir.",
+      "start": 221.472,
+      "end": 226.222,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

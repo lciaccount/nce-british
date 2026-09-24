@@ -1,0 +1,150 @@
+{
+  "audioSha256": "b1dbdfdcef23f2f108ca4b8fd46d8cd992a228937d84ad9cf988c759363d01b9",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b4-031-001",
+      "text": "What do you have to be able to do to appreciate sculpture?",
+      "start": 11.672,
+      "end": 15.462,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-031-002",
+      "text": "Appreciation of sculpture depends upon the ability to respond to form in 3 dimensions.",
+      "start": 18.213,
+      "end": 23.883,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-031-003",
+      "text": "That is perhaps why sculpture has been described as the most difficult of all arts; certainly it is more difficult than the arts which involve appreciation of flat forms, shape in only two dimensions.",
+      "start": 24.873,
+      "end": 39.503,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-031-004",
+      "text": "Many more people are 'form-blind' than colour-blind.",
+      "start": 40.833,
+      "end": 44.723,
+      "score": 0.926,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-031-005",
+      "text": "The child learning to see, first distinguishes only two-dimensional shape; it cannot judge distances, depths.",
+      "start": 45.672,
+      "end": 55.223,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-031-006",
+      "text": "Later, for its personal safety and practical needs, it has to develop (partly by means of touch) the ability to judge roughly 3-dimensonal distances.",
+      "start": 56.252,
+      "end": 67.383,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-031-007",
+      "text": "But having satisfied the requirements of practical necessity, most people go no further.",
+      "start": 68.472,
+      "end": 73.763,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-031-008",
+      "text": "Though they may attain considerable accuracy in the perception of flat form, they do not make the further intellectual and emotional effort needed to comprehend form in its full spatial existence.",
+      "start": 74.752,
+      "end": 87.983,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-031-009",
+      "text": "This is what the sculptor must do.",
+      "start": 89.532,
+      "end": 91.383,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-031-010",
+      "text": "He must strive continually to think of and use, form in its full spatial completeness.",
+      "start": 92.272,
+      "end": 98.543,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-031-011",
+      "text": "He gets the solid shape as it were, inside his head--he thinks of it, whatever its size, as if he were holding it completely enclosed in the hollow of his hand.",
+      "start": 99.612,
+      "end": 110.343,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-031-012",
+      "text": "He mentally visualizes a complex form from all round itself; he knows while he looks at one side what the other side is like; he identifies himself with its centre of gravity, its mass, its weight; he realizes its volume as the space that the shape displaces in the air.",
+      "start": 111.353,
+      "end": 133.542,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-031-013",
+      "text": "And the sensitive observer of sculpture must also learn to feel shape simply as shape, not as description or reminiscence.",
+      "start": 135.892,
+      "end": 144.882,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-031-014",
+      "text": "He must, for example, perceive an egg as a simple single solid shape quite apart from its significance as food, or from the literary idea that it will become a bird.",
+      "start": 146.032,
+      "end": 158.403,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-031-015",
+      "text": "And so with solids such as a shell, a nut, a plum, a pear, a tadpole, a mushroom, a mountain peak, a kidney, a carrot, a tree-trunk, a bird, a bud, a lark, a ladybird, a bulrush, a bone.",
+      "start": 159.472,
+      "end": 181.602,
+      "score": 0.946,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b4-031-016",
+      "text": "From these he can go on to appreciate more complex forms or combinations of several forms.",
+      "start": 182.652,
+      "end": 189.322,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

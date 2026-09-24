@@ -1,0 +1,114 @@
+{
+  "audioSha256": "65f0d2e8793ea60b18e5eac9b7c1214a02c6775934a67e4d9bcae02fa8725ebd",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-073-001",
+      "text": "Did the boy go where he wanted to?",
+      "start": 13.732,
+      "end": 16.703,
+      "score": 0.995,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-073-002",
+      "text": "Children who play truant from school are unimaginative.",
+      "start": 20.073,
+      "end": 24.582,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-073-003",
+      "text": "A quiet days' fishing, or eight hours in a cinema seeing the same film over and over again, is usually as far as they get.",
+      "start": 26.312,
+      "end": 34.403,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-073-004",
+      "text": "They have all been put to shame by a boy who, while playing truant travelled 1, 600 miles.",
+      "start": 36.073,
+      "end": 44.563,
+      "score": 0.922,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-073-005",
+      "text": "He hitchhiked to Dover and towards evening went into a boat to find somewhere to sleep.",
+      "start": 46.072,
+      "end": 52.743,
+      "score": 0.952,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-073-006",
+      "text": "When he woke up next morning, he discovered that the boat had, in the meantime, travelled to Calais.",
+      "start": 54.252,
+      "end": 62.403,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-073-007",
+      "text": "No one noticed the boy as he crept off.",
+      "start": 63.873,
+      "end": 66.663,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-073-008",
+      "text": "From there, he hitchhiked to Paris in a lorry.",
+      "start": 67.733,
+      "end": 71.723,
+      "score": 0.822,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-073-009",
+      "text": "The driver gave him a few biscuits and a cup of coffee and left him just outside the city.",
+      "start": 73.013,
+      "end": 79.163,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-073-010",
+      "text": "The next car the boy stopped did not take him into the centre of Paris as he hoped it would, but to Perpignan on the French-Spanish border.",
+      "start": 80.653,
+      "end": 90.983,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-073-011",
+      "text": "There he was picked up by a policeman and sent back to England by the local authorities.",
+      "start": 92.112,
+      "end": 98.623,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-073-012",
+      "text": "He has surely set up a record for the thousands of children who dream of evading school.",
+      "start": 99.953,
+      "end": 105.663,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

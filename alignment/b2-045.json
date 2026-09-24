@@ -1,0 +1,87 @@
+{
+  "audioSha256": "a4d024532f47ae96bcaace32ea75876c635cf9da040387f33c13e0595acec27a",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-045-001",
+      "text": "How did Sam get his money back?",
+      "start": 13.432,
+      "end": 15.602,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-045-002",
+      "text": "The whole village soon learnt that a large sum of money had been lost.",
+      "start": 18.433,
+      "end": 23.442,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-045-003",
+      "text": "Sam Benton, the local butcher, had lost his wallet while taking his savings to the post office.",
+      "start": 25.433,
+      "end": 32.403,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-045-004",
+      "text": "Sam was sure that the wallet must have been found by one of the villagers, but it was not returned to him.",
+      "start": 34.013,
+      "end": 41.423,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-045-005",
+      "text": "Three months passed, and then one morning, Sam found his wallet outside his front door.",
+      "start": 43.572,
+      "end": 50.683,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-045-006",
+      "text": "It had been wrapped up in newspaper and it contained half the money he had lost, together with a note which said: 'A thief, yes, but only 50 per cent a thief!'",
+      "start": 52.252,
+      "end": 67.043,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-045-007",
+      "text": "Two months later, some more money was sent to Sam with another note: 'Only 25 per cent a thief now!'",
+      "start": 69.953,
+      "end": 80.303,
+      "score": 0.948,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-045-008",
+      "text": "In time, all Sam's money was paid back in this way.",
+      "start": 82.172,
+      "end": 85.983,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-045-009",
+      "text": "The last note said: 'I am 100 per cent honest now!'",
+      "start": 87.392,
+      "end": 95.783,
+      "score": 0.956,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

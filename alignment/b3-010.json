@@ -1,0 +1,141 @@
+{
+  "audioSha256": "e0bfaa4aeaad7888f6f4d1c37962eaab44b0fcb5b050d7f6c74136f6e646cc89",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-010-001",
+      "text": "What'd have happened if only two of the 16 water-tight compartments had been flooded?",
+      "start": 12.152,
+      "end": 17.462,
+      "score": 0.927,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-010-002",
+      "text": "The great ship, Titanic sailed for New York from Southampton on April 10th, 1912.",
+      "start": 20.253,
+      "end": 28.282,
+      "score": 0.844,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-010-003",
+      "text": "She was carrying 1, 316 passengers and a crew of 891.",
+      "start": 29.532,
+      "end": 36.363,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-010-004",
+      "text": "Even by modern standards, the 46, 000 ton Titanic was a colossal ship.",
+      "start": 37.913,
+      "end": 43.883,
+      "score": 0.925,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-010-005",
+      "text": "At that time, however, she was not only the largest ship that had ever been built, but was regarded as unsinkable, for she had sixteen water-tight compartments.",
+      "start": 45.072,
+      "end": 56.483,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-010-006",
+      "text": "Even if two of these were flooded, she would still be able to float.",
+      "start": 57.853,
+      "end": 61.843,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-010-007",
+      "text": "The tragic sinking of this great liner will always be remembered, for she went down on her first voyage with heavy loss of life.",
+      "start": 63.133,
+      "end": 71.583,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-010-008",
+      "text": "Four days after setting out, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a lookout.",
+      "start": 73.532,
+      "end": 84.263,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-010-009",
+      "text": "After the alarm had been given, the great ship turned sharply to avoid a direct collision.",
+      "start": 85.892,
+      "end": 92.243,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-010-010",
+      "text": "The Titanic turned just in time, narrowly missing the immense wall of ice which rose over 100 feet out of the water beside her.",
+      "start": 93.532,
+      "end": 103.062,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-010-011",
+      "text": "Suddenly, there was a slight trembling sound from below, and the captain went down to see what had happened.",
+      "start": 104.593,
+      "end": 111.503,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-010-012",
+      "text": "The noise had been so faint that no one thought that the ship had been damaged.",
+      "start": 112.752,
+      "end": 117.403,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-010-013",
+      "text": "Below, the captain realized to his horror that the Titanic was sinking rapidly, for five of her sixteen watertight compartments had already been flooded!",
+      "start": 118.573,
+      "end": 129.442,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-010-014",
+      "text": "The order to abandon ship was given and hundreds of people plunged into the icy water.",
+      "start": 130.612,
+      "end": 135.602,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-010-015",
+      "text": "As there were not enough life-boats for everybody, 1, 500 lives were lost.",
+      "start": 136.312,
+      "end": 141.802,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "audioSha256": "551eac311d5a024cc074b530fe30d228cdfc2e1f7a63fea52cd8968981dbad7b",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-017-001",
+      "text": "Why doesn't Aunt Jennifer tell anyone how old she is?",
+      "start": 13.792,
+      "end": 18.922,
+      "score": 0.906,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-017-002",
+      "text": "My aunt Jennifer is an actress.",
+      "start": 21.893,
+      "end": 24.602,
+      "score": 0.848,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-017-003",
+      "text": "She must be at least thirty-five years old.",
+      "start": 25.753,
+      "end": 30.523,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-017-004",
+      "text": "In spite of this, she often appears on the stage as a young girl.",
+      "start": 32.193,
+      "end": 37.743,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-017-005",
+      "text": "Jennifer will have to take part in a new play soon.",
+      "start": 39.472,
+      "end": 42.783,
+      "score": 0.905,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-017-006",
+      "text": "This time, she will be a girl of seventeen.",
+      "start": 43.733,
+      "end": 47.083,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-017-007",
+      "text": "In the play, she must appear in a bright red dress and long black stockings.",
+      "start": 48.333,
+      "end": 54.603,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-017-008",
+      "text": "Last year in another play, she had to wear short socks and a bright, orange-coloured dress.",
+      "start": 55.992,
+      "end": 63.603,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-017-009",
+      "text": "If anyone ever asks her how old she is, she always answers, 'Darling, it must be terrible to be grown up!'",
+      "start": 65.392,
+      "end": 77.823,
+      "score": 0.968,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

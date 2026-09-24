@@ -1,0 +1,258 @@
+{
+  "audioSha256": "d78b351a74d9e894f2eb6a4c9723830cf2b0af5a04cfc2114495070e6ac5ccd4",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b3-043-001",
+      "text": "Who owned the pie dish and why?",
+      "start": 11.972,
+      "end": 14.902,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-002",
+      "text": "Insurance companies are normally willing to insure anything.",
+      "start": 17.652,
+      "end": 21.062,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-003",
+      "text": "Insuring public or private property is a standard practice in most countries in the world.",
+      "start": 22.193,
+      "end": 27.343,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-004",
+      "text": "If, however, you were holding an open air garden party or a fete it would be equally possible to insure yourself in the event of bad weather.",
+      "start": 28.373,
+      "end": 37.423,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-005",
+      "text": "Needless to say, the bigger the risk an insurance company takes, the higher the premium you will have to pay.",
+      "start": 38.573,
+      "end": 45.163,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-006",
+      "text": "It is not uncommon to hear that a shipping company has made a claim for the cost of salvaging a sunken ship.",
+      "start": 45.913,
+      "end": 52.283,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-007",
+      "text": "But the claim made by a local authority to recover the cost of salvaging a sunken pie dish must surely be unique.",
+      "start": 53.093,
+      "end": 61.063,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-008",
+      "text": "Admittedly it was an unusual pie dish, for it was eighteen feet long and six feet wide.",
+      "start": 62.112,
+      "end": 69.643,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-009",
+      "text": "It had been purchased by a local authority so that an enormous pie could be baked for an annual fair.",
+      "start": 70.472,
+      "end": 76.463,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-010",
+      "text": "The pie committee decided that the best way to transport the dish would be by canal so they insured it for the trip.",
+      "start": 77.532,
+      "end": 85.343,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-011",
+      "text": "Shortly after it was launched, the pie committee went to a local inn to celebrate.",
+      "start": 86.073,
+      "end": 91.363,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-012",
+      "text": "At the same time, a number of teenagers climbed on to the dish and held a little party of their own.",
+      "start": 92.373,
+      "end": 98.683,
+      "score": 0.955,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-013",
+      "text": "Dancing proved to be more than the dish could bear, for during the party it capsized and sank in seven feet of water.",
+      "start": 99.672,
+      "end": 108.003,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-014",
+      "text": "The pie committee telephoned a local garage owner who arrived in a recovery truck to salvage the pie dish.",
+      "start": 109.192,
+      "end": 115.943,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-015",
+      "text": "Shivering in their wet clothes, the teenagers looked on while three men dived repeatedly into the water to locate the dish.",
+      "start": 116.733,
+      "end": 125.263,
+      "score": 0.949,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-016",
+      "text": "They had little difficulty in finding it, but hauling it out of the water proved to be a serious problem.",
+      "start": 126.233,
+      "end": 133.082,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-017",
+      "text": "The sides of the dish were so smooth that it was almost impossible to attach hawsers and chains to the rim without damaging it.",
+      "start": 133.932,
+      "end": 142.282,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-018",
+      "text": "Eventually chains were fixed to one end of the dish and a powerful winch was put into operation.",
+      "start": 143.212,
+      "end": 149.202,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-019",
+      "text": "The dish rose to the surface and was gently drawn towards the canal bank.",
+      "start": 150.072,
+      "end": 154.623,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-020",
+      "text": "For one agonizing moment, the dish was perched precariously on the bank of the canal, but it suddenly overbalanced and slid back into the water.",
+      "start": 155.612,
+      "end": 166.463,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-021",
+      "text": "The men were now obliged to try once more.",
+      "start": 167.432,
+      "end": 169.862,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-022",
+      "text": "This time they fixed heavy metal clamps to both sides of the dish so that they could fasten the chains.",
+      "start": 170.832,
+      "end": 177.183,
+      "score": 0.979,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-023",
+      "text": "The dish now had to be lifted vertically because one edge was resting against the side of the canal.",
+      "start": 178.312,
+      "end": 184.683,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-024",
+      "text": "The winch was again put into operation and one of the men started up the truck.",
+      "start": 185.652,
+      "end": 190.662,
+      "score": 0.963,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-025",
+      "text": "Several minutes later, the dish was successfully hauled above the surface of the water.",
+      "start": 191.492,
+      "end": 196.822,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-026",
+      "text": "Water streamed in torrents over its sides with such force that it set up a huge wave in the canal.",
+      "start": 197.772,
+      "end": 204.362,
+      "score": 0.983,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-027",
+      "text": "There was a danger that the wave would rebound off the other side of the bank and send the dish plunging into the water again.",
+      "start": 205.232,
+      "end": 212.942,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b3-043-028",
+      "text": "By working at tremendous speed, the men managed to get the dish on to dry land before the wave returned.",
+      "start": 213.692,
+      "end": 220.282,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

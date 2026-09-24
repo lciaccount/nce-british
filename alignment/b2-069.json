@@ -1,0 +1,141 @@
+{
+  "audioSha256": "0d78d3bd9f59862acf6526adf1eb8ade555193013ad3be5de04b30ec7d895b24",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-069-001",
+      "text": "Do you think that the writer passed his driving test?",
+      "start": 13.612,
+      "end": 17.642,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-069-002",
+      "text": "Why?",
+      "start": 18.812,
+      "end": 19.203,
+      "score": 0.995,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-069-003",
+      "text": "I was being tested for a driving licence for the third time.",
+      "start": 22.973,
+      "end": 27.562,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-069-004",
+      "text": "I had been asked to drive in heavy traffic and had done so successfully.",
+      "start": 29.312,
+      "end": 34.483,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-069-005",
+      "text": "After having been instructed to drive out of town, I began to acquire confidence.",
+      "start": 36.133,
+      "end": 42.563,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-069-006",
+      "text": "Sure that I had passed, I was almost beginning to enjoy my test.",
+      "start": 44.133,
+      "end": 49.703,
+      "score": 0.986,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-069-007",
+      "text": "The examiner must have been pleased with my performance, for he smiled and said, 'Just one more thing Mr. Eames.",
+      "start": 51.133,
+      "end": 60.923,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-069-008",
+      "text": "Let us suppose that a child suddenly crosses the road in front of you.",
+      "start": 62.153,
+      "end": 67.463,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-069-009",
+      "text": "As soon as I tap on the window, you must stop within five feet.'",
+      "start": 69.192,
+      "end": 75.563,
+      "score": 0.966,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-069-010",
+      "text": "I continued driving and after some time, the examiner tapped loudly.",
+      "start": 77.933,
+      "end": 84.323,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-069-011",
+      "text": "Though the sound could be heard clearly, it took me a long time to react.",
+      "start": 85.912,
+      "end": 92.203,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-069-012",
+      "text": "I suddenly pressed the brake pedal hard and we were both thrown forward.",
+      "start": 94.093,
+      "end": 99.463,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-069-013",
+      "text": "The examiner looked at me sadly.",
+      "start": 101.573,
+      "end": 103.868,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-069-014",
+      "text": "'Mr.",
+      "start": 103.868,
+      "end": 106.843,
+      "score": 0.854,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-069-015",
+      "text": "Eames,' he said, in a mournful voice, 'you have just killed that child!'",
+      "start": 106.933,
+      "end": 117.183,
+      "score": 0.917,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

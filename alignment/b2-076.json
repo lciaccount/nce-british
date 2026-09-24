@@ -1,0 +1,123 @@
+{
+  "audioSha256": "92b04e5921278b581a50e9e0f7e100a6f2afdd5be1bbe8b6a3dcdd4378aff171",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-076-001",
+      "text": "What was the joke?",
+      "start": 13.692,
+      "end": 14.997,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-076-002",
+      "text": "'To end our special news bulletin,' said the voice of the television announcer, 'we're going over to the macaroni fields of Calabria.",
+      "start": 14.997,
+      "end": 28.343,
+      "score": 0.926,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-076-003",
+      "text": "Macaroni has been grown in this area for over six hundred years.",
+      "start": 29.672,
+      "end": 35.203,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-076-004",
+      "text": "Two of the leading growers Giuseppe Moldova and Riccardo Brabante, tell me that they have been expecting a splendid crop this year and harvesting has begun earlier than usual.",
+      "start": 36.233,
+      "end": 51.123,
+      "score": 0.935,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-076-005",
+      "text": "Here you can see two workers who, between them, have just finished cutting three cartloads of golden brown macaroni stalks.",
+      "start": 52.712,
+      "end": 63.403,
+      "score": 0.959,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-076-006",
+      "text": "The whole village has been working day and night gathering and threshing this year's crop before the September rains.",
+      "start": 65.032,
+      "end": 73.403,
+      "score": 0.967,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-076-007",
+      "text": "On the right, you can see Mrs. Brabante herself.",
+      "start": 74.593,
+      "end": 78.503,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-076-008",
+      "text": "She has been helping her husband for thirty years now.",
+      "start": 79.413,
+      "end": 83.183,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-076-009",
+      "text": "Mrs. Brabante is talking to the manager of the local factory where the crop is processed.",
+      "start": 84.433,
+      "end": 90.903,
+      "score": 0.925,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-076-010",
+      "text": "This last scene shows you what will happen at the end of the harvest: the famous Calabrian macaroni-eating competition!",
+      "start": 92.653,
+      "end": 102.503,
+      "score": 0.976,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-076-011",
+      "text": "Signor Fratelli, the present champion, has won it every year since 1991.",
+      "start": 103.892,
+      "end": 110.823,
+      "score": 0.709,
+      "timingValid": true,
+      "needsReview": true
+    },
+    {
+      "id": "b2-076-012",
+      "text": "And that ends our special bulletin for today, Thursday, April 1st.",
+      "start": 112.373,
+      "end": 118.343,
+      "score": 0.911,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-076-013",
+      "text": "We're now going back to the studio.'",
+      "start": 119.392,
+      "end": 124.463,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

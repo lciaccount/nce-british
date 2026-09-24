@@ -1,0 +1,114 @@
+{
+  "audioSha256": "527831410ed5c19dff6e7f4fa26e405dfc2217eb8b189f247031fd96d77efb40",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-003-001",
+      "text": "How many cards did the writer send?",
+      "start": 14.092,
+      "end": 17.262,
+      "score": 0.93,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-003-002",
+      "text": "Postcards always spoil my holidays.",
+      "start": 20.172,
+      "end": 23.322,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-003-003",
+      "text": "Last summer, I went to Italy.",
+      "start": 24.473,
+      "end": 26.723,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-003-004",
+      "text": "I visited museums and sat in public gardens.",
+      "start": 27.712,
+      "end": 31.682,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-003-005",
+      "text": "A friendly waiter taught me a few words of Italian.",
+      "start": 32.573,
+      "end": 36.423,
+      "score": 0.988,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-003-006",
+      "text": "Then he lent me a book.",
+      "start": 37.233,
+      "end": 38.543,
+      "score": 0.974,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-003-007",
+      "text": "I read a few lines, but I did not understand a word.",
+      "start": 39.733,
+      "end": 44.303,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-003-008",
+      "text": "Everyday I thought about postcards.",
+      "start": 45.333,
+      "end": 47.863,
+      "score": 0.994,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-003-009",
+      "text": "My holidays passed quickly, but I did not send cards to my friends.",
+      "start": 48.933,
+      "end": 54.123,
+      "score": 0.991,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-003-010",
+      "text": "On the last day I made a big decision.",
+      "start": 55.752,
+      "end": 58.983,
+      "score": 0.987,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-003-011",
+      "text": "I got up early and bought thirty-seven cards.",
+      "start": 59.973,
+      "end": 64.983,
+      "score": 0.972,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-003-012",
+      "text": "I spent the whole day in my room, but I did not write a single card!",
+      "start": 66.733,
+      "end": 73.503,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

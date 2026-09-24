@@ -1,0 +1,96 @@
+{
+  "audioSha256": "0844910b30a31af0f9cc405758d730356f4321522464f5b448f7bd7b45a1525f",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-065-001",
+      "text": "Why did the police have to push Jumbo off the main street?",
+      "start": 14.612,
+      "end": 19.902,
+      "score": 0.975,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-065-002",
+      "text": "Last Christmas, the circus owner, Jimmy Gates, decided to take some presents to a children's hospital.",
+      "start": 22.753,
+      "end": 30.762,
+      "score": 0.98,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-065-003",
+      "text": "Dressed up as Father Christmas and accompanied by a 'guard of honour' of six pretty girls, he set off down the main street of the city riding a baby elephant called Jumbo.",
+      "start": 32.373,
+      "end": 45.583,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-065-004",
+      "text": "He should have known that the police would never allow this sort of thing.",
+      "start": 47.312,
+      "end": 51.803,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-065-005",
+      "text": "A policeman approached Jimmy and told him he ought to have gone along a side street as Jumbo was holding up the traffic.",
+      "start": 53.333,
+      "end": 61.823,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-065-006",
+      "text": "Though Jimmy agreed to go at once, Jumbo refused to move.",
+      "start": 63.752,
+      "end": 68.863,
+      "score": 0.985,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-065-007",
+      "text": "Fifteen policemen had to push very hard to get him off the main street.",
+      "start": 70.172,
+      "end": 75.843,
+      "score": 0.965,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-065-008",
+      "text": "The police had a difficult time, but they were most amused.",
+      "start": 76.992,
+      "end": 81.562,
+      "score": 0.982,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-065-009",
+      "text": "'Jumbo must weigh a few tons,' said a policeman afterwards, 'so it was fortunate that we didn't have to carry him.",
+      "start": 83.112,
+      "end": 92.023,
+      "score": 0.943,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-065-010",
+      "text": "Of course, we should arrest him, but as he has a good record, we shall let him off this time.'",
+      "start": 93.093,
+      "end": 102.583,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

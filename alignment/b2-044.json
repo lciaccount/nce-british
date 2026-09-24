@@ -1,0 +1,87 @@
+{
+  "audioSha256": "e03e1a570b9bba515e9973ac05a0f198a2e3db65742d7b218d637cc2d39e09c1",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-044-001",
+      "text": "How did Mrs. Sterling get her bag back?",
+      "start": 13.212,
+      "end": 16.543,
+      "score": 0.969,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-044-002",
+      "text": "Mrs. Anne Sterling did not think of the risk she was taking when she ran through a forest after two men.",
+      "start": 19.492,
+      "end": 27.822,
+      "score": 0.957,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-044-003",
+      "text": "They had rushed up to her while she was having a picnic at the edge of a forest with her children and tried to steal her handbag.",
+      "start": 29.453,
+      "end": 38.823,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-044-004",
+      "text": "In the struggle, the strap broke and, with the bag in their possession, both men started running through the trees.",
+      "start": 40.333,
+      "end": 49.623,
+      "score": 0.981,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-044-005",
+      "text": "Mrs. Sterling got so angry that she ran after them.",
+      "start": 51.312,
+      "end": 55.043,
+      "score": 0.962,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-044-006",
+      "text": "She was soon out of breath, but she continued to run.",
+      "start": 56.073,
+      "end": 59.923,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-044-007",
+      "text": "When she caught up with them, she saw that they had sat down and were going through the contents of the bag, so she ran straight at them.",
+      "start": 61.973,
+      "end": 71.283,
+      "score": 0.978,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-044-008",
+      "text": "The men got such a fright that they dropped the bag and ran away.",
+      "start": 72.513,
+      "end": 76.528,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-044-009",
+      "text": "'The strap needs mending,' said Mrs. Sterling later, 'but they did not steal anything.'",
+      "start": 76.528,
+      "end": 87.523,
+      "score": 0.917,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "audioSha256": "3a7ae23cfdeaa6ac858e23236ae38a3ed206c6e1b96ac23dd1a4aa0fe50bad51",
+  "method": "wav2vec2-base-960h-ctc-v1",
+  "cues": [
+    {
+      "id": "b2-090-001",
+      "text": "What kind of fish are they?",
+      "start": 12.352,
+      "end": 14.462,
+      "score": 0.99,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-090-002",
+      "text": "Fish and chips has always been a favourite dish in Britain, but as the oceans have been overfished, fish has become more and more expensive.",
+      "start": 17.312,
+      "end": 27.422,
+      "score": 0.929,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-090-003",
+      "text": "So it comes as a surprise to learn that giant fish are terrifying the divers on North Sea oil rigs.",
+      "start": 28.633,
+      "end": 35.923,
+      "score": 0.977,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-090-004",
+      "text": "Oil rigs have to be repaired frequently and divers, who often have to work in darkness a hundred feet under water, have been frightened out of their wits by giant fish bumping into them as they work.",
+      "start": 37.573,
+      "end": 53.223,
+      "score": 0.984,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-090-005",
+      "text": "Now they have had special cages made to protect them from these monsters.",
+      "start": 55.312,
+      "end": 59.583,
+      "score": 0.989,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-090-006",
+      "text": "The fish are not sharks or killer whales, but favourite eating varieties like cod and skate which grow to unnatural sizes, sometimes as much as twelve feet in length.",
+      "start": 61.072,
+      "end": 75.223,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-090-007",
+      "text": "Three factors have caused these fish to grow so large: the warm water round the hot oil pipes under the sea; the plentiful supply of food thrown overboard by the crews on the rigs; the total absence of fishing boats around the oil rigs.",
+      "start": 76.752,
+      "end": 95.203,
+      "score": 0.973,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-090-008",
+      "text": "As a result, the fish just eat and eat and grow and grow in the lovely warm water.",
+      "start": 96.453,
+      "end": 102.323,
+      "score": 0.964,
+      "timingValid": true,
+      "needsReview": false
+    },
+    {
+      "id": "b2-090-009",
+      "text": "Who eats who?",
+      "start": 103.213,
+      "end": 104.062,
+      "score": 0.97,
+      "timingValid": true,
+      "needsReview": false
+    }
+  ]
+}
