@@ -2,4 +2,25 @@
 @media(max-width:760px){#app{padding:0 14px}.top{padding:16px 0}.brand{font-size:14px}.brand b{font-size:22px}.top button{padding:7px;font-size:12px}.intro{padding:25px 0 15px}h1{font-size:29px}#books{gap:5px}#books button{padding:9px 8px;font-size:13px}#books small{font-size:10px}.workspace{grid-template-columns:1fr;gap:18px}#lessons{max-height:190px;grid-template-columns:repeat(2,minmax(0,1fr));gap:3px}#lessons button{font-size:12px;padding:8px}h2{font-size:21px}.lessonHeading>button{font-size:12px;white-space:nowrap}.cue{padding:16px}.cue p{font-size:19px}.controls{gap:9px}#playerBar{gap:9px;flex-wrap:wrap;padding:9px 12px max(9px,env(safe-area-inset-bottom))}#seek{order:3;width:calc(100% - 92px)}#clock{order:4}#playerBar>div{max-width:calc(100% - 90px)}#screen{padding-left:12px;padding-right:12px}#screen header button{font-size:12px;padding:8px}#screen h2{font-size:15px}.controlPanel{padding:12px;gap:9px}#screenText{font-size:calc(29px*var(--font))}.screenBottom{padding-bottom:9px}#screenHero{padding:10px 0}.cueActions{gap:5px}}
 @media(max-height:520px){.screenSettings{max-height:23vh}#screen>header{padding:4px 0}#screenCounter{padding:3px}.screenBottom{padding:4px 0}#lockHint{display:none}#screenText{font-size:calc(25px*var(--font))}}
 #screen.locked .screenSettings{display:block;height:0;max-height:0;visibility:hidden;overflow:hidden}
+/* Compact book tabs and a collapsible course picker leave more room for text. */
+#books{gap:7px;margin-bottom:16px}
+#books button{flex:0 1 auto;text-align:center;padding:6px 14px;min-height:38px;font-size:13px}
+#books small{display:none}
+#lessonPicker{margin-top:12px}
+#lessonPicker summary{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:10px 12px;min-height:44px;list-style:none}
+#lessonPicker summary::-webkit-details-marker{display:none}
+#lessonPicker summary::after{content:'⌄';color:var(--muted)}
+#lessonPicker[open] summary::after{content:'⌃'}
+#lessonChoice{min-width:0;font-size:12px}
+#lessonChoiceCount{margin-left:auto;white-space:nowrap;font-size:11px;color:var(--muted)}
+#lessonPicker #lessons{margin:0;padding:0 6px 6px}
+.barSpeedLabel{flex-shrink:0;font-size:12px;gap:5px}
+#barSpeed{font-size:12px;min-height:36px;padding:5px;width:78px}
+@media(max-width:760px){
+ #books button{flex:1;padding:5px 8px;font-size:12px;min-height:36px}
+ #playerBar>div{max-width:none;min-width:0}
+ #playerBar .barSpeedLabel{font-size:11px;gap:3px}
+ #playerBar #pause{font-size:12px;padding:7px 10px}
+ #barSpeed{width:71px;font-size:11px}
+}
 @media(prefers-reduced-motion:reduce){#swipeIntro{animation:none}}

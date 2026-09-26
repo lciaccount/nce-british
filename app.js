@@ -19,10 +19,10 @@ let returnFocus=null,bodyScroll=0,introTimer=null,gesture=null,editing=null;
 const time=n=>`${Math.floor(Math.max(0,n)/60)}:${String(Math.floor(Math.max(0,n)%60)).padStart(2,'0')}`;
 const cue=()=>lesson.cues[index];
 function save(){Object.assign(prefs,{lesson:lesson.id,index,favorites:[...favorites],mastered:[...mastered],corrections});try{localStorage.setItem(KEY,JSON.stringify(prefs));}catch{status('无法保存设置：浏览器存储空间不足。');}}
-function status(text){$('#playStatus').textContent=text;$('#screenStatus').textContent=text;}
+function status(text){for(const id of ['playStatus','screenStatus'])if($('#'+id).textContent!==text)$('#'+id).textContent=text;}
 function bounds(c){const override=corrections[c.id];return override&&Number.isFinite(override.start)&&Number.isFinite(override.end)?override:c;}
 function valid(c){const b=bounds(c);return b.start>=0&&b.start<b.end&&b.end<=lesson.duration+.01;}
-function stop(){token++;clearTimeout(timer);clearInterval(boundaryTimer);clearTimeout(loadingTimer);audio.onloadedmetadata=null;audio.onseeked=null;audio.onended=null;audio.onerror=null;audio.pause();audio.muted=false;active=false;sync();}
+function stop(){token++;active=false;clearTimeout(timer);clearInterval(boundaryTimer);clearTimeout(loadingTimer);for(const event of ['loadedmetadata','loadeddata','canplay','progress','playing','seeked','waiting','ended','error'])audio['on'+event]=null;audio.pause();sync();}
 function sync(){const text=active?'Ⅱ 暂停':'▶ 继续';$('#pause').textContent=text;$('#screenPause').textContent=text;$('#nowPlaying').textContent=`第 ${lesson.book} 册 · Lesson ${lesson.number} · ${mode==='lesson'?'整课':`第 ${index+1} 句`}`;$('#screenFavorite').textContent=favorites.has(cue().id)?'★ 已收藏':'☆ 收藏';$('#screenMastered').textContent=mastered.has(cue().id)?'✓ 已掌握':'○ 标为掌握';}
 function finishSegment(my){if(my!==token||!active||finishedToken===my)return;finishedToken=my;clearInterval(boundaryTimer);audio.pause();audio.onended=null;completed++;
  if(mode==='lesson'){active=false;status('整课播放完成');sync();return;}
@@ -40,21 +40,45 @@ function play(kind='cues',reset=true){
  const previousCompleted=reset?0:completed;stop();completed=previousCompleted;mode=kind;active=true;
  const my=token, src=new URL(lesson.audio,location.href).href, b=bounds(cue());
  const start=kind==='lesson'?(reset?0:audio.currentTime):b.start;segmentEnd=kind==='lesson'?lesson.duration:b.end;
- const fail=err=>{if(my!==token)return;stop();status(err?.name==='NotAllowedError'?'浏览器需要授权，请点继续。':'音频加载失败，请检查网络或先下载本课，随后点继续。');};
- audio.onerror=()=>fail();audio.onended=()=>finishSegment(my);
- const monitor=()=>{if(my!==token||!active)return;audio.muted=false;clearTimeout(loadingTimer);clearInterval(boundaryTimer);boundaryTimer=setInterval(()=>{if(my===token&&active&&!audio.seeking&&audio.currentTime>=segmentEnd-.025)finishSegment(my);},25);status(kind==='lesson'?'整课播放中':`循环中 · 第 ${completed+1} 遍 · ${prefs.speed.toFixed(2)}×`);};
- const seek=()=>{if(my!==token||!active)return;audio.onseeked=monitor;try{if(Math.abs(audio.currentTime-start)<.02)monitor();else audio.currentTime=start;}catch(e){fail(e);}};
- audio.muted=true;audio.playbackRate=prefs.speed;audio.defaultPlaybackRate=prefs.speed;
+ const fail=err=>{if(my!==token||finishedToken===my)return;stop();status(err?.name==='NotAllowedError'?'浏览器需要授权，请点继续。':'音频加载失败，请检查网络或先下载本课，随后点继续。');};
+ audio.onerror=()=>fail();audio.onended=()=>{if(located&&audio.currentTime>=segmentEnd-.08)finishSegment(my);};
+ let located=false,seekRequested=false,lastSeek=-Infinity,lastTime=start,lastProgress=performance.now();
+ const playingText=()=>status(kind==='lesson'?'整课播放中':`循环中 · 第 ${completed+1} 遍 · ${prefs.speed.toFixed(2)}×`);
+ const inspect=()=>{
+  if(my!==token||!active||finishedToken===my)return;
+  const now=performance.now();
+  if(!located){
+   if(audio.readyState<1)return;
+   const atStart=audio.currentTime>=start-.06&&audio.currentTime<Math.min(segmentEnd,start+.5);
+   // Safari may ignore a seek while only metadata (not seekable data) is ready.
+   // Recheck state rather than depending on a single seeked/canplay event.
+   if((!seekRequested||!atStart)&&!audio.seeking&&now-lastSeek>=300){
+    lastSeek=now;seekRequested=true;
+    try{if(Math.abs(audio.currentTime-start)>.015)audio.currentTime=start;}catch{return;}
+   }
+   if(!seekRequested||audio.seeking||audio.paused||audio.readyState<2||audio.currentTime<start-.06||audio.currentTime>=Math.min(segmentEnd,start+.5))return;
+   located=true;lastTime=audio.currentTime;lastProgress=now;clearTimeout(loadingTimer);playingText();
+  }
+  if(!audio.seeking&&audio.currentTime>=segmentEnd-.025){finishSegment(my);return;}
+  if(audio.currentTime>lastTime+.005){lastTime=audio.currentTime;lastProgress=now;playingText();}
+  else if(now-lastProgress>25000)fail();
+ };
+ for(const event of ['loadedmetadata','loadeddata','canplay','progress','playing','seeked'])audio['on'+event]=inspect;
+ audio.onwaiting=()=>{if(my===token&&active&&located)status('正在缓冲，请稍候…');};
+ // Obtain audible playback permission in the original user gesture. Never start
+ // muted and unmute from an asynchronous seek callback (Safari may suspend it).
+ audio.muted=false;audio.playbackRate=prefs.speed;audio.defaultPlaybackRate=prefs.speed;
  loadingTimer=setTimeout(()=>fail(),25000);status('音频加载中…');
- if(audio.src!==src){audio.src=src;audio.onloadedmetadata=seek;}else if(audio.readyState>=1)seek();else audio.onloadedmetadata=seek;
- // Called synchronously from click/swipe: preserve the iPhone gesture permission.
- try{const p=audio.play();p?.catch(fail);}catch(e){fail(e);}
+ if(audio.src!==src){audio.src=src;audio.load();}
+ inspect();
+ boundaryTimer=setInterval(inspect,25);
+ try{const p=audio.play();p?.then(inspect).catch(fail);}catch(e){fail(e);}
  sync();
 }
 function togglePlay(){if(active){stop();status('已暂停');}else play(mode||'cues',false);}
 function choose(l){stop();lesson=l;book=l.book;index=0;completed=0;rangeStart=0;rangeEnd=l.cues.length-1;auto=false;mode=null;save();render();}
 function renderBooks(){$('#books').innerHTML=[1,2,3,4].map(b=>`<button data-book="${b}" class="${book===b?'active':''}" aria-pressed="${book===b}">第 ${b} 册<small>${data.filter(l=>l.book===b).length} 课 · ${['基础入门','实践进阶','熟练运用','流利表达'][b-1]}</small></button>`).join('');}
-function renderLessons(){const q=$('#search').value.trim().toLowerCase();const list=data.filter(l=>l.book===book&&(!$('#onlyFavorites').checked||l.cues.some(c=>favorites.has(c.id)))&&(!q||`${l.number} ${l.title} ${l.cues.map(c=>c.text).join(' ')}`.toLowerCase().includes(q)));$('#lessons').innerHTML=list.map(l=>`<button data-lesson="${l.id}" class="${lesson.id===l.id?'active':''}" aria-current="${lesson.id===l.id?'true':'false'}"><small>LESSON ${l.number} · ${l.cues.length} 句</small>${esc(l.title)}</button>`).join('')||'<p>没有找到匹配课程。</p>';}
+function renderLessons(){const q=$('#search').value.trim().toLowerCase();const list=data.filter(l=>l.book===book&&(!$('#onlyFavorites').checked||l.cues.some(c=>favorites.has(c.id)))&&(!q||`${l.number} ${l.title} ${l.cues.map(c=>c.text).join(' ')}`.toLowerCase().includes(q)));$('#lessonChoice').textContent=`选课 · 第 ${book} 册 · 当前 Lesson ${lesson.number}`;$('#lessonChoiceCount').textContent=`${list.length} 课`;$('#lessons').innerHTML=list.map(l=>`<button data-lesson="${l.id}" class="${lesson.id===l.id?'active':''}" aria-current="${lesson.id===l.id?'true':'false'}"><small>LESSON ${l.number} · ${l.cues.length} 句</small>${esc(l.title)}</button>`).join('')||'<p>没有找到匹配课程。</p>';}
 function renderTranscript(){$('#transcript').innerHTML=lesson.cues.map((c,i)=>`<article class="cue ${i===index?'current':''} ${mastered.has(c.id)?'mastered':''}" data-cue="${i}"><div class="cueTop"><span>${String(i+1).padStart(2,'0')} · ${time(bounds(c).start)}–${time(bounds(c).end)}</span><span class="badTime">${!valid(c)?'时间轴待校准':c.needsReview?'自动对齐待复核':''}</span></div><p lang="en">${esc(c.text)}</p><div class="cueActions"><button data-action="play">▶ 播放</button><button data-action="screen">↕ 大屏</button><button data-action="favorite" aria-pressed="${favorites.has(c.id)}">${favorites.has(c.id)?'★ 已收藏':'☆ 收藏'}</button><button data-action="mastered" aria-pressed="${mastered.has(c.id)}">${mastered.has(c.id)?'✓ 已掌握':'○ 标为掌握'}</button><button data-action="timing">校准</button></div></article>`).join('');}
 function renderCurrent(){document.querySelectorAll('.cue.current').forEach(el=>el.classList.remove('current'));$(`[data-cue="${index}"]`)?.classList.add('current');if(screen)renderScreen();save();sync();}
 function render(){renderBooks();renderLessons();$('#lessonLabel').textContent=`BOOK ${book} · LESSON ${lesson.number}`;$('#lessonTitle').textContent=lesson.title;$('#sourceWarning').textContent=lesson.aligned?'按英文完整句切分，时间轴由本地声学模型重新对齐；低置信度句子已标注，可手动复核。':'时间轴来自原 LRC，尚未完成逐句对齐；整课原声可直接播放。';renderTranscript();fillDownloads();fillRange();renderCurrent();}
@@ -70,8 +94,8 @@ function openScreen(i=index){returnFocus=document.activeElement;bodyScroll=scrol
 function closeScreen(){if(locked)return;stop();screen=false;clearTimeout(introTimer);$('#swipeIntro').hidden=true;$('#screen').hidden=true;$('#app').inert=$('#playerBar').inert=false;document.body.classList.remove('screenOpen');if(document.fullscreenElement)document.exitFullscreen().catch(()=>{});window.scrollTo(0,bodyScroll);returnFocus?.isConnected&&returnFocus.focus();}
 function lock(){locked=!locked;$('#screen').classList.toggle('locked',locked);$('#lock').textContent=locked?'解锁':'锁定';$('#lock').setAttribute('aria-pressed',String(locked));$('#lockHint').textContent=locked?'已锁定 · 仅可上下滑动 · 点击右上角解锁':'上滑下一句 · 下滑上一句';for(const el of document.querySelectorAll('.screenSettings,#exitScreen,.screenBottom label,.two,#screenHero button'))el.inert=locked;$('#screenCard').focus();}
 $('#books').onclick=e=>{const b=e.target.closest('[data-book]');if(b)choose(data.find(l=>l.book===Number(b.dataset.book)));};
-$('#lessons').onclick=e=>{const el=e.target.closest('[data-lesson]');if(el)choose(data.find(l=>l.id===el.dataset.lesson));};
-$('#search').oninput=renderLessons;$('#onlyFavorites').onchange=renderLessons;
+$('#lessons').onclick=e=>{const el=e.target.closest('[data-lesson]');if(el){choose(data.find(l=>l.id===el.dataset.lesson));$('#lessonPicker').open=false;$('#lessonPicker summary').focus({preventScroll:true});}};
+$('#search').oninput=()=>{renderLessons();$('#lessonPicker').open=true;};$('#onlyFavorites').onchange=()=>{renderLessons();$('#lessonPicker').open=true;};
 $('#transcript').onclick=e=>{const b=e.target.closest('[data-action]'),row=b?.closest('[data-cue]');if(!b||!row)return;const i=Number(row.dataset.cue),c=lesson.cues[i];if(b.dataset.action==='favorite')return mark(favorites,c.id);if(b.dataset.action==='mastered')return mark(mastered,c.id);if(b.dataset.action==='timing'){editing=c;$('#timingText').textContent=c.text;$('#timingStart').value=bounds(c).start;$('#timingEnd').value=bounds(c).end;$('#timingError').textContent='';$('#timingDialog').showModal();return;}index=i;renderCurrent();if(b.dataset.action==='screen')openScreen(i);else play();};
 $('#playLesson').onclick=()=>play('lesson');$('#playCues').onclick=()=>play();$('#pause').onclick=togglePlay;$('#screenPause').onclick=togglePlay;
 $('#openScreen').onclick=()=>openScreen();$('#exitScreen').onclick=closeScreen;$('#lock').onclick=lock;
@@ -79,7 +103,7 @@ $('#reveal').onclick=()=>{$('#screenText').hidden=false;$('#reveal').hidden=true
 $('#screenFavorite').onclick=()=>mark(favorites,cue().id);$('#screenMastered').onclick=()=>mark(mastered,cue().id);
 $('#detailsToggle').onclick=()=>{details=!details;renderContext();};
 $('#screenForm').onsubmit=e=>{e.preventDefault();const a=Number($('#rangeStart').value),b=Number($('#rangeEnd').value),r=Number($('#screenRepeats').value);if(![a,b,r].every(Number.isInteger)||a<1||b>lesson.cues.length||a>b||r<1||r>100){$('#rangeError').textContent='请输入有效的课内句子区间和 1–100 遍次数。';return;}rangeStart=a-1;rangeEnd=b-1;screenRepeats=r;auto=$('#autoNext').checked;loop=$('#loopRange').checked;index=rangeStart;$('#rangeError').textContent='';fillRange();$('#screenPlayback').open=false;renderCurrent();play();};
-for(const id of ['speed','screenSpeed']){$('#'+id).innerHTML=Array.from({length:31},(_,i)=>{const v=((50+5*i)/100).toFixed(2);return `<option value="${v}">${v}×</option>`;}).join('');$('#'+id).value=prefs.speed.toFixed(2);$('#'+id).onchange=e=>{prefs.speed=Number(e.target.value);audio.playbackRate=audio.defaultPlaybackRate=prefs.speed;$('#speed').value=$('#screenSpeed').value=prefs.speed.toFixed(2);save();};}
+for(const id of ['speed','barSpeed','screenSpeed']){$('#'+id).innerHTML=Array.from({length:31},(_,i)=>{const v=((50+5*i)/100).toFixed(2);return `<option value="${v}">${v}×</option>`;}).join('');$('#'+id).value=prefs.speed.toFixed(2);$('#'+id).onchange=e=>{prefs.speed=Number(e.target.value);audio.playbackRate=audio.defaultPlaybackRate=prefs.speed;for(const key of ['speed','barSpeed','screenSpeed'])$('#'+key).value=prefs.speed.toFixed(2);save();};}
 $('#gap').value=String(prefs.gap);$('#gap').onchange=e=>{prefs.gap=Number(e.target.value);save();};$('#repeat').value=String(prefs.repeat);$('#repeat').onchange=e=>{prefs.repeat=Number(e.target.value);save();};
 function applyDisplay(){document.body.classList.toggle('dark',prefs.theme==='dark');$('#screen').style.setProperty('--font',prefs.font/100);$('#fontSize').value=prefs.font;$('#fontValue').textContent=prefs.font+'%';$('#hideText').checked=!!prefs.hide;$('#defaultDetails').checked=!!prefs.details;}
 $('#theme').onclick=()=>{prefs.theme=prefs.theme==='dark'?'light':'dark';applyDisplay();save();};$('#fontSize').oninput=e=>{prefs.font=Number(e.target.value);applyDisplay();save();};$('#hideText').onchange=e=>{prefs.hide=e.target.checked;renderScreen();save();};$('#defaultDetails').onchange=e=>{prefs.details=e.target.checked;details=prefs.details;renderContext();save();};

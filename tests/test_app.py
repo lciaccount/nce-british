@@ -74,6 +74,8 @@ def main():
             page.locator('#openScreen').click()
             assert page.locator('#swipeIntro').is_visible()
             page.wait_for_function('document.querySelector("#audio").currentTime>0 && !document.querySelector("#audio").paused')
+            page.wait_for_function('playEvents.length>0')
+            assert page.evaluate('playEvents[0].time')>=source['lessons'][0]['cues'][0]['start']-.06
             page.wait_for_timeout(1600)
             assert page.locator('#swipeIntro').is_hidden()
             original=page.locator('#screenText').inner_text()
@@ -144,6 +146,7 @@ def main():
             context.set_offline(True)
             page.reload(wait_until='networkidle')
             assert page.locator('#fontSize').input_value()=='150'
+            page.locator('#lessonPicker summary').click()
             page.locator('[data-lesson="b1-003"]').click()
             page.locator('[data-cue="0"] [data-action="play"]').click()
             page.wait_for_function('document.querySelector("#audio").currentTime>0&&!document.querySelector("#audio").paused',timeout=10000)
