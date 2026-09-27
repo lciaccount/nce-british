@@ -1,4 +1,4 @@
-const SHELL='nce-shell-v3-safari-20260926', AUDIO='nce-audio-v1';
+const SHELL='nce-shell-v4-alignment-20260927', AUDIO='nce-audio-v1';
 const ASSETS=['./','./index.html','./app.css','./app.js','./content.js','./manifest.webmanifest','./icon.svg','./audio-index.json'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(SHELL).then(c=>c.addAll(ASSETS.map(path=>new Request(path,{cache:'reload'})))).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil((async()=>{for(const name of await caches.keys())if(name.startsWith('nce-shell-')&&name!==SHELL)await caches.delete(name);await self.clients.claim();})()));

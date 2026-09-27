@@ -23,4 +23,7 @@
  #playerBar #pause{font-size:12px;padding:7px 10px}
  #barSpeed{width:71px;font-size:11px}
 }
+.originalSentence{margin:0 0 12px;padding:8px 12px;border-left:3px solid var(--accent);font-size:13px}
+.originalSentence summary{cursor:pointer}
+.originalSentence p{font-size:15px;line-height:1.7;margin:8px 0 0}
 @media(prefers-reduced-motion:reduce){#swipeIntro{animation:none}}

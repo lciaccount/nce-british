@@ -38,7 +38,8 @@ def main():
     source=json.loads((ROOT/'content.js').read_text().removeprefix('window.NCE_DATA=').strip().removesuffix(';'))
     assert len(source['lessons'])==276
     assert all(l.get('aligned') for l in source['lessons'])
-    assert sum(len(l['cues']) for l in source['lessons'])==4670
+    assert source['originalSentences']==4670
+    assert sum(len(l['cues']) for l in source['lessons'])>4670
     assert any(c['text']=='Excuse me!' for c in source['lessons'][0]['cues'])
     assert len({c['id'] for l in source['lessons'] for c in l['cues']})==sum(len(l['cues']) for l in source['lessons'])
     server=ThreadingHTTPServer(('127.0.0.1',0),partial(Handler,directory=str(ROOT)))

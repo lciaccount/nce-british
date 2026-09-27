@@ -1,0 +1,14 @@
+{
+  "method": "dual-ctc-words-pauses-v7",
+  "lessons": 276,
+  "originalSentences": 4670,
+  "segments": 5395,
+  "splitOriginals": 601,
+  "longBefore": 274,
+  "longAfter": 9,
+  "maxDurationBefore": 36.83,
+  "maxDurationAfter": 17.68,
+  "boundaryShiftMedian": 0.058,
+  "reviewSegments": 245,
+  "note": "Automatic word alignment and pause-aware edges, not a human listening certification. Original audio and text preserved."
+}

@@ -7,7 +7,19 @@
     "end": 22.062,
     "score": 0.665,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b1-005-003",
+    "sourceIndex": 2,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      4
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
   },
   {
     "lesson": "b1-005",
@@ -17,7 +29,19 @@
     "end": 78.863,
     "score": 0.75,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b1-005-019",
+    "sourceIndex": 18,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      4
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
   },
   {
     "lesson": "b1-009",
@@ -27,17 +51,19 @@
     "end": 53.383,
     "score": 0.612,
     "timingValid": true,
-    "needsReview": true
-  },
-  {
-    "lesson": "b1-017",
-    "id": "b1-017-013",
-    "text": "They're sales reps.",
-    "start": 65.112,
-    "end": 66.763,
-    "score": 0.793,
-    "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b1-009-015",
+    "sourceIndex": 14,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      1
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
   },
   {
     "lesson": "b1-019",
@@ -47,17 +73,41 @@
     "end": 52.763,
     "score": 0.716,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b1-019-011",
+    "sourceIndex": 10,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      2
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
   },
   {
-    "lesson": "b1-061",
-    "id": "b1-061-003",
-    "text": "He's in bed.",
-    "start": 18.613,
-    "end": 19.523,
-    "score": 0.715,
+    "lesson": "b1-043",
+    "id": "b1-043-014",
+    "text": "There are some in the cupboard.",
+    "start": 59.392,
+    "end": 61.423,
+    "score": 0.903,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b1-043-014",
+    "sourceIndex": 13,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      6
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
   },
   {
     "lesson": "b1-061",
@@ -67,47 +117,195 @@
     "end": 41.303,
     "score": 0.388,
     "timingValid": true,
-    "needsReview": true
-  },
-  {
-    "lesson": "b1-061",
-    "id": "b1-061-013",
-    "text": "Say, 'Ah'.",
-    "start": 48.053,
-    "end": 49.563,
-    "score": 0.736,
-    "timingValid": true,
-    "needsReview": true
-  },
-  {
-    "lesson": "b1-065",
-    "id": "b1-065-023",
-    "text": "Bye-bye.",
-    "start": 78.972,
-    "end": 79.443,
-    "score": 0.74,
-    "timingValid": true,
-    "needsReview": true
-  },
-  {
-    "lesson": "b1-069",
-    "id": "b1-069-001",
-    "text": "Which car was the winner in 1995?",
-    "start": 12.852,
-    "end": 16.183,
-    "score": 0.606,
-    "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b1-061-010",
+    "sourceIndex": 9,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      2
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
   },
   {
     "lesson": "b1-069",
     "id": "b1-069-003",
+    "sourceId": "b1-069-003",
+    "sourceIndex": 2,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      8
+    ],
+    "wordModel": "english-ctc-fallback",
     "text": "In 1995, there was a very big race.",
-    "start": 22.397,
-    "end": 27.922,
-    "score": 0.634,
+    "start": 23.64,
+    "end": 28.01,
+    "score": 0.994,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b1-069",
+    "id": "b1-069-016",
+    "sourceId": "b1-069-016",
+    "sourceIndex": 15,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      4
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "You're not Billy Stewart!'",
+    "start": 83.74,
+    "end": 85.39,
+    "score": 0.91,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b1-071",
+    "id": "b1-071-016",
+    "text": "What did you say to him?",
+    "start": 71.493,
+    "end": 72.703,
+    "score": 0.862,
+    "timingValid": true,
+    "needsReview": true,
+    "sourceId": "b1-071-016",
+    "sourceIndex": 15,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      6
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
+  },
+  {
+    "lesson": "b1-073",
+    "id": "b1-073-005",
+    "sourceId": "b1-073-005",
+    "sourceIndex": 4,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      10
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'I can ask him the way,' she said to herself.",
+    "start": 32.823,
+    "end": 36.18,
+    "score": 0.996,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b1-073",
+    "id": "b1-073-006",
+    "sourceId": "b1-073-006",
+    "sourceIndex": 5,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      4
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Excuse me,' she said.",
+    "start": 38.03,
+    "end": 40.04,
+    "score": 0.993,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b1-073",
+    "id": "b1-073-007",
+    "sourceId": "b1-073-007",
+    "sourceIndex": 6,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      10
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Can you tell me the way to King Street, please?'",
+    "start": 41.36,
+    "end": 44.27,
+    "score": 0.99,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b1-073",
+    "id": "b1-073-015",
+    "sourceId": "b1-073-015",
+    "sourceIndex": 14,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      5
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'I am sorry,' he said.",
+    "start": 72.762,
+    "end": 76.41,
+    "score": 0.995,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b1-073",
+    "id": "b1-073-016",
+    "sourceId": "b1-073-016",
+    "sourceIndex": 15,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      5
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'I do not speak English.'",
+    "start": 77.642,
+    "end": 82.48,
+    "score": 0.99,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
   },
   {
     "lesson": "b1-081",
@@ -117,7 +315,19 @@
     "end": 27.883,
     "score": 0.736,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b1-081-008",
+    "sourceIndex": 7,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      2
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
   },
   {
     "lesson": "b1-083",
@@ -127,17 +337,19 @@
     "end": 19.562,
     "score": 0.644,
     "timingValid": true,
-    "needsReview": true
-  },
-  {
-    "lesson": "b1-083",
-    "id": "b1-083-003",
-    "text": "Come in.",
-    "start": 19.873,
-    "end": 20.383,
-    "score": 0.647,
-    "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b1-083-002",
+    "sourceIndex": 1,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      2
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
   },
   {
     "lesson": "b1-085",
@@ -147,27 +359,86 @@
     "end": 20.842,
     "score": 0.661,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b1-085-002",
+    "sourceIndex": 1,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      2
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
   },
   {
     "lesson": "b1-087",
     "id": "b1-087-005",
+    "sourceId": "b1-087-005",
+    "sourceIndex": 4,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      11
+    ],
+    "wordModel": "mms-fa",
     "text": "It's LFZ 312 G. When did you bring it to us?",
-    "start": 26.832,
-    "end": 35.783,
-    "score": 0.778,
+    "start": 26.78,
+    "end": 35.94,
+    "score": 0.861,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence",
+      "stretched-word"
+    ]
   },
   {
     "lesson": "b1-089",
     "id": "b1-089-012",
+    "sourceId": "b1-089-012",
+    "sourceIndex": 11,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      6
+    ],
+    "wordModel": "english-ctc-fallback",
     "text": "Yes, I've been here since 1976.",
-    "start": 44.712,
-    "end": 48.983,
-    "score": 0.595,
+    "start": 44.69,
+    "end": 49.223,
+    "score": 0.981,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "stretched-word"
+    ]
+  },
+  {
+    "lesson": "b1-091",
+    "id": "b1-091-002",
+    "text": "Has Ian sold his house yet?",
+    "start": 16.953,
+    "end": 19.302,
+    "score": 0.871,
+    "timingValid": true,
+    "needsReview": true,
+    "sourceId": "b1-091-002",
+    "sourceIndex": 1,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      6
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
   },
   {
     "lesson": "b1-091",
@@ -177,7 +448,19 @@
     "end": 82.543,
     "score": 0.657,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b1-091-022",
+    "sourceIndex": 21,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      2
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
   },
   {
     "lesson": "b1-097",
@@ -187,7 +470,41 @@
     "end": 73.443,
     "score": 0.742,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b1-097-016",
+    "sourceIndex": 15,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      3
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
+  },
+  {
+    "lesson": "b1-101",
+    "id": "b1-101-004",
+    "sourceId": "b1-101-004",
+    "sourceIndex": 3,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      13
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'I have just arrived in Scotland and I'm staying at a Youth Hostel.'",
+    "start": 28.84,
+    "end": 33.733,
+    "score": 0.979,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
   },
   {
     "lesson": "b1-101",
@@ -197,7 +514,63 @@
     "end": 35.263,
     "score": 0.155,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b1-101-005",
+    "sourceIndex": 4,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      1
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
+  },
+  {
+    "lesson": "b1-101",
+    "id": "b1-101-013",
+    "sourceId": "b1-101-013",
+    "sourceIndex": 12,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      5
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'I'll write a letter soon.",
+    "start": 62.85,
+    "end": 64.79,
+    "score": 0.973,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b1-105",
+    "id": "b1-105-012",
+    "sourceId": "b1-105-012",
+    "sourceIndex": 11,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      3
+    ],
+    "wordModel": "mms-fa",
+    "text": "I-N-T-E-L-L-I-G-E-N-T. That's right.",
+    "start": 41.863,
+    "end": 51.12,
+    "score": 0.811,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "stretched-word"
+    ]
   },
   {
     "lesson": "b1-113",
@@ -207,17 +580,19 @@
     "end": 18.203,
     "score": 0.673,
     "timingValid": true,
-    "needsReview": true
-  },
-  {
-    "lesson": "b1-113",
-    "id": "b1-113-014",
-    "text": "I'm afraid I can't.",
-    "start": 48.553,
-    "end": 49.623,
-    "score": 0.578,
-    "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b1-113-002",
+    "sourceIndex": 1,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      2
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
   },
   {
     "lesson": "b1-113",
@@ -227,7 +602,19 @@
     "end": 71.083,
     "score": 0.645,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b1-113-021",
+    "sourceIndex": 20,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      3
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
   },
   {
     "lesson": "b1-115",
@@ -237,7 +624,19 @@
     "end": 48.323,
     "score": 0.642,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b1-115-015",
+    "sourceIndex": 14,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      2
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
   },
   {
     "lesson": "b1-115",
@@ -247,27 +646,965 @@
     "end": 62.183,
     "score": 0.68,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b1-115-022",
+    "sourceIndex": 21,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      3
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
+  },
+  {
+    "lesson": "b1-117",
+    "id": "b1-117-012",
+    "sourceId": "b1-117-012",
+    "sourceIndex": 11,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      21
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'I don't know,' I answered, 'Tommy's been to the toilet three times this morning, but I haven't had any change yet!'",
+    "start": 65.11,
+    "end": 73.54,
+    "score": 0.984,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b1-119",
+    "id": "b1-119-009",
+    "sourceId": "b1-119-009",
+    "sourceIndex": 8,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      2
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'What's up?",
+    "start": 50.0,
+    "end": 50.61,
+    "score": 0.972,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b1-119",
+    "id": "b1-119-019",
+    "sourceId": "b1-119-019",
+    "sourceIndex": 18,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      6
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Nothing, Henry,' George said and smiled.",
+    "start": 78.38,
+    "end": 80.66,
+    "score": 0.974,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b1-119",
+    "id": "b1-119-020",
+    "sourceId": "b1-119-020",
+    "sourceIndex": 19,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      4
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Go back to sleep.'",
+    "start": 81.14,
+    "end": 82.06,
+    "score": 0.98,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b1-123",
+    "id": "b1-123-013",
+    "text": "Ah yes.",
+    "start": 48.413,
+    "end": 49.123,
+    "score": 0.859,
+    "timingValid": true,
+    "needsReview": true,
+    "sourceId": "b1-123-013",
+    "sourceIndex": 12,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      2
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
+  },
+  {
+    "lesson": "b1-125",
+    "id": "b1-125-002",
+    "text": "Can't you come in and have tea now, Peter?",
+    "start": 18.753,
+    "end": 21.162,
+    "score": 0.862,
+    "timingValid": true,
+    "needsReview": true,
+    "sourceId": "b1-125-002",
+    "sourceIndex": 1,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      9
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
+  },
+  {
+    "lesson": "b1-133",
+    "id": "b1-133-009",
+    "text": "Let's buy a newspaper, Liz.",
+    "start": 38.433,
+    "end": 40.203,
+    "score": 0.824,
+    "timingValid": true,
+    "needsReview": true,
+    "sourceId": "b1-133-009",
+    "sourceIndex": 8,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      5
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
+  },
+  {
+    "lesson": "b1-133",
+    "id": "b1-133-011",
+    "sourceId": "b1-133-011",
+    "sourceIndex": 10,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      4
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Karen Marsh: Sensational News!",
+    "start": 42.56,
+    "end": 45.41,
+    "score": 0.911,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
   },
   {
     "lesson": "b1-135",
-    "id": "b1-135-012",
-    "text": "Look, Liz!",
-    "start": 44.953,
-    "end": 45.623,
-    "score": 0.783,
+    "id": "b1-135-020",
+    "text": "That's sensational news, isn't it, Kate?",
+    "start": 79.133,
+    "end": 81.883,
+    "score": 0.806,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b1-135-020",
+    "sourceIndex": 19,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      6
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
   },
   {
-    "lesson": "b2-010",
-    "id": "b2-010-004",
-    "text": "It was made in Germany in 1681.",
-    "start": 28.573,
-    "end": 31.762,
-    "score": 0.602,
+    "lesson": "b1-141",
+    "id": "b1-141-007",
+    "sourceId": "b1-141-007",
+    "sourceIndex": 6,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      5
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Hello, little girl,' she said.",
+    "start": 50.84,
+    "end": 53.26,
+    "score": 0.937,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b1-141",
+    "id": "b1-141-012",
+    "sourceId": "b1-141-012",
+    "sourceIndex": 11,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      5
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Why are you doing that?'",
+    "start": 78.05,
+    "end": 80.08,
+    "score": 0.927,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b1-141",
+    "id": "b1-141-016",
+    "sourceId": "b1-141-016",
+    "sourceIndex": 15,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      7
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'But you are still ugly,' Sally said.",
+    "start": 94.48,
+    "end": 97.77,
+    "score": 0.997,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b1-143",
+    "id": "b1-143-011",
+    "sourceId": "b1-143-011",
+    "sourceIndex": 10,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      19
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "Among the rubbish, I found a sign which said, 'Anyone who leaves litter in these woods will be prosecuted!'",
+    "start": 72.7,
+    "end": 80.62,
+    "score": 0.977,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-001",
+    "id": "b2-001-006",
+    "sourceId": "b2-001-006",
+    "sourceIndex": 5,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      11
+    ],
+    "wordModel": "mms-fa",
+    "text": "A young man and a young woman were sitting behind me.",
+    "start": 33.54,
+    "end": 37.45,
+    "score": 0.923,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b2-001",
+    "id": "b2-001-015",
+    "sourceId": "b2-001-015",
+    "sourceIndex": 14,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      5
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'I can't hear a word!'",
+    "start": 62.51,
+    "end": 64.66,
+    "score": 0.973,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-001",
+    "id": "b2-001-018",
+    "sourceId": "b2-001-018",
+    "sourceIndex": 17,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      5
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'This is a private conversation!'",
+    "start": 71.8,
+    "end": 74.09,
+    "score": 0.984,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-002",
+    "id": "b2-002-008",
+    "sourceId": "b2-002-008",
+    "sourceIndex": 7,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      3
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'What a day!'",
+    "start": 42.35,
+    "end": 43.71,
+    "score": 0.999,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-002",
+    "id": "b2-002-013",
+    "sourceId": "b2-002-013",
+    "sourceIndex": 12,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      7
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'I've just arrived by train,' she said.",
+    "start": 55.69,
+    "end": 59.22,
+    "score": 0.982,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-002",
+    "id": "b2-002-014",
+    "sourceId": "b2-002-014",
+    "sourceIndex": 13,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      5
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'I'm coming to see you.'",
+    "start": 59.75,
+    "end": 61.203,
+    "score": 0.993,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-002",
+    "id": "b2-002-015",
+    "sourceId": "b2-002-015",
+    "sourceIndex": 14,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      7
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'But I'm still having breakfast,' I said.",
+    "start": 63.03,
+    "end": 66.36,
+    "score": 0.993,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-002",
+    "id": "b2-002-016",
+    "sourceId": "b2-002-016",
+    "sourceIndex": 15,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      4
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'What are you doing?'",
+    "start": 67.79,
+    "end": 69.08,
+    "score": 0.988,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-002",
+    "id": "b2-002-019",
+    "sourceId": "b2-002-019",
+    "sourceIndex": 18,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      4
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Dear me,' she said.",
+    "start": 76.7,
+    "end": 79.03,
+    "score": 0.995,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-011",
+    "id": "b2-011-009",
+    "sourceId": "b2-011-009",
+    "sourceIndex": 8,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      18
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'I have never borrowed any money from you,' Tony said, 'so now you can pay for my dinner!'",
+    "start": 64.47,
+    "end": 71.12,
+    "score": 0.988,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-015",
+    "id": "b2-015-009",
+    "sourceId": "b2-015-009",
+    "sourceIndex": 8,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      1
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Mr.",
+    "start": 57.19,
+    "end": 57.892,
+    "score": 0.969,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-015",
+    "id": "b2-015-011",
+    "sourceId": "b2-015-011",
+    "sourceIndex": 10,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      4
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Don't interrupt,' he said.",
+    "start": 63.58,
+    "end": 65.97,
+    "score": 0.978,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-017",
+    "id": "b2-017-009",
+    "sourceId": "b2-017-009",
+    "sourceIndex": 8,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      21
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "If anyone ever asks her how old she is, she always answers, 'Darling, it must be terrible to be grown up!'",
+    "start": 65.37,
+    "end": 75.19,
+    "score": 0.992,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-018",
+    "id": "b2-018-005",
+    "sourceId": "b2-018-005",
+    "sourceIndex": 4,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      6
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Did you have a good meal?'",
+    "start": 40.19,
+    "end": 42.142,
+    "score": 0.994,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-018",
+    "id": "b2-018-007",
+    "sourceId": "b2-018-007",
+    "sourceIndex": 6,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      11
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Yes, thank you,' I answered, 'but I can't pay the bill.",
+    "start": 44.5,
+    "end": 50.03,
+    "score": 0.972,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-018",
+    "id": "b2-018-012",
+    "sourceId": "b2-018-012",
+    "sourceIndex": 11,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      8
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'My dog had taken it into the garden.",
+    "start": 68.87,
+    "end": 71.73,
+    "score": 0.99,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-018",
+    "id": "b2-018-013",
+    "sourceId": "b2-018-013",
+    "sourceIndex": 12,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      4
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "He often does this!'",
+    "start": 72.54,
+    "end": 73.87,
+    "score": 0.986,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-019",
+    "id": "b2-019-002",
+    "sourceId": "b2-019-002",
+    "sourceIndex": 1,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      9
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'The play may begin at any moment,' I said.",
+    "start": 19.58,
+    "end": 23.27,
+    "score": 0.989,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-019",
+    "id": "b2-019-003",
+    "sourceId": "b2-019-003",
+    "sourceIndex": 2,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      7
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'It may have begun already,' Susan answered.",
+    "start": 25.42,
+    "end": 29.2,
+    "score": 0.979,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-019",
+    "id": "b2-019-005",
+    "sourceId": "b2-019-005",
+    "sourceIndex": 4,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      6
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'May I have two tickets please?'",
+    "start": 34.26,
+    "end": 36.23,
+    "score": 0.989,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-019",
+    "id": "b2-019-008",
+    "sourceId": "b2-019-008",
+    "sourceIndex": 7,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      3
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'What a pity!'",
+    "start": 44.96,
+    "end": 46.29,
+    "score": 0.988,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-019",
+    "id": "b2-019-011",
+    "sourceId": "b2-019-011",
+    "sourceIndex": 10,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      6
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Can I return these two tickets?'",
+    "start": 54.58,
+    "end": 57.51,
+    "score": 0.99,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-019",
+    "id": "b2-019-013",
+    "sourceId": "b2-019-013",
+    "sourceIndex": 12,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      4
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Certainly,' the girl said.",
+    "start": 59.8,
+    "end": 62.58,
+    "score": 0.988,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-019",
+    "id": "b2-019-015",
+    "sourceId": "b2-019-015",
+    "sourceIndex": 14,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      7
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Could I have those two tickets please?'",
+    "start": 69.08,
+    "end": 71.57,
+    "score": 0.985,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-019",
+    "id": "b2-019-017",
+    "sourceId": "b2-019-017",
+    "sourceIndex": 16,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      10
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Certainly,' the girl said, 'but they're for next Wednesday's performance.",
+    "start": 73.62,
+    "end": 79.3,
+    "score": 0.958,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-020",
+    "id": "b2-020-010",
+    "sourceId": "b2-020-010",
+    "sourceIndex": 9,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      5
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'You must give up fishing!'",
+    "start": 60.86,
+    "end": 63.18,
+    "score": 0.992,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-024",
+    "id": "b2-024-004",
+    "sourceId": "b2-024-004",
+    "sourceIndex": 3,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      14
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'I left the money in my room,' I said, 'and it's not there now.  '",
+    "start": 35.75,
+    "end": 42.13,
+    "score": 0.974,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-024",
+    "id": "b2-024-006",
+    "sourceId": "b2-024-006",
+    "sourceIndex": 5,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      7
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Everyone's losing money these days,' he said.",
+    "start": 50.33,
+    "end": 53.66,
+    "score": 0.99,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-024",
+    "id": "b2-024-010",
+    "sourceId": "b2-024-010",
+    "sourceIndex": 9,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      9
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'I found this outside this gentleman's room,' she said.",
+    "start": 74.07,
+    "end": 78.5,
+    "score": 0.98,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-024",
+    "id": "b2-024-011",
+    "sourceId": "b2-024-011",
+    "sourceIndex": 10,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      13
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Well,' I said to the manager,'there is still some honesty in this world!'",
+    "start": 80.09,
+    "end": 86.26,
+    "score": 0.985,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
   },
   {
     "lesson": "b2-025",
@@ -277,157 +1614,2288 @@
     "end": 13.922,
     "score": 0.333,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b2-025-001",
+    "sourceIndex": 0,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      4
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
   },
   {
-    "lesson": "b2-031",
-    "id": "b2-031-005",
-    "text": "He saved money for years and in 1958 he bought a small workshop of his own.",
-    "start": 49.633,
-    "end": 57.303,
-    "score": 0.737,
+    "lesson": "b2-025",
+    "id": "b2-025-010",
+    "sourceId": "b2-025-010",
+    "sourceIndex": 9,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      6
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'I am a foreigner,' I said.",
+    "start": 67.81,
+    "end": 70.52,
+    "score": 0.991,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-025",
+    "id": "b2-025-015",
+    "sourceId": "b2-025-015",
+    "sourceIndex": 14,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      4
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'You'll soon learn English!'",
+    "start": 92.79,
+    "end": 95.07,
+    "score": 0.961,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-026",
+    "id": "b2-026-014",
+    "sourceId": "b2-026-014",
+    "sourceIndex": 13,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      9
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'I'm hanging this picture on the wall,' I answered.",
+    "start": 79.81,
+    "end": 83.05,
+    "score": 0.98,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-039",
+    "id": "b2-039-009",
+    "sourceId": "b2-039-009",
+    "sourceIndex": 8,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      9
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'No,' the patient answered, 'I am Mr. John Gilbert.'",
+    "start": 90.67,
+    "end": 95.76,
+    "score": 0.958,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-040",
+    "id": "b2-040-009",
+    "sourceId": "b2-040-009",
+    "sourceIndex": 8,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      3
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'No,' she answered.",
+    "start": 60.223,
+    "end": 62.45,
+    "score": 0.992,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-040",
+    "id": "b2-040-010",
+    "sourceId": "b2-040-010",
+    "sourceIndex": 9,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      9
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Will you be spending your holidays abroad this year?'",
+    "start": 64.16,
+    "end": 67.65,
+    "score": 0.984,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-040",
+    "id": "b2-040-012",
+    "sourceId": "b2-040-012",
+    "sourceIndex": 11,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      3
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'No,' she answered.",
+    "start": 71.08,
+    "end": 73.75,
+    "score": 0.987,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-040",
+    "id": "b2-040-013",
+    "sourceId": "b2-040-013",
+    "sourceIndex": 12,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      6
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Will you be staying in England?'",
+    "start": 75.83,
+    "end": 77.7,
+    "score": 0.979,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-040",
+    "id": "b2-040-017",
+    "sourceId": "b2-040-017",
+    "sourceIndex": 16,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      17
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Young man,' she answered, 'if you ate more and talked less, we would both enjoy our dinner!'",
+    "start": 90.262,
+    "end": 98.98,
+    "score": 0.989,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-041",
+    "id": "b2-041-002",
+    "sourceId": "b2-041-002",
+    "sourceIndex": 1,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      6
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Do you call that a hat?'",
+    "start": 22.82,
+    "end": 25.32,
+    "score": 0.998,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-041",
+    "id": "b2-041-004",
+    "sourceId": "b2-041-004",
+    "sourceIndex": 3,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      18
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'You needn't be so rude about it,' my wife answered as she looked at herself in the mirror.",
+    "start": 28.9,
+    "end": 34.66,
+    "score": 0.979,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-041",
+    "id": "b2-041-007",
+    "sourceId": "b2-041-007",
+    "sourceIndex": 6,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      10
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'We mustn't buy things we don't need,' I remarked suddenly.",
+    "start": 51.8,
+    "end": 56.12,
+    "score": 0.984,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-041",
+    "id": "b2-041-009",
+    "sourceId": "b2-041-009",
+    "sourceIndex": 8,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      8
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'You needn't have said that,' my wife answered.",
+    "start": 61.56,
+    "end": 64.91,
+    "score": 0.983,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-041",
+    "id": "b2-041-010",
+    "sourceId": "b2-041-010",
+    "sourceIndex": 9,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      11
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'I needn't remind you of that terrible tie you bought yesterday.'",
+    "start": 65.85,
+    "end": 71.34,
+    "score": 0.989,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-041",
+    "id": "b2-041-011",
+    "sourceId": "b2-041-011",
+    "sourceIndex": 10,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      6
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'I find it beautiful,' I said.",
+    "start": 73.22,
+    "end": 75.57,
+    "score": 0.998,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-041",
+    "id": "b2-041-013",
+    "sourceId": "b2-041-013",
+    "sourceIndex": 12,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      10
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'And a woman can't have too many hats,' she answered.",
+    "start": 80.482,
+    "end": 84.56,
+    "score": 0.986,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-042",
+    "id": "b2-042-009",
+    "sourceId": "b2-042-009",
+    "sourceIndex": 8,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      12
+    ],
+    "wordModel": "mms-fa",
+    "text": "It obviously could not tell the difference between Indian music and jazz!",
+    "start": 86.36,
+    "end": 91.95,
+    "score": 0.895,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
   },
   {
     "lesson": "b2-043",
     "id": "b2-043-002",
+    "sourceId": "b2-043-002",
+    "sourceIndex": 1,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      15
+    ],
+    "wordModel": "english-ctc-fallback",
     "text": "In 1929, three years after his flight over the North Pole, the American explorer, R.E.",
-    "start": 17.067,
-    "end": 29.922,
-    "score": 0.769,
+    "start": 19.98,
+    "end": 29.943,
+    "score": 0.982,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
   },
   {
-    "lesson": "b2-056",
-    "id": "b2-056-006",
-    "text": "Built in 1885, it was the oldest car taking part.",
-    "start": 46.653,
-    "end": 51.543,
-    "score": 0.7,
+    "lesson": "b2-043",
+    "id": "b2-043-006",
+    "sourceId": "b2-043-006",
+    "sourceIndex": 5,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      14
+    ],
+    "wordModel": "mms-fa",
+    "text": "It could only get over the mountains if it rose to 10, 000 feet.",
+    "start": 55.46,
+    "end": 60.77,
+    "score": 0.892,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b2-044",
+    "id": "b2-044-009",
+    "sourceId": "b2-044-009",
+    "sourceIndex": 8,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      14
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'The strap needs mending,' said Mrs. Sterling later, 'but they did not steal anything.'",
+    "start": 78.1,
+    "end": 84.71,
+    "score": 0.974,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-045",
+    "id": "b2-045-009",
+    "sourceId": "b2-045-009",
+    "sourceIndex": 8,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      11
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "The last note said: 'I am 100 per cent honest now!'",
+    "start": 87.38,
+    "end": 93.12,
+    "score": 0.993,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-046",
+    "id": "b2-046-011",
+    "text": "The normal price of a ticket is ￡2, 000!",
+    "start": 91.213,
+    "end": 94.103,
+    "score": 0.894,
+    "timingValid": true,
+    "needsReview": true,
+    "sourceId": "b2-046-011",
+    "sourceIndex": 10,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      9
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
+  },
+  {
+    "lesson": "b2-050",
+    "id": "b2-050-010",
+    "sourceId": "b2-050-010",
+    "sourceIndex": 9,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      9
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'You'll have to get off here,' the conductor said.",
+    "start": 68.94,
+    "end": 72.19,
+    "score": 0.97,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-050",
+    "id": "b2-050-011",
+    "sourceId": "b2-050-011",
+    "sourceIndex": 10,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      7
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'This is as far as we go.'",
+    "start": 73.18,
+    "end": 75.07,
+    "score": 0.965,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-050",
+    "id": "b2-050-014",
+    "sourceId": "b2-050-014",
+    "sourceIndex": 13,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      6
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Oh dear,' said the conductor suddenly.",
+    "start": 80.002,
+    "end": 84.62,
+    "score": 0.97,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-050",
+    "id": "b2-050-018",
+    "sourceId": "b2-050-018",
+    "sourceIndex": 17,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      7
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'We're going back now,' said the conductor.",
+    "start": 95.14,
+    "end": 98.24,
+    "score": 0.966,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-052",
+    "id": "b2-052-009",
+    "sourceId": "b2-052-009",
+    "sourceIndex": 8,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      11
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'This is the prettiest carpet I have ever seen,' she said.",
+    "start": 75.36,
+    "end": 79.06,
+    "score": 0.973,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-052",
+    "id": "b2-052-011",
+    "sourceId": "b2-052-011",
+    "sourceIndex": 10,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      12
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "You can sit here in your spare time and read the carpet!'",
+    "start": 86.74,
+    "end": 90.16,
+    "score": 0.979,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-053",
+    "id": "b2-053-008",
+    "sourceId": "b2-053-008",
+    "sourceIndex": 7,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      20
+    ],
+    "wordModel": "mms-fa",
+    "text": "He noticed the remains of a snake which was wound round the electric wires of a 16, 000-volt power line.",
+    "start": 59.68,
+    "end": 68.06,
+    "score": 0.898,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b2-059",
+    "id": "b2-059-009",
+    "sourceId": "b2-059-009",
+    "sourceIndex": 8,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      21
+    ],
+    "wordModel": "mms-fa",
+    "text": "As soon as he opens the gate from the outside, he comes into the garden and waits until the gate shuts.",
+    "start": 63.38,
+    "end": 70.32,
+    "score": 0.948,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b2-060",
+    "id": "b2-060-011",
+    "sourceId": "b2-060-011",
+    "sourceIndex": 10,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      5
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Where have you been hiding?'",
+    "start": 74.3,
+    "end": 75.99,
+    "score": 0.974,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-060",
+    "id": "b2-060-013",
+    "sourceId": "b2-060-013",
+    "sourceIndex": 12,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      20
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Your sister will be here in less than an hour and we must be at the station to meet her.",
+    "start": 78.75,
+    "end": 84.1,
+    "score": 0.977,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-063",
+    "id": "b2-063-002",
+    "sourceId": "b2-063-002",
+    "sourceIndex": 1,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      14
+    ],
+    "wordModel": "mms-fa",
+    "text": "Jeremy Hampden has a large circle of friends and is very popular at parties.",
+    "start": 19.75,
+    "end": 25.79,
+    "score": 0.855,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b2-064",
+    "id": "b2-064-002-p01",
+    "sourceId": "b2-064-002",
+    "sourceIndex": 1,
+    "part": 1,
+    "parts": 2,
+    "wordRange": [
+      0,
+      9
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "In 1858, a French engineer, Aime Thome de Gamond,",
+    "start": 18.842,
+    "end": 26.33,
+    "score": 0.863,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
   },
   {
     "lesson": "b2-064",
     "id": "b2-064-006",
+    "sourceId": "b2-064-006",
+    "sourceIndex": 5,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      13
+    ],
+    "wordModel": "english-ctc-fallback",
     "text": "In 1860, a better plan was put forward by an Englishman, William Low.",
-    "start": 52.638,
-    "end": 60.063,
-    "score": 0.728,
+    "start": 53.92,
+    "end": 60.19,
+    "score": 0.978,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
   },
   {
-    "lesson": "b2-064",
-    "id": "b2-064-012",
-    "text": "It was officially opened on March 7, 1994, finally connecting Britain to the European continent.",
-    "start": 93.933,
-    "end": 101.983,
-    "score": 0.798,
+    "lesson": "b2-065",
+    "id": "b2-065-010",
+    "sourceId": "b2-065-010",
+    "sourceIndex": 9,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      20
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "Of course, we should arrest him, but as he has a good record, we shall let him off this time.'",
+    "start": 93.03,
+    "end": 99.73,
+    "score": 0.976,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-066",
+    "id": "b2-066-001",
+    "sourceId": "b2-066-001",
+    "sourceIndex": 0,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      7
+    ],
+    "wordModel": "mms-fa",
+    "text": "What was 'sweet as honey' and why?",
+    "start": 13.88,
+    "end": 17.854,
+    "score": 0.873,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-conflict"
+    ]
   },
   {
     "lesson": "b2-066",
     "id": "b2-066-002",
     "text": "In 1963 a Lancaster bomber crashed on Wallis Island, a remote place in the South Pacific, a long way west of Samoa.",
-    "start": 17.767,
+    "start": 17.854,
     "end": 32.683,
     "score": 0.765,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b2-066-002",
+    "sourceIndex": 1,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      22
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment",
+      "boundary-conflict"
+    ]
   },
   {
     "lesson": "b2-067",
     "id": "b2-067-003",
+    "sourceId": "b2-067-003",
+    "sourceIndex": 2,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      20
+    ],
+    "wordModel": "english-ctc-fallback",
     "text": "In 1948, he went to Lake Kivu in the Congo to observe a new volcano which he later named Kituro.",
-    "start": 31.537,
-    "end": 42.883,
-    "score": 0.796,
+    "start": 32.9,
+    "end": 42.97,
+    "score": 0.981,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-068",
+    "id": "b2-068-008",
+    "sourceId": "b2-068-008",
+    "sourceIndex": 7,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      8
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Hello, Nigel,' I said 'Fancy meeting you here!'",
+    "start": 56.91,
+    "end": 61.58,
+    "score": 0.965,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-068",
+    "id": "b2-068-009",
+    "sourceId": "b2-068-009",
+    "sourceIndex": 8,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      4
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Hi, Elizabeth,' Nigel answered.",
+    "start": 62.523,
+    "end": 65.63,
+    "score": 0.961,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-068",
+    "id": "b2-068-010",
+    "sourceId": "b2-068-010",
+    "sourceIndex": 9,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      12
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'I was just wondering how to spend the morning--until I saw you.",
+    "start": 66.39,
+    "end": 72.05,
+    "score": 0.97,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-068",
+    "id": "b2-068-012",
+    "sourceId": "b2-068-012",
+    "sourceIndex": 11,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      6
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'No, not at all,' I answered.",
+    "start": 77.46,
+    "end": 80.65,
+    "score": 0.989,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-068",
+    "id": "b2-068-016",
+    "sourceId": "b2-068-016",
+    "sourceIndex": 15,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      7
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Then I'll come with you,' he answered.",
+    "start": 97.64,
+    "end": 100.55,
+    "score": 0.956,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-068",
+    "id": "b2-068-017",
+    "sourceId": "b2-068-017",
+    "sourceIndex": 16,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      9
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'There's always plenty to read in the waiting room!'",
+    "start": 101.18,
+    "end": 105.12,
+    "score": 0.973,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-069",
+    "id": "b2-069-014",
+    "sourceId": "b2-069-014",
+    "sourceIndex": 13,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      1
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Mr.",
+    "start": 106.28,
+    "end": 106.84,
+    "score": 0.997,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-069",
+    "id": "b2-069-015",
+    "sourceId": "b2-069-015",
+    "sourceIndex": 14,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      13
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "Eames,' he said, in a mournful voice, 'you have just killed that child!'",
+    "start": 106.873,
+    "end": 114.47,
+    "score": 0.979,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
   },
   {
     "lesson": "b2-072",
-    "id": "b2-072-003",
-    "text": "He set up a new world record in September 1935 at Bonneville Salt Flats, Utah.",
-    "start": 29.093,
-    "end": 37.743,
-    "score": 0.735,
+    "id": "b2-072-007",
+    "sourceId": "b2-072-007",
+    "sourceIndex": 6,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      18
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "After his attempt, Campbell was disappointed to learn that his average speed had been 299 miles per hour.",
+    "start": 69.322,
+    "end": 78.65,
+    "score": 0.976,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "stretched-word"
+    ]
+  },
+  {
+    "lesson": "b2-073",
+    "id": "b2-073-004",
+    "text": "They have all been put to shame by a boy who, while playing truant travelled 1, 600 miles.",
+    "start": 36.073,
+    "end": 44.563,
+    "score": 0.922,
+    "timingValid": true,
+    "needsReview": true,
+    "sourceId": "b2-073-004",
+    "sourceIndex": 3,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      18
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
   },
   {
     "lesson": "b2-074",
-    "id": "b2-074-019",
-    "text": "'Oh, is it?'",
-    "start": 114.752,
-    "end": 116.063,
-    "score": 0.767,
+    "id": "b2-074-005",
+    "sourceId": "b2-074-005",
+    "sourceIndex": 4,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      11
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'This is a wonderful place for a picnic,' said Gloria Gleam.",
+    "start": 45.88,
+    "end": 50.45,
+    "score": 0.976,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-074",
+    "id": "b2-074-006",
+    "sourceId": "b2-074-006",
+    "sourceIndex": 5,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      8
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'It couldn't be better, Gloria,' Brinksley Meers agreed.",
+    "start": 51.88,
+    "end": 56.29,
+    "score": 0.945,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-074",
+    "id": "b2-074-021",
+    "sourceId": "b2-074-021",
+    "sourceIndex": 20,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      11
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Well, I'm Brinksley Meers, and my other name is Gloria Gleam.",
+    "start": 119.4,
+    "end": 124.66,
+    "score": 0.908,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-074",
+    "id": "b2-074-022",
+    "sourceId": "b2-074-022",
+    "sourceIndex": 21,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      7
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "Now you get out of here fast!'",
+    "start": 124.98,
+    "end": 127.73,
+    "score": 0.956,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
   },
   {
     "lesson": "b2-076",
-    "id": "b2-076-011",
-    "text": "Signor Fratelli, the present champion, has won it every year since 1991.",
-    "start": 103.892,
-    "end": 110.823,
-    "score": 0.709,
+    "id": "b2-076-002",
+    "sourceId": "b2-076-002",
+    "sourceIndex": 1,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      22
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'To end our special news bulletin,' said the voice of the television announcer, 'we're going over to the macaroni fields of Calabria.",
+    "start": 17.86,
+    "end": 28.583,
+    "score": 0.956,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
   },
   {
-    "lesson": "b2-080",
-    "id": "b2-080-001",
-    "text": "How many people visited the Great Exhibition of 1851?",
-    "start": 12.452,
-    "end": 17.942,
-    "score": 0.683,
+    "lesson": "b2-076",
+    "id": "b2-076-012",
+    "text": "And that ends our special bulletin for today, Thursday, April 1st.",
+    "start": 112.373,
+    "end": 118.343,
+    "score": 0.911,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b2-076-012",
+    "sourceIndex": 11,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      11
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
+  },
+  {
+    "lesson": "b2-076",
+    "id": "b2-076-013",
+    "sourceId": "b2-076-013",
+    "sourceIndex": 12,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      7
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "We're now going back to the studio.'",
+    "start": 119.38,
+    "end": 121.76,
+    "score": 0.992,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-077",
+    "id": "b2-077-010",
+    "sourceId": "b2-077-010",
+    "sourceIndex": 9,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      15
+    ],
+    "wordModel": "mms-fa",
+    "text": "This god which has the head of a cow was normally placed inside a mummy.",
+    "start": 80.84,
+    "end": 86.89,
+    "score": 0.9,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b2-077",
+    "id": "b2-077-013",
+    "text": "The mummy successfully survived the operation.",
+    "start": 99.752,
+    "end": 102.823,
+    "score": 0.917,
+    "timingValid": true,
+    "needsReview": true,
+    "sourceId": "b2-077-013",
+    "sourceIndex": 12,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      6
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
   },
   {
     "lesson": "b2-080",
     "id": "b2-080-012",
+    "sourceId": "b2-080-012",
+    "sourceIndex": 11,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      18
+    ],
+    "wordModel": "english-ctc-fallback",
     "text": "It remained one of the most famous buildings in the world until it was burnt down in 1936.",
-    "start": 103.832,
-    "end": 114.663,
-    "score": 0.731,
+    "start": 103.8,
+    "end": 111.323,
+    "score": 0.987,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-083",
+    "id": "b2-083-012",
+    "sourceId": "b2-083-012",
+    "sourceIndex": 11,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      17
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'I told you yesterday and the day before yesterday,' he shouted, 'Mr.Lane was defeated in the elections.",
+    "start": 91.95,
+    "end": 100.89,
+    "score": 0.976,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-083",
+    "id": "b2-083-014",
+    "sourceId": "b2-083-014",
+    "sourceIndex": 13,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      12
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'I know,' answered Patrick,' but I love to hear you say it!'",
+    "start": 108.16,
+    "end": 113.14,
+    "score": 0.986,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-087",
+    "id": "b2-087-002",
+    "sourceId": "b2-087-002",
+    "sourceIndex": 1,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      20
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'At the time the murder was committed, I was travelling on the 8 o'clock train to London,' said the man.",
+    "start": 19.242,
+    "end": 27.04,
+    "score": 0.986,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-087",
+    "id": "b2-087-005",
+    "sourceId": "b2-087-005",
+    "sourceIndex": 4,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      7
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Of course I do,' answered the man.",
+    "start": 34.99,
+    "end": 37.9,
+    "score": 0.984,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-087",
+    "id": "b2-087-006",
+    "sourceId": "b2-087-006",
+    "sourceIndex": 5,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      8
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'I must be at work at 10 o'clock.",
+    "start": 38.87,
+    "end": 41.56,
+    "score": 0.991,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-087",
+    "id": "b2-087-008",
+    "sourceId": "b2-087-008",
+    "sourceIndex": 7,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      10
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Would a later train get you to work on time?'",
+    "start": 48.07,
+    "end": 51.43,
+    "score": 0.979,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-087",
+    "id": "b2-087-011",
+    "sourceId": "b2-087-011",
+    "sourceIndex": 10,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      9
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'At what time did you arrive at the station?'",
+    "start": 62.03,
+    "end": 65.06,
+    "score": 0.988,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-087",
+    "id": "b2-087-014",
+    "sourceId": "b2-087-014",
+    "sourceIndex": 13,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      6
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'And you didn't notice anything unusual?'",
+    "start": 74.482,
+    "end": 78.07,
+    "score": 0.979,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-087",
+    "id": "b2-087-016",
+    "sourceId": "b2-087-016",
+    "sourceIndex": 15,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      12
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'I suggest,' said the inspector,' that you are not telling the truth.",
+    "start": 82.743,
+    "end": 88.22,
+    "score": 0.986,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-087",
+    "id": "b2-087-019",
+    "sourceId": "b2-087-019",
+    "sourceIndex": 18,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      12
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "It broke down at Ferngreen station and was taken off the line.'",
+    "start": 108.31,
+    "end": 113.37,
+    "score": 0.981,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-088",
+    "id": "b2-088-011",
+    "sourceId": "b2-088-011",
+    "sourceIndex": 10,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      21
+    ],
+    "wordModel": "mms-fa",
+    "text": "Though they are running out of food and drink, the men are cheerful and confident that they will get out soon.",
+    "start": 84.17,
+    "end": 91.4,
+    "score": 0.902,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b2-089",
+    "id": "b2-089-004",
+    "sourceId": "b2-089-004",
+    "sourceIndex": 3,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      23
+    ],
+    "wordModel": "mms-fa",
+    "text": "We had to queue for hours to get in and there must have been several hundred people present just before the show began.",
+    "start": 40.51,
+    "end": 48.8,
+    "score": 0.94,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b2-089",
+    "id": "b2-089-011",
+    "sourceId": "b2-089-011",
+    "sourceIndex": 10,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      5
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "Good ladies, evening and gentlemen!'",
+    "start": 99.66,
+    "end": 101.77,
+    "score": 0.971,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
   },
   {
     "lesson": "b2-092",
-    "id": "b2-092-013",
-    "text": "'Your what?'",
-    "start": 100.052,
-    "end": 101.343,
-    "score": 0.612,
+    "id": "b2-092-008",
+    "sourceId": "b2-092-008",
+    "sourceIndex": 7,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      10
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'So do I,' answered the policeman in the same tone.",
+    "start": 72.65,
+    "end": 76.98,
+    "score": 0.981,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-092",
+    "id": "b2-092-011",
+    "sourceId": "b2-092-011",
+    "sourceIndex": 10,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      8
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Well, I'd prefer to stay here,' I said.",
+    "start": 91.38,
+    "end": 95.3,
+    "score": 0.945,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-092",
+    "id": "b2-092-012",
+    "sourceId": "b2-092-012",
+    "sourceIndex": 11,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      6
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'You see, I've forgotten my key.'",
+    "start": 96.06,
+    "end": 98.2,
+    "score": 0.966,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-092",
+    "id": "b2-092-015",
+    "sourceId": "b2-092-015",
+    "sourceIndex": 14,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      4
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'My key,' I shouted.",
+    "start": 104.05,
+    "end": 107.78,
+    "score": 0.887,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
   },
   {
     "lesson": "b2-093",
     "id": "b2-093-007",
+    "sourceId": "b2-093-007",
+    "sourceIndex": 6,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      14
+    ],
+    "wordModel": "english-ctc-fallback",
     "text": "By 1884, a statue which was 151 feet tall had been erected in Paris.",
-    "start": 72.328,
-    "end": 82.503,
-    "score": 0.749,
+    "start": 73.66,
+    "end": 82.69,
+    "score": 0.953,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-095",
+    "id": "b2-095-004",
+    "sourceId": "b2-095-004",
+    "sourceIndex": 3,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      3
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'What has happened?'",
+    "start": 30.58,
+    "end": 31.88,
+    "score": 0.981,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-095",
+    "id": "b2-095-006",
+    "sourceId": "b2-095-006",
+    "sourceIndex": 5,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      9
+    ],
+    "wordModel": "mms-fa",
+    "text": "'How did your clothes get into such a mess?'",
+    "start": 33.6,
+    "end": 36.448,
+    "score": 0.942,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-conflict"
+    ]
+  },
+  {
+    "lesson": "b2-095",
+    "id": "b2-095-007",
+    "text": "'A fire extinguisher, my dear,' answered the Ambassador drily.",
+    "start": 36.448,
+    "end": 42.423,
+    "score": 0.885,
+    "timingValid": true,
+    "needsReview": true,
+    "sourceId": "b2-095-007",
+    "sourceIndex": 6,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      9
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment",
+      "boundary-conflict"
+    ]
+  },
+  {
+    "lesson": "b2-095",
+    "id": "b2-095-011",
+    "sourceId": "b2-095-011",
+    "sourceIndex": 10,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      7
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'And where were you at the time?'",
+    "start": 53.29,
+    "end": 55.31,
+    "score": 0.979,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-095",
+    "id": "b2-095-012",
+    "sourceId": "b2-095-012",
+    "sourceIndex": 11,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      10
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'I was in my office as usual,' answered the Ambassador.",
+    "start": 57.2,
+    "end": 61.4,
+    "score": 0.986,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-095",
+    "id": "b2-095-013",
+    "sourceId": "b2-095-013",
+    "sourceIndex": 12,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      7
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'The fire broke out in the basement.",
+    "start": 62.22,
+    "end": 64.27,
+    "score": 0.982,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-095",
+    "id": "b2-095-018",
+    "sourceId": "b2-095-018",
+    "sourceIndex": 17,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      6
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'And how can you explain that?'",
+    "start": 92.83,
+    "end": 95.12,
+    "score": 0.99,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-095",
+    "id": "b2-095-021",
+    "sourceId": "b2-095-021",
+    "sourceIndex": 20,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      8
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Someone fired a shot through my office window.",
+    "start": 101.7,
+    "end": 104.76,
+    "score": 0.992,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b2-095",
+    "id": "b2-095-024",
+    "sourceId": "b2-095-024",
+    "sourceIndex": 23,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      15
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "If I had been, I would not have been able to get home for lunch.'",
+    "start": 111.17,
+    "end": 115.58,
+    "score": 0.98,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b3-002",
+    "id": "b3-002-009",
+    "sourceId": "b3-002-009",
+    "sourceIndex": 8,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      7
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Whatever are you doing up here Bill?'",
+    "start": 73.54,
+    "end": 75.53,
+    "score": 0.986,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b3-002",
+    "id": "b3-002-012",
+    "sourceId": "b3-002-012",
+    "sourceIndex": 11,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      11
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'I've been coming up here night after night for weeks now.",
+    "start": 82.19,
+    "end": 85.48,
+    "score": 0.972,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b3-002",
+    "id": "b3-002-015",
+    "sourceId": "b3-002-015",
+    "sourceIndex": 14,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      3
+    ],
+    "wordModel": "mms-fa",
+    "text": "said the vicar.",
+    "start": 92.463,
+    "end": 93.164,
+    "score": 0.903,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-conflict"
+    ]
+  },
+  {
+    "lesson": "b3-002",
+    "id": "b3-002-016",
+    "text": "'You've probably woken up everyone in the village as well.",
+    "start": 93.164,
+    "end": 96.922,
+    "score": 0.93,
+    "timingValid": true,
+    "needsReview": true,
+    "sourceId": "b3-002-016",
+    "sourceIndex": 15,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      10
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment",
+      "boundary-conflict"
+    ]
+  },
+  {
+    "lesson": "b3-002",
+    "id": "b3-002-019",
+    "sourceId": "b3-002-019",
+    "sourceIndex": 18,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      24
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'It's working all right, but I'm afraid that at one o'clock it will strike thirteen times and there's nothing I can do about it.'",
+    "start": 105.1,
+    "end": 113.34,
+    "score": 0.975,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b3-002",
+    "id": "b3-002-020",
+    "sourceId": "b3-002-020",
+    "sourceIndex": 19,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      9
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'We'll get used to that, Bill, 'said the vicar.",
+    "start": 114.95,
+    "end": 117.1,
+    "score": 0.973,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b3-002",
+    "id": "b3-002-022",
+    "sourceId": "b3-002-022",
+    "sourceIndex": 21,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      10
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "Now let's go downstairs and have a cup of tea.'",
+    "start": 122.21,
+    "end": 124.76,
+    "score": 0.99,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b3-007",
+    "id": "b3-007-009",
+    "sourceId": "b3-007-009",
+    "sourceIndex": 8,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      19
+    ],
+    "wordModel": "mms-fa",
+    "text": "John had a very good day and put his wallet containing ￡3, 000 into the microwave oven for safekeeping.",
+    "start": 66.82,
+    "end": 75.16,
+    "score": 0.909,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b3-007",
+    "id": "b3-007-015",
+    "sourceId": "b3-007-015",
+    "sourceIndex": 14,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      20
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'So long as there's something to identify, we will give people their money back,' said a spokeswoman for the Bank.",
+    "start": 113.74,
+    "end": 119.84,
+    "score": 0.99,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b3-007",
+    "id": "b3-007-016",
+    "sourceId": "b3-007-016",
+    "sourceIndex": 15,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      9
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Last year, we paid ￡1.5 million on 21,000 claims.'",
+    "start": 120.9,
+    "end": 127.17,
+    "score": 0.954,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b3-008",
+    "id": "b3-008-003",
+    "sourceId": "b3-008-003",
+    "sourceIndex": 2,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      11
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "At 2,473 metres, it is the highest mountain pass in Europe.",
+    "start": 21.61,
+    "end": 27.72,
+    "score": 0.946,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "stretched-word"
+    ]
+  },
+  {
+    "lesson": "b3-009",
+    "id": "b3-009-015",
+    "sourceId": "b3-009-015",
+    "sourceIndex": 14,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      8
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Cats behave like well-trained paratroopers,' a doctor said.",
+    "start": 103.42,
+    "end": 107.15,
+    "score": 0.983,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b3-010",
+    "id": "b3-010-004",
+    "text": "Even by modern standards, the 46, 000 ton Titanic was a colossal ship.",
+    "start": 37.913,
+    "end": 43.883,
+    "score": 0.925,
+    "timingValid": true,
+    "needsReview": true,
+    "sourceId": "b3-010-004",
+    "sourceIndex": 3,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      13
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
+  },
+  {
+    "lesson": "b3-011",
+    "id": "b3-011-006",
+    "sourceId": "b3-011-006",
+    "sourceIndex": 5,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      5
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Have you anything to declare?'",
+    "start": 51.96,
+    "end": 53.533,
+    "score": 0.969,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b3-011",
+    "id": "b3-011-009",
+    "sourceId": "b3-011-009",
+    "sourceIndex": 8,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      7
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Would you mind unlocking this suitcase please? '",
+    "start": 59.7,
+    "end": 62.41,
+    "score": 0.986,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b3-011",
+    "id": "b3-011-010",
+    "sourceId": "b3-011-010",
+    "sourceIndex": 9,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      5
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Not at all,' I answered.",
+    "start": 63.58,
+    "end": 64.83,
+    "score": 0.981,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
   },
   {
     "lesson": "b3-011",
     "id": "b3-011-016",
+    "sourceId": "b3-011-016",
+    "sourceIndex": 15,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      2
+    ],
+    "wordModel": "english-ctc-fallback",
     "text": "'Perfume, eh?'",
-    "start": 88.708,
-    "end": 91.323,
-    "score": 0.72,
+    "start": 90.3,
+    "end": 91.4,
+    "score": 0.861,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
   },
   {
     "lesson": "b3-011",
@@ -437,17 +3905,85 @@
     "end": 101.823,
     "score": 0.569,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b3-011-021",
+    "sourceIndex": 20,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      3
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
   },
   {
     "lesson": "b3-011",
     "id": "b3-011-024",
+    "sourceId": "b3-011-024",
+    "sourceIndex": 23,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      2
+    ],
+    "wordModel": "english-ctc-fallback",
     "text": "'Try it!'",
-    "start": 111.017,
-    "end": 112.623,
-    "score": 0.688,
+    "start": 112.1,
+    "end": 112.58,
+    "score": 1.0,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b3-014",
+    "id": "b3-014-012-p03",
+    "sourceId": "b3-014-012",
+    "sourceIndex": 11,
+    "part": 3,
+    "parts": 3,
+    "wordRange": [
+      20,
+      38
+    ],
+    "wordModel": "mms-fa",
+    "text": "which was dedicated to the memory of 'the most valiant soldier and most notable leader, Signor Giovanni Haukodue'.",
+    "start": 113.38,
+    "end": 122.01,
+    "score": 0.882,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b3-015",
+    "id": "b3-015-018-p01",
+    "sourceId": "b3-015-018",
+    "sourceIndex": 17,
+    "part": 1,
+    "parts": 2,
+    "wordRange": [
+      0,
+      8
+    ],
+    "wordModel": "mms-fa",
+    "text": "George was not too upset by his experience",
+    "start": 119.35,
+    "end": 121.78,
+    "score": 0.66,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
   },
   {
     "lesson": "b3-017",
@@ -457,87 +3993,680 @@
     "end": 28.203,
     "score": 0.734,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b3-017-002",
+    "sourceIndex": 1,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      19
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
   },
   {
-    "lesson": "b3-021",
-    "id": "b3-021-006",
-    "text": "One of the most colourful figures in boxing history was Daniel Mendoza, who was born in 1764.",
-    "start": 45.892,
-    "end": 52.943,
-    "score": 0.764,
+    "lesson": "b3-019",
+    "id": "b3-019-010",
+    "sourceId": "b3-019-010",
+    "sourceIndex": 9,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      23
+    ],
+    "wordModel": "mms-fa",
+    "text": "The writer stated that Rastus was in safe hands and would be returned immediately if Mrs. Ramsay paid a ransom of ￡1, 000.",
+    "start": 66.1,
+    "end": 76.043,
+    "score": 0.878,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
   },
   {
-    "lesson": "b3-021",
-    "id": "b3-021-007",
-    "text": "The use of gloves was not introduced until 1860, when the Marquis of Queensberry drew up the first set of rules.",
-    "start": 54.312,
-    "end": 62.443,
-    "score": 0.769,
+    "lesson": "b3-020",
+    "id": "b3-020-002",
+    "text": "In 1908 Lord Northcliffe offered a prize of ￡1, 000 to the first man who would fly across the English Channel.",
+    "start": 18.393,
+    "end": 27.203,
+    "score": 0.851,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b3-020-002",
+    "sourceIndex": 1,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      21
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
   },
   {
-    "lesson": "b3-021",
-    "id": "b3-021-019",
-    "text": "It was not until his third match in 1790 that he finally beat Humphries and became Champion of England.",
-    "start": 131.432,
-    "end": 138.542,
-    "score": 0.785,
+    "lesson": "b3-020",
+    "id": "b3-020-004",
+    "text": "On July 19th, 1909, in the early morning, Hubert Latham took off from the French coast in his plane the 'Antoinette IV.'",
+    "start": 32.612,
+    "end": 42.783,
+    "score": 0.835,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b3-020-004",
+    "sourceIndex": 3,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      22
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
   },
   {
-    "lesson": "b3-021",
-    "id": "b3-021-024",
-    "text": "He was sent to prison for failing to pay his debts and died in poverty in 1836.",
-    "start": 166.152,
-    "end": 172.282,
-    "score": 0.775,
+    "lesson": "b3-020",
+    "id": "b3-020-007",
+    "text": "Two days later, Louis Bleriot arrived near Calais with a plane called 'No.XI'.",
+    "start": 56.713,
+    "end": 62.723,
+    "score": 0.858,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b3-020-007",
+    "sourceIndex": 6,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      13
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
+  },
+  {
+    "lesson": "b3-020",
+    "id": "b3-020-014",
+    "sourceId": "b3-020-014",
+    "sourceIndex": 13,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      16
+    ],
+    "wordModel": "mms-fa",
+    "text": "After making a short test flight at 4.15 a.m., Bleriot set off half an hour later.",
+    "start": 99.29,
+    "end": 105.54,
+    "score": 0.852,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b3-022",
+    "id": "b3-022-007",
+    "sourceId": "b3-022-007",
+    "sourceIndex": 6,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      23
+    ],
+    "wordModel": "mms-fa",
+    "text": "In the last act, a gaoler would always come on to the stage with a letter which he would hand to the prisoner.",
+    "start": 54.12,
+    "end": 60.2,
+    "score": 0.897,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b3-024",
+    "id": "b3-024-022",
+    "sourceId": "b3-024-022",
+    "sourceIndex": 21,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      16
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Oh, that,' he said with a smile as if he were talking about an old friend.",
+    "start": 151.72,
+    "end": 156.47,
+    "score": 0.983,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b3-024",
+    "id": "b3-024-024",
+    "sourceId": "b3-024-024",
+    "sourceIndex": 23,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      12
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "You forget that I was a medical student once upon a time.'",
+    "start": 158.93,
+    "end": 162.48,
+    "score": 0.989,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
   },
   {
     "lesson": "b3-025",
-    "id": "b3-025-008",
-    "text": "Both these ships set out from Shanghai on June 18th, 1872 on an exciting race to England.",
-    "start": 59.172,
-    "end": 66.562,
-    "score": 0.788,
+    "id": "b3-025-007",
+    "sourceId": "b3-025-007",
+    "sourceIndex": 6,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      10
+    ],
+    "wordModel": "mms-fa",
+    "text": "The only other ship to match her was the Thermopylae.",
+    "start": 55.05,
+    "end": 58.31,
+    "score": 0.858,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b3-026",
+    "id": "b3-026-020",
+    "text": "But just before the competition closed, a lorry arrived at the factory with a truly colossal biscuit which weighed 2, 400 pounds.",
+    "start": 140.032,
+    "end": 150.302,
+    "score": 0.956,
+    "timingValid": true,
+    "needsReview": true,
+    "sourceId": "b3-026-020",
+    "sourceIndex": 19,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      22
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
+  },
+  {
+    "lesson": "b3-026",
+    "id": "b3-026-021",
+    "text": "It had been baked by a college student who had used over 1, 000 pounds of flour, 800 pounds of sugar, 200 pounds of fat, and 400 pounds of various other ingredients.",
+    "start": 151.552,
+    "end": 164.662,
+    "score": 0.96,
+    "timingValid": true,
+    "needsReview": true,
+    "sourceId": "b3-026-021",
+    "sourceIndex": 20,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      32
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
+  },
+  {
+    "lesson": "b3-026",
+    "id": "b3-026-023",
+    "text": "The manufacturers had to pay more money than they had anticipated, for they bought the biscuit from the student for $24, 000.",
+    "start": 171.172,
+    "end": 180.202,
+    "score": 0.954,
+    "timingValid": true,
+    "needsReview": true,
+    "sourceId": "b3-026-023",
+    "sourceIndex": 22,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      22
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
+  },
+  {
+    "lesson": "b3-028",
+    "id": "b3-028-010",
+    "sourceId": "b3-028-010",
+    "sourceIndex": 9,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      23
+    ],
+    "wordModel": "mms-fa",
+    "text": "As we were walking past a shop, he held a diamond firmly against the window and made a deep impression in the glass.",
+    "start": 77.14,
+    "end": 83.78,
+    "score": 0.911,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b3-031",
+    "id": "b3-031-019",
+    "sourceId": "b3-031-019",
+    "sourceIndex": 18,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      15
+    ],
+    "wordModel": "mms-fa",
+    "text": "He insisted on the assistant's counting the money before he left--30, 000 pennies in all!",
+    "start": 129.14,
+    "end": 135.45,
+    "score": 0.854,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b3-034",
+    "id": "b3-034-012",
+    "sourceId": "b3-034-012",
+    "sourceIndex": 11,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      11
+    ],
+    "wordModel": "mms-fa",
+    "text": "One Saturday morning, Frank visited an antique shop in my neighbourhood.",
+    "start": 90.273,
+    "end": 96.44,
+    "score": 0.906,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "stretched-word"
+    ]
+  },
+  {
+    "lesson": "b3-034",
+    "id": "b3-034-023",
+    "sourceId": "b3-034-023",
+    "sourceIndex": 22,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      19
+    ],
+    "wordModel": "mms-fa",
+    "text": "The tiny painting proved to be an unknown masterpiece by Correggio and was worth hundreds and thousands of pounds.",
+    "start": 159.03,
+    "end": 166.86,
+    "score": 0.852,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b3-037",
+    "id": "b3-037-025",
+    "sourceId": "b3-037-025",
+    "sourceIndex": 24,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      7
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "It said: 'This service has been suspended.'",
+    "start": 164.26,
+    "end": 168.11,
+    "score": 0.991,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b3-038",
+    "id": "b3-038-013",
+    "sourceId": "b3-038-013",
+    "sourceIndex": 12,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      22
+    ],
+    "wordModel": "mms-fa",
+    "text": "The nomads who made these markings lived by hunting and fishing during the last Ice Age which began about 35, 000 B.C.",
+    "start": 105.72,
+    "end": 114.943,
+    "score": 0.874,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b3-038",
+    "id": "b3-038-014",
+    "text": "and ended about 10, 000 B.C.",
+    "start": 115.513,
+    "end": 118.083,
+    "score": 0.871,
+    "timingValid": true,
+    "needsReview": true,
+    "sourceId": "b3-038-014",
+    "sourceIndex": 13,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      6
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
+  },
+  {
+    "lesson": "b3-038",
+    "id": "b3-038-021",
+    "text": "It seems that man was making a real effort to understand the seasons 20, 000 years earlier than has been supposed.",
+    "start": 159.512,
+    "end": 167.722,
+    "score": 0.953,
+    "timingValid": true,
+    "needsReview": true,
+    "sourceId": "b3-038-021",
+    "sourceIndex": 20,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      21
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
+  },
+  {
+    "lesson": "b3-044",
+    "id": "b3-044-021",
+    "text": "Travelling at a height of 30, 000 feet, far above the clouds, and at over 500 miles an hour is an exhilarating experience.",
+    "start": 148.692,
+    "end": 157.642,
+    "score": 0.949,
+    "timingValid": true,
+    "needsReview": true,
+    "sourceId": "b3-044-021",
+    "sourceIndex": 20,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      23
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
+  },
+  {
+    "lesson": "b3-044",
+    "id": "b3-044-027",
+    "sourceId": "b3-044-027",
+    "sourceIndex": 26,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      9
+    ],
+    "wordModel": "mms-fa",
+    "text": "You soar effortlessly over high mountains and deep valleys.",
+    "start": 189.17,
+    "end": 193.29,
+    "score": 0.872,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b3-045",
+    "id": "b3-045-010",
+    "text": "The family lived in Aberdeen, a small town of 23, 000 inhabitants in South Dakota.",
+    "start": 78.793,
+    "end": 85.123,
+    "score": 0.932,
+    "timingValid": true,
+    "needsReview": true,
+    "sourceId": "b3-045-010",
+    "sourceIndex": 9,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      15
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
+  },
+  {
+    "lesson": "b3-045",
+    "id": "b3-045-021",
+    "sourceId": "b3-045-021",
+    "sourceIndex": 20,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      17
+    ],
+    "wordModel": "mms-fa",
+    "text": "The old farmhouse the family lived in was to be replaced by a new $500, 000 home.",
+    "start": 153.42,
+    "end": 159.51,
+    "score": 0.865,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b3-046",
+    "id": "b3-046-030-p02",
+    "sourceId": "b3-046-030",
+    "sourceIndex": 29,
+    "part": 2,
+    "parts": 2,
+    "wordRange": [
+      10,
+      28
+    ],
+    "wordModel": "mms-fa",
+    "text": "I told her that either I would have to buy a new mower or let the grass grow.",
+    "start": 235.95,
+    "end": 240.83,
+    "score": 0.823,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b3-051",
+    "id": "b3-051-003-p01",
+    "sourceId": "b3-051-003",
+    "sourceIndex": 2,
+    "part": 1,
+    "parts": 2,
+    "wordRange": [
+      0,
+      18
+    ],
+    "wordModel": "mms-fa",
+    "text": "Who could have imagined, in the mid 1970s, for example, that by the end of the 20th century,",
+    "start": 24.52,
+    "end": 30.512,
+    "score": 0.906,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b3-051",
+    "id": "b3-051-003-p02",
+    "sourceId": "b3-051-003",
+    "sourceIndex": 2,
+    "part": 2,
+    "parts": 2,
+    "wordRange": [
+      18,
+      29
+    ],
+    "wordModel": "mms-fa",
+    "text": "computers would be as common in people's homes as TV sets?",
+    "start": 30.68,
+    "end": 34.404,
+    "score": 0.991,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-conflict"
+    ]
   },
   {
     "lesson": "b3-051",
     "id": "b3-051-004",
     "text": "In the 1970s, computers were common enough, but only in big business, government departments and large organizations.",
-    "start": 34.248,
+    "start": 34.404,
     "end": 44.703,
     "score": 0.797,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b3-051-004",
+    "sourceIndex": 3,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      17
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment",
+      "boundary-conflict"
+    ]
   },
   {
     "lesson": "b3-051",
     "id": "b3-051-008",
+    "sourceId": "b3-051-008",
+    "sourceIndex": 7,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      13
+    ],
+    "wordModel": "english-ctc-fallback",
     "text": "In 1975, a primitive machine called the Altair, was launched in the USA.",
-    "start": 72.268,
-    "end": 79.903,
-    "score": 0.759,
+    "start": 73.69,
+    "end": 80.04,
+    "score": 0.982,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
   },
   {
     "lesson": "b3-051",
     "id": "b3-051-010",
+    "sourceId": "b3-051-010",
+    "sourceIndex": 9,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      15
+    ],
+    "wordModel": "mms-fa",
     "text": "This was followed, at the end of the 1970s, by a machine called an Apple.",
-    "start": 87.913,
-    "end": 93.043,
-    "score": 0.68,
+    "start": 87.84,
+    "end": 93.1,
+    "score": 0.919,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
   },
   {
     "lesson": "b3-051",
@@ -547,86 +4676,722 @@
     "end": 101.283,
     "score": 0.736,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "sourceId": "b3-051-011",
+    "sourceIndex": 10,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      14
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
   },
   {
-    "lesson": "b3-053",
-    "id": "b3-053-009",
-    "text": "or 'Ombudsman'.",
-    "start": 86.153,
-    "end": 87.483,
-    "score": 0.73,
+    "lesson": "b3-051",
+    "id": "b3-051-015-p01",
+    "sourceId": "b3-051-015",
+    "sourceIndex": 14,
+    "part": 1,
+    "parts": 2,
+    "wordRange": [
+      0,
+      20
+    ],
+    "wordModel": "mms-fa",
+    "text": "Considering how recent these developments are, it is even more remarkable that as long ago as the 1960s, an Englishman,",
+    "start": 126.02,
+    "end": 134.96,
+    "score": 0.936,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b3-051",
+    "id": "b3-051-015-p02",
+    "sourceId": "b3-051-015",
+    "sourceIndex": 14,
+    "part": 2,
+    "parts": 2,
+    "wordRange": [
+      20,
+      36
+    ],
+    "wordModel": "mms-fa",
+    "text": "Leon Bagrit, was able to predict some of the uses of computers which we know today.",
+    "start": 135.19,
+    "end": 140.92,
+    "score": 0.848,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b3-051",
+    "id": "b3-051-020-p02",
+    "sourceId": "b3-051-020",
+    "sourceIndex": 19,
+    "part": 2,
+    "parts": 2,
+    "wordRange": [
+      18,
+      39
+    ],
+    "wordModel": "mms-fa",
+    "text": "so we can read it on a screen in our homes and even print it as well if we want to.",
+    "start": 203.86,
+    "end": 209.6,
+    "score": 0.949,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b3-052",
+    "id": "b3-052-006",
+    "text": "The brief experiment would dispel any further doubts she might have.",
+    "start": 55.653,
+    "end": 59.603,
+    "score": 0.921,
+    "timingValid": true,
+    "needsReview": true,
+    "sourceId": "b3-052-006",
+    "sourceIndex": 5,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      11
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
+  },
+  {
+    "lesson": "b3-052",
+    "id": "b3-052-008",
+    "sourceId": "b3-052-008",
+    "sourceIndex": 7,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      20
+    ],
+    "wordModel": "mms-fa",
+    "text": "How Harry came into the possession of this outlandish stuff makes an interesting story which he is fond of relating.",
+    "start": 64.49,
+    "end": 72.1,
+    "score": 0.937,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b3-055",
+    "id": "b3-055-028",
+    "sourceId": "b3-055-028",
+    "sourceIndex": 27,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      10
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "No human endeavour or thought would be unchanged by it.'",
+    "start": 226.202,
+    "end": 229.98,
+    "score": 0.964,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b3-058",
+    "id": "b3-058-016",
+    "sourceId": "b3-058-016",
+    "sourceIndex": 15,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      19
+    ],
+    "wordModel": "mms-fa",
+    "text": "Then a police inspector arrived with a constable and she told them of her discovery of the ransacked flat.",
+    "start": 151.15,
+    "end": 157.86,
+    "score": 0.918,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b4-001",
+    "id": "b4-001-002",
+    "sourceId": "b4-001-002",
+    "sourceIndex": 1,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      21
+    ],
+    "wordModel": "mms-fa",
+    "text": "We can read of things that happened 5, 000 years ago in the Near East, where people first learned to write.",
+    "start": 18.55,
+    "end": 26.0,
+    "score": 0.871,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b4-001",
+    "id": "b4-001-007",
+    "sourceId": "b4-001-007",
+    "sourceIndex": 6,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      18
+    ],
+    "wordModel": "mms-fa",
+    "text": "The sagas of these people explain that some of them came from Indonesia about 2, 000 years ago.",
+    "start": 70.08,
+    "end": 77.47,
+    "score": 0.89,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b4-002",
+    "id": "b4-002-010-p02",
+    "sourceId": "b4-002-010",
+    "sourceIndex": 9,
+    "part": 2,
+    "parts": 3,
+    "wordRange": [
+      19,
+      33
+    ],
+    "wordModel": "mms-fa",
+    "text": "and he estimated that there were more than 2, 250, 000 in one acre;",
+    "start": 98.21,
+    "end": 104.85,
+    "score": 0.689,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b4-002",
+    "id": "b4-002-010-p03",
+    "sourceId": "b4-002-010",
+    "sourceIndex": 9,
+    "part": 3,
+    "parts": 3,
+    "wordRange": [
+      33,
+      48
+    ],
+    "wordModel": "mms-fa",
+    "text": "that is something like 6, 000, 000 spiders of different kinds on a football pitch.",
+    "start": 105.49,
+    "end": 111.25,
+    "score": 0.87,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b4-006",
+    "id": "b4-006-006-p03",
+    "sourceId": "b4-006-006",
+    "sourceIndex": 5,
+    "part": 3,
+    "parts": 5,
+    "wordRange": [
+      28,
+      38
+    ],
+    "wordModel": "mms-fa",
+    "text": "but as soon as a the question of prestige arises,",
+    "start": 76.34,
+    "end": 79.68,
+    "score": 0.88,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b4-008",
+    "id": "b4-008-015-p01",
+    "sourceId": "b4-008-015",
+    "sourceIndex": 14,
+    "part": 1,
+    "parts": 2,
+    "wordRange": [
+      0,
+      11
+    ],
+    "wordModel": "mms-fa",
+    "text": "The EU -- following fine continental traditions -- wants agreement on general principles,",
+    "start": 124.21,
+    "end": 130.51,
+    "score": 0.905,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b4-010",
+    "id": "b4-010-006",
+    "sourceId": "b4-010-006",
+    "sourceIndex": 5,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      9
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'We've got more garages with smart people,' Mead observes.",
+    "start": 82.81,
+    "end": 86.57,
+    "score": 0.972,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b4-010",
+    "id": "b4-010-013",
+    "sourceId": "b4-010-013",
+    "sourceIndex": 12,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      19
+    ],
+    "wordModel": "mms-fa",
+    "text": "D. from Hong Kong, has set up a Taiwan factory to challenge Japan's near lock on the memory-chip market.",
+    "start": 127.443,
+    "end": 134.86,
+    "score": 0.916,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b4-013",
+    "id": "b4-013-002",
+    "text": "The deepest holes of all are made for oil, and they go down to as much as 25, 000 feet.",
+    "start": 18.553,
+    "end": 25.302,
+    "score": 0.932,
+    "timingValid": true,
+    "needsReview": true,
+    "sourceId": "b4-013-002",
+    "sourceIndex": 1,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      20
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
+  },
+  {
+    "lesson": "b4-014",
+    "id": "b4-014-012",
+    "text": "By 12.01, those fluctuations will already have created small errors one foot away.",
+    "start": 136.812,
+    "end": 143.222,
+    "score": 0.854,
+    "timingValid": true,
+    "needsReview": true,
+    "sourceId": "b4-014-012",
+    "sourceIndex": 11,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      13
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
   },
   {
     "lesson": "b4-018",
     "id": "b4-018-005",
+    "sourceId": "b4-018-005",
+    "sourceIndex": 4,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      15
+    ],
+    "wordModel": "english-ctc-fallback",
     "text": "In 1928 some porpoises were photographed working like beavers to push ashore a waterlogged mattress.",
-    "start": 55.867,
-    "end": 65.143,
-    "score": 0.795,
+    "start": 57.61,
+    "end": 65.17,
+    "score": 0.987,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
   },
   {
-    "lesson": "b4-021",
-    "id": "b4-021-003",
-    "text": "From 1914 to 1924 he was supreme and unchallenged.",
-    "start": 33.873,
-    "end": 39.843,
-    "score": 0.542,
+    "lesson": "b4-019",
+    "id": "b4-019-004",
+    "sourceId": "b4-019-004",
+    "sourceIndex": 3,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      21
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'Rest', in terms of muscle relaxation and so on, can be achieved by a brief period lying, or even sitting down.",
+    "start": 48.83,
+    "end": 57.76,
+    "score": 0.97,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b4-023",
+    "id": "b4-023-003-p02",
+    "sourceId": "b4-023-003",
+    "sourceIndex": 2,
+    "part": 2,
+    "parts": 2,
+    "wordRange": [
+      15,
+      34
+    ],
+    "wordModel": "mms-fa",
+    "text": "which may keep company with the vessel for an hour without visible or more than occasional movement of wing.",
+    "start": 34.703,
+    "end": 41.41,
+    "score": 0.911,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b4-025",
+    "id": "b4-025-005",
+    "text": "One allegation often made is that noise produces mental illness.",
+    "start": 56.972,
+    "end": 61.663,
+    "score": 0.934,
+    "timingValid": true,
+    "needsReview": true,
+    "sourceId": "b4-025-005",
+    "sourceIndex": 4,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      10
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
+  },
+  {
+    "lesson": "b4-025",
+    "id": "b4-025-006-p03",
+    "sourceId": "b4-025-006",
+    "sourceIndex": 5,
+    "part": 3,
+    "parts": 3,
+    "wordRange": [
+      24,
+      37
+    ],
+    "wordModel": "mms-fa",
+    "text": "with the caption 'She was yet another victim, reduced to a screaming wreck'.",
+    "start": 72.26,
+    "end": 78.16,
+    "score": 0.906,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
   },
   {
     "lesson": "b4-027",
-    "id": "b4-027-003",
-    "text": "For nearly three and a half centuries she lay at the bottom of Stockholm harbour until her discovery in 1956.",
-    "start": 31.312,
-    "end": 39.163,
-    "score": 0.771,
+    "id": "b4-027-013-p03",
+    "sourceId": "b4-027-013",
+    "sourceIndex": 12,
+    "part": 3,
+    "parts": 4,
+    "wordRange": [
+      24,
+      40
+    ],
+    "wordModel": "mms-fa",
+    "text": "sails filling in the breeze, and the red and gold or her superstructure ablaze with colour,",
+    "start": 142.05,
+    "end": 147.91,
+    "score": 0.865,
     "timingValid": true,
-    "needsReview": true
-  },
-  {
-    "lesson": "b4-027",
-    "id": "b4-027-008",
-    "text": "As she was prepared for her maiden voyage on August 10, 1628, Stockholm was in a ferment.",
-    "start": 69.192,
-    "end": 76.683,
-    "score": 0.785,
-    "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
   },
   {
     "lesson": "b4-029",
-    "id": "b4-029-010",
-    "text": "The first tests on the Solent in 1959 caused a sensation.",
-    "start": 113.873,
-    "end": 118.983,
-    "score": 0.662,
+    "id": "b4-029-003-p01",
+    "sourceId": "b4-029-003",
+    "sourceIndex": 2,
+    "part": 1,
+    "parts": 2,
+    "wordRange": [
+      0,
+      20
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "In 1953, a former electronics engineer in his fifties, Christopher Cockerell, who had turned to boat-building on the Norfolk Broads,",
+    "start": 26.84,
+    "end": 37.21,
+    "score": 0.984,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
   },
   {
     "lesson": "b4-030",
-    "id": "b4-030-004",
-    "text": "Sir James Clark Ross had obtained a sounding of over 2, 400 fathoms in 1839, but it was not until 1869, when H.M.S.",
-    "start": 49.752,
-    "end": 61.523,
-    "score": 0.671,
+    "id": "b4-030-014",
+    "sourceId": "b4-030-014",
+    "sourceIndex": 13,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      32
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "This continental slope usually starts at a place somewhere near the 100-fathom mark and in the course of a few hundred miles reaches the true ocean floor at 2, 500-3, 500 fathoms.",
+    "start": 167.302,
+    "end": 183.15,
+    "score": 0.976,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "stretched-word"
+    ]
   },
   {
-    "lesson": "b4-041",
-    "id": "b4-041-021",
-    "text": "my son', or 'ho!",
-    "start": 231.632,
-    "end": 233.562,
-    "score": 0.792,
+    "lesson": "b4-032",
+    "id": "b4-032-013",
+    "sourceId": "b4-032-013",
+    "sourceIndex": 12,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      35
+    ],
+    "wordModel": "mms-fa",
+    "text": "Was the philosopher who refused to look through Galileo's telescope more culpable than those who alleged that the spiral nebulae observed with Lord Rosse's great telescope in the 1840s were scratches left by the grinder?",
+    "start": 159.79,
+    "end": 174.64,
+    "score": 0.929,
     "timingValid": true,
-    "needsReview": true
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b4-035",
+    "id": "b4-035-013",
+    "sourceId": "b4-035-013",
+    "sourceIndex": 12,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      6
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'It's possible, but not worth doing.'",
+    "start": 109.07,
+    "end": 111.71,
+    "score": 0.988,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b4-035",
+    "id": "b4-035-015",
+    "sourceId": "b4-035-015",
+    "sourceIndex": 14,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      9
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "'I said it was a good idea all along.'",
+    "start": 114.29,
+    "end": 116.81,
+    "score": 0.995,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "boundary-disagreement"
+    ]
+  },
+  {
+    "lesson": "b4-043",
+    "id": "b4-043-015",
+    "text": "(A light year is the distance which light travels at 186, 000 miles per second in one year, namely 6 million million miles.)",
+    "start": 186.392,
+    "end": 197.843,
+    "score": 0.949,
+    "timingValid": true,
+    "needsReview": true,
+    "sourceId": "b4-043-015",
+    "sourceIndex": 14,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      23
+    ],
+    "wordModel": "legacy-review",
+    "reviewReasons": [
+      "unresolved-word-alignment"
+    ]
+  },
+  {
+    "lesson": "b4-043",
+    "id": "b4-043-019",
+    "sourceId": "b4-043-019",
+    "sourceIndex": 18,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      16
+    ],
+    "wordModel": "english-ctc-fallback",
+    "text": "This depends on the precise radio frequency of the 21-cm wavelength, or 1420 megacycles per second.",
+    "start": 243.26,
+    "end": 253.7,
+    "score": 0.956,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "stretched-word"
+    ]
+  },
+  {
+    "lesson": "b4-047",
+    "id": "b4-047-003",
+    "sourceId": "b4-047-003",
+    "sourceIndex": 2,
+    "part": 1,
+    "parts": 1,
+    "wordRange": [
+      0,
+      18
+    ],
+    "wordModel": "mms-fa",
+    "text": "But, contrary to a popular assumption, it is far from being the only one, or even the greatest.",
+    "start": 34.05,
+    "end": 40.42,
+    "score": 0.932,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
+  },
+  {
+    "lesson": "b4-047",
+    "id": "b4-047-025-p02",
+    "sourceId": "b4-047-025",
+    "sourceIndex": 24,
+    "part": 2,
+    "parts": 3,
+    "wordRange": [
+      16,
+      39
+    ],
+    "wordModel": "mms-fa",
+    "text": "or those inviting 'our camping friends' to a dance or a boat trip are printed not only in French or Italian or Spanish,",
+    "start": 240.04,
+    "end": 248.53,
+    "score": 0.912,
+    "timingValid": true,
+    "needsReview": true,
+    "reviewReasons": [
+      "low-word-confidence"
+    ]
   }
 ]

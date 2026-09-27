@@ -39,7 +39,7 @@ def sentences(lesson,tokenizer):
         lines.append(text)
     return tokenizer.tokenize(' '.join(lines))
 
-def emissions(model,path,device):
+def emissions(model,path,device,log_probs=False):
     raw=subprocess.check_output(['ffmpeg','-v','error','-i',str(path),'-f','f32le','-ac','1','-ar','16000','-'])
     wave=torch.from_numpy(np.frombuffer(raw,dtype=np.float32).copy())
     outputs,times=[],[]
@@ -49,7 +49,9 @@ def emissions(model,path,device):
         left=max(0,begin-16000); right=min(len(wave),end+16000)
         with torch.inference_mode():
             output,_=model(wave[left:right].unsqueeze(0).to(device))
-            output=output[0].log_softmax(-1).cpu()
+            # MMS_FA already returns log probabilities plus a zero-cost star;
+            # renormalizing it would halve every character confidence score.
+            output=(output[0] if log_probs else output[0].log_softmax(-1)).cpu()
         centers=left/16000+np.arange(len(output))*.02+.0125
         keep=(centers>=begin/16000)&(centers<end/16000)
         outputs.append(output[keep]); times.extend(centers[keep].tolist())
