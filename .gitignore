@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 .DS_Store
 test-results/
+.voice-build/
+audio/tts/**/*.tmp.m4a

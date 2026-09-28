@@ -1,0 +1,48 @@
+/* Layout, monochrome palette and control sizes mirror french-2000/swipe-study.css.
+   NCE keeps its own lesson, original-text and recording semantics. */
+#screen{--bg:#f7f7f7;--panel:#fff;--text:#181818;--muted:#6d6d6d;--line:#dedede;--soft:#f0f0f0;--accent:#111;--accentText:#fff;z-index:80;color:var(--text);padding-left:max(14px,env(safe-area-inset-left));padding-right:max(14px,env(safe-area-inset-right));overscroll-behavior:none}
+body.dark #screen{--bg:#111;--panel:#191919;--text:#f4f4f4;--muted:#aaa;--line:#333;--soft:#242424;--accent:#f5f5f5;--accentText:#111}
+body.screenOpen{position:fixed;width:100%;overscroll-behavior:none}
+#screen button,#screen select{border-radius:11px;min-height:42px;background:var(--panel);color:var(--text)}
+#screen button{padding:8px 13px}#screen button[aria-pressed=true]{background:var(--accent);color:var(--accentText)}
+#screen>header,.screenSettings,.screenProgress,#screenCard,.screenBottom{max-width:1040px;width:100%;margin:0 auto;min-width:0}
+#screen>header{gap:12px;padding:12px 0 8px}#screen h2{margin:0;font-size:17px}
+#screenLessonSelect{padding:7px 8px;width:94px;font-size:12px}#lock{white-space:nowrap;padding:8px 10px!important;font-size:12px}
+#screen #exitScreen{white-space:nowrap;font-size:18px}#exitScreen span{font-size:12px}
+.screenSettings{max-height:34vh;max-height:34dvh;overflow:auto}
+.screenPreferences{display:flex;flex-wrap:wrap;gap:8px 18px;padding:8px 0;font-size:12px;color:var(--muted)}
+.screenPreferences label{gap:5px;min-height:26px}.screenPreferences input{width:16px;height:16px;margin:0}
+.screenSettings details{border:0;background:transparent;margin:0 0 5px;font-size:12px}
+.screenSettings summary{display:flex;align-items:center;justify-content:space-between;gap:10px;min-height:44px;padding:10px 12px;background:var(--panel);border:1px solid var(--line);border-radius:12px;list-style:none;font-size:12px}
+.screenSettings summary::-webkit-details-marker{display:none}#rangeSummary{font-weight:600;line-height:1.6;min-width:0}
+.settingsAction{flex-shrink:0;color:var(--muted);font-size:11px}.settingsAction i{font-style:normal;display:inline-block}.screenSettings details[open]>summary i{transform:rotate(180deg)}
+#screen .controlPanel{gap:10px 16px;padding:10px;background:var(--panel);border:1px solid var(--line);border-radius:12px;font-size:12px;margin-top:7px}
+#screen .controlPanel label{gap:6px}#screen .controlPanel input[type=number]{width:70px;min-height:36px;padding:5px;font-size:16px;background:var(--bg)}
+.screenNote{font-size:11px;color:var(--muted)}.screenToolsBody{padding-top:7px}
+.screenFonts{display:grid;gap:8px;margin-bottom:10px;padding:10px;border:1px solid var(--line);border-radius:12px}
+.screenFonts label{display:grid;grid-template-columns:80px minmax(40px,1fr) 42px;gap:8px;font-size:12px}.screenFonts input{width:100%;min-width:0;min-height:32px;margin:0}.screenFonts output{text-align:right}
+#voiceDownloadForm>strong,#voiceDownloadProgress{width:100%}#voiceDownloadProgress{height:10px}#voiceDownloadStatus{overflow-wrap:anywhere}
+.screenProgress{display:flex;align-items:center;gap:12px;font-size:11px;color:var(--muted);padding:7px 0 12px}#screenCounter{padding:0;font-size:11px;white-space:nowrap}
+#screenProgressBar{flex:1;height:3px;border-radius:5px;background:var(--line);overflow:hidden;min-width:12px}#screenProgressFill{height:100%;display:block;background:var(--text);transition:width .15s}
+#screenCard{gap:14px;touch-action:pinch-zoom}#screenHero{padding:24px 30px}#cueLabel{font-size:12px;letter-spacing:.08em;margin:0 0 18px;color:var(--muted)}
+#screenText{font-size:calc(clamp(26px,4vw,52px)*var(--font));line-height:1.45;font-weight:750;text-wrap:balance;letter-spacing:-.015em;max-width:920px}
+#screenHero>div{gap:8px;margin-top:23px}#screenHero button{font-size:12px;min-height:36px}
+#screenCard.withDetails #screenHero{flex:0 1 auto;max-height:48%;padding:12px 20px}#screenCard.withDetails #screenText{font-size:calc(clamp(23px,3vw,35px)*var(--font))}
+#screenCard.withDetails #cueLabel{margin-bottom:7px}#screenCard.withDetails #screenHero>div{margin-top:9px}
+#screenContext{flex:1;max-height:none;min-height:80px;padding:18px 22px;border-radius:17px;font-size:calc(14px*var(--context-font,1));line-height:1.85;text-align:left}
+#screenContext p{margin:6px 0}.screenBottom{padding:12px 0 10px}.screenBottom>div:first-child{gap:12px;margin-bottom:9px;min-height:32px}
+#screenStatus{font-size:12px;color:var(--muted)}.screenAudioControls{display:flex;gap:6px;align-items:center;flex-shrink:0}
+#screen .screenAudioControls select{width:100%;font-size:12px;min-height:32px;padding:4px 7px}.screenAudioControls label:first-child{width:80px}.screenAudioControls label:last-child{width:min(220px,39vw)}
+#screen .two{gap:8px}#screen .two button{font-size:13px;font-weight:600}#screen #screenPause{background:var(--accent);color:var(--accentText);border-color:var(--accent)}
+#lockHint{padding-top:10px;margin:0}#swipeIntro{background:var(--accent);color:var(--accentText)}
+#screen.locked .screenCourseLabel{display:none}#screen.locked #screenHero,#screen.locked #screenContext{touch-action:none;user-select:none}
+.srOnly{position:absolute;width:1px;height:1px;margin:-1px;padding:0;border:0;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+#voiceMode{max-width:240px}#voiceNotice{font-size:11px;color:var(--muted)}
+@media(max-width:640px){
+ #screen{padding-left:max(12px,env(safe-area-inset-left));padding-right:max(12px,env(safe-area-inset-right))}#screen>header{gap:8px;padding-top:9px}#screen h2{font-size:15px}#screenLessonSelect{width:78px;padding:6px}
+ .screenPreferences{gap:5px 13px;font-size:11px;padding:5px 0}.screenProgress{font-size:10px;gap:8px;padding:5px 0 9px}#screenCounter{font-size:10px}
+ #screenHero{padding:16px 9px}#screenCard{gap:8px}#screenCard.withDetails #screenHero{padding:8px 5px;max-height:46%}#screenContext{padding:14px;font-size:calc(13px*var(--context-font,1));border-radius:13px}
+ #screen .two{gap:5px}#screen .two button{padding:8px 3px;font-size:11px;min-height:44px}.screenBottom>div:first-child{gap:8px}#screenStatus{font-size:10px}#screen .screenAudioControls select{font-size:11px}#lockHint{font-size:10px;padding-top:7px}
+}
+@media(max-height:540px){#screen>header{padding-top:4px}.screenPreferences{padding:0}#screenHero{padding:8px}#cueLabel{margin-bottom:5px}#screenText{font-size:calc(26px*var(--font))}#screenHero>div{margin-top:7px}.screenBottom{padding-top:5px}#lockHint{display:none}}
+@media(prefers-reduced-motion:reduce){#screenProgressFill{transition:none}}
