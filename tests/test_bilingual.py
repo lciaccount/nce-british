@@ -84,7 +84,7 @@ def main():
             page.wait_for_function('navigator.serviceWorker.controller !== null')
             page.reload(wait_until='networkidle')
             assert page.locator('[data-cue="0"] .cueZh').is_visible()
-            assert page.evaluate("async()=>{const c=await caches.open('nce-shell-v6-bilingual-20260928');return !!(await c.match('./translations.js'))&&!!(await c.match('./dictionary-data.js'));}")
+            assert page.evaluate("async()=>{const c=await caches.open('nce-shell-v7-bilingual-context-20260928');return !!(await c.match('./translations.js'))&&!!(await c.match('./dictionary-data.js'));}")
             assert not errors, errors
             browser.close()
     finally:
