@@ -67,8 +67,12 @@ def main():
             page.locator('#openScreen').tap()
             page.locator('#hideTranslation').check()
             assert page.locator('#screenTranslation').is_hidden()
+            page.locator('#detailsToggle').tap()
+            assert page.locator('#screenContext').is_visible()
+            assert page.locator('#screenContext [lang="zh-CN"]').first.is_hidden()
             page.locator('#translationReveal').tap()
             assert page.locator('#screenTranslation').is_visible()
+            assert page.locator('#screenContext [lang="zh-CN"]').first.is_visible()
             page.locator('#screenText .wordToken').first.tap()
             assert page.locator('#wordDialog').is_visible()
             assert page.locator('#wordDialog').evaluate('el=>el.parentElement.id') == 'screen'
