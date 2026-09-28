@@ -65,6 +65,7 @@ def main():
             assert page.locator('#wordDialog').is_hidden()
 
             page.locator('#openScreen').tap()
+            assert '点英文单词查义' in page.locator('#lockHint').inner_text()
             page.locator('#hideTranslation').check()
             assert page.locator('#screenTranslation').is_hidden()
             page.locator('#detailsToggle').tap()
@@ -79,12 +80,14 @@ def main():
             page.locator('#wordClose').tap()
             page.locator('#lock').tap()
             assert page.locator('#screenText .wordToken').first.evaluate('el=>getComputedStyle(el).pointerEvents') == 'none'
+            page.locator('#screenText .wordToken').first.evaluate('el=>el.click()')
+            assert page.locator('#wordDialog').is_hidden()
             page.locator('#lock').tap()
             page.locator('#exitScreen').tap()
             page.wait_for_function('navigator.serviceWorker.controller !== null')
             page.reload(wait_until='networkidle')
             assert page.locator('[data-cue="0"] .cueZh').is_visible()
-            assert page.evaluate("async()=>{const c=await caches.open('nce-shell-v7-bilingual-context-20260928');return !!(await c.match('./translations.js'))&&!!(await c.match('./dictionary-data.js'));}")
+            assert page.evaluate("async()=>{const c=await caches.open('nce-shell-v8-swipe-lookup-20260928');return !!(await c.match('./translations.js'))&&!!(await c.match('./dictionary-data.js'));}")
             assert not errors, errors
             browser.close()
     finally:
