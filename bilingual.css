@@ -1,0 +1,19 @@
+/* Inline word lookup leaves the original text, punctuation and spacing intact. */
+.wordToken{display:inline;border:0;border-radius:4px;background:transparent;padding:0;margin:0;min-height:0;font:inherit;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;text-align:inherit;vertical-align:baseline;cursor:pointer;text-decoration:underline;text-decoration-style:dotted;text-decoration-color:color-mix(in srgb,var(--muted) 48%,transparent);text-underline-offset:4px}
+.wordToken:hover,.wordToken:focus-visible{background:var(--soft);text-decoration-style:solid}
+.cue p.cueEnglish{margin:11px 0 2px}
+.cue p.cueZh{font-size:15px;line-height:1.65;color:var(--muted);margin:4px 0 10px}
+.translationBadge{display:inline-block;font-size:10px;line-height:1.3;border:1px solid var(--line);border-radius:5px;padding:2px 4px;margin-left:7px;vertical-align:middle;color:var(--muted);white-space:nowrap}
+#screen #screenText .wordToken{background:transparent;min-height:0;padding:0;border:0;border-radius:4px;font:inherit;font-weight:inherit;line-height:inherit;color:inherit;display:inline;white-space:normal}
+#screen #screenText .wordToken:hover,#screen #screenText .wordToken:focus-visible{background:var(--soft)}
+#screenTranslation{font-size:calc(clamp(16px,2vw,23px)*var(--translation-font,1));line-height:1.7;color:var(--muted);max-width:850px;margin:15px 0 0}
+#screen #translationReveal{font-size:13px;min-height:40px;margin-top:14px;padding:7px 18px;border-radius:999px}
+#screenCard.withDetails #screenTranslation{font-size:calc(clamp(14px,1.6vw,19px)*var(--translation-font,1));margin-top:8px}
+#screenContext .contextPair{padding:7px 0;border-bottom:1px solid var(--line)}#screenContext .contextPair:last-child{border-bottom:0}#screenContext .contextPair.contextCurrent{font-weight:600}#screenContext [lang="zh-CN"]{color:var(--muted);font-size:.93em}
+#screen.locked #screenHero button.wordToken{display:inline;pointer-events:none}
+#wordDialog{width:min(92vw,480px);max-height:min(82vh,720px);max-height:min(82dvh,720px);overflow:auto;padding:18px 20px;border-radius:18px;box-shadow:0 20px 60px #0004}
+.dictHeading{display:flex;align-items:start;justify-content:space-between;gap:12px}.dictHeading small,#wordContext small{font-size:11px;color:var(--muted)}.dictHeading h2{font-size:25px;margin:2px 0 0;overflow-wrap:anywhere}.dictHeading #wordClose{font-size:24px;line-height:1;width:40px;height:40px;padding:0;flex-shrink:0}
+#wordPhonetic{margin:0;color:var(--muted);font-size:14px}#wordSearchForm{margin:14px 0 6px}#wordSearchForm>label{font-size:12px;color:var(--muted)}#wordSearchForm>div{display:flex;gap:8px;margin-top:5px}#wordSearch{flex:1;min-width:0;font-size:16px}#wordSearchForm button{flex-shrink:0}
+#wordLemma{font-size:12px;color:var(--muted);margin:10px 0}#wordMeanings{font-size:14px}#wordMeanings ul{margin:6px 0 0;padding-left:21px}#wordMeanings li{margin:5px 0;line-height:1.55}#wordMeanings .dictMissing{color:var(--muted)}
+#wordContext{border-top:1px solid var(--line);margin-top:15px;padding-top:12px}#wordContext p{margin:5px 0;line-height:1.6}#wordContextChinese{color:var(--muted)}.dictFootnote{font-size:11px;color:var(--muted);margin:14px 0 0}
+@media(max-width:640px){.cue p.cueZh{font-size:14px}#screenTranslation{font-size:calc(17px*var(--translation-font,1));margin-top:10px}#wordDialog{padding:15px}}
