@@ -55,9 +55,11 @@ def main():
             assert page.locator('#showTranslations').is_checked()
             assert page.locator('[data-cue="0"] .cueZh').is_visible()
             assert page.locator('[data-cue="0"] .cueZh').inner_text() == translations[lessons[0]['cues'][0]['id']][0]
+            page.locator('#mobileSettingsBtn').tap()
             page.locator('#showTranslations').uncheck()
             assert page.locator('[data-cue="0"] .cueZh').is_hidden()
             page.locator('#showTranslations').check()
+            page.locator('#mobileSettingsBtn').tap()
             page.locator('[data-cue="0"] .wordToken').first.tap()
             assert page.locator('#wordDialog').is_visible()
             assert page.locator('#wordMeanings li').count() > 0
@@ -102,7 +104,7 @@ def main():
             page.wait_for_function('navigator.serviceWorker.controller !== null')
             page.reload(wait_until='networkidle')
             assert page.locator('[data-cue="0"] .cueZh').is_visible()
-            assert page.evaluate("async()=>{const c=await caches.open('nce-shell-v9-dictionary-cache-20260929');return !!(await c.match('./translations.js'))&&!!(await c.match('./dictionary-data.js'));}")
+            assert page.evaluate("async()=>{const c=await caches.open('nce-shell-v10-french-ui-20260929');return !!(await c.match('./translations.js'))&&!!(await c.match('./dictionary-data.js'))&&!!(await c.match('./french-ui.css'));}")
             page.evaluate("async()=>{const c=await caches.open('nce-audio-v1');await c.put('./audio/b1/001.mp3',new Response(new Uint8Array([1,2,3])))}")
             page.locator('#downloadForm').evaluate('el=>el.closest("details").open=true')
             page.locator('#refreshCache').tap()
