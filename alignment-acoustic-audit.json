@@ -1,0 +1,4185 @@
+{
+  "method": "10ms-rms-boundary-audit-v1",
+  "reviewedByEar": false,
+  "note": "Waveform energy is a screening signal, not proof of word completeness or human listening.",
+  "flaggedSegments": 245,
+  "highEdgeEnergySegments": 21,
+  "segments": [
+    {
+      "id": "b1-005-003",
+      "lesson": "b1-005",
+      "start": 20.213,
+      "end": 22.062,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00137,
+        "relativeToSpeech": 0.005
+      },
+      "afterEnd": {
+        "rms": 0.01412,
+        "relativeToSpeech": 0.049
+      }
+    },
+    {
+      "id": "b1-005-019",
+      "lesson": "b1-005",
+      "start": 76.53,
+      "end": 78.863,
+      "reasons": [
+        "unresolved-word-alignment",
+        "waveform-corrected-needs-listening"
+      ],
+      "beforeStart": {
+        "rms": 0.00138,
+        "relativeToSpeech": 0.007
+      },
+      "afterEnd": {
+        "rms": 0.01731,
+        "relativeToSpeech": 0.085
+      }
+    },
+    {
+      "id": "b1-009-015",
+      "lesson": "b1-009",
+      "start": 52.712,
+      "end": 53.383,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00094,
+        "relativeToSpeech": 0.003
+      },
+      "afterEnd": {
+        "rms": 0.07701,
+        "relativeToSpeech": 0.251
+      }
+    },
+    {
+      "id": "b1-019-011",
+      "lesson": "b1-019",
+      "start": 51.593,
+      "end": 52.763,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00104,
+        "relativeToSpeech": 0.005
+      },
+      "afterEnd": {
+        "rms": 0.03337,
+        "relativeToSpeech": 0.155
+      }
+    },
+    {
+      "id": "b1-043-014",
+      "lesson": "b1-043",
+      "start": 59.392,
+      "end": 61.423,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00408,
+        "relativeToSpeech": 0.026
+      },
+      "afterEnd": {
+        "rms": 0.01317,
+        "relativeToSpeech": 0.085
+      }
+    },
+    {
+      "id": "b1-061-010",
+      "lesson": "b1-061",
+      "start": 36.172,
+      "end": 41.303,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.10741,
+        "relativeToSpeech": 0.799
+      },
+      "afterEnd": {
+        "rms": 0.02276,
+        "relativeToSpeech": 0.169
+      }
+    },
+    {
+      "id": "b1-069-003",
+      "lesson": "b1-069",
+      "start": 23.64,
+      "end": 28.01,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00025,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 0.00107,
+        "relativeToSpeech": 0.006
+      }
+    },
+    {
+      "id": "b1-069-016",
+      "lesson": "b1-069",
+      "start": 83.74,
+      "end": 85.39,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00071,
+        "relativeToSpeech": 0.003
+      },
+      "afterEnd": {
+        "rms": 0.00054,
+        "relativeToSpeech": 0.002
+      }
+    },
+    {
+      "id": "b1-071-016",
+      "lesson": "b1-071",
+      "start": 71.493,
+      "end": 72.703,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00018,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 0.01812,
+        "relativeToSpeech": 0.125
+      }
+    },
+    {
+      "id": "b1-073-005",
+      "lesson": "b1-073",
+      "start": 32.823,
+      "end": 36.18,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00046,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.00179,
+        "relativeToSpeech": 0.008
+      }
+    },
+    {
+      "id": "b1-073-006",
+      "lesson": "b1-073",
+      "start": 38.03,
+      "end": 40.04,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00046,
+        "relativeToSpeech": 0.003
+      },
+      "afterEnd": {
+        "rms": 0.00191,
+        "relativeToSpeech": 0.013
+      }
+    },
+    {
+      "id": "b1-073-007",
+      "lesson": "b1-073",
+      "start": 41.36,
+      "end": 44.27,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00054,
+        "relativeToSpeech": 0.004
+      },
+      "afterEnd": {
+        "rms": 0.00138,
+        "relativeToSpeech": 0.009
+      }
+    },
+    {
+      "id": "b1-073-015",
+      "lesson": "b1-073",
+      "start": 72.66,
+      "end": 76.41,
+      "reasons": [
+        "boundary-disagreement",
+        "waveform-corrected-needs-listening"
+      ],
+      "beforeStart": {
+        "rms": 0.00059,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.00163,
+        "relativeToSpeech": 0.007
+      }
+    },
+    {
+      "id": "b1-073-016",
+      "lesson": "b1-073",
+      "start": 77.42,
+      "end": 82.48,
+      "reasons": [
+        "boundary-disagreement",
+        "waveform-corrected-needs-listening"
+      ],
+      "beforeStart": {
+        "rms": 0.00062,
+        "relativeToSpeech": 0.003
+      },
+      "afterEnd": {
+        "rms": 0.00331,
+        "relativeToSpeech": 0.017
+      }
+    },
+    {
+      "id": "b1-081-008",
+      "lesson": "b1-081",
+      "start": 26.953,
+      "end": 27.883,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00194,
+        "relativeToSpeech": 0.009
+      },
+      "afterEnd": {
+        "rms": 0.17008,
+        "relativeToSpeech": 0.792
+      }
+    },
+    {
+      "id": "b1-083-002",
+      "lesson": "b1-083",
+      "start": 18.512,
+      "end": 19.562,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.0009,
+        "relativeToSpeech": 0.007
+      },
+      "afterEnd": {
+        "rms": 0.03153,
+        "relativeToSpeech": 0.233
+      }
+    },
+    {
+      "id": "b1-085-002",
+      "lesson": "b1-085",
+      "start": 19.652,
+      "end": 20.842,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00015,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 0.10049,
+        "relativeToSpeech": 0.794
+      }
+    },
+    {
+      "id": "b1-087-005",
+      "lesson": "b1-087",
+      "start": 26.78,
+      "end": 35.94,
+      "reasons": [
+        "low-word-confidence",
+        "stretched-word"
+      ],
+      "beforeStart": {
+        "rms": 0.00014,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 0.00057,
+        "relativeToSpeech": 0.004
+      }
+    },
+    {
+      "id": "b1-089-012",
+      "lesson": "b1-089",
+      "start": 44.69,
+      "end": 49.223,
+      "reasons": [
+        "stretched-word"
+      ],
+      "beforeStart": {
+        "rms": 0.00036,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.00125,
+        "relativeToSpeech": 0.007
+      }
+    },
+    {
+      "id": "b1-091-002",
+      "lesson": "b1-091",
+      "start": 16.953,
+      "end": 19.302,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00059,
+        "relativeToSpeech": 0.004
+      },
+      "afterEnd": {
+        "rms": 0.00942,
+        "relativeToSpeech": 0.057
+      }
+    },
+    {
+      "id": "b1-091-022",
+      "lesson": "b1-091",
+      "start": 81.593,
+      "end": 82.543,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00051,
+        "relativeToSpeech": 0.004
+      },
+      "afterEnd": {
+        "rms": 0.06058,
+        "relativeToSpeech": 0.417
+      }
+    },
+    {
+      "id": "b1-097-016",
+      "lesson": "b1-097",
+      "start": 72.853,
+      "end": 73.443,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00016,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.00293,
+        "relativeToSpeech": 0.029
+      }
+    },
+    {
+      "id": "b1-101-004",
+      "lesson": "b1-101",
+      "start": 28.84,
+      "end": 33.733,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00013,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 0.01464,
+        "relativeToSpeech": 0.13
+      }
+    },
+    {
+      "id": "b1-101-005",
+      "lesson": "b1-101",
+      "start": 34.992,
+      "end": 35.263,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.15399,
+        "relativeToSpeech": 0.997
+      },
+      "afterEnd": {
+        "rms": 0.02646,
+        "relativeToSpeech": 0.171
+      }
+    },
+    {
+      "id": "b1-101-013",
+      "lesson": "b1-101",
+      "start": 62.85,
+      "end": 64.79,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00012,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 0.00037,
+        "relativeToSpeech": 0.004
+      }
+    },
+    {
+      "id": "b1-105-012",
+      "lesson": "b1-105",
+      "start": 41.7,
+      "end": 51.12,
+      "reasons": [
+        "stretched-word",
+        "waveform-corrected-needs-listening"
+      ],
+      "beforeStart": {
+        "rms": 0.00012,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.00041,
+        "relativeToSpeech": 0.006
+      }
+    },
+    {
+      "id": "b1-113-002",
+      "lesson": "b1-113",
+      "start": 17.393,
+      "end": 18.203,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00013,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 0.01685,
+        "relativeToSpeech": 0.08
+      }
+    },
+    {
+      "id": "b1-113-021",
+      "lesson": "b1-113",
+      "start": 70.493,
+      "end": 71.083,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00016,
+        "relativeToSpeech": 0.003
+      },
+      "afterEnd": {
+        "rms": 0.0018,
+        "relativeToSpeech": 0.038
+      }
+    },
+    {
+      "id": "b1-115-015",
+      "lesson": "b1-115",
+      "start": 47.373,
+      "end": 48.323,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00122,
+        "relativeToSpeech": 0.005
+      },
+      "afterEnd": {
+        "rms": 0.0474,
+        "relativeToSpeech": 0.206
+      }
+    },
+    {
+      "id": "b1-115-022",
+      "lesson": "b1-115",
+      "start": 61.312,
+      "end": 62.183,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00036,
+        "relativeToSpeech": 0.003
+      },
+      "afterEnd": {
+        "rms": 0.00797,
+        "relativeToSpeech": 0.07
+      }
+    },
+    {
+      "id": "b1-117-012",
+      "lesson": "b1-117",
+      "start": 65.11,
+      "end": 73.54,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00109,
+        "relativeToSpeech": 0.007
+      },
+      "afterEnd": {
+        "rms": 0.02604,
+        "relativeToSpeech": 0.156
+      }
+    },
+    {
+      "id": "b1-119-009",
+      "lesson": "b1-119",
+      "start": 50.0,
+      "end": 50.61,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00015,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 0.00045,
+        "relativeToSpeech": 0.002
+      }
+    },
+    {
+      "id": "b1-119-019",
+      "lesson": "b1-119",
+      "start": 78.38,
+      "end": 80.66,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00018,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.00051,
+        "relativeToSpeech": 0.006
+      }
+    },
+    {
+      "id": "b1-119-020",
+      "lesson": "b1-119",
+      "start": 81.14,
+      "end": 82.06,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00041,
+        "relativeToSpeech": 0.004
+      },
+      "afterEnd": {
+        "rms": 0.00055,
+        "relativeToSpeech": 0.006
+      }
+    },
+    {
+      "id": "b1-123-013",
+      "lesson": "b1-123",
+      "start": 48.14,
+      "end": 49.25,
+      "reasons": [
+        "unresolved-word-alignment",
+        "waveform-corrected-needs-listening"
+      ],
+      "beforeStart": {
+        "rms": 0.00022,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 0.00289,
+        "relativeToSpeech": 0.014
+      }
+    },
+    {
+      "id": "b1-125-002",
+      "lesson": "b1-125",
+      "start": 18.753,
+      "end": 21.162,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00014,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 0.00377,
+        "relativeToSpeech": 0.02
+      }
+    },
+    {
+      "id": "b1-133-009",
+      "lesson": "b1-133",
+      "start": 38.433,
+      "end": 40.203,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00015,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.00414,
+        "relativeToSpeech": 0.055
+      }
+    },
+    {
+      "id": "b1-133-011",
+      "lesson": "b1-133",
+      "start": 42.56,
+      "end": 45.41,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00048,
+        "relativeToSpeech": 0.004
+      },
+      "afterEnd": {
+        "rms": 0.00121,
+        "relativeToSpeech": 0.009
+      }
+    },
+    {
+      "id": "b1-135-020",
+      "lesson": "b1-135",
+      "start": 79.133,
+      "end": 81.883,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.0004,
+        "relativeToSpeech": 0.004
+      },
+      "afterEnd": {
+        "rms": 0.02039,
+        "relativeToSpeech": 0.219
+      }
+    },
+    {
+      "id": "b1-141-007",
+      "lesson": "b1-141",
+      "start": 50.84,
+      "end": 53.26,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00019,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.00052,
+        "relativeToSpeech": 0.005
+      }
+    },
+    {
+      "id": "b1-141-012",
+      "lesson": "b1-141",
+      "start": 78.05,
+      "end": 80.08,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00022,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 0.01306,
+        "relativeToSpeech": 0.071
+      }
+    },
+    {
+      "id": "b1-141-016",
+      "lesson": "b1-141",
+      "start": 94.48,
+      "end": 97.77,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00018,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 0.00049,
+        "relativeToSpeech": 0.002
+      }
+    },
+    {
+      "id": "b1-143-011",
+      "lesson": "b1-143",
+      "start": 72.7,
+      "end": 80.62,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00034,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.00088,
+        "relativeToSpeech": 0.006
+      }
+    },
+    {
+      "id": "b2-001-006",
+      "lesson": "b2-001",
+      "start": 33.54,
+      "end": 37.45,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.00541,
+        "relativeToSpeech": 0.042
+      },
+      "afterEnd": {
+        "rms": 0.00313,
+        "relativeToSpeech": 0.024
+      }
+    },
+    {
+      "id": "b2-001-015",
+      "lesson": "b2-001",
+      "start": 62.51,
+      "end": 64.66,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.03377,
+        "relativeToSpeech": 0.088
+      },
+      "afterEnd": {
+        "rms": 1e-05,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b2-001-018",
+      "lesson": "b2-001",
+      "start": 71.8,
+      "end": 74.09,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00292,
+        "relativeToSpeech": 0.013
+      },
+      "afterEnd": {
+        "rms": 0.00306,
+        "relativeToSpeech": 0.013
+      }
+    },
+    {
+      "id": "b2-002-008",
+      "lesson": "b2-002",
+      "start": 42.35,
+      "end": 43.71,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00051,
+        "relativeToSpeech": 0.003
+      },
+      "afterEnd": {
+        "rms": 0.00349,
+        "relativeToSpeech": 0.02
+      }
+    },
+    {
+      "id": "b2-002-013",
+      "lesson": "b2-002",
+      "start": 55.69,
+      "end": 59.22,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.0025,
+        "relativeToSpeech": 0.008
+      },
+      "afterEnd": {
+        "rms": 0.0,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b2-002-014",
+      "lesson": "b2-002",
+      "start": 59.75,
+      "end": 61.203,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.0,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.00066,
+        "relativeToSpeech": 0.002
+      }
+    },
+    {
+      "id": "b2-002-015",
+      "lesson": "b2-002",
+      "start": 63.03,
+      "end": 66.36,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.0005,
+        "relativeToSpeech": 0.003
+      },
+      "afterEnd": {
+        "rms": 0.00391,
+        "relativeToSpeech": 0.021
+      }
+    },
+    {
+      "id": "b2-002-016",
+      "lesson": "b2-002",
+      "start": 67.79,
+      "end": 69.08,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00074,
+        "relativeToSpeech": 0.003
+      },
+      "afterEnd": {
+        "rms": 0.00335,
+        "relativeToSpeech": 0.014
+      }
+    },
+    {
+      "id": "b2-002-019",
+      "lesson": "b2-002",
+      "start": 76.7,
+      "end": 79.03,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00079,
+        "relativeToSpeech": 0.006
+      },
+      "afterEnd": {
+        "rms": 0.00296,
+        "relativeToSpeech": 0.023
+      }
+    },
+    {
+      "id": "b2-011-009",
+      "lesson": "b2-011",
+      "start": 64.47,
+      "end": 71.12,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00036,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.00317,
+        "relativeToSpeech": 0.014
+      }
+    },
+    {
+      "id": "b2-015-009",
+      "lesson": "b2-015",
+      "start": 57.19,
+      "end": 57.892,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00064,
+        "relativeToSpeech": 0.004
+      },
+      "afterEnd": {
+        "rms": 0.05476,
+        "relativeToSpeech": 0.341
+      }
+    },
+    {
+      "id": "b2-015-011",
+      "lesson": "b2-015",
+      "start": 63.58,
+      "end": 65.97,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00063,
+        "relativeToSpeech": 0.004
+      },
+      "afterEnd": {
+        "rms": 0.00156,
+        "relativeToSpeech": 0.009
+      }
+    },
+    {
+      "id": "b2-017-009",
+      "lesson": "b2-017",
+      "start": 65.37,
+      "end": 75.19,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00047,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.00173,
+        "relativeToSpeech": 0.008
+      }
+    },
+    {
+      "id": "b2-018-005",
+      "lesson": "b2-018",
+      "start": 40.19,
+      "end": 42.142,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00041,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.00056,
+        "relativeToSpeech": 0.003
+      }
+    },
+    {
+      "id": "b2-018-007",
+      "lesson": "b2-018",
+      "start": 44.5,
+      "end": 50.03,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00055,
+        "relativeToSpeech": 0.003
+      },
+      "afterEnd": {
+        "rms": 0.00174,
+        "relativeToSpeech": 0.011
+      }
+    },
+    {
+      "id": "b2-018-012",
+      "lesson": "b2-018",
+      "start": 68.87,
+      "end": 71.73,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00058,
+        "relativeToSpeech": 0.003
+      },
+      "afterEnd": {
+        "rms": 0.00127,
+        "relativeToSpeech": 0.006
+      }
+    },
+    {
+      "id": "b2-018-013",
+      "lesson": "b2-018",
+      "start": 72.54,
+      "end": 73.87,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00115,
+        "relativeToSpeech": 0.007
+      },
+      "afterEnd": {
+        "rms": 0.00113,
+        "relativeToSpeech": 0.007
+      }
+    },
+    {
+      "id": "b2-019-002",
+      "lesson": "b2-019",
+      "start": 19.58,
+      "end": 23.27,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00049,
+        "relativeToSpeech": 0.004
+      },
+      "afterEnd": {
+        "rms": 0.00152,
+        "relativeToSpeech": 0.014
+      }
+    },
+    {
+      "id": "b2-019-003",
+      "lesson": "b2-019",
+      "start": 25.42,
+      "end": 29.2,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00049,
+        "relativeToSpeech": 0.005
+      },
+      "afterEnd": {
+        "rms": 0.00145,
+        "relativeToSpeech": 0.014
+      }
+    },
+    {
+      "id": "b2-019-005",
+      "lesson": "b2-019",
+      "start": 34.26,
+      "end": 36.23,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00048,
+        "relativeToSpeech": 0.003
+      },
+      "afterEnd": {
+        "rms": 0.0025,
+        "relativeToSpeech": 0.017
+      }
+    },
+    {
+      "id": "b2-019-008",
+      "lesson": "b2-019",
+      "start": 44.96,
+      "end": 46.29,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00047,
+        "relativeToSpeech": 0.007
+      },
+      "afterEnd": {
+        "rms": 1e-05,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b2-019-011",
+      "lesson": "b2-019",
+      "start": 54.58,
+      "end": 57.51,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00047,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.00125,
+        "relativeToSpeech": 0.005
+      }
+    },
+    {
+      "id": "b2-019-013",
+      "lesson": "b2-019",
+      "start": 59.8,
+      "end": 62.58,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00053,
+        "relativeToSpeech": 0.004
+      },
+      "afterEnd": {
+        "rms": 0.00158,
+        "relativeToSpeech": 0.012
+      }
+    },
+    {
+      "id": "b2-019-015",
+      "lesson": "b2-019",
+      "start": 69.08,
+      "end": 71.57,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00046,
+        "relativeToSpeech": 0.004
+      },
+      "afterEnd": {
+        "rms": 0.00185,
+        "relativeToSpeech": 0.014
+      }
+    },
+    {
+      "id": "b2-019-017",
+      "lesson": "b2-019",
+      "start": 73.62,
+      "end": 79.3,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00057,
+        "relativeToSpeech": 0.003
+      },
+      "afterEnd": {
+        "rms": 0.00178,
+        "relativeToSpeech": 0.009
+      }
+    },
+    {
+      "id": "b2-020-010",
+      "lesson": "b2-020",
+      "start": 60.86,
+      "end": 63.18,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00056,
+        "relativeToSpeech": 0.003
+      },
+      "afterEnd": {
+        "rms": 0.0,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b2-024-004",
+      "lesson": "b2-024",
+      "start": 35.75,
+      "end": 42.13,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00051,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.00147,
+        "relativeToSpeech": 0.005
+      }
+    },
+    {
+      "id": "b2-024-006",
+      "lesson": "b2-024",
+      "start": 50.33,
+      "end": 53.66,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00055,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.00264,
+        "relativeToSpeech": 0.009
+      }
+    },
+    {
+      "id": "b2-024-010",
+      "lesson": "b2-024",
+      "start": 74.07,
+      "end": 78.5,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00055,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.00207,
+        "relativeToSpeech": 0.009
+      }
+    },
+    {
+      "id": "b2-024-011",
+      "lesson": "b2-024",
+      "start": 80.09,
+      "end": 86.26,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00052,
+        "relativeToSpeech": 0.004
+      },
+      "afterEnd": {
+        "rms": 0.00128,
+        "relativeToSpeech": 0.01
+      }
+    },
+    {
+      "id": "b2-025-001",
+      "lesson": "b2-025",
+      "start": 13.012,
+      "end": 13.922,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.03525,
+        "relativeToSpeech": 0.186
+      },
+      "afterEnd": {
+        "rms": 0.00358,
+        "relativeToSpeech": 0.019
+      }
+    },
+    {
+      "id": "b2-025-010",
+      "lesson": "b2-025",
+      "start": 67.81,
+      "end": 70.52,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00048,
+        "relativeToSpeech": 0.003
+      },
+      "afterEnd": {
+        "rms": 0.00125,
+        "relativeToSpeech": 0.009
+      }
+    },
+    {
+      "id": "b2-025-015",
+      "lesson": "b2-025",
+      "start": 92.79,
+      "end": 95.07,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00041,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.00141,
+        "relativeToSpeech": 0.007
+      }
+    },
+    {
+      "id": "b2-026-014",
+      "lesson": "b2-026",
+      "start": 79.81,
+      "end": 83.05,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00051,
+        "relativeToSpeech": 0.005
+      },
+      "afterEnd": {
+        "rms": 0.0011,
+        "relativeToSpeech": 0.01
+      }
+    },
+    {
+      "id": "b2-039-009",
+      "lesson": "b2-039",
+      "start": 90.67,
+      "end": 95.76,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00307,
+        "relativeToSpeech": 0.025
+      },
+      "afterEnd": {
+        "rms": 0.00364,
+        "relativeToSpeech": 0.029
+      }
+    },
+    {
+      "id": "b2-040-009",
+      "lesson": "b2-040",
+      "start": 60.223,
+      "end": 62.45,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00131,
+        "relativeToSpeech": 0.01
+      },
+      "afterEnd": {
+        "rms": 0.00218,
+        "relativeToSpeech": 0.016
+      }
+    },
+    {
+      "id": "b2-040-010",
+      "lesson": "b2-040",
+      "start": 64.16,
+      "end": 67.65,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.0006,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 1e-05,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b2-040-012",
+      "lesson": "b2-040",
+      "start": 71.08,
+      "end": 73.75,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00049,
+        "relativeToSpeech": 0.003
+      },
+      "afterEnd": {
+        "rms": 0.0,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b2-040-013",
+      "lesson": "b2-040",
+      "start": 75.83,
+      "end": 77.7,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00036,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 1e-05,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b2-040-017",
+      "lesson": "b2-040",
+      "start": 90.262,
+      "end": 98.98,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.0,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.00261,
+        "relativeToSpeech": 0.02
+      }
+    },
+    {
+      "id": "b2-041-002",
+      "lesson": "b2-041",
+      "start": 22.82,
+      "end": 25.32,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00042,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.00312,
+        "relativeToSpeech": 0.012
+      }
+    },
+    {
+      "id": "b2-041-004",
+      "lesson": "b2-041",
+      "start": 28.9,
+      "end": 34.66,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00051,
+        "relativeToSpeech": 0.004
+      },
+      "afterEnd": {
+        "rms": 0.00166,
+        "relativeToSpeech": 0.014
+      }
+    },
+    {
+      "id": "b2-041-007",
+      "lesson": "b2-041",
+      "start": 51.8,
+      "end": 56.12,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00236,
+        "relativeToSpeech": 0.012
+      },
+      "afterEnd": {
+        "rms": 0.00175,
+        "relativeToSpeech": 0.009
+      }
+    },
+    {
+      "id": "b2-041-009",
+      "lesson": "b2-041",
+      "start": 61.56,
+      "end": 64.91,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.0,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.00244,
+        "relativeToSpeech": 0.014
+      }
+    },
+    {
+      "id": "b2-041-010",
+      "lesson": "b2-041",
+      "start": 65.85,
+      "end": 71.34,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.0,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.00194,
+        "relativeToSpeech": 0.012
+      }
+    },
+    {
+      "id": "b2-041-011",
+      "lesson": "b2-041",
+      "start": 73.22,
+      "end": 75.57,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00193,
+        "relativeToSpeech": 0.011
+      },
+      "afterEnd": {
+        "rms": 0.00194,
+        "relativeToSpeech": 0.011
+      }
+    },
+    {
+      "id": "b2-041-013",
+      "lesson": "b2-041",
+      "start": 80.482,
+      "end": 84.56,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00095,
+        "relativeToSpeech": 0.008
+      },
+      "afterEnd": {
+        "rms": 0.00175,
+        "relativeToSpeech": 0.015
+      }
+    },
+    {
+      "id": "b2-042-009",
+      "lesson": "b2-042",
+      "start": 86.36,
+      "end": 91.95,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.0,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.00432,
+        "relativeToSpeech": 0.023
+      }
+    },
+    {
+      "id": "b2-043-002",
+      "lesson": "b2-043",
+      "start": 19.98,
+      "end": 29.943,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.0006,
+        "relativeToSpeech": 0.003
+      },
+      "afterEnd": {
+        "rms": 0.10174,
+        "relativeToSpeech": 0.573
+      }
+    },
+    {
+      "id": "b2-043-006",
+      "lesson": "b2-043",
+      "start": 55.46,
+      "end": 60.77,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.00106,
+        "relativeToSpeech": 0.007
+      },
+      "afterEnd": {
+        "rms": 0.00254,
+        "relativeToSpeech": 0.018
+      }
+    },
+    {
+      "id": "b2-044-009",
+      "lesson": "b2-044",
+      "start": 78.1,
+      "end": 84.71,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.0008,
+        "relativeToSpeech": 0.005
+      },
+      "afterEnd": {
+        "rms": 0.00291,
+        "relativeToSpeech": 0.019
+      }
+    },
+    {
+      "id": "b2-045-009",
+      "lesson": "b2-045",
+      "start": 87.38,
+      "end": 93.12,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 3e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.00354,
+        "relativeToSpeech": 0.021
+      }
+    },
+    {
+      "id": "b2-046-011",
+      "lesson": "b2-046",
+      "start": 91.213,
+      "end": 94.103,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00226,
+        "relativeToSpeech": 0.012
+      },
+      "afterEnd": {
+        "rms": 0.09006,
+        "relativeToSpeech": 0.468
+      }
+    },
+    {
+      "id": "b2-050-010",
+      "lesson": "b2-050",
+      "start": 68.94,
+      "end": 72.19,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00061,
+        "relativeToSpeech": 0.003
+      },
+      "afterEnd": {
+        "rms": 0.00291,
+        "relativeToSpeech": 0.013
+      }
+    },
+    {
+      "id": "b2-050-011",
+      "lesson": "b2-050",
+      "start": 73.18,
+      "end": 75.07,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00133,
+        "relativeToSpeech": 0.005
+      },
+      "afterEnd": {
+        "rms": 0.00278,
+        "relativeToSpeech": 0.01
+      }
+    },
+    {
+      "id": "b2-050-014",
+      "lesson": "b2-050",
+      "start": 80.002,
+      "end": 84.62,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00256,
+        "relativeToSpeech": 0.01
+      },
+      "afterEnd": {
+        "rms": 0.0028,
+        "relativeToSpeech": 0.011
+      }
+    },
+    {
+      "id": "b2-050-018",
+      "lesson": "b2-050",
+      "start": 95.14,
+      "end": 98.24,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00053,
+        "relativeToSpeech": 0.004
+      },
+      "afterEnd": {
+        "rms": 0.00217,
+        "relativeToSpeech": 0.016
+      }
+    },
+    {
+      "id": "b2-052-009",
+      "lesson": "b2-052",
+      "start": 75.36,
+      "end": 79.06,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00085,
+        "relativeToSpeech": 0.005
+      },
+      "afterEnd": {
+        "rms": 0.0044,
+        "relativeToSpeech": 0.025
+      }
+    },
+    {
+      "id": "b2-052-011",
+      "lesson": "b2-052",
+      "start": 86.74,
+      "end": 90.16,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.0,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.0027,
+        "relativeToSpeech": 0.011
+      }
+    },
+    {
+      "id": "b2-053-008",
+      "lesson": "b2-053",
+      "start": 59.68,
+      "end": 68.06,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.00191,
+        "relativeToSpeech": 0.008
+      },
+      "afterEnd": {
+        "rms": 0.00276,
+        "relativeToSpeech": 0.012
+      }
+    },
+    {
+      "id": "b2-059-009",
+      "lesson": "b2-059",
+      "start": 63.38,
+      "end": 70.32,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.00348,
+        "relativeToSpeech": 0.023
+      },
+      "afterEnd": {
+        "rms": 0.00259,
+        "relativeToSpeech": 0.017
+      }
+    },
+    {
+      "id": "b2-060-011",
+      "lesson": "b2-060",
+      "start": 74.3,
+      "end": 75.99,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.01287,
+        "relativeToSpeech": 0.05
+      },
+      "afterEnd": {
+        "rms": 0.00139,
+        "relativeToSpeech": 0.005
+      }
+    },
+    {
+      "id": "b2-060-013",
+      "lesson": "b2-060",
+      "start": 78.75,
+      "end": 84.1,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.0,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 1e-05,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b2-063-002",
+      "lesson": "b2-063",
+      "start": 19.75,
+      "end": 25.79,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.00083,
+        "relativeToSpeech": 0.005
+      },
+      "afterEnd": {
+        "rms": 0.00214,
+        "relativeToSpeech": 0.014
+      }
+    },
+    {
+      "id": "b2-064-002-p01",
+      "lesson": "b2-064",
+      "start": 18.842,
+      "end": 26.33,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00492,
+        "relativeToSpeech": 0.032
+      },
+      "afterEnd": {
+        "rms": 0.00193,
+        "relativeToSpeech": 0.012
+      }
+    },
+    {
+      "id": "b2-064-006",
+      "lesson": "b2-064",
+      "start": 53.92,
+      "end": 60.19,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.0016,
+        "relativeToSpeech": 0.008
+      },
+      "afterEnd": {
+        "rms": 0.00219,
+        "relativeToSpeech": 0.01
+      }
+    },
+    {
+      "id": "b2-065-010",
+      "lesson": "b2-065",
+      "start": 93.03,
+      "end": 99.73,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00416,
+        "relativeToSpeech": 0.029
+      },
+      "afterEnd": {
+        "rms": 0.00153,
+        "relativeToSpeech": 0.011
+      }
+    },
+    {
+      "id": "b2-066-001",
+      "lesson": "b2-066",
+      "start": 13.88,
+      "end": 17.98,
+      "reasons": [
+        "waveform-corrected-needs-listening"
+      ],
+      "beforeStart": {
+        "rms": 0.00091,
+        "relativeToSpeech": 0.007
+      },
+      "afterEnd": {
+        "rms": 0.00211,
+        "relativeToSpeech": 0.015
+      }
+    },
+    {
+      "id": "b2-066-002",
+      "lesson": "b2-066",
+      "start": 18.7,
+      "end": 32.683,
+      "reasons": [
+        "unresolved-word-alignment",
+        "waveform-corrected-needs-listening"
+      ],
+      "beforeStart": {
+        "rms": 0.00276,
+        "relativeToSpeech": 0.021
+      },
+      "afterEnd": {
+        "rms": 0.0152,
+        "relativeToSpeech": 0.115
+      }
+    },
+    {
+      "id": "b2-067-003",
+      "lesson": "b2-067",
+      "start": 32.9,
+      "end": 42.97,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00149,
+        "relativeToSpeech": 0.011
+      },
+      "afterEnd": {
+        "rms": 0.00302,
+        "relativeToSpeech": 0.023
+      }
+    },
+    {
+      "id": "b2-068-008",
+      "lesson": "b2-068",
+      "start": 56.91,
+      "end": 61.58,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.0,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.00213,
+        "relativeToSpeech": 0.009
+      }
+    },
+    {
+      "id": "b2-068-009",
+      "lesson": "b2-068",
+      "start": 62.523,
+      "end": 65.63,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00189,
+        "relativeToSpeech": 0.011
+      },
+      "afterEnd": {
+        "rms": 1e-05,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b2-068-010",
+      "lesson": "b2-068",
+      "start": 66.39,
+      "end": 72.05,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00271,
+        "relativeToSpeech": 0.013
+      },
+      "afterEnd": {
+        "rms": 0.00182,
+        "relativeToSpeech": 0.008
+      }
+    },
+    {
+      "id": "b2-068-012",
+      "lesson": "b2-068",
+      "start": 77.46,
+      "end": 80.65,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.01801,
+        "relativeToSpeech": 0.063
+      },
+      "afterEnd": {
+        "rms": 0.00214,
+        "relativeToSpeech": 0.007
+      }
+    },
+    {
+      "id": "b2-068-016",
+      "lesson": "b2-068",
+      "start": 97.64,
+      "end": 100.55,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00174,
+        "relativeToSpeech": 0.008
+      },
+      "afterEnd": {
+        "rms": 0.00221,
+        "relativeToSpeech": 0.011
+      }
+    },
+    {
+      "id": "b2-068-017",
+      "lesson": "b2-068",
+      "start": 101.18,
+      "end": 105.12,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.0,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.00197,
+        "relativeToSpeech": 0.014
+      }
+    },
+    {
+      "id": "b2-069-014",
+      "lesson": "b2-069",
+      "start": 106.28,
+      "end": 106.84,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00042,
+        "relativeToSpeech": 0.003
+      },
+      "afterEnd": {
+        "rms": 0.07423,
+        "relativeToSpeech": 0.557
+      }
+    },
+    {
+      "id": "b2-069-015",
+      "lesson": "b2-069",
+      "start": 106.873,
+      "end": 114.47,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.10609,
+        "relativeToSpeech": 1.184
+      },
+      "afterEnd": {
+        "rms": 0.0023,
+        "relativeToSpeech": 0.026
+      }
+    },
+    {
+      "id": "b2-072-007",
+      "lesson": "b2-072",
+      "start": 69.322,
+      "end": 78.65,
+      "reasons": [
+        "stretched-word"
+      ],
+      "beforeStart": {
+        "rms": 0.00311,
+        "relativeToSpeech": 0.023
+      },
+      "afterEnd": {
+        "rms": 0.00224,
+        "relativeToSpeech": 0.016
+      }
+    },
+    {
+      "id": "b2-073-004",
+      "lesson": "b2-073",
+      "start": 36.073,
+      "end": 44.563,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00237,
+        "relativeToSpeech": 0.015
+      },
+      "afterEnd": {
+        "rms": 0.01304,
+        "relativeToSpeech": 0.083
+      }
+    },
+    {
+      "id": "b2-074-005",
+      "lesson": "b2-074",
+      "start": 45.88,
+      "end": 50.45,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00152,
+        "relativeToSpeech": 0.012
+      },
+      "afterEnd": {
+        "rms": 0.00127,
+        "relativeToSpeech": 0.01
+      }
+    },
+    {
+      "id": "b2-074-006",
+      "lesson": "b2-074",
+      "start": 51.88,
+      "end": 56.29,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00158,
+        "relativeToSpeech": 0.012
+      },
+      "afterEnd": {
+        "rms": 0.0015,
+        "relativeToSpeech": 0.011
+      }
+    },
+    {
+      "id": "b2-074-021",
+      "lesson": "b2-074",
+      "start": 119.4,
+      "end": 124.66,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00225,
+        "relativeToSpeech": 0.011
+      },
+      "afterEnd": {
+        "rms": 0.00096,
+        "relativeToSpeech": 0.005
+      }
+    },
+    {
+      "id": "b2-074-022",
+      "lesson": "b2-074",
+      "start": 124.98,
+      "end": 127.73,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00143,
+        "relativeToSpeech": 0.01
+      },
+      "afterEnd": {
+        "rms": 0.0134,
+        "relativeToSpeech": 0.09
+      }
+    },
+    {
+      "id": "b2-076-002",
+      "lesson": "b2-076",
+      "start": 17.86,
+      "end": 28.583,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00036,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.0,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b2-076-012",
+      "lesson": "b2-076",
+      "start": 112.373,
+      "end": 118.343,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.10288,
+        "relativeToSpeech": 0.609
+      },
+      "afterEnd": {
+        "rms": 0.01611,
+        "relativeToSpeech": 0.095
+      }
+    },
+    {
+      "id": "b2-076-013",
+      "lesson": "b2-076",
+      "start": 119.38,
+      "end": 121.76,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00208,
+        "relativeToSpeech": 0.016
+      },
+      "afterEnd": {
+        "rms": 0.00154,
+        "relativeToSpeech": 0.012
+      }
+    },
+    {
+      "id": "b2-077-010",
+      "lesson": "b2-077",
+      "start": 80.84,
+      "end": 86.89,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.00162,
+        "relativeToSpeech": 0.013
+      },
+      "afterEnd": {
+        "rms": 1e-05,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b2-077-013",
+      "lesson": "b2-077",
+      "start": 99.752,
+      "end": 102.823,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00097,
+        "relativeToSpeech": 0.006
+      },
+      "afterEnd": {
+        "rms": 0.03793,
+        "relativeToSpeech": 0.22
+      }
+    },
+    {
+      "id": "b2-080-012",
+      "lesson": "b2-080",
+      "start": 103.8,
+      "end": 111.323,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00227,
+        "relativeToSpeech": 0.012
+      },
+      "afterEnd": {
+        "rms": 0.00253,
+        "relativeToSpeech": 0.013
+      }
+    },
+    {
+      "id": "b2-083-012",
+      "lesson": "b2-083",
+      "start": 91.95,
+      "end": 100.89,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.01007,
+        "relativeToSpeech": 0.046
+      },
+      "afterEnd": {
+        "rms": 0.001,
+        "relativeToSpeech": 0.005
+      }
+    },
+    {
+      "id": "b2-083-014",
+      "lesson": "b2-083",
+      "start": 108.16,
+      "end": 113.14,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00132,
+        "relativeToSpeech": 0.012
+      },
+      "afterEnd": {
+        "rms": 0.00156,
+        "relativeToSpeech": 0.014
+      }
+    },
+    {
+      "id": "b2-087-002",
+      "lesson": "b2-087",
+      "start": 19.242,
+      "end": 27.04,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00218,
+        "relativeToSpeech": 0.01
+      },
+      "afterEnd": {
+        "rms": 0.00176,
+        "relativeToSpeech": 0.008
+      }
+    },
+    {
+      "id": "b2-087-005",
+      "lesson": "b2-087",
+      "start": 34.99,
+      "end": 37.9,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00251,
+        "relativeToSpeech": 0.01
+      },
+      "afterEnd": {
+        "rms": 0.00214,
+        "relativeToSpeech": 0.008
+      }
+    },
+    {
+      "id": "b2-087-006",
+      "lesson": "b2-087",
+      "start": 38.87,
+      "end": 41.56,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.0032,
+        "relativeToSpeech": 0.01
+      },
+      "afterEnd": {
+        "rms": 0.00146,
+        "relativeToSpeech": 0.005
+      }
+    },
+    {
+      "id": "b2-087-008",
+      "lesson": "b2-087",
+      "start": 48.07,
+      "end": 51.43,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00208,
+        "relativeToSpeech": 0.01
+      },
+      "afterEnd": {
+        "rms": 0.0,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b2-087-011",
+      "lesson": "b2-087",
+      "start": 62.03,
+      "end": 65.06,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00272,
+        "relativeToSpeech": 0.012
+      },
+      "afterEnd": {
+        "rms": 0.00237,
+        "relativeToSpeech": 0.01
+      }
+    },
+    {
+      "id": "b2-087-014",
+      "lesson": "b2-087",
+      "start": 74.482,
+      "end": 78.07,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.08329,
+        "relativeToSpeech": 0.503
+      },
+      "afterEnd": {
+        "rms": 0.00243,
+        "relativeToSpeech": 0.015
+      }
+    },
+    {
+      "id": "b2-087-016",
+      "lesson": "b2-087",
+      "start": 82.743,
+      "end": 88.22,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00118,
+        "relativeToSpeech": 0.006
+      },
+      "afterEnd": {
+        "rms": 0.00177,
+        "relativeToSpeech": 0.009
+      }
+    },
+    {
+      "id": "b2-087-019",
+      "lesson": "b2-087",
+      "start": 108.31,
+      "end": 113.37,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00169,
+        "relativeToSpeech": 0.009
+      },
+      "afterEnd": {
+        "rms": 0.00147,
+        "relativeToSpeech": 0.007
+      }
+    },
+    {
+      "id": "b2-088-011",
+      "lesson": "b2-088",
+      "start": 84.17,
+      "end": 91.4,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.00703,
+        "relativeToSpeech": 0.034
+      },
+      "afterEnd": {
+        "rms": 0.00335,
+        "relativeToSpeech": 0.016
+      }
+    },
+    {
+      "id": "b2-089-004",
+      "lesson": "b2-089",
+      "start": 40.51,
+      "end": 48.8,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.0,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.00157,
+        "relativeToSpeech": 0.011
+      }
+    },
+    {
+      "id": "b2-089-011",
+      "lesson": "b2-089",
+      "start": 99.66,
+      "end": 101.77,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00222,
+        "relativeToSpeech": 0.012
+      },
+      "afterEnd": {
+        "rms": 0.00178,
+        "relativeToSpeech": 0.009
+      }
+    },
+    {
+      "id": "b2-092-008",
+      "lesson": "b2-092",
+      "start": 72.65,
+      "end": 76.98,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00198,
+        "relativeToSpeech": 0.01
+      },
+      "afterEnd": {
+        "rms": 0.00195,
+        "relativeToSpeech": 0.01
+      }
+    },
+    {
+      "id": "b2-092-011",
+      "lesson": "b2-092",
+      "start": 91.38,
+      "end": 95.3,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00208,
+        "relativeToSpeech": 0.01
+      },
+      "afterEnd": {
+        "rms": 0.00247,
+        "relativeToSpeech": 0.011
+      }
+    },
+    {
+      "id": "b2-092-012",
+      "lesson": "b2-092",
+      "start": 96.06,
+      "end": 98.2,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.0,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.00208,
+        "relativeToSpeech": 0.01
+      }
+    },
+    {
+      "id": "b2-092-015",
+      "lesson": "b2-092",
+      "start": 104.05,
+      "end": 107.78,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00177,
+        "relativeToSpeech": 0.01
+      },
+      "afterEnd": {
+        "rms": 0.00126,
+        "relativeToSpeech": 0.007
+      }
+    },
+    {
+      "id": "b2-093-007",
+      "lesson": "b2-093",
+      "start": 73.66,
+      "end": 82.69,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.0,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.0,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b2-095-004",
+      "lesson": "b2-095",
+      "start": 30.58,
+      "end": 31.88,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00243,
+        "relativeToSpeech": 0.009
+      },
+      "afterEnd": {
+        "rms": 0.00294,
+        "relativeToSpeech": 0.011
+      }
+    },
+    {
+      "id": "b2-095-006",
+      "lesson": "b2-095",
+      "start": 33.6,
+      "end": 36.59,
+      "reasons": [
+        "waveform-corrected-needs-listening"
+      ],
+      "beforeStart": {
+        "rms": 0.00411,
+        "relativeToSpeech": 0.027
+      },
+      "afterEnd": {
+        "rms": 0.00191,
+        "relativeToSpeech": 0.013
+      }
+    },
+    {
+      "id": "b2-095-007",
+      "lesson": "b2-095",
+      "start": 37.83,
+      "end": 42.423,
+      "reasons": [
+        "unresolved-word-alignment",
+        "waveform-corrected-needs-listening"
+      ],
+      "beforeStart": {
+        "rms": 0.00188,
+        "relativeToSpeech": 0.016
+      },
+      "afterEnd": {
+        "rms": 0.01029,
+        "relativeToSpeech": 0.089
+      }
+    },
+    {
+      "id": "b2-095-011",
+      "lesson": "b2-095",
+      "start": 53.29,
+      "end": 55.31,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00277,
+        "relativeToSpeech": 0.015
+      },
+      "afterEnd": {
+        "rms": 0.00202,
+        "relativeToSpeech": 0.011
+      }
+    },
+    {
+      "id": "b2-095-012",
+      "lesson": "b2-095",
+      "start": 57.2,
+      "end": 61.4,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00305,
+        "relativeToSpeech": 0.025
+      },
+      "afterEnd": {
+        "rms": 0.00226,
+        "relativeToSpeech": 0.019
+      }
+    },
+    {
+      "id": "b2-095-013",
+      "lesson": "b2-095",
+      "start": 62.22,
+      "end": 64.27,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00261,
+        "relativeToSpeech": 0.009
+      },
+      "afterEnd": {
+        "rms": 0.00202,
+        "relativeToSpeech": 0.007
+      }
+    },
+    {
+      "id": "b2-095-018",
+      "lesson": "b2-095",
+      "start": 92.83,
+      "end": 95.12,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00203,
+        "relativeToSpeech": 0.011
+      },
+      "afterEnd": {
+        "rms": 0.02196,
+        "relativeToSpeech": 0.116
+      }
+    },
+    {
+      "id": "b2-095-021",
+      "lesson": "b2-095",
+      "start": 101.7,
+      "end": 104.76,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00288,
+        "relativeToSpeech": 0.012
+      },
+      "afterEnd": {
+        "rms": 0.00182,
+        "relativeToSpeech": 0.008
+      }
+    },
+    {
+      "id": "b2-095-024",
+      "lesson": "b2-095",
+      "start": 111.17,
+      "end": 115.58,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00191,
+        "relativeToSpeech": 0.01
+      },
+      "afterEnd": {
+        "rms": 0.00335,
+        "relativeToSpeech": 0.018
+      }
+    },
+    {
+      "id": "b3-002-009",
+      "lesson": "b3-002",
+      "start": 73.54,
+      "end": 75.53,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.0003,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.00056,
+        "relativeToSpeech": 0.003
+      }
+    },
+    {
+      "id": "b3-002-012",
+      "lesson": "b3-002",
+      "start": 82.19,
+      "end": 85.48,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 1e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.00085,
+        "relativeToSpeech": 0.007
+      }
+    },
+    {
+      "id": "b3-002-015",
+      "lesson": "b3-002",
+      "start": 92.463,
+      "end": 93.17,
+      "reasons": [
+        "waveform-corrected-needs-listening"
+      ],
+      "beforeStart": {
+        "rms": 0.12391,
+        "relativeToSpeech": 1.169
+      },
+      "afterEnd": {
+        "rms": 0.00095,
+        "relativeToSpeech": 0.009
+      }
+    },
+    {
+      "id": "b3-002-016",
+      "lesson": "b3-002",
+      "start": 93.85,
+      "end": 96.922,
+      "reasons": [
+        "unresolved-word-alignment",
+        "waveform-corrected-needs-listening"
+      ],
+      "beforeStart": {
+        "rms": 0.00036,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.00107,
+        "relativeToSpeech": 0.005
+      }
+    },
+    {
+      "id": "b3-002-019",
+      "lesson": "b3-002",
+      "start": 105.1,
+      "end": 113.34,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 1e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.00052,
+        "relativeToSpeech": 0.003
+      }
+    },
+    {
+      "id": "b3-002-020",
+      "lesson": "b3-002",
+      "start": 114.95,
+      "end": 117.1,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 5e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.00081,
+        "relativeToSpeech": 0.005
+      }
+    },
+    {
+      "id": "b3-002-022",
+      "lesson": "b3-002",
+      "start": 122.21,
+      "end": 124.76,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00162,
+        "relativeToSpeech": 0.01
+      },
+      "afterEnd": {
+        "rms": 0.00072,
+        "relativeToSpeech": 0.005
+      }
+    },
+    {
+      "id": "b3-007-009",
+      "lesson": "b3-007",
+      "start": 66.82,
+      "end": 75.16,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 3e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 9e-05,
+        "relativeToSpeech": 0.001
+      }
+    },
+    {
+      "id": "b3-007-015",
+      "lesson": "b3-007",
+      "start": 113.74,
+      "end": 119.84,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.0001,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 0.00069,
+        "relativeToSpeech": 0.005
+      }
+    },
+    {
+      "id": "b3-007-016",
+      "lesson": "b3-007",
+      "start": 120.9,
+      "end": 127.17,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00012,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 0.00053,
+        "relativeToSpeech": 0.004
+      }
+    },
+    {
+      "id": "b3-008-003",
+      "lesson": "b3-008",
+      "start": 21.61,
+      "end": 27.72,
+      "reasons": [
+        "stretched-word"
+      ],
+      "beforeStart": {
+        "rms": 0.001,
+        "relativeToSpeech": 0.005
+      },
+      "afterEnd": {
+        "rms": 0.00025,
+        "relativeToSpeech": 0.001
+      }
+    },
+    {
+      "id": "b3-009-015",
+      "lesson": "b3-009",
+      "start": 103.42,
+      "end": 107.15,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 1e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.00025,
+        "relativeToSpeech": 0.002
+      }
+    },
+    {
+      "id": "b3-010-004",
+      "lesson": "b3-010",
+      "start": 37.913,
+      "end": 43.883,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.11845,
+        "relativeToSpeech": 0.679
+      },
+      "afterEnd": {
+        "rms": 0.00108,
+        "relativeToSpeech": 0.006
+      }
+    },
+    {
+      "id": "b3-011-006",
+      "lesson": "b3-011",
+      "start": 51.96,
+      "end": 53.533,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 7e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.07242,
+        "relativeToSpeech": 0.412
+      }
+    },
+    {
+      "id": "b3-011-009",
+      "lesson": "b3-011",
+      "start": 59.7,
+      "end": 62.41,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 5e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.00079,
+        "relativeToSpeech": 0.005
+      }
+    },
+    {
+      "id": "b3-011-010",
+      "lesson": "b3-011",
+      "start": 63.58,
+      "end": 64.83,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 5e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.00062,
+        "relativeToSpeech": 0.004
+      }
+    },
+    {
+      "id": "b3-011-016",
+      "lesson": "b3-011",
+      "start": 90.3,
+      "end": 91.4,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 3e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.00034,
+        "relativeToSpeech": 0.002
+      }
+    },
+    {
+      "id": "b3-011-021",
+      "lesson": "b3-011",
+      "start": 101.013,
+      "end": 101.823,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.001,
+        "relativeToSpeech": 0.009
+      },
+      "afterEnd": {
+        "rms": 0.0005,
+        "relativeToSpeech": 0.005
+      }
+    },
+    {
+      "id": "b3-011-024",
+      "lesson": "b3-011",
+      "start": 112.1,
+      "end": 112.58,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.0001,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 0.00057,
+        "relativeToSpeech": 0.003
+      }
+    },
+    {
+      "id": "b3-014-012-p03",
+      "lesson": "b3-014",
+      "start": 113.38,
+      "end": 122.01,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.00407,
+        "relativeToSpeech": 0.023
+      },
+      "afterEnd": {
+        "rms": 0.00014,
+        "relativeToSpeech": 0.001
+      }
+    },
+    {
+      "id": "b3-015-018-p01",
+      "lesson": "b3-015",
+      "start": 119.35,
+      "end": 121.78,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.00015,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 0.00051,
+        "relativeToSpeech": 0.004
+      }
+    },
+    {
+      "id": "b3-017-002",
+      "lesson": "b3-017",
+      "start": 18.073,
+      "end": 28.203,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.1692,
+        "relativeToSpeech": 1.024
+      },
+      "afterEnd": {
+        "rms": 0.00156,
+        "relativeToSpeech": 0.009
+      }
+    },
+    {
+      "id": "b3-019-010",
+      "lesson": "b3-019",
+      "start": 66.1,
+      "end": 76.043,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.00013,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 0.03223,
+        "relativeToSpeech": 0.186
+      }
+    },
+    {
+      "id": "b3-020-002",
+      "lesson": "b3-020",
+      "start": 18.393,
+      "end": 27.203,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.0008,
+        "relativeToSpeech": 0.005
+      },
+      "afterEnd": {
+        "rms": 0.00074,
+        "relativeToSpeech": 0.005
+      }
+    },
+    {
+      "id": "b3-020-004",
+      "lesson": "b3-020",
+      "start": 32.612,
+      "end": 42.783,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00147,
+        "relativeToSpeech": 0.009
+      },
+      "afterEnd": {
+        "rms": 0.0015,
+        "relativeToSpeech": 0.009
+      }
+    },
+    {
+      "id": "b3-020-007",
+      "lesson": "b3-020",
+      "start": 56.713,
+      "end": 62.723,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 4e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.06121,
+        "relativeToSpeech": 0.362
+      }
+    },
+    {
+      "id": "b3-020-014",
+      "lesson": "b3-020",
+      "start": 99.29,
+      "end": 105.54,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 1e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 1e-05,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b3-022-007",
+      "lesson": "b3-022",
+      "start": 54.12,
+      "end": 60.2,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.0001,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 1e-05,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b3-024-022",
+      "lesson": "b3-024",
+      "start": 151.72,
+      "end": 156.47,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00055,
+        "relativeToSpeech": 0.004
+      },
+      "afterEnd": {
+        "rms": 0.00049,
+        "relativeToSpeech": 0.003
+      }
+    },
+    {
+      "id": "b3-024-024",
+      "lesson": "b3-024",
+      "start": 158.93,
+      "end": 162.48,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00049,
+        "relativeToSpeech": 0.003
+      },
+      "afterEnd": {
+        "rms": 0.00029,
+        "relativeToSpeech": 0.002
+      }
+    },
+    {
+      "id": "b3-025-007",
+      "lesson": "b3-025",
+      "start": 55.05,
+      "end": 58.31,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.0013,
+        "relativeToSpeech": 0.008
+      },
+      "afterEnd": {
+        "rms": 0.00037,
+        "relativeToSpeech": 0.002
+      }
+    },
+    {
+      "id": "b3-026-020",
+      "lesson": "b3-026",
+      "start": 140.032,
+      "end": 150.302,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00103,
+        "relativeToSpeech": 0.005
+      },
+      "afterEnd": {
+        "rms": 0.00681,
+        "relativeToSpeech": 0.036
+      }
+    },
+    {
+      "id": "b3-026-021",
+      "lesson": "b3-026",
+      "start": 151.552,
+      "end": 164.662,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00029,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.00417,
+        "relativeToSpeech": 0.028
+      }
+    },
+    {
+      "id": "b3-026-023",
+      "lesson": "b3-026",
+      "start": 171.172,
+      "end": 180.97,
+      "reasons": [
+        "unresolved-word-alignment",
+        "waveform-corrected-needs-listening"
+      ],
+      "beforeStart": {
+        "rms": 1e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.00043,
+        "relativeToSpeech": 0.003
+      }
+    },
+    {
+      "id": "b3-028-010",
+      "lesson": "b3-028",
+      "start": 77.14,
+      "end": 83.78,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 9e-05,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 0.00047,
+        "relativeToSpeech": 0.003
+      }
+    },
+    {
+      "id": "b3-031-019",
+      "lesson": "b3-031",
+      "start": 129.14,
+      "end": 135.45,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 4e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.00017,
+        "relativeToSpeech": 0.001
+      }
+    },
+    {
+      "id": "b3-034-012",
+      "lesson": "b3-034",
+      "start": 90.273,
+      "end": 96.44,
+      "reasons": [
+        "stretched-word"
+      ],
+      "beforeStart": {
+        "rms": 0.10215,
+        "relativeToSpeech": 0.75
+      },
+      "afterEnd": {
+        "rms": 6e-05,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b3-034-023",
+      "lesson": "b3-034",
+      "start": 159.03,
+      "end": 166.86,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 6e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 3e-05,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b3-037-025",
+      "lesson": "b3-037",
+      "start": 164.26,
+      "end": 168.11,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.0001,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 8e-05,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b3-038-013",
+      "lesson": "b3-038",
+      "start": 105.72,
+      "end": 114.943,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 2e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.00052,
+        "relativeToSpeech": 0.003
+      }
+    },
+    {
+      "id": "b3-038-014",
+      "lesson": "b3-038",
+      "start": 115.513,
+      "end": 118.083,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00329,
+        "relativeToSpeech": 0.021
+      },
+      "afterEnd": {
+        "rms": 0.08644,
+        "relativeToSpeech": 0.557
+      }
+    },
+    {
+      "id": "b3-038-021",
+      "lesson": "b3-038",
+      "start": 159.512,
+      "end": 167.722,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.05267,
+        "relativeToSpeech": 0.346
+      },
+      "afterEnd": {
+        "rms": 0.00058,
+        "relativeToSpeech": 0.004
+      }
+    },
+    {
+      "id": "b3-044-021",
+      "lesson": "b3-044",
+      "start": 148.692,
+      "end": 157.642,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00041,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.00538,
+        "relativeToSpeech": 0.03
+      }
+    },
+    {
+      "id": "b3-044-027",
+      "lesson": "b3-044",
+      "start": 189.17,
+      "end": 193.29,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 3e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 4e-05,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b3-045-010",
+      "lesson": "b3-045",
+      "start": 78.793,
+      "end": 85.123,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.0001,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 0.00073,
+        "relativeToSpeech": 0.005
+      }
+    },
+    {
+      "id": "b3-045-021",
+      "lesson": "b3-045",
+      "start": 153.42,
+      "end": 159.51,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 3e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 5e-05,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b3-046-030-p02",
+      "lesson": "b3-046",
+      "start": 235.95,
+      "end": 240.83,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.00224,
+        "relativeToSpeech": 0.013
+      },
+      "afterEnd": {
+        "rms": 0.0001,
+        "relativeToSpeech": 0.001
+      }
+    },
+    {
+      "id": "b3-051-003-p01",
+      "lesson": "b3-051",
+      "start": 24.52,
+      "end": 30.512,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 1e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.00494,
+        "relativeToSpeech": 0.027
+      }
+    },
+    {
+      "id": "b3-051-003-p02",
+      "lesson": "b3-051",
+      "start": 30.68,
+      "end": 34.55,
+      "reasons": [
+        "waveform-corrected-needs-listening"
+      ],
+      "beforeStart": {
+        "rms": 0.00494,
+        "relativeToSpeech": 0.029
+      },
+      "afterEnd": {
+        "rms": 0.00017,
+        "relativeToSpeech": 0.001
+      }
+    },
+    {
+      "id": "b3-051-004",
+      "lesson": "b3-051",
+      "start": 35.48,
+      "end": 44.703,
+      "reasons": [
+        "unresolved-word-alignment",
+        "waveform-corrected-needs-listening"
+      ],
+      "beforeStart": {
+        "rms": 0.00022,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 0.00991,
+        "relativeToSpeech": 0.063
+      }
+    },
+    {
+      "id": "b3-051-008",
+      "lesson": "b3-051",
+      "start": 73.69,
+      "end": 80.04,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00025,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 3e-05,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b3-051-010",
+      "lesson": "b3-051",
+      "start": 87.84,
+      "end": 93.1,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.0004,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.00013,
+        "relativeToSpeech": 0.001
+      }
+    },
+    {
+      "id": "b3-051-011",
+      "lesson": "b3-051",
+      "start": 93.913,
+      "end": 101.283,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00027,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.00093,
+        "relativeToSpeech": 0.005
+      }
+    },
+    {
+      "id": "b3-051-015-p01",
+      "lesson": "b3-051",
+      "start": 126.02,
+      "end": 134.96,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 3e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 1e-05,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b3-051-015-p02",
+      "lesson": "b3-051",
+      "start": 135.19,
+      "end": 140.92,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 1e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 6e-05,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b3-051-020-p02",
+      "lesson": "b3-051",
+      "start": 203.86,
+      "end": 209.6,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 3e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 4e-05,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b3-052-006",
+      "lesson": "b3-052",
+      "start": 55.653,
+      "end": 59.603,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 3e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.00047,
+        "relativeToSpeech": 0.003
+      }
+    },
+    {
+      "id": "b3-052-008",
+      "lesson": "b3-052",
+      "start": 64.49,
+      "end": 72.1,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.00045,
+        "relativeToSpeech": 0.003
+      },
+      "afterEnd": {
+        "rms": 0.00011,
+        "relativeToSpeech": 0.001
+      }
+    },
+    {
+      "id": "b3-055-028",
+      "lesson": "b3-055",
+      "start": 226.202,
+      "end": 229.98,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00041,
+        "relativeToSpeech": 0.002
+      },
+      "afterEnd": {
+        "rms": 0.00013,
+        "relativeToSpeech": 0.001
+      }
+    },
+    {
+      "id": "b3-058-016",
+      "lesson": "b3-058",
+      "start": 151.15,
+      "end": 157.86,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 9e-05,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 4e-05,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b4-001-002",
+      "lesson": "b4-001",
+      "start": 18.55,
+      "end": 26.0,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.00227,
+        "relativeToSpeech": 0.012
+      },
+      "afterEnd": {
+        "rms": 0.00102,
+        "relativeToSpeech": 0.005
+      }
+    },
+    {
+      "id": "b4-001-007",
+      "lesson": "b4-001",
+      "start": 70.08,
+      "end": 77.47,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.00059,
+        "relativeToSpeech": 0.003
+      },
+      "afterEnd": {
+        "rms": 0.00108,
+        "relativeToSpeech": 0.005
+      }
+    },
+    {
+      "id": "b4-002-010-p02",
+      "lesson": "b4-002",
+      "start": 98.21,
+      "end": 104.85,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 6e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.00017,
+        "relativeToSpeech": 0.001
+      }
+    },
+    {
+      "id": "b4-002-010-p03",
+      "lesson": "b4-002",
+      "start": 105.49,
+      "end": 111.25,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.00347,
+        "relativeToSpeech": 0.021
+      },
+      "afterEnd": {
+        "rms": 0.00022,
+        "relativeToSpeech": 0.001
+      }
+    },
+    {
+      "id": "b4-006-006-p03",
+      "lesson": "b4-006",
+      "start": 76.34,
+      "end": 79.68,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.00643,
+        "relativeToSpeech": 0.043
+      },
+      "afterEnd": {
+        "rms": 0.00065,
+        "relativeToSpeech": 0.004
+      }
+    },
+    {
+      "id": "b4-008-015-p01",
+      "lesson": "b4-008",
+      "start": 124.21,
+      "end": 130.51,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.00017,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 0.00015,
+        "relativeToSpeech": 0.001
+      }
+    },
+    {
+      "id": "b4-010-006",
+      "lesson": "b4-010",
+      "start": 82.81,
+      "end": 86.57,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 5e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.00021,
+        "relativeToSpeech": 0.001
+      }
+    },
+    {
+      "id": "b4-010-013",
+      "lesson": "b4-010",
+      "start": 127.443,
+      "end": 134.86,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.15318,
+        "relativeToSpeech": 0.811
+      },
+      "afterEnd": {
+        "rms": 0.0002,
+        "relativeToSpeech": 0.001
+      }
+    },
+    {
+      "id": "b4-013-002",
+      "lesson": "b4-013",
+      "start": 18.553,
+      "end": 25.302,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.12004,
+        "relativeToSpeech": 0.634
+      },
+      "afterEnd": {
+        "rms": 0.0003,
+        "relativeToSpeech": 0.002
+      }
+    },
+    {
+      "id": "b4-014-012",
+      "lesson": "b4-014",
+      "start": 136.812,
+      "end": 143.222,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.12417,
+        "relativeToSpeech": 0.784
+      },
+      "afterEnd": {
+        "rms": 0.00278,
+        "relativeToSpeech": 0.018
+      }
+    },
+    {
+      "id": "b4-018-005",
+      "lesson": "b4-018",
+      "start": 57.61,
+      "end": 65.17,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 8e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 0.00012,
+        "relativeToSpeech": 0.001
+      }
+    },
+    {
+      "id": "b4-019-004",
+      "lesson": "b4-019",
+      "start": 48.83,
+      "end": 57.76,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00053,
+        "relativeToSpeech": 0.003
+      },
+      "afterEnd": {
+        "rms": 0.00084,
+        "relativeToSpeech": 0.004
+      }
+    },
+    {
+      "id": "b4-023-003-p02",
+      "lesson": "b4-023",
+      "start": 34.703,
+      "end": 41.41,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.00266,
+        "relativeToSpeech": 0.013
+      },
+      "afterEnd": {
+        "rms": 0.00072,
+        "relativeToSpeech": 0.004
+      }
+    },
+    {
+      "id": "b4-025-005",
+      "lesson": "b4-025",
+      "start": 56.972,
+      "end": 61.663,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.22777,
+        "relativeToSpeech": 1.046
+      },
+      "afterEnd": {
+        "rms": 0.00252,
+        "relativeToSpeech": 0.012
+      }
+    },
+    {
+      "id": "b4-025-006-p03",
+      "lesson": "b4-025",
+      "start": 72.26,
+      "end": 78.16,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.00071,
+        "relativeToSpeech": 0.003
+      },
+      "afterEnd": {
+        "rms": 0.00092,
+        "relativeToSpeech": 0.004
+      }
+    },
+    {
+      "id": "b4-027-013-p03",
+      "lesson": "b4-027",
+      "start": 142.05,
+      "end": 147.91,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.00399,
+        "relativeToSpeech": 0.022
+      },
+      "afterEnd": {
+        "rms": 0.00084,
+        "relativeToSpeech": 0.005
+      }
+    },
+    {
+      "id": "b4-029-003-p01",
+      "lesson": "b4-029",
+      "start": 26.84,
+      "end": 37.21,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00636,
+        "relativeToSpeech": 0.031
+      },
+      "afterEnd": {
+        "rms": 0.00094,
+        "relativeToSpeech": 0.005
+      }
+    },
+    {
+      "id": "b4-030-014",
+      "lesson": "b4-030",
+      "start": 167.302,
+      "end": 183.15,
+      "reasons": [
+        "stretched-word"
+      ],
+      "beforeStart": {
+        "rms": 0.00274,
+        "relativeToSpeech": 0.015
+      },
+      "afterEnd": {
+        "rms": 0.00076,
+        "relativeToSpeech": 0.004
+      }
+    },
+    {
+      "id": "b4-032-013",
+      "lesson": "b4-032",
+      "start": 159.79,
+      "end": 174.64,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.00249,
+        "relativeToSpeech": 0.01
+      },
+      "afterEnd": {
+        "rms": 0.0011,
+        "relativeToSpeech": 0.005
+      }
+    },
+    {
+      "id": "b4-035-013",
+      "lesson": "b4-035",
+      "start": 109.07,
+      "end": 111.71,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.00023,
+        "relativeToSpeech": 0.001
+      },
+      "afterEnd": {
+        "rms": 9e-05,
+        "relativeToSpeech": 0.0
+      }
+    },
+    {
+      "id": "b4-035-015",
+      "lesson": "b4-035",
+      "start": 114.29,
+      "end": 116.81,
+      "reasons": [
+        "boundary-disagreement"
+      ],
+      "beforeStart": {
+        "rms": 0.0007,
+        "relativeToSpeech": 0.004
+      },
+      "afterEnd": {
+        "rms": 0.00014,
+        "relativeToSpeech": 0.001
+      }
+    },
+    {
+      "id": "b4-043-015",
+      "lesson": "b4-043",
+      "start": 186.392,
+      "end": 197.843,
+      "reasons": [
+        "unresolved-word-alignment"
+      ],
+      "beforeStart": {
+        "rms": 0.00854,
+        "relativeToSpeech": 0.043
+      },
+      "afterEnd": {
+        "rms": 0.01777,
+        "relativeToSpeech": 0.089
+      }
+    },
+    {
+      "id": "b4-043-019",
+      "lesson": "b4-043",
+      "start": 243.26,
+      "end": 253.7,
+      "reasons": [
+        "stretched-word"
+      ],
+      "beforeStart": {
+        "rms": 0.00364,
+        "relativeToSpeech": 0.019
+      },
+      "afterEnd": {
+        "rms": 0.00011,
+        "relativeToSpeech": 0.001
+      }
+    },
+    {
+      "id": "b4-047-003",
+      "lesson": "b4-047",
+      "start": 34.05,
+      "end": 40.42,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 6e-05,
+        "relativeToSpeech": 0.0
+      },
+      "afterEnd": {
+        "rms": 9e-05,
+        "relativeToSpeech": 0.001
+      }
+    },
+    {
+      "id": "b4-047-025-p02",
+      "lesson": "b4-047",
+      "start": 240.04,
+      "end": 248.53,
+      "reasons": [
+        "low-word-confidence"
+      ],
+      "beforeStart": {
+        "rms": 0.0046,
+        "relativeToSpeech": 0.026
+      },
+      "afterEnd": {
+        "rms": 0.00037,
+        "relativeToSpeech": 0.002
+      }
+    }
+  ]
+}

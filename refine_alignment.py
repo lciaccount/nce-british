@@ -19,6 +19,25 @@ from align_sentences import emissions, normalize
 
 ROOT = Path(__file__).resolve().parent
 METHOD = 'dual-ctc-words-pauses-v7'
+# Corrections supported by a 10 ms RMS waveform audit of flagged edges. These
+# are not presented as listening certification: keep the review marker until
+# someone listens to each original recording on real playback devices.
+EDGE_CORRECTIONS = {
+    'b1-005-019': {'start': 76.53},
+    'b1-073-015': {'start': 72.66},
+    'b1-073-016': {'start': 77.42},
+    'b1-105-012': {'start': 41.70},
+    'b1-123-013': {'start': 48.14, 'end': 49.25},
+    'b2-066-001': {'end': 17.98},
+    'b2-066-002': {'start': 18.70},
+    'b2-095-006': {'end': 36.59},
+    'b2-095-007': {'start': 37.83},
+    'b3-002-015': {'end': 93.17},
+    'b3-002-016': {'start': 93.85},
+    'b3-026-023': {'end': 180.97},
+    'b3-051-003-p02': {'end': 34.55},
+    'b3-051-004': {'start': 35.48},
+}
 YEAR = re.compile(r'\b(?:1[6-9]\d{2}|20\d{2})\b')
 CONNECTORS = {'and', 'but', 'because', 'although', 'though', 'whereas', 'while',
               'when', 'which', 'who', 'whose', 'unless', 'until', 'if', 'so', 'yet', 'that', 'or', 'nor'}
@@ -210,6 +229,21 @@ def refine(lesson, originals, groups, methods):
                 cue['reviewReasons'].append('boundary-conflict')
     for cue in cues:
         assert 0 <= cue['start'] < cue['end'] <= lesson['duration'], cue
+    return apply_edge_corrections(cues)
+
+
+def apply_edge_corrections(cues):
+    for cue in cues:
+        correction = EDGE_CORRECTIONS.get(cue['id'])
+        if not correction:
+            continue
+        cue.update(correction)
+        cue['reviewReasons'] = [reason for reason in cue['reviewReasons']
+                                if reason != 'boundary-conflict']
+        if 'waveform-corrected-needs-listening' not in cue['reviewReasons']:
+            cue['reviewReasons'].append('waveform-corrected-needs-listening')
+        cue['needsReview'] = True
+    assert all(a['end'] <= b['start'] for a, b in zip(cues, cues[1:])), 'Corrected cues overlap'
     return cues
 
 
@@ -303,7 +337,12 @@ def main():
             raise SystemExit('Publish requires the complete corpus, not --lesson.')
         review, originals_all, boundary_shifts = [], [], []
         for lesson in data['lessons']:
-            result = json.loads((out/f"{lesson['id']}.json").read_text())
+            target = out/f"{lesson['id']}.json"
+            result = json.loads(target.read_text())
+            corrected = apply_edge_corrections(result['cues'])
+            if corrected != json.loads(target.read_text())['cues']:
+                result['cues'] = corrected
+                target.write_text(json.dumps(result, ensure_ascii=False, separators=(',', ':'))+'\n')
             source = (ROOT/'alignment'/f"{lesson['id']}.json").read_bytes()
             assert result['method'] == METHOD
             assert result['audioSha256'] == lesson['sha256']
@@ -333,7 +372,7 @@ def main():
                    'maxDurationAfter': round(max(c['end']-c['start'] for c in cues), 3),
                    'boundaryShiftMedian': round(float(np.median(boundary_shifts)), 3),
                    'reviewSegments': len(review),
-                   'note': 'Automatic word alignment and pause-aware edges, not a human listening certification. Original audio and text preserved.'}
+                   'note': 'Automatic word alignment and pause-aware edges; 14 flagged edge corrections use 10ms waveform evidence. This is not human listening certification. Original audio and text preserved.'}
         (ROOT/'alignment-summary.json').write_text(json.dumps(summary, ensure_ascii=False, indent=2)+'\n')
         print(f"Published {sum(len(l['cues']) for l in data['lessons'])} segments; review {len(review)}")
 

@@ -10,5 +10,5 @@
   "maxDurationAfter": 17.68,
   "boundaryShiftMedian": 0.058,
   "reviewSegments": 245,
-  "note": "Automatic word alignment and pause-aware edges, not a human listening certification. Original audio and text preserved."
+  "note": "Automatic word alignment and pause-aware edges; 14 flagged edge corrections use 10ms waveform evidence. This is not human listening certification. Original audio and text preserved."
 }

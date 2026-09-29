@@ -25,7 +25,7 @@
     "lesson": "b1-005",
     "id": "b1-005-019",
     "text": "And this is Xiaohui.",
-    "start": 76.653,
+    "start": 76.53,
     "end": 78.863,
     "score": 0.75,
     "timingValid": true,
@@ -40,7 +40,8 @@
     ],
     "wordModel": "legacy-review",
     "reviewReasons": [
-      "unresolved-word-alignment"
+      "unresolved-word-alignment",
+      "waveform-corrected-needs-listening"
     ]
   },
   {
@@ -276,13 +277,14 @@
     ],
     "wordModel": "english-ctc-fallback",
     "text": "'I am sorry,' he said.",
-    "start": 72.762,
+    "start": 72.66,
     "end": 76.41,
     "score": 0.995,
     "timingValid": true,
     "needsReview": true,
     "reviewReasons": [
-      "boundary-disagreement"
+      "boundary-disagreement",
+      "waveform-corrected-needs-listening"
     ]
   },
   {
@@ -298,13 +300,14 @@
     ],
     "wordModel": "english-ctc-fallback",
     "text": "'I do not speak English.'",
-    "start": 77.642,
+    "start": 77.42,
     "end": 82.48,
     "score": 0.99,
     "timingValid": true,
     "needsReview": true,
     "reviewReasons": [
-      "boundary-disagreement"
+      "boundary-disagreement",
+      "waveform-corrected-needs-listening"
     ]
   },
   {
@@ -563,13 +566,14 @@
     ],
     "wordModel": "mms-fa",
     "text": "I-N-T-E-L-L-I-G-E-N-T. That's right.",
-    "start": 41.863,
+    "start": 41.7,
     "end": 51.12,
     "score": 0.811,
     "timingValid": true,
     "needsReview": true,
     "reviewReasons": [
-      "stretched-word"
+      "stretched-word",
+      "waveform-corrected-needs-listening"
     ]
   },
   {
@@ -752,8 +756,8 @@
     "lesson": "b1-123",
     "id": "b1-123-013",
     "text": "Ah yes.",
-    "start": 48.413,
-    "end": 49.123,
+    "start": 48.14,
+    "end": 49.25,
     "score": 0.859,
     "timingValid": true,
     "needsReview": true,
@@ -767,7 +771,8 @@
     ],
     "wordModel": "legacy-review",
     "reviewReasons": [
-      "unresolved-word-alignment"
+      "unresolved-word-alignment",
+      "waveform-corrected-needs-listening"
     ]
   },
   {
@@ -2434,19 +2439,19 @@
     "wordModel": "mms-fa",
     "text": "What was 'sweet as honey' and why?",
     "start": 13.88,
-    "end": 17.854,
+    "end": 17.98,
     "score": 0.873,
     "timingValid": true,
     "needsReview": true,
     "reviewReasons": [
-      "boundary-conflict"
+      "waveform-corrected-needs-listening"
     ]
   },
   {
     "lesson": "b2-066",
     "id": "b2-066-002",
     "text": "In 1963 a Lancaster bomber crashed on Wallis Island, a remote place in the South Pacific, a long way west of Samoa.",
-    "start": 17.854,
+    "start": 18.7,
     "end": 32.683,
     "score": 0.765,
     "timingValid": true,
@@ -2462,7 +2467,7 @@
     "wordModel": "legacy-review",
     "reviewReasons": [
       "unresolved-word-alignment",
-      "boundary-conflict"
+      "waveform-corrected-needs-listening"
     ]
   },
   {
@@ -3359,19 +3364,19 @@
     "wordModel": "mms-fa",
     "text": "'How did your clothes get into such a mess?'",
     "start": 33.6,
-    "end": 36.448,
+    "end": 36.59,
     "score": 0.942,
     "timingValid": true,
     "needsReview": true,
     "reviewReasons": [
-      "boundary-conflict"
+      "waveform-corrected-needs-listening"
     ]
   },
   {
     "lesson": "b2-095",
     "id": "b2-095-007",
     "text": "'A fire extinguisher, my dear,' answered the Ambassador drily.",
-    "start": 36.448,
+    "start": 37.83,
     "end": 42.423,
     "score": 0.885,
     "timingValid": true,
@@ -3387,7 +3392,7 @@
     "wordModel": "legacy-review",
     "reviewReasons": [
       "unresolved-word-alignment",
-      "boundary-conflict"
+      "waveform-corrected-needs-listening"
     ]
   },
   {
@@ -3580,19 +3585,19 @@
     "wordModel": "mms-fa",
     "text": "said the vicar.",
     "start": 92.463,
-    "end": 93.164,
+    "end": 93.17,
     "score": 0.903,
     "timingValid": true,
     "needsReview": true,
     "reviewReasons": [
-      "boundary-conflict"
+      "waveform-corrected-needs-listening"
     ]
   },
   {
     "lesson": "b3-002",
     "id": "b3-002-016",
     "text": "'You've probably woken up everyone in the village as well.",
-    "start": 93.164,
+    "start": 93.85,
     "end": 96.922,
     "score": 0.93,
     "timingValid": true,
@@ -3608,7 +3613,7 @@
     "wordModel": "legacy-review",
     "reviewReasons": [
       "unresolved-word-alignment",
-      "boundary-conflict"
+      "waveform-corrected-needs-listening"
     ]
   },
   {
@@ -4254,7 +4259,7 @@
     "id": "b3-026-023",
     "text": "The manufacturers had to pay more money than they had anticipated, for they bought the biscuit from the student for $24, 000.",
     "start": 171.172,
-    "end": 180.202,
+    "end": 180.97,
     "score": 0.954,
     "timingValid": true,
     "needsReview": true,
@@ -4268,7 +4273,8 @@
     ],
     "wordModel": "legacy-review",
     "reviewReasons": [
-      "unresolved-word-alignment"
+      "unresolved-word-alignment",
+      "waveform-corrected-needs-listening"
     ]
   },
   {
@@ -4593,19 +4599,19 @@
     "wordModel": "mms-fa",
     "text": "computers would be as common in people's homes as TV sets?",
     "start": 30.68,
-    "end": 34.404,
+    "end": 34.55,
     "score": 0.991,
     "timingValid": true,
     "needsReview": true,
     "reviewReasons": [
-      "boundary-conflict"
+      "waveform-corrected-needs-listening"
     ]
   },
   {
     "lesson": "b3-051",
     "id": "b3-051-004",
     "text": "In the 1970s, computers were common enough, but only in big business, government departments and large organizations.",
-    "start": 34.404,
+    "start": 35.48,
     "end": 44.703,
     "score": 0.797,
     "timingValid": true,
@@ -4621,7 +4627,7 @@
     "wordModel": "legacy-review",
     "reviewReasons": [
       "unresolved-word-alignment",
-      "boundary-conflict"
+      "waveform-corrected-needs-listening"
     ]
   },
   {
