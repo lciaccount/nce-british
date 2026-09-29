@@ -19,7 +19,6 @@ footer{padding:24px 0 125px}.cacheManager{padding:13px}.controlPanel{padding:13p
 @media(max-width:800px){
  body{padding-bottom:112px}#app{padding:0 8px}.topbar{padding:4px 0 7px;box-shadow:0 8px 18px #0002;background:color-mix(in srgb,var(--bg) 96%,transparent)}.brandrow{gap:5px;margin-bottom:5px}.brand h1{font-size:18px}.brand h1 span{display:none}.brand p{display:none}.brandBtns{gap:4px}.headerProgress{font-size:10px;padding:3px 6px;border-radius:8px}.headerProgress strong{font-size:11px}.themeBtn{font-size:11px;min-height:28px;padding:3px 6px;border-radius:8px}
  .learningNav{width:100%;min-height:40px;overflow-x:auto;scrollbar-width:none;border-radius:11px;padding:2px}.learningNav::-webkit-scrollbar{display:none}.learningNav #books{flex:1;min-width:max-content}.learningNav #books button{flex:1;min-height:35px;padding:5px 8px;font-size:12px}.learningNav #openScreen{min-height:35px;padding:5px 8px;font-size:11px;flex:0 0 auto}
- .mobileSettingsToggle{display:flex;width:100%;align-items:center;justify-content:center;gap:5px;background:var(--panel);border:1px solid var(--line);border-radius:9px;min-height:30px;padding:4px 8px;margin:5px 0 0;font-size:12px;font-weight:700}.mobileSettingsToggle[aria-expanded=true] span{transform:rotate(180deg)}.controls{display:none;margin:5px 0 0;max-height:43dvh;overflow:auto;box-shadow:none;grid-template-columns:1fr 1fr;gap:7px;padding:8px;border-radius:11px}.mobile-settings-open .controls{display:grid}.controls>label:not(.check) select{font-size:13px}.controls #playCues{order:8}.controls .check{order:9;grid-column:1/-1}.controls #voiceNotice{order:10}
  .studybar{margin-top:5px}.searchCard{padding:5px 6px;border-radius:9px;box-shadow:none}.searchRow{grid-template-columns:minmax(0,1fr) auto;gap:5px}.searchRow #search,.searchRow button{min-height:32px;font-size:12px;padding:5px 7px;border-radius:7px}.searchRow .check{grid-column:1/-1;min-height:24px;font-size:11px;padding:0 3px}
  .workspace{grid-template-columns:1fr;gap:7px;margin-top:5px}.sidebar{position:static;max-height:none;padding:3px;border-radius:10px}.sidebar #lessonPicker summary{min-height:34px;padding:5px 8px}.sidebar #lessonPicker #lessons{max-height:190px;overflow:auto;grid-template-columns:repeat(2,minmax(0,1fr));gap:3px;padding:4px}.sidebar #lessons button{padding:6px 8px;font-size:11px}.lessonHeading{margin:0 0 3px}.lessonHeading h2{font-size:18px}.lessonHeading #playLesson{font-size:11px;min-height:34px;padding:5px 8px}.notice{font-size:10px;line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin:2px 0 8px}.lesson #transcript{gap:7px}
  .cue{padding:10px 11px;border-radius:12px;scroll-margin-top:180px}.cue p.cueEnglish{font-size:17px;margin:7px 0 3px}.cue p.cueZh{font-size:13px;margin:4px 0 8px}.cueActions{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:5px}.cueActions button{text-align:center;min-height:34px;padding:4px 5px;font-size:11px}.cueActions [data-action=screen]{grid-column:1/3;margin:0}.cueActions [data-action=timing]{grid-column:3}.cueTop{font-size:10px}.phraseToken{font-size:10px}.lesson>details{margin-top:7px}footer{padding:18px 0 125px}
@@ -32,4 +31,48 @@ footer{padding:24px 0 125px}.cacheManager{padding:13px}.controlPanel{padding:13p
 #playerBar>.playerNow,#playerBar>.playerActions{max-width:none}
 .topbar>.controls{display:grid}
 .topbar>.studybar{display:block}
-@media(max-width:800px){.topbar>.controls{display:none}.mobile-settings-open .topbar>.controls{display:grid}}
+
+/* Keep only voice and play in the header; put timing controls in the player. */
+.topbar>#mainControls{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:8px;margin-top:8px;padding:7px 9px;box-shadow:none}
+#mainControls .voiceModeLabel{display:flex;flex-direction:row;align-items:center;gap:8px;min-width:0;color:var(--muted);font-size:12px}
+#mainControls .voiceModeLabel>span{white-space:nowrap}
+#mainControls .voiceModeLabel #voiceMode{width:min(100%,430px);min-width:0;flex:1;height:38px;min-height:38px;background:var(--bg);color:var(--text)}
+#mainControls #playCues{order:0;min-height:38px}
+#voiceNotice.srOnly{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+.searchToggles{display:flex;align-items:center;gap:12px;min-width:0}
+.searchToggles .check{display:flex;align-items:center;gap:4px;margin:0;white-space:nowrap;font-size:12px}
+.sidebar{top:calc(var(--topbar-height,230px) + 6px);max-height:calc(100dvh - var(--topbar-height,230px) - 16px)}
+.cue{scroll-margin-top:calc(var(--topbar-height,230px) + 12px)}
+#playerBar{grid-template-columns:minmax(0,1fr) minmax(235px,320px) minmax(80px,160px) auto auto;grid-template-areas:"now settings seek clock actions"}
+#playerBar .playerNow{grid-area:now}
+#playerBar .playerSettings{grid-area:settings;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:5px;min-width:0}
+#playerBar .playerSettings label{display:flex;flex-direction:column;align-items:stretch;gap:2px;min-width:0;font-size:10px;color:var(--muted)}
+#playerBar .playerSettings .barSpeedLabel{grid-area:auto}
+#playerBar .playerSettings select{width:100%;min-width:0;min-height:30px;padding:3px 5px;border-radius:8px;background:var(--bg);color:var(--text);font-size:11px}
+#playerBar #seek{grid-area:seek}
+#playerBar #clock{grid-area:clock}
+#playerBar .playerActions{grid-area:actions}
+@media(max-width:1100px){
+ #playerBar{grid-template-columns:minmax(0,1fr) auto;grid-template-areas:"now settings" "seek clock" "actions actions";grid-template-rows:auto 8px auto}
+ #playerBar .playerSettings{width:min(320px,42vw)}
+ #playerBar .playerActions{grid-template-columns:repeat(3,minmax(0,1fr))}
+}
+@media(max-width:800px){
+ body{padding-bottom:145px}
+ .topbar>#mainControls{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:6px;margin-top:5px;padding:5px 6px;border-radius:9px}
+ #mainControls .voiceModeLabel>span{display:none}
+ #mainControls .voiceModeLabel #voiceMode{width:100%;height:35px;min-height:35px;font-size:12px;padding:4px 6px}
+ #mainControls #playCues{min-height:35px;padding:4px 8px;font-size:11px}
+ .searchRow{grid-template-columns:minmax(0,1fr) auto}
+ .searchToggles{grid-column:1/-1;gap:15px;padding:1px 3px}
+ .searchToggles .check{font-size:11px}
+ .sidebar{position:sticky;top:calc(var(--topbar-height,170px) + 4px);align-self:start;z-index:19;max-height:calc(100dvh - var(--topbar-height,170px) - 135px);overflow:auto}
+ .sidebar #lessonPicker #lessons{max-height:min(190px,28dvh)}
+ .cue{scroll-margin-top:calc(var(--topbar-height,170px) + 54px)}
+ #playerBar{grid-template-areas:"now now" "settings settings" "seek clock" "actions actions";grid-template-rows:auto auto 8px auto;gap:4px 7px}
+ #playerBar .playerSettings{width:100%;grid-template-columns:repeat(3,minmax(0,1fr));gap:5px}
+ #playerBar .playerSettings label{flex-direction:row;align-items:center;gap:4px;white-space:nowrap}
+ #playerBar .playerSettings select{flex:1;min-height:27px;font-size:10px;padding:2px 3px}
+ #playerBar .playerNow #playStatus{max-width:50%}
+ footer{padding-bottom:150px}
+}

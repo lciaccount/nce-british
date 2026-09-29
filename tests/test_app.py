@@ -59,7 +59,7 @@ def main():
             assert page.locator('#lessons button').count()==48
             assert page.locator('#lessonLabel').inner_text().startswith('BOOK 4')
             page.locator('[data-book="1"]').click()
-            assert page.locator('#speed option').count()==31
+            assert page.locator('#barSpeed option').count()==31
             page.locator('#search').fill('handbag')
             assert page.locator('#lessons button').count()>0
             page.locator('#search').fill('')
@@ -67,6 +67,7 @@ def main():
             page.locator('#onlyFavorites').check()
             assert page.locator('#lessons button').count()==1
             page.locator('#onlyFavorites').uncheck()
+            page.locator('#lessonPicker').evaluate('el=>el.open=false')
             for width,height in [(320,568),(390,844),(844,390),(1280,900)]:
                 page.set_viewport_size({'width':width,'height':height})
                 assert page.evaluate('document.documentElement.scrollWidth<=innerWidth'),width

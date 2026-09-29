@@ -28,7 +28,11 @@ def main():
             page.on('pageerror', lambda error: errors.append(str(error)))
             page.goto(f'http://127.0.0.1:{server.server_port}{PREFIX}', wait_until='networkidle')
 
-            assert page.locator('#mainControls').is_hidden()
+            assert page.locator('#mainControls').is_visible()
+            assert page.locator('#mainControls select').count() == 1
+            assert page.locator('#mobileSettingsBtn,#speed').count() == 0
+            assert page.locator('#gap').evaluate('el=>el.closest("#playerBar")!==null')
+            assert page.locator('#repeat').evaluate('el=>el.closest("#playerBar")!==null')
             assert page.locator('#books button').count() == 4
             assert page.locator('#lessonPicker').get_attribute('open') is None
             assert page.evaluate('document.querySelector(".topbar").getBoundingClientRect().height < 250')
@@ -37,13 +41,21 @@ def main():
             assert page.locator('#pause').inner_text() == '▶ 播放'
             assert page.locator('#previousCue').is_disabled()
 
-            page.locator('#mobileSettingsBtn').tap()
-            assert page.locator('#mainControls').is_visible()
-            assert page.locator('#mobileSettingsBtn').get_attribute('aria-expanded') == 'true'
-            page.locator('#speed').select_option('1.25')
-            page.locator('#mobileSettingsBtn').tap()
-            assert page.locator('#mainControls').is_hidden()
+            page.locator('#barSpeed').select_option('1.25')
             assert page.locator('#barSpeed').input_value() == '1.25'
+            assert page.locator('#screenSpeed').input_value() == '1.25'
+            page.locator('#gap').select_option('1')
+            page.locator('#repeat').select_option('2')
+            assert page.locator('#gap').input_value() == '1'
+            assert page.locator('#repeat').input_value() == '2'
+
+            page.evaluate('scrollTo(0,650)')
+            page.wait_for_timeout(100)
+            assert page.evaluate('''()=>{const a=document.querySelector('.topbar').getBoundingClientRect(),b=document.querySelector('.sidebar').getBoundingClientRect();return scrollY>400&&b.top>=a.bottom-2&&b.top<=a.bottom+10;}''')
+            page.locator('#lessonPicker summary').tap()
+            assert page.locator('#lessons').is_visible()
+            page.locator('#lessonPicker summary').tap()
+            page.evaluate('scrollTo(0,0)')
 
             page.locator('#search').fill('handbag')
             assert page.locator('#lessonPicker').get_attribute('open') is not None
@@ -71,7 +83,7 @@ def main():
             browser.close()
     finally:
         server.shutdown()
-    print(f'PASS {engine}: compact French-style layout, settings, search, progress, transport, theme and responsive widths')
+    print(f'PASS {engine}: compact voice/play row, bottom speed/gap/repeat, sticky lesson picker, search, theme and responsive widths')
 
 
 if __name__ == '__main__':

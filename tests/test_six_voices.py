@@ -46,9 +46,7 @@ def main():
             page.goto(f'http://127.0.0.1:{server.server_port}{PREFIX}',wait_until='networkidle')
             assert page.locator('#voiceMode option').count()==10
             for v in catalog['voices']:
-                page.locator('#mobileSettingsBtn').tap()
                 page.locator('#voiceMode').select_option(v['id'])
-                page.locator('#mobileSettingsBtn').tap()
                 page.locator('[data-cue="0"] [data-action="play"]').tap()
                 try:page.wait_for_function('document.querySelector("#playStatus").textContent.includes("循环中")')
                 except Exception:
@@ -59,9 +57,7 @@ def main():
                 page.wait_for_function('document.querySelector("#audio").currentTime>.15')
                 page.locator('#pause').tap()
             print('PASS: all six actual AAC voices play audibly',flush=True)
-            page.locator('#mobileSettingsBtn').tap()
             page.locator('#voiceMode').select_option('gb-cycle')
-            page.locator('#mobileSettingsBtn').tap()
             page.locator('#barSpeed').select_option('2.00')
             page.locator('#openScreen').tap()
             assert page.locator('#screenVoice').input_value()=='gb-cycle'

@@ -57,10 +57,10 @@ def main():
             assert page.locator('#lessons').is_visible()
             page.locator('#search').fill('')
             page.locator('#lessonPicker summary').click()
-            for id in ['speed','barSpeed','screenSpeed']:
+            for id in ['barSpeed','screenSpeed']:
                 assert page.locator('#'+id+' option').count()==31
             page.locator('#barSpeed').select_option('0.85')
-            assert page.locator('#speed').input_value()=='0.85'
+            assert page.locator('#screenSpeed').input_value()=='0.85'
             page.locator('[data-cue="0"] [data-action="play"]').click()
             page.wait_for_function('document.querySelector("#playStatus").textContent.includes("循环中")',timeout=6000)
             page.wait_for_function('document.querySelector("#audio").currentTime>=NCE_DATA.lessons[1].cues[0].start')
