@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>NCE 音频切点听校工作台</title>
+<style>
+:root{font-family:system-ui,"PingFang SC",sans-serif;color:#243244;background:#f4f6f8}*{box-sizing:border-box}body{margin:0}main{max-width:980px;margin:auto;padding:18px}h1{font-size:25px;margin:0 0 8px}p{line-height:1.6}.note{border-left:4px solid #ae625f;background:#fff;padding:10px 14px;border-radius:8px}.toolbar{position:sticky;top:0;z-index:2;display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:9px;background:#eef2f5;border:1px solid #d8e0e6;border-radius:10px}button,select,input{font:inherit;border:1px solid #c9d3dc;border-radius:7px;padding:7px;background:#fff;color:inherit}button{cursor:pointer}button.primary{background:#284660;color:#fff;border-color:#284660}button:focus-visible,input:focus-visible,select:focus-visible{outline:3px solid #a9bccc}#queue{display:grid;gap:10px;margin-top:12px}.item{background:#fff;border:1px solid #dce2e5;border-radius:11px;padding:13px}.item.high{border-left:4px solid #ad635f}.meta{font-size:12px;color:#6d7881}.text{font-size:17px;font-weight:750;margin:7px 0}.controls{display:flex;flex-wrap:wrap;gap:7px;align-items:center}.controls label{font-size:12px;display:flex;align-items:center;gap:4px}.controls input{width:98px;font-variant-numeric:tabular-nums}.reason{font-size:12px;color:#65717a}.item audio{width:100%;margin:6px 0}.state{font-size:12px;color:#596a74}.item.reviewed{border-left:4px solid #5b876e}@media(max-width:600px){main{padding:10px}.toolbar{top:0}.controls input{width:79px}.text{font-size:16px}}
+.toolbar audio{width:min(360px,100%);height:34px}
+</style><script defer src="content.js"></script></head><body><main>
+<h1>音频切点听校工作台</h1><p class="note">这是人工复核工具，不是已完成听校的证明。自动波形扫描标记的条目须听原声，再决定“完整”或填写新边界。浏览器中的记录只保存在本设备；导出 JSON 后仍需人工审核并显式发布，页面不会自动改写教材时间轴。</p>
+<div class="toolbar"><label>队列 <select id="filter"><option value="high">先听高边缘能量</option><option value="pending">全部未复核</option><option value="all">全部 245 条</option><option value="done">已记录</option></select></label><span id="count"></span><button id="export" class="primary" type="button">导出复核记录</button><audio id="audio" controls preload="metadata" playsinline></audio></div>
+<div id="queue"></div></main>
+<script>
+window.addEventListener('DOMContentLoaded',async()=>{
+ const data=window.NCE_DATA,lessons=new Map(data.lessons.map(lesson=>[lesson.id,lesson]));
+ const audit=await fetch('./alignment-acoustic-audit.json').then(r=>{if(!r.ok)throw Error('无法读取声学审计');return r.json();});
+ const KEY='nce-alignment-review-v1',saved=()=>{try{return JSON.parse(localStorage.getItem(KEY)||'{}')}catch{return {}}};
+ let decisions=saved(),playing=null;
+ const audio=document.querySelector('#audio');
+ const esc=x=>String(x).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+ const rows=audit.segments.map(row=>({...row,high:Math.max(row.beforeStart.relativeToSpeech,row.afterEnd.relativeToSpeech)>.4})).sort((a,b)=>Number(b.high)-Number(a.high)||a.lesson.localeCompare(b.lesson)||a.start-b.start);
+ function render(){
+  const mode=document.querySelector('#filter').value;
+  const visible=rows.filter(row=>mode==='all'||mode==='high'&&row.high&&!decisions[row.id]||mode==='pending'&&!decisions[row.id]||mode==='done'&&!!decisions[row.id]);
+  document.querySelector('#count').textContent=`显示 ${visible.length} 条 · 已记录 ${Object.keys(decisions).length}/${rows.length} · 高优先级 ${rows.filter(x=>x.high).length} 条`;
+  document.querySelector('#queue').innerHTML=visible.map(row=>{
+   const cue=lessons.get(row.lesson)?.cues.find(c=>c.id===row.id),d=decisions[row.id];
+   return `<article class="item ${row.high?'high':''} ${d?'reviewed':''}" data-id="${esc(row.id)}"><div class="meta">${esc(row.id)} · ${esc(lessons.get(row.lesson)?.title||row.lesson)} · ${row.high?'优先听辨':''}</div><div class="text" lang="en">${esc(cue?.text||'')}</div><div class="reason">待复核原因：${esc(row.reasons.join('、'))} · 边界外能量 ${row.beforeStart.relativeToSpeech} / ${row.afterEnd.relativeToSpeech}</div><div class="controls"><button type="button" data-action="play" class="primary">▶ 听前后 2 秒</button><label>起点 <input data-field="start" type="number" step="0.001" value="${d?.start??row.start}"></label><label>终点 <input data-field="end" type="number" step="0.001" value="${d?.end??row.end}"></label><button type="button" data-action="accept">✓ 听过，边界完整</button><button type="button" data-action="adjust">保存调整边界</button><button type="button" data-action="clear">撤销记录</button></div><div class="state">${d?`已记录：${d.verdict==='accept'?'听后确认完整':'调整边界'} · ${esc(d.note||'')}`:'尚未听校'}</div></article>`;
+  }).join('')||'<p>当前筛选没有条目。</p>';
+ }
+ document.querySelector('#filter').onchange=render;
+ document.querySelector('#queue').onclick=event=>{
+  const button=event.target.closest('[data-action]'),card=button?.closest('[data-id]');if(!card)return;
+  const row=rows.find(x=>x.id===card.dataset.id),lesson=lessons.get(row.lesson),action=button.dataset.action;
+  if(action==='play'){
+   const start=Number(card.querySelector('[data-field="start"]').value),end=Number(card.querySelector('[data-field="end"]').value);
+   if(!Number.isFinite(start)||!Number.isFinite(end)||start>=end)return;
+   playing={end:Math.min(lesson.duration,end+2)};
+   const clipStart=Math.max(0,start-2);
+   audio.src='./'+lesson.audio+`#t=${clipStart.toFixed(3)}`;
+   audio.onloadedmetadata=()=>{if(Math.abs(audio.currentTime-clipStart)>.5)audio.currentTime=clipStart;};
+   audio.play().catch(()=>{});
+   return;
+  }
+  if(action==='clear'){delete decisions[row.id];localStorage.setItem(KEY,JSON.stringify(decisions));render();return;}
+  if(action==='accept'||action==='adjust'){
+   const start=Number(card.querySelector('[data-field="start"]').value),end=Number(card.querySelector('[data-field="end"]').value);
+   if(!Number.isFinite(start)||!Number.isFinite(end)||start<0||start>=end||end>lesson.duration){alert('边界超出音频长度或起点不小于终点。');return;}
+   if(action==='accept'&&(Math.abs(start-row.start)>.001||Math.abs(end-row.end)>.001)){alert('边界已经修改；请点“保存调整边界”。');return;}
+   const note=prompt('请写一句听辨备注（例如：首词完整、尾音完整；或说明调整原因）：','')||'';
+   decisions[row.id]={verdict:action==='accept'?'accept':'adjust',start,end,note,reviewedAt:new Date().toISOString()};
+   localStorage.setItem(KEY,JSON.stringify(decisions));render();
+  }
+ };
+ audio.ontimeupdate=()=>{if(playing&&audio.currentTime>=playing.end){audio.pause();playing=null;}};
+ document.querySelector('#export').onclick=()=>{
+  const payload={format:'nce-alignment-manual-review-v1',sourceVersion:data.version,createdAt:new Date().toISOString(),decisions};
+  const url=URL.createObjectURL(new Blob([JSON.stringify(payload,null,2)],{type:'application/json'}));
+  const a=document.createElement('a');a.href=url;a.download='nce-alignment-manual-review.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);
+ };
+ render();
+});
+</script></body></html>

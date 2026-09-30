@@ -29,6 +29,10 @@ OVERRIDES = {
 # Context-sensitive corrections for fragments whose isolated wording is
 # ambiguous. Key by cue ID so identical English elsewhere remains untouched.
 CUE_OVERRIDES = {
+    'b1-091-011': '不。',
+    'b3-030-013-p02': '因为那个“幽灵”不是别人，正是埃里克·考克斯——人们原以为这位兄弟年轻时就去世了。',
+    'b3-040-004-p02': '任何有自尊的学生都不会做这种事。',
+    'b4-030-004': '詹姆斯·克拉克·罗斯爵士在 1839 年测得了超过 2400 英寻的水深；但直到 1869 年，当皇家海军舰艇',
     'b2-041-012': '男人的领带永远不嫌多。',
     'b2-074-017': '“听着，警长，”罗克韦尔说，“别对我们太严厉。',
     'b2-026-021': '它确实挂反了！',

@@ -31,6 +31,9 @@ def main():
     corpus_words = {word.lower().replace('’', "'") for lesson in lessons for cue in lesson['cues']
                     for word in re.findall(r"[A-Za-z]+(?:['’][A-Za-z]+)?", cue['text'])}
     assert len(corpus_words) == 7375 and corpus_words <= dictionary.keys()
+    assert translations['b1-091-011'][0] == '不。'
+    assert '英寻' in translations['b4-030-004'][0]
+    assert '原以为' in translations['b3-030-013-p02'][0]
     assert translations['b3-042-023-p02'][0] == '让水流把他们带到湖的另一边。'
     assert translations['b3-014-012-p01'][0] == '他八十岁去世时，'
     assert '一两英尺' in translations['b4-029-007-p02'][0]
@@ -62,6 +65,9 @@ def main():
             assert page.locator('#wordDialog').is_visible()
             assert page.locator('#wordMeanings li').count() > 0
             assert page.locator('#wordContextEnglish').inner_text() == lessons[0]['cues'][0]['text']
+            page.locator('#wordClose').tap()
+            page.locator('[data-cue="0"] .wordToken[data-word="handbag"]').tap()
+            assert '自动线索，非确定词义' in page.locator('#wordContextSense').inner_text()
             page.locator('#wordClose').tap()
             page.locator('[data-cue="1"] .phraseToken').first.tap()
             assert page.locator('#wordTitle').inner_text() == 'excuse me'
@@ -102,7 +108,7 @@ def main():
             page.wait_for_function('navigator.serviceWorker.controller !== null')
             page.reload(wait_until='networkidle')
             assert page.locator('[data-cue="0"] .cueZh').is_visible()
-            assert page.evaluate("async()=>{const c=await caches.open('nce-shell-v11-compact-controls-20260929');return !!(await c.match('./translations.js'))&&!!(await c.match('./dictionary-data.js'))&&!!(await c.match('./french-ui.css'));}")
+            assert page.evaluate("async()=>{const c=await caches.open('nce-shell-v12-review-quality-20260930');return !!(await c.match('./translations.js'))&&!!(await c.match('./dictionary-data.js'))&&!!(await c.match('./french-ui.css'))&&!!(await c.match('./alignment-review.html'));}")
             page.evaluate("async()=>{const c=await caches.open('nce-audio-v1');await c.put('./audio/b1/001.mp3',new Response(new Uint8Array([1,2,3])))}")
             page.locator('#downloadForm').evaluate('el=>el.closest("details").open=true')
             page.locator('#refreshCache').tap()

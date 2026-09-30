@@ -146,14 +146,19 @@ function lookupTerm(raw){
  const entry=lemma&&hasTerm(lemma)?dictionary[lemma]:direct;
  return {key,entry,lemma,pronunciation:entry?.[0]||direct?.[0]||''};
 }
-function contextSense(entry,context){
- if(!entry||!context)return '';
+function contextSense(entry,context,raw){
+ // A matching Chinese substring is only a clue, never a verified word alignment.
+ // Avoid this hint for machine translations and for ambiguous or shared senses.
+ if(!entry||!context||translation(context)[1])return '';
  const chinese=translation(context)[0];
- for(const sense of entry[1])for(const part of sense.split(/[,，；;、]/)){
-  const phrase=part.replace(/^[a-z.\[\]()\s]+/i,'').trim();
-  if(phrase.length>=2&&phrase.length<=8&&chinese.includes(phrase))return phrase;
- }
- return '';
+ const candidates=[...new Set(entry[1].flatMap(sense=>sense.match(/[\u3400-\u9fff]{2,8}/g)||[]))]
+  .filter(phrase=>chinese.includes(phrase));
+ if(candidates.length!==1)return '';
+ const phrase=candidates[0],target=String(raw).toLowerCase().replaceAll('’',"'");
+ const others=[...new Set((context.text.match(/[A-Za-z]+(?:['’][A-Za-z]+)?/g)||[])
+  .map(word=>word.toLowerCase().replaceAll('’',"'")))].filter(word=>word!==target);
+ if(others.some(word=>lookupTerm(word).entry?.[1].some(sense=>sense.includes(phrase))))return '';
+ return phrase;
 }
 function showWord(raw,context=null){
  const dialog=$('#wordDialog'),result=lookupTerm(raw),entry=result.entry;
@@ -161,7 +166,7 @@ function showWord(raw,context=null){
  $('#wordTitle').textContent=raw.trim()||'查词';$('#wordSearch').value=raw.trim();
  $('#wordPhonetic').textContent=result.pronunciation?`/${result.pronunciation}/`:'';
  $('#wordLemma').textContent=result.lemma&&result.lemma!==result.key?`原形 / 查询词：${result.lemma}`:'';
- const matched=contextSense(entry,context);$('#wordContextSense').hidden=!matched;$('#wordContextSense').textContent=matched?`本句译文中对应的词义线索：${matched}（自动匹配）`:'';
+ const matched=contextSense(entry,context,raw);$('#wordContextSense').hidden=!matched;$('#wordContextSense').textContent=matched?`词典释义与双语字幕译文重合：${matched}（自动线索，非确定词义）`:'';
  $('#wordMeanings').innerHTML=entry?`<strong>常见词义</strong><ul>${entry[1].map(sense=>`<li>${esc(sense)}</li>`).join('')}</ul>`:'<p class="dictMissing">这项尚未收录在离线词典；可尝试查询原形或缩短短语。</p>';
  $('#wordContext').hidden=!context;
  if(context){$('#wordContextEnglish').textContent=context.text;$('#wordContextChinese').textContent=translation(context)[0];}

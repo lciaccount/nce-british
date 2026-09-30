@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>NCE 机译校对工作台</title>
+<style>
+:root{font-family:system-ui,"PingFang SC",sans-serif;color:#243244;background:#f4f6f8}*{box-sizing:border-box}body{margin:0}main{max-width:960px;margin:auto;padding:18px}h1{font-size:25px;margin:0 0 8px}p{line-height:1.6}.note{border-left:4px solid #ae625f;background:#fff;padding:10px 14px;border-radius:8px}.bar{position:sticky;top:0;z-index:2;display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:9px;background:#eef2f5;border:1px solid #d8e0e6;border-radius:10px}button,input,textarea,select{font:inherit;border:1px solid #c9d3dc;border-radius:7px;padding:7px;background:#fff;color:inherit}button{cursor:pointer}button.primary{background:#284660;color:#fff;border-color:#284660}button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-visible{outline:3px solid #a9bccc}#queue{display:grid;gap:10px;margin-top:12px}.item{background:#fff;border:1px solid #dce2e5;border-radius:11px;padding:13px}.item.reviewed{border-left:4px solid #5b876e}.meta{font-size:12px;color:#6d7881}.source{font-size:17px;font-weight:750;margin:8px 0}.context{font-size:12px;color:#52616d;background:#f3f6f7;padding:8px;border-radius:6px}.current{font-size:13px;color:#415166;margin:8px 0}.item textarea{width:100%;min-height:56px;resize:vertical}.actions{display:flex;flex-wrap:wrap;gap:7px;margin-top:8px}.state{font-size:12px;color:#596a74;margin-top:6px}@media(max-width:600px){main{padding:10px}.source{font-size:16px}}
+</style><script defer src="content.js"></script><script defer src="translations.js"></script></head><body><main>
+<h1>机译片段校对工作台</h1><p class="note">这 775 条是需校对的片段，不应因为模型给出第二版候选就批量覆盖。请结合完整原句和相邻片段逐条核对。这里的修改只在当前浏览器本地；导出的 JSON 还需审核并显式发布，网页不会自动改动 5,395 条正式译文。</p>
+<div class="bar"><label>显示 <select id="filter"><option value="pending">未记录</option><option value="all">全部机译</option><option value="done">已记录</option></select></label><input id="search" type="search" placeholder="搜索编号、英文或中文" aria-label="搜索待校译文"><span id="count"></span><button id="export" class="primary" type="button">导出校对记录</button></div><div id="queue"></div></main>
+<script>
+window.addEventListener('DOMContentLoaded',()=>{
+ const lessons=window.NCE_DATA.lessons,translations=window.NCE_TRANSLATIONS;
+ const KEY='nce-translation-review-v1',saved=()=>{try{return JSON.parse(localStorage.getItem(KEY)||'{}')}catch{return {}}};
+ let decisions=saved(),page=0;
+ const esc=x=>String(x).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+ const rows=[];
+ for(const lesson of lessons){const groups=new Map();for(const cue of lesson.cues){if(!groups.has(cue.sourceId))groups.set(cue.sourceId,[]);groups.get(cue.sourceId).push(cue)}for(const cue of lesson.cues){if(!translations[cue.id]?.[1])continue;rows.push({id:cue.id,text:cue.text,current:translations[cue.id][0],lesson:lesson.title,source:groups.get(cue.sourceId).map(c=>c.text).join(' '),neighbors:groups.get(cue.sourceId).map(c=>translations[c.id]?.[0]||'').join('')})}}
+ function render(){
+  const mode=document.querySelector('#filter').value,q=document.querySelector('#search').value.trim().toLowerCase();
+  const visible=rows.filter(row=>(mode==='all'||mode==='done'&&decisions[row.id]||mode==='pending'&&!decisions[row.id])&&(!q||[row.id,row.text,row.current,row.lesson].some(s=>s.toLowerCase().includes(q))));
+  document.querySelector('#count').textContent=`${visible.length} 条 · 已记录 ${Object.keys(decisions).length}/${rows.length}`;
+  const slice=visible.slice(page*25,(page+1)*25);
+  document.querySelector('#queue').innerHTML=slice.map(row=>{const d=decisions[row.id];return `<article class="item ${d?'reviewed':''}" data-id="${esc(row.id)}"><div class="meta">${esc(row.id)} · ${esc(row.lesson)}</div><div class="source" lang="en">${esc(row.text)}</div>${row.source!==row.text?`<div class="context">完整原句：${esc(row.source)}<br>现有片段译文拼接：${esc(row.neighbors)}</div>`:''}<div class="current">现有译文：${esc(row.current)}</div><label>核对后的片段译文 <textarea>${esc(d?.text||row.current)}</textarea></label><div class="actions"><button type="button" data-action="save" class="primary">保存校对结果</button><button type="button" data-action="clear">撤销记录</button></div><div class="state">${d?`已记录于 ${esc(d.reviewedAt)}`:'尚未人工核对'}</div></article>`}).join('')||'<p>当前筛选没有条目。</p>';
+  if(visible.length>25)document.querySelector('#queue').insertAdjacentHTML('beforeend',`<div class="actions"><button type="button" id="prev" ${page?'':'disabled'}>上一页</button><span>${page+1} / ${Math.ceil(visible.length/25)}</span><button type="button" id="next" ${page+1<Math.ceil(visible.length/25)?'':'disabled'}>下一页</button></div>`);
+ }
+ document.querySelector('#filter').onchange=()=>{page=0;render()};
+ document.querySelector('#search').oninput=()=>{page=0;render()};
+ document.querySelector('#queue').onclick=event=>{
+  if(event.target.id==='prev'){page--;render();return}
+  if(event.target.id==='next'){page++;render();return}
+  const action=event.target.closest('[data-action]'),item=action?.closest('[data-id]');if(!item)return;
+  if(action.dataset.action==='clear')delete decisions[item.dataset.id];
+  else{const text=item.querySelector('textarea').value.trim();if(!text||text.length>400){alert('请填写有效的中文片段译文。');return}decisions[item.dataset.id]={text,reviewedAt:new Date().toISOString()}}
+  localStorage.setItem(KEY,JSON.stringify(decisions));render();
+ };
+ document.querySelector('#export').onclick=()=>{const payload={format:'nce-translation-manual-review-v1',sourceVersion:window.NCE_DATA.version,createdAt:new Date().toISOString(),decisions};const url=URL.createObjectURL(new Blob([JSON.stringify(payload,null,2)],{type:'application/json'}));const a=document.createElement('a');a.href=url;a.download='nce-translation-manual-review.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000)};
+ render();
+});
+</script></body></html>
