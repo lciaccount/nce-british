@@ -34,6 +34,11 @@ def main():
     assert translations['b1-091-011'][0] == '不。'
     assert '英寻' in translations['b4-030-004'][0]
     assert '原以为' in translations['b3-030-013-p02'][0]
+    assert '真正的珍品' in translations['b3-034-005-p02'][0]
+    assert '行政开支' in translations['b4-036-010-p01'][0]
+    assert '阿尔弗雷德' in translations['b4-009-006-p01'][0]
+    assert '丹麦人' in translations['b4-009-007'][0]
+    assert '船舱' in translations['b3-010-011'][0]
     assert translations['b3-042-023-p02'][0] == '让水流把他们带到湖的另一边。'
     assert translations['b3-014-012-p01'][0] == '他八十岁去世时，'
     assert '一两英尺' in translations['b4-029-007-p02'][0]
@@ -108,7 +113,7 @@ def main():
             page.wait_for_function('navigator.serviceWorker.controller !== null')
             page.reload(wait_until='networkidle')
             assert page.locator('[data-cue="0"] .cueZh').is_visible()
-            assert page.evaluate("async()=>{const c=await caches.open('nce-shell-v12-review-quality-20260930');return !!(await c.match('./translations.js'))&&!!(await c.match('./dictionary-data.js'))&&!!(await c.match('./french-ui.css'))&&!!(await c.match('./alignment-review.html'));}")
+            assert page.evaluate("async()=>{const c=await caches.open('nce-shell-v13-translation-corrections-20260930');return !!(await c.match('./translations.js'))&&!!(await c.match('./dictionary-data.js'))&&!!(await c.match('./french-ui.css'))&&!!(await c.match('./alignment-review.html'));}")
             page.evaluate("async()=>{const c=await caches.open('nce-audio-v1');await c.put('./audio/b1/001.mp3',new Response(new Uint8Array([1,2,3])))}")
             page.locator('#downloadForm').evaluate('el=>el.closest("details").open=true')
             page.locator('#refreshCache').tap()

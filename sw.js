@@ -1,4 +1,4 @@
-const SHELL='nce-shell-v12-review-quality-20260930', AUDIO='nce-audio-v1';
+const SHELL='nce-shell-v13-translation-corrections-20260930', AUDIO='nce-audio-v1';
 const ASSETS=['./','./index.html','./alignment-review.html','./alignment-acoustic-audit.json','./translation-review.html','./app.css','./screen.css','./bilingual.css','./french-ui.css','./app.js','./content.js','./translations.js','./dictionary-data.js','./voice-index.json','./manifest.webmanifest','./icon.svg','./audio-index.json'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(SHELL).then(c=>c.addAll(ASSETS.map(path=>new Request(path,{cache:'reload'})))).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil((async()=>{for(const name of await caches.keys())if(name.startsWith('nce-shell-')&&name!==SHELL)await caches.delete(name);await self.clients.claim();})()));
